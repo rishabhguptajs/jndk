@@ -1,0 +1,1214 @@
+- id: 2019-02-14-pulwama
+  date: 2019-02-14
+  title: Pulwama suicide car bombing of CRPF convoy
+  place: Lethpora, Pulwama, Jammu to Srinagar highway
+  at: town:Awantipur
+  geo: tehsil
+  district: [Pulwama, Pulwama]
+  region: Kashmir Valley
+  cat: fidayeen
+  tactic: vbied
+  target: [security_forces]
+  community: null
+  perp: [jaish-e-mohammed]
+  attr: claimed
+  killed: { civ: 0, sf: 40, terr: 1, total: 41 }
+  figures:
+    outlook-pulwama-list: { killed_security_forces: 40, note: "Published list of 40 CRPF personnel killed" }
+    tribune-pulwama-42: { killed_security_forces: 42, note: "First-day headline figure" }
+  src: [outlook-pulwama-list, tribune-pulwama-42, tribune-pulwama-19-attackers]
+  conf: confirmed
+  hp: true
+  tags: [fidayeen-era, pulwama]
+  summary: >
+    On 14 February 2019 a Jaish-e-Mohammed suicide bomber, Adil Ahmad Dar, drove a vehicle packed with explosives into a bus in a CRPF
+    convoy of about 70 vehicles at Lethpora on the Jammu to Srinagar highway. Forty CRPF personnel were killed, among the deadliest attacks
+    on Indian security forces in Kashmir. India responded with an air strike on a Jaish camp at Balakot twelve days later.
+  notes: First reports put the toll at 42; the final official list names 40 personnel.
+
+- id: 2019-02-26-balakot
+  date: 2019-02-26
+  title: Air strike on Jaish-e-Mohammed camp at Balakot
+  place: Balakot, Khyber Pakhtunkhwa, Pakistan
+  at: town:Mansehra (Khyber Pakhtunkhwa)
+  geo: district
+  district: [null, null]
+  region: Outside J&K
+  cat: india_strike
+  tactic: air_strike
+  target: [terrorists]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  figures:
+    pib-fs-balakot: { note: "Foreign Secretary: a very large number of JeM terrorists, trainers, senior commanders and fidayeen trainees were eliminated. No figure given." }
+  src: [pib-fs-balakot, theprint-pak-hit-back-balakot]
+  conf: confirmed
+  hp: true
+  cross_border: true
+  tags: [india-response]
+  summary: >
+    Before dawn on 26 February 2019 Indian Air Force jets struck what the government called the biggest Jaish-e-Mohammed training camp, at
+    Balakot in Pakistan. The Foreign Secretary described it as a non-military, pre-emptive strike based on intelligence that more suicide
+    attacks were being planned. No official casualty figure was released.
+  notes: Shown at district precision in Mansehra district, outside the map frame of J&K.
+
+- id: 2019-02-27-pakistan-air-raid
+  date: 2019-02-27
+  title: Pakistani air raid and capture of Wing Commander Abhinandan Varthaman
+  place: Nowshera and Rajouri sectors, and Pakistan-occupied Kashmir
+  at: manual:pojk-generic
+  district: [null, null]
+  region: PoJK
+  cat: cross_border_shelling
+  tactic: air_strike
+  target: [military]
+  community: null
+  perp: [pakistan-army]
+  attr: state_actor
+  killed: { total: null }
+  abducted: 1
+  victims:
+    - { name: Wing Commander Abhinandan Varthaman, role: IAF pilot, captured and released on 1 March 2019, src: theprint-abhinandan-returns }
+  src: [theprint-pak-hit-back-balakot, theprint-abhinandan-returns, tribune-abhinandan-vir-chakra]
+  conf: confirmed
+  hp: true
+  tags: [india-response]
+  summary: >
+    A day after Balakot, Pakistani jets tried to strike military targets across the Line of Control. In the air battle that followed, Wing
+    Commander Abhinandan Varthaman's MiG-21 was shot down and he ejected over Pakistan-occupied Kashmir, where he was captured. He was
+    handed back on 1 March 2019 and later awarded the Vir Chakra for shooting down a Pakistani jet.
+
+- id: 2019-02-28-jei-banned
+  date: 2019-02-28
+  title: Jamaat-e-Islami Jammu and Kashmir declared an unlawful association
+  place: Jammu and Kashmir
+  at: manual:kashmir-valley
+  district: [null, null]
+  region: Kashmir Valley
+  cat: policy
+  tactic: policy_measure
+  target: [none]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  src: [pib-jei-ban-extended, de-jei-ban]
+  conf: confirmed
+  hp: true
+  tags: [uapa, india-response]
+  summary: >
+    On 28 February 2019, after the Pulwama attack, the Home Ministry declared Jamaat-e-Islami Jammu and Kashmir an unlawful association
+    under the UAPA. The ban was extended for a further five years in 2024.
+
+- id: 2019-03-22-jklf-banned
+  date: 2019-03-22
+  title: JKLF declared an unlawful association
+  place: Jammu and Kashmir
+  at: manual:kashmir-valley
+  district: [null, null]
+  region: Kashmir Valley
+  cat: policy
+  tactic: policy_measure
+  target: [none]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  src: [theprint-jklf-banned, tribune-jklf-banned, tribune-jklf-tribunal]
+  conf: confirmed
+  hp: true
+  tags: [uapa, india-response]
+  summary: >
+    On 22 March 2019 the Home Ministry banned Yasin Malik's JKLF under the UAPA, accusing it of funding terrorism and of responsibility for
+    killings of Kashmiri Pandits in 1989 that led to their exodus. A UAPA tribunal later upheld extensions of the ban.
+
+- id: 2019-08-05-article-370
+  date: 2019-08-05
+  title: Article 370 provisions revoked and the state reorganised
+  place: Jammu and Kashmir
+  at: manual:kashmir-valley
+  district: [null, null]
+  region: Kashmir Valley
+  cat: policy
+  tactic: policy_measure
+  target: [none]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  src: [outlook-370-scrapped, tribune-370-new-era, pib-sc-370-verdict, outlook-sc-370]
+  conf: confirmed
+  hp: true
+  tags: [article-370]
+  summary: >
+    On 5 August 2019 Parliament ended the special status of Jammu and Kashmir under Article 370 and passed the Jammu and Kashmir
+    Reorganisation Act, which split the state into two Union Territories. The Supreme Court upheld the decision on 11 December 2023.
+
+- id: 2019-10-31-union-territories
+  date: 2019-10-31
+  title: Union Territories of Jammu and Kashmir and Ladakh come into being
+  place: Jammu and Kashmir and Ladakh
+  at: manual:kashmir-valley
+  district: [null, null]
+  region: Kashmir Valley
+  cat: policy
+  tactic: policy_measure
+  target: [none]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  src: [outlook-370-scrapped, journalsofindia-new-map, wire-pok-in-ut-map]
+  conf: confirmed
+  hp: true
+  tags: [article-370]
+  summary: >
+    The Union Territories of Jammu and Kashmir and Ladakh came into existence on 31 October 2019. The new official maps of 2 November 2019
+    placed Pakistan-occupied Mirpur, Muzaffarabad and Poonch in the UT of Jammu and Kashmir, and Gilgit-Baltistan in the UT of Ladakh.
+
+- id: 2019-10-29-kulgam-labourers
+  date: 2019-10-29
+  title: Killing of five labourers from West Bengal at Katrasoo, Kulgam
+  place: Katrasoo (Kutroosa), Kulgam
+  at: district:Kulgam
+  district: [Kulgam, Kulgam]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: mass_shooting
+  target: [civilians, migrant_workers]
+  community: Migrant labourers from West Bengal
+  perp: []
+  attr: unknown
+  killed: { civ: 5, sf: 0, terr: 0, total: 5 }
+  injured: 1
+  victims:
+    - { name: Sheikh Kamrudin, role: Labourer from Murshidabad, src: theprint-kulgam-5-labourers }
+    - { name: Sheikh Mohammad Rafiq, role: Labourer from Murshidabad, src: theprint-kulgam-5-labourers }
+    - { name: Sheikh Muzaffar, role: Labourer from Murshidabad, src: theprint-kulgam-5-labourers }
+    - { name: Rafiq Sheikh, role: Labourer from Murshidabad, src: theprint-kulgam-5-labourers }
+    - { name: Zahoor Sheikh, role: Labourer from Murshidabad, src: theprint-kulgam-5-labourers }
+  src: [theprint-kulgam-5-labourers, theprint-kutroosa-grief, outlook-kulgam-congress]
+  conf: confirmed
+  hp: true
+  tags: [migrant-workers]
+  summary: >
+    On 29 October 2019 militants shot dead five labourers from Murshidabad in West Bengal at Katrasoo village in Kulgam, where they had
+    worked in orchards for years, and injured a sixth. The
+    victims' bodies were flown home to Murshidabad.
+
+- id: 2020-05-02-handwara
+  date: 2020-05-02
+  title: Handwara encounter, Colonel and Major among five killed
+  place: Handwara, Kupwara
+  at: district:Kupwara
+  district: [Kupwara, Kupwara]
+  region: Kashmir Valley
+  cat: encounter
+  tactic: cordon_and_search
+  target: [security_forces]
+  community: null
+  perp: [lashkar-e-taiba]
+  attr: suspected
+  killed: { civ: 0, sf: 5, terr: 2, total: 7 }
+  victims:
+    - { name: Colonel Ashutosh Sharma, role: Commanding Officer of a Rashtriya Rifles battalion, src: gk-handwara-colonel }
+    - { name: Major Anuj Sood, role: Army officer, src: gk-handwara-colonel }
+    - { name: Sub-Inspector Shakeel Qazi, role: J&K Police, src: gk-handwara-colonel }
+  src: [gk-handwara-colonel, theprint-handwara-co]
+  conf: confirmed
+  hp: true
+  tags: []
+  summary: >
+    On 2 May 2020 a Rashtriya Rifles team led by Colonel Ashutosh Sharma entered a house in Handwara where militants were holding civilians.
+    The civilians were rescued, but five security personnel, including the Colonel, Major Anuj Sood and a police sub-inspector, were killed
+    along with two militants.
+  notes: The perpetrator group is recorded as suspected.
+
+- id: 2020-05-06-riyaz-naikoo-killed
+  date: 2020-05-06
+  title: Hizbul Mujahideen chief Riyaz Naikoo killed at Beighpora
+  place: Beighpora, Awantipora
+  at: town:Awantipur
+  geo: tehsil
+  district: [Pulwama, Pulwama]
+  region: Kashmir Valley
+  cat: encounter
+  tactic: cordon_and_search
+  target: [terrorists]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { civ: 0, sf: 0, terr: 2, total: 2 }
+  src: [theprint-naikoo-killed, tribune-naikoo-killed]
+  conf: confirmed
+  hp: true
+  tags: [india-response, top-commander]
+  summary: >
+    Riyaz Naikoo, operations chief of Hizbul Mujahideen in Kashmir and successor to Burhan Wani, was killed with an associate in an
+    encounter in his home village of Beighpora on 6 May 2020. He had been the most wanted militant in the Valley.
+
+- id: 2020-06-08-ajay-pandita
+  date: 2020-06-08
+  title: Killing of sarpanch Ajay Pandita
+  place: Lokbawan Larkipora, Anantnag
+  at: district:Anantnag
+  district: [Anantnag, Anantnag]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [political, minority_community]
+  community: Kashmiri Pandit (Hindu)
+  perp: []
+  attr: unknown
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  victims:
+    - { name: Ajay Pandita, role: Sarpanch of Lokbawan Larkipora, src: tribune-pandita-shot }
+  src: [tribune-pandita-shot, theprint-pandita-shot]
+  conf: confirmed
+  hp: true
+  tags: [kashmiri-pandits, panchayat]
+  summary: >
+    Ajay Pandita, a Kashmiri Pandit and elected sarpanch of Lokbawan Larkipora in Anantnag, was shot dead by militants on 8 June 2020. His
+    killing raised fears among the few Pandits who had stayed in or returned to the Valley and among elected village representatives.
+
+- id: 2020-06-15-galwan
+  date: 2020-06-15
+  title: Galwan valley clash with China
+  place: Galwan valley, eastern Ladakh
+  at: manual:galwan
+  district: [Leh, Leh]
+  region: Ladakh
+  cat: war
+  tactic: other
+  target: [military]
+  community: null
+  perp: [pla]
+  attr: state_actor
+  killed: { sf: 20, total: null }
+  victims:
+    - { name: Colonel B. Santosh Babu, role: Commanding Officer, 16 Bihar, src: tribune-santosh-babu-mvc }
+  src: [theprint-galwan-20, tribune-santosh-babu-mvc]
+  conf: confirmed
+  hp: true
+  tags: [china-lac]
+  summary: >
+    On the night of 15 to 16 June 2020 Indian and Chinese troops clashed in the Galwan valley along the Line of Actual Control. No shots
+    were fired, but Chinese troops used clubs studded with nails. Twenty Indian soldiers were killed, including the commanding officer of
+    16 Bihar, Colonel B. Santosh Babu, who was awarded the Maha Vir Chakra.
+  notes: Chinese losses are not recorded here.
+
+- id: 2021-06-27-jammu-airbase-drone
+  date: 2021-06-27
+  title: Drone attack on the Air Force station at Jammu
+  place: Jammu Air Force Station
+  at: town:Jammu
+  district: [Jammu, Jammu]
+  region: Jammu
+  cat: ied
+  tactic: drone
+  target: [security_forces]
+  community: null
+  perp: []
+  attr: suspected
+  killed: { total: 0 }
+  injured: 2
+  src: [tribune-drone-attack-jammu, theprint-drone-ieds-pakistan]
+  conf: confirmed
+  hp: true
+  tags: [drone, first]
+  summary: >
+    In the early hours of 27 June 2021 two explosive devices dropped by drones exploded at the Air Force station in Jammu, five minutes
+    apart. Two airmen were slightly injured and a building was damaged. It was the first drone attack on an Indian military installation,
+    and investigators said the explosives pointed to Pakistani ordnance factories.
+
+- id: 2021-10-05-bindroo
+  date: 2021-10-05
+  title: Killing of chemist Makhan Lal Bindroo
+  place: Bindroo Medicate, Iqbal Park, Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [civilians, minority_community]
+  community: Kashmiri Pandit (Hindu)
+  perp: [trf]
+  attr: officially_attributed
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  victims:
+    - { name: Makhan Lal Bindroo, age: 68, role: Owner of Bindroo Medicate pharmacy, src: outlook-unending-obituaries }
+  src: [outlook-unending-obituaries, pioneer-pandits-killers-identified, gk-three-civilians-hours]
+  conf: confirmed
+  hp: true
+  tags: [kashmiri-pandits, targeted-killings-2021]
+  summary: >
+    Makhan Lal Bindroo, 68, a Kashmiri Pandit who owned one of Srinagar's best-known pharmacies, was shot dead at his shop on 5 October
+    2021. Two other civilians were killed within hours the same evening. Police blamed The Resistance Front.
+
+- id: 2021-10-05-virender-paswan
+  date: 2021-10-05
+  title: Killing of street vendor Virender Paswan
+  place: Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [civilians, migrant_workers]
+  community: Hindu migrant worker from Bihar
+  perp: [trf]
+  attr: suspected
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  victims:
+    - { name: Virender Paswan, role: Street food vendor from Bhagalpur, Bihar, src: theprint-paswan }
+  src: [theprint-paswan, gk-three-civilians-hours]
+  conf: confirmed
+  hp: true
+  tags: [migrant-workers, targeted-killings-2021]
+  summary: >
+    Virender Paswan, a street food vendor from Bhagalpur in Bihar and the sole earner for his family, was shot dead in Srinagar on the
+    evening of 5 October 2021, hours after Makhan Lal Bindroo. He was cremated in Srinagar without his family present.
+  notes: The exact locality is not confirmed in the cited sources; placed at town level in Srinagar.
+
+- id: 2021-10-07-eidgah-school-teachers
+  date: 2021-10-07
+  title: Killing of principal Supinder Kaur and teacher Deepak Chand
+  place: Government school, Eidgah, Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [civilians, minority_community, government_employees]
+  community: Sikh and Kashmiri Pandit (Hindu)
+  perp: [trf]
+  attr: officially_attributed
+  killed: { civ: 2, sf: 0, terr: 0, total: 2 }
+  victims:
+    - { name: Supinder Kaur, role: School principal, src: tribune-teachers-lined-up }
+    - { name: Deepak Chand, role: Teacher, src: tribune-teachers-lined-up }
+  src: [tribune-teachers-lined-up, pioneer-pandits-killers-identified, outlook-unending-obituaries]
+  conf: confirmed
+  hp: true
+  tags: [targeted-killings-2021, minorities]
+  summary: >
+    On 7 October 2021 gunmen entered a government school at Eidgah in Srinagar, checked the staff's identities, let the Muslim teachers go
+    and shot dead the Sikh principal Supinder Kaur and the Hindu teacher Deepak Chand. Police linked the killing to The Resistance Front.
+
+- id: 2021-10-11-surankote-encounter
+  date: 2021-10-11
+  title: Ambush on army search party in Surankote forests
+  place: Surankote forests, Poonch
+  at: district:Poonch
+  district: [Poonch, Poonch]
+  region: Jammu
+  cat: ambush
+  tactic: ambush
+  target: [security_forces]
+  community: null
+  perp: []
+  attr: unknown
+  killed: { civ: 0, sf: 5, terr: 0, total: 5 }
+  src: [de-surankote-5, theprint-poonch-toll-9]
+  conf: confirmed
+  hp: true
+  tags: [pir-panjal-shift]
+  summary: >
+    On 11 October 2021 militants hiding in the forests of Surankote in Poonch fired on an army search party, killing a junior commissioned
+    officer and four soldiers. The operation spread to Mendhar and Thanamandi and became one of the longest in the Pir Panjal belt.
+
+- id: 2021-10-14-bhata-durian-encounter
+  date: 2021-10-14
+  title: Soldiers killed in Bhata Durian forests, Mendhar
+  place: Bhata Durian forests, Mendhar, Poonch
+  at: district:Poonch
+  district: [Poonch, Poonch]
+  region: Jammu
+  cat: encounter
+  tactic: ambush
+  target: [security_forces]
+  community: null
+  perp: []
+  attr: unknown
+  killed: { civ: 0, sf: 4, terr: 0, total: 4 }
+  figures:
+    tribune-poonch-jco-two: { killed_security_forces: 2, note: "Two killed on 14 October" }
+    theprint-poonch-toll-9: { killed_security_forces: 4, note: "Bodies of two more soldiers recovered later; army toll nine for the week" }
+  src: [tribune-poonch-jco-two, theprint-poonch-toll-9]
+  conf: confirmed
+  hp: true
+  tags: [pir-panjal-shift]
+  summary: >
+    Three days after the Surankote ambush, troops combing the Bhata Durian forests in Mendhar were fired on from a hillock on 14 October
+    2021. Two soldiers including a junior commissioned officer were killed that evening, and the bodies of two more were recovered later,
+    taking the army's toll for the week to nine.
+
+- id: 2021-10-17-wanpoh-bihar-labourers
+  date: 2021-10-17
+  title: Killing of two labourers from Bihar at Wanpoh, Kulgam
+  place: Wanpoh, Kulgam
+  at: district:Kulgam
+  district: [Kulgam, Kulgam]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [civilians, migrant_workers]
+  community: Migrant labourers from Bihar
+  perp: []
+  attr: unknown
+  killed: { civ: 2, sf: 0, terr: 0, total: 2 }
+  injured: 1
+  victims:
+    - { name: Raja Reshi Dev, role: Labourer from Bihar, src: tribune-kulgam-bihar-labourers }
+    - { name: Joginder Reshi Dev, role: Labourer from Bihar, src: tribune-kulgam-bihar-labourers }
+  src: [tribune-kulgam-bihar-labourers, gk-kulgam-two-nonlocals]
+  conf: confirmed
+  hp: true
+  tags: [migrant-workers, targeted-killings-2021]
+  summary: >
+    On the evening of 17 October 2021 militants burst into a rented room at Wanpoh in Kulgam and shot dead two labourers from Bihar,
+    injuring a third. The killings, part of a wave of attacks on outside workers that month, led many migrant labourers to leave the Valley.
+
+- id: 2022-05-12-rahul-bhat
+  date: 2022-05-12
+  title: Killing of revenue employee Rahul Bhat
+  place: Tehsil office, Chadoora, Budgam
+  at: district:Budgam
+  district: [Budgam, Budgam]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [civilians, minority_community, government_employees]
+  community: Kashmiri Pandit (Hindu)
+  perp: [lashkar-e-taiba]
+  attr: suspected
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  victims:
+    - { name: Rahul Bhat, role: Clerk in the tehsil office, src: kashmirlife-slain-pandit-family }
+  src: [kashmirlife-slain-pandit-family, theprint-rahul-bhat-protest]
+  conf: confirmed
+  hp: true
+  tags: [kashmiri-pandits, targeted-killings-2022]
+  summary: >
+    Rahul Bhat, a Kashmiri Pandit clerk working in the Chadoora tehsil office, was shot inside his office on 12 May 2022 and died in
+    hospital. He lived in a transit colony for Pandit employees at Sheikhpora. His killing set off months of protests by Pandit employees
+    demanding transfer out of the Valley.
+
+- id: 2022-05-31-rajni-bala
+  date: 2022-05-31
+  title: Killing of teacher Rajni Bala
+  place: Government High School, Gopalpora, Kulgam
+  at: district:Kulgam
+  district: [Kulgam, Kulgam]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [civilians, minority_community, government_employees]
+  community: Hindu (from Samba, Jammu)
+  perp: []
+  attr: unknown
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  victims:
+    - { name: Rajni Bala, role: Government school teacher from Samba, src: theprint-rajni-bala-tribute }
+  src: [theprint-rajni-bala-tribute, kashmirlife-targeted-killings-2022]
+  conf: confirmed
+  hp: true
+  tags: [targeted-killings-2022]
+  summary: >
+    Rajni Bala, a Hindu teacher from Samba in the Jammu region, was shot dead at the gate of the government high school at Gopalpora in
+    Kulgam on 31 May 2022, shortly after her husband dropped her at work. Students
+    and staff later held a memorial for her at the school.
+
+- id: 2022-06-02-vijay-kumar
+  date: 2022-06-02
+  title: Killing of bank manager Vijay Kumar
+  place: Ellaquai Dehati Bank, Arreh Mohanpora, Kulgam
+  at: district:Kulgam
+  district: [Kulgam, Kulgam]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [civilians, migrant_workers]
+  community: Hindu (from Rajasthan)
+  perp: [lashkar-e-taiba]
+  attr: suspected
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  victims:
+    - { name: Vijay Kumar, age: 29, role: Bank manager from Rajasthan, src: tribune-vijay-kumar }
+  src: [tribune-vijay-kumar, gk-vijay-kumar]
+  conf: confirmed
+  hp: true
+  tags: [targeted-killings-2022]
+  summary: >
+    Vijay Kumar, a 29-year-old bank manager from Rajasthan, was shot inside his branch of the Ellaquai Dehati Bank at Arreh Mohanpora in
+    Kulgam on 2 June 2022 and died on the way to hospital. It was the eighth targeted killing in the Valley since 1 May that year.
+
+- id: 2022-06-02-dilkhush-kumar
+  date: 2022-06-02
+  title: Killing of a Bihar labourer at Chadoora
+  place: Chadoora, Budgam
+  at: district:Budgam
+  district: [Budgam, Budgam]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [civilians, migrant_workers]
+  community: Migrant labourer from Bihar
+  perp: []
+  attr: unknown
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  src: [tribune-dilkhush-bihar-labourer]
+  conf: reported
+  hp: false
+  tags: [migrant-workers, targeted-killings-2022]
+  summary: >
+    Hours after the killing of bank manager Vijay Kumar on 2 June 2022, militants shot dead a labourer from Bihar in the Valley. The two
+    killings in one day deepened fear among workers from outside the region.
+  notes: Place and victim name to be confirmed with a second source.
+
+- id: 2022-08-16-sunil-kumar-bhat
+  date: 2022-08-16
+  title: Killing of Sunil Kumar Bhat in his orchard
+  place: Chotigam, Shopian
+  at: district:Shopian
+  district: [Shopian, Shopian]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [civilians, minority_community]
+  community: Kashmiri Pandit (Hindu)
+  perp: []
+  attr: unknown
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  injured: 1
+  victims:
+    - { name: Sunil Kumar Bhat, role: Orchard owner, src: theprint-sunil-bhat }
+  src: [theprint-sunil-bhat, gk-sunil-bhat]
+  conf: confirmed
+  hp: true
+  tags: [kashmiri-pandits, targeted-killings-2022]
+  summary: >
+    Militants shot dead Sunil Kumar Bhat, a Kashmiri Pandit who had never left the Valley, and injured his relative in their apple orchard
+    at Chotigam in Shopian on 16 August 2022.  His relative survived with injuries.
+
+- id: 2022-10-15-puran-krishan-bhat
+  date: 2022-10-15
+  title: Killing of Puran Krishan Bhat
+  place: Chowdhary Gund, Shopian
+  at: district:Shopian
+  district: [Shopian, Shopian]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [civilians, minority_community]
+  community: Kashmiri Pandit (Hindu)
+  perp: []
+  attr: unknown
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  victims:
+    - { name: Puran Krishan Bhat, role: Orchard owner, src: de-puran-bhat-lg }
+  src: [de-puran-bhat-lg, tribune-puran-bhat-protest]
+  conf: confirmed
+  hp: true
+  tags: [kashmiri-pandits, targeted-killings-2022]
+  summary: >
+    Puran Krishan Bhat was shot dead outside his ancestral home at Chowdhary Gund in Shopian on 15 October 2022, where he had gone to look
+    after his orchard. Lieutenant Governor Manoj Sinha visited the family and promised a job and other help.
+
+- id: 2023-01-01-dhangri
+  date: 2023-01-01
+  end: 2023-01-02
+  title: Dhangri massacre, Rajouri
+  place: Upper Dhangri village, Rajouri
+  at: town:Rajouri
+  geo: tehsil
+  district: [Rajouri, Rajouri]
+  region: Jammu
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians, minority_community]
+  community: Hindu
+  perp: [lashkar-e-taiba]
+  attr: officially_attributed
+  killed: { civ: 7, sf: 0, terr: 0, total: 7 }
+  src: [theprint-dhangri-tributes, kashmirlife-dhangri-nia, outlook-dhangri-holi]
+  conf: confirmed
+  hp: true
+  tags: [pir-panjal-shift, jammu-region]
+  summary: >
+    On the evening of 1 January 2023 two terrorists went from house to house in Dhangri village, checking identities and shooting Hindu
+    residents, killing five. The next morning an explosive device they had left behind went off and killed two children. The NIA named
+    Pakistan-based Lashkar handlers as the planners.
+
+- id: 2023-02-26-sanjay-sharma
+  date: 2023-02-26
+  title: Killing of bank guard Sanjay Sharma
+  place: Achan, Pulwama
+  at: district:Pulwama
+  district: [Pulwama, Pulwama]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [civilians, minority_community]
+  community: Kashmiri Pandit (Hindu)
+  perp: []
+  attr: unknown
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  victims:
+    - { name: Sanjay Sharma, age: 40, role: Bank ATM guard, src: theprint-sanjay-sharma }
+  src: [theprint-sanjay-sharma, gk-sanjay-sharma-grief]
+  conf: confirmed
+  hp: true
+  tags: [kashmiri-pandits]
+  summary: >
+    Sanjay Sharma, a 40-year-old Kashmiri Pandit who worked as a bank guard, was shot at close range on a street leading to his house
+    in the village of Achan in Pulwama on the morning of 26 February 2023. His Muslim neighbours mourned him, and the militant accused was later
+    killed by security forces.
+
+- id: 2023-04-20-bhata-dhurian-truck
+  date: 2023-04-20
+  title: Ambush on army truck at Bhata Dhurian, Poonch
+  place: Bhata Dhurian, Bhimber Gali to Sanjiote road, Poonch
+  at: district:Poonch
+  district: [Poonch, Poonch]
+  region: Jammu
+  cat: ambush
+  tactic: ambush
+  target: [security_forces]
+  community: null
+  perp: [paff]
+  attr: claimed
+  killed: { civ: 0, sf: 5, terr: 0, total: 5 }
+  injured: 1
+  src: [tribune-poonch-truck-ambush-2023, theprint-poonch-armour-piercing]
+  conf: confirmed
+  hp: true
+  tags: [pir-panjal-shift]
+  summary: >
+    On 20 April 2023 militants ambushed an army truck moving from Bhimber Gali to Sanjiote at Bhata Dhurian in Poonch, firing assault
+    rifles and throwing grenades. The truck caught fire and five soldiers were killed. Investigators said the attackers had studied the
+    target and used armour-piercing rounds.
+  notes: The PAFF claim is widely reported but is not stated in the two cited sources; attribution should be checked.
+
+- id: 2023-05-05-kandi-rajouri
+  date: 2023-05-05
+  title: IED blast kills five para commandos in Kandi forests, Rajouri
+  place: Kesari hills, Kandi, Rajouri
+  at: district:Rajouri
+  district: [Rajouri, Rajouri]
+  region: Jammu
+  cat: ied
+  tactic: ied
+  target: [security_forces]
+  community: null
+  perp: []
+  attr: unknown
+  killed: { civ: 0, sf: 5, terr: 0, total: 5 }
+  injured: 1
+  src: [de-kandi-5-paras, theprint-rajouri-trapping-soldiers]
+  conf: confirmed
+  hp: true
+  tags: [pir-panjal-shift]
+  summary: >
+    On 5 May 2023 militants cornered in the Kesari hills near Kandi set off a remote-controlled explosive as special forces closed in.
+    Five para commandos were killed and a major was injured. The attack followed the pattern of militants drawing troops into prepared
+    positions in the forests.
+
+- id: 2023-09-13-kokernag-gadole
+  date: 2023-09-13
+  end: 2023-09-19
+  title: Gadole encounter in Kokernag forests
+  place: Gadole, Kokernag, Anantnag
+  at: district:Anantnag
+  district: [Anantnag, Anantnag]
+  region: Kashmir Valley
+  cat: encounter
+  tactic: ambush
+  target: [security_forces]
+  community: null
+  perp: [trf]
+  attr: claimed
+  killed: { civ: 0, sf: 5, terr: 2, total: 7 }
+  victims:
+    - { name: Colonel Manpreet Singh, role: Commanding Officer, 19 Rashtriya Rifles, src: outlook-kokernag }
+    - { name: Major Ashish Dhonchak, role: Army officer, src: outlook-kokernag }
+    - { name: DSP Humayun Bhat, role: J&K Police, src: outlook-kokernag }
+  src: [outlook-kokernag, kashmirlife-kokernag-ends]
+  conf: confirmed
+  hp: true
+  tags: []
+  summary: >
+    On 13 September 2023 a search party moving up towards a militant hideout at Gadole in the Kokernag forests came under fire. Colonel
+    Manpreet Singh, Major Ashish Dhonchak and Deputy Superintendent Humayun Bhat were among those killed. The operation lasted a week and
+    ended with two militants, including commander Uzair Khan, killed; five security personnel died in all.
+
+- id: 2023-11-22-kalakote
+  date: 2023-11-22
+  title: Kalakote encounter, two captains among soldiers killed
+  place: Baaji Maal, Kalakote, Rajouri
+  at: district:Rajouri
+  district: [Rajouri, Rajouri]
+  region: Jammu
+  cat: encounter
+  tactic: ambush
+  target: [security_forces]
+  community: null
+  perp: []
+  attr: unknown
+  killed: { sf: 4, total: null }
+  src: [tribune-kalakote-captains, gk-kalakote]
+  conf: confirmed
+  hp: true
+  tags: [pir-panjal-shift]
+  summary: >
+    On 22 November 2023 an army search team in the Baaji Maal area of Kalakote came under fire from militants. Two captains and two
+    soldiers were killed in the first day of fighting.
+  notes: Later reports give a higher army toll and two militants killed; these are not yet tied to cited sources.
+
+- id: 2023-12-21-dera-ki-gali
+  date: 2023-12-21
+  title: Ambush on army vehicles near Dera Ki Gali, Poonch
+  place: Dhatyar Morh, between Dera Ki Gali and Bafliaz, Poonch
+  at: district:Poonch
+  district: [Poonch, Poonch]
+  region: Jammu
+  cat: ambush
+  tactic: ambush
+  target: [security_forces]
+  community: null
+  perp: []
+  attr: unknown
+  killed: { civ: 0, sf: 4, terr: 0, total: 4 }
+  injured: 3
+  src: [tribune-dkg-ambush, gk-dkg-ambush]
+  conf: confirmed
+  hp: true
+  tags: [pir-panjal-shift]
+  summary: >
+    On the afternoon of 21 December 2023 militants fired on two army vehicles carrying troops on the Surankote to Thanamandi road near Dera
+    Ki Gali. Four soldiers were killed and three injured.
+  notes: >
+    Three civilians detained for questioning after this ambush died in army custody. An Armed Forces Tribunal later upheld censure of a
+    brigadier. Those deaths are outside this dataset's scope and are noted here for completeness.
+
+- id: 2024-06-09-reasi-bus
+  date: 2024-06-09
+  title: Attack on pilgrims' bus at Reasi
+  place: Near Teryath, Ransoo area, Reasi (Shiv Khori to Katra road)
+  at: district:Reasi
+  district: [Reasi, Reasi]
+  region: Jammu
+  cat: pilgrim_attack
+  tactic: ambush
+  target: [pilgrims]
+  community: Hindu pilgrims from Uttar Pradesh, Rajasthan and Delhi
+  perp: [lashkar-e-taiba]
+  attr: officially_attributed
+  killed: { civ: 9, sf: 0, terr: 0, total: 9 }
+  injured: 33-41
+  figures:
+    tribune-reasi-bus: { total: 9, injured: 33 }
+    outlook-reasi-bus: { total: 9, note: "Three women and two children among the dead; an LeT offshoot claimed the attack" }
+  src: [tribune-reasi-bus, outlook-reasi-bus, tribune-reasi-nia-chargesheet]
+  conf: confirmed
+  hp: true
+  tags: [pilgrims, jammu-region]
+  summary: >
+    On the evening of 9 June 2024 militants fired on a bus taking pilgrims from the Shiv Khori shrine to Katra, and the bus fell into a
+    gorge. Nine people were killed, including three women and two children, and dozens were injured. The NIA later charged accused linked to Lashkar-e-Taiba.
+  notes: Injured counts of 33 and 41 are both reported.
+
+- id: 2024-06-11-hiranagar-saida-sukhal
+  date: 2024-06-11
+  end: 2024-06-12
+  title: Militant attack at Saida Sukhal, Hiranagar
+  place: Saida Sukhal village, Hiranagar, Kathua
+  at: town:Hiranagar
+  geo: tehsil
+  district: [Kathua, Kathua]
+  region: Jammu
+  cat: encounter
+  tactic: armed_assault
+  target: [civilians, security_forces]
+  community: null
+  perp: []
+  attr: unknown
+  killed: { civ: 0, sf: 1, terr: 2, total: 3 }
+  victims:
+    - { name: Kabir Das, role: CRPF constable, 121 Battalion, src: gk-hiranagar-second-terrorist }
+  src: [gk-hiranagar-second-terrorist, de-hiranagar-2024]
+  conf: confirmed
+  hp: true
+  tags: [jammu-region]
+  summary: >
+    Two days after Reasi, two militants who had crossed the border fired on villagers in Saida Sukhal near Hiranagar on the evening of
+    11 June 2024. Both were killed by the next day, and CRPF constable Kabir Das died of his wounds.
+
+- id: 2024-07-08-kathua-machedi
+  date: 2024-07-08
+  title: Ambush on army patrol at Badnota, Machedi, Kathua
+  place: Badnota, Machedi to Kindli road, Kathua
+  at: district:Kathua
+  district: [Kathua, Kathua]
+  region: Jammu
+  cat: ambush
+  tactic: ambush
+  target: [security_forces]
+  community: null
+  perp: [kashmir-tigers]
+  attr: claimed
+  killed: { civ: 0, sf: 5, terr: 0, total: 5 }
+  injured: 5
+  src: [tribune-kathua-machedi, theprint-kathua-machedi, outlook-kathua-kashmir-tigers]
+  conf: confirmed
+  hp: true
+  tags: [jammu-region]
+  summary: >
+    On the afternoon of 8 July 2024 militants hit an army truck with a grenade and gunfire on a remote road near Badnota in Kathua. Five
+    soldiers, including a junior commissioned officer, were killed and five injured. A Jaish-e-Mohammed front, Kashmir Tigers, claimed the
+    attack.
+
+- id: 2024-07-15-doda-desa
+  date: 2024-07-15
+  title: Desa forest encounter, Doda
+  place: Desa forest, Doda
+  at: district:Doda
+  district: [Doda, Doda]
+  region: Jammu
+  cat: encounter
+  tactic: ambush
+  target: [security_forces]
+  community: null
+  perp: []
+  attr: unknown
+  killed: { civ: 0, sf: 4, terr: 0, total: 4 }
+  victims:
+    - { name: Captain Brijesh Thapa, role: Army officer, src: tribune-doda-desa }
+  src: [tribune-doda-desa, de-doda-desa]
+  conf: confirmed
+  hp: true
+  tags: [jammu-region]
+  summary: >
+    On the night of 15 July 2024 troops chasing militants in the Desa forest of Doda came under heavy fire. Captain Brijesh Thapa and
+    three soldiers were killed, and the militants escaped deeper into the forest.
+
+- id: 2024-10-20-gagangir
+  date: 2024-10-20
+  title: Attack on Z-Morh tunnel workers' camp, Gagangir
+  place: Gagangir, Ganderbal (Srinagar to Leh highway)
+  at: town:Ganderbal
+  geo: district
+  district: [Ganderbal, Ganderbal]
+  region: Kashmir Valley
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians, migrant_workers]
+  community: Construction workers and a local doctor
+  perp: [lashkar-e-taiba]
+  attr: suspected
+  killed: { civ: 7, sf: 0, terr: 0, total: 7 }
+  injured: 5
+  src: [gk-gagangir-7, tribune-gagangir-let-killed]
+  conf: confirmed
+  hp: true
+  tags: [infrastructure, migrant-workers]
+  summary: >
+    On the evening of 20 October 2024 militants fired on the camp of workers building the Z-Morh tunnel at Gagangir, on the road to
+    Sonamarg. Six workers and a local doctor were killed and five injured. A Lashkar-e-Taiba militant involved was later killed.
+
+- id: 2024-10-24-botapathri-gulmarg
+  date: 2024-10-24
+  title: Attack on army vehicle at Botapathri near Gulmarg
+  place: Nagin, Botapathri, Gulmarg, Baramulla
+  at: district:Baramulla
+  district: [Baramulla, Baramulla]
+  region: Kashmir Valley
+  cat: ambush
+  tactic: ambush
+  target: [security_forces, civilians]
+  community: null
+  perp: []
+  attr: unknown
+  killed: { civ: 2, sf: 2, terr: 0, total: 4 }
+  src: [de-gulmarg-toll-4, theprint-gulmarg-porters]
+  conf: confirmed
+  hp: true
+  tags: []
+  summary: >
+    On the evening of 24 October 2024 militants fired on a Rashtriya Rifles vehicle at Botapathri, a few kilometres from the Gulmarg ski
+    resort. Two soldiers and two civilian porters working with the army were killed.
+
+- id: 2025-04-22-pahalgam-baisaran
+  date: 2025-04-22
+  title: Pahalgam massacre at Baisaran meadow
+  place: Baisaran meadow, Pahalgam
+  at: town:Pahalgam
+  geo: tehsil
+  district: [Anantnag, Anantnag]
+  region: Kashmir Valley
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians]
+  community: Tourists, targeted after being asked their religion
+  perp: [lashkar-e-taiba, trf]
+  attr: officially_attributed
+  killed: { civ: 26, sf: 0, terr: 0, total: 26 }
+  figures:
+    gk-pahalgam-26: { total: 26 }
+    de-pahalgam-26: { total: 26, note: "Two foreign nationals, an IB officer and a Navy officer among the dead" }
+  src: [gk-pahalgam-26, de-pahalgam-26, tribune-trf-backtracks, gk-pahalgam-nia-chargesheet]
+  conf: confirmed
+  hp: true
+  tags: [tourists, pahalgam-2025]
+  summary: >
+    On the afternoon of 22 April 2025 militants opened fire on visitors at the Baisaran meadow above Pahalgam, after asking about their
+    religious identity. Twenty-six people were killed, most of them tourists. The Resistance
+    Front first claimed the attack and then withdrew the claim. The NIA charged Lashkar-e-Taiba, the TRF and Pakistan-based handlers.
+
+- id: 2025-05-07-operation-sindoor
+  date: 2025-05-07
+  end: 2025-05-10
+  title: Operation Sindoor strikes on terror camps in Pakistan and PoJK
+  place: Bahawalpur, Muridke, Sialkot, Tehra Kalan and Barnala in Pakistan; Muzaffarabad and Kotli in PoJK
+  at: manual:pojk-generic
+  district: [null, Pakistan-occupied Jammu & Kashmir (PoJK)]
+  region: PoJK
+  cat: india_strike
+  tactic: missile_strike
+  target: [terrorists, infrastructure]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  figures:
+    pib-op-sindoor-clarity: { note: "Government: over 100 terrorists killed across nine sites" }
+  src: [pib-op-sindoor-precision, pib-op-sindoor-clarity, theprint-sindoor-announced, tribune-sindoor-satellite]
+  conf: confirmed
+  hp: true
+  cross_border: true
+  tags: [india-response, op-sindoor]
+  summary: >
+    In the early hours of 7 May 2025 India struck nine sites in Pakistan and Pakistan-occupied Jammu and Kashmir linked to
+    Jaish-e-Mohammed, Lashkar-e-Taiba and Hizbul Mujahideen, including Jaish-e-Mohammed's Markaz Subhan Allah at Bahawalpur and Lashkar-e-Taiba's
+    Markaz Taiba at Muridke. The government said no Pakistani military facilities were targeted in this first wave. Four days of fighting followed before
+    a ceasefire understanding on 10 May.
+  notes: The government figure of over 100 terrorists killed is recorded as stated; it is not entered in the toll fields because no per-site breakdown has been published.
+
+- id: 2025-05-07-poonch-shelling
+  date: 2025-05-07
+  title: Pakistani shelling of Poonch and Tangdhar
+  place: Poonch town and villages along the LoC, and Tangdhar
+  at: town:Poonch
+  district: [Poonch, Poonch]
+  region: Jammu
+  cat: cross_border_shelling
+  tactic: artillery_shelling
+  target: [civilians]
+  community: Residents of Poonch including Sikh worshippers
+  perp: [pakistan-army]
+  attr: state_actor
+  killed: { civ: 12-15, total: 12-15 }
+  injured: 43-57
+  figures:
+    gk-loc-12-dead: { total: 12, injured: 57 }
+    tribune-poonch-gurdwara-13: { total: 13, note: "13 killed in Poonch, four of them Sikhs; a gurdwara was hit" }
+    theprint-poonch-shelling-15: { total: 15, injured: 43, note: "Poonch and Tangdhar together" }
+  src: [gk-loc-12-dead, tribune-poonch-gurdwara-13, theprint-poonch-shelling-15]
+  conf: disputed
+  hp: true
+  tags: [op-sindoor, shelling]
+  summary: >
+    Within an hour of Operation Sindoor on 7 May 2025, Pakistan's army shelled towns and villages along the Line of Control. Poonch town
+    was hit hardest, including a gurdwara, and at least a dozen civilians were killed and dozens injured on the first day alone.
+  notes: Figures differ by date and by whether Tangdhar is included; all published figures are shown.
+
+- id: 2025-05-10-rajouri-shelling-addc
+  date: 2025-05-10
+  title: Pakistani shell kills Rajouri official Raj Kumar Thapa
+  place: Rajouri town
+  at: town:Rajouri
+  district: [Rajouri, Rajouri]
+  region: Jammu
+  cat: cross_border_shelling
+  tactic: artillery_shelling
+  target: [civilians, government_employees]
+  community: null
+  perp: [pakistan-army]
+  attr: state_actor
+  killed: { civ: 3, total: 3 }
+  victims:
+    - { name: Raj Kumar Thapa, role: Additional District Development Commissioner, Rajouri, src: tribune-rajouri-addc }
+  src: [theprint-rajouri-addc, tribune-rajouri-addc]
+  conf: confirmed
+  hp: true
+  tags: [op-sindoor, shelling]
+  summary: >
+    In the early hours of 10 May 2025 a Pakistani artillery shell hit the official residence of Raj Kumar Thapa, Additional District
+    Development Commissioner of Rajouri, killing him and wounding two staff members. Two other civilians were killed in Rajouri that
+    morning.
+
+- id: 2025-05-10-ceasefire-understanding
+  date: 2025-05-10
+  title: India and Pakistan agree to stop firing
+  place: Line of Control and International Border
+  at: manual:jammu-region
+  district: [null, null]
+  region: Jammu
+  cat: policy
+  tactic: policy_measure
+  target: [none]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  src: [outlook-ceasefire-violated, theprint-war-live-may10]
+  conf: confirmed
+  hp: true
+  tags: [op-sindoor, ceasefire]
+  summary: >
+    On the afternoon of 10 May 2025 Pakistan's DGMO called his Indian counterpart, and both sides agreed to stop all firing on land, in the
+    air and at sea from 5 pm. India accused Pakistan of violating the understanding the same night.
+
+- id: 2025-07-28-operation-mahadev
+  date: 2025-07-28
+  title: Operation Mahadev kills the Pahalgam attackers near Dachigam
+  place: Harwan and Dachigam forests, Srinagar
+  at: town:Srinagar
+  geo: tehsil
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: encounter
+  tactic: cordon_and_search
+  target: [terrorists]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { civ: 0, sf: 0, terr: 3, total: 3 }
+  src: [tribune-op-mahadev, outlook-op-mahadev, pib-amit-shah-sindoor-ls]
+  conf: confirmed
+  hp: true
+  tags: [india-response, pahalgam-2025]
+  summary: >
+    After a hunt of about three months, security forces killed three Pakistani terrorists in the Dachigam and Harwan forests near Srinagar
+    on 28 July 2025. The Home Minister told Parliament they were Suleman Shah, Jibran and Hamza Afghani, the men behind the Pahalgam
+    massacre.
+
+- id: 2026-01-19-kishtwar-singpura
+  date: 2026-01-19
+  title: Special forces soldier killed in Kishtwar encounter
+  place: Singpura area, Kishtwar
+  at: district:Kishtwar
+  district: [Kishtwar, Kishtwar]
+  region: Jammu
+  cat: encounter
+  tactic: grenade
+  target: [security_forces]
+  community: null
+  perp: []
+  attr: unknown
+  killed: { civ: 0, sf: 1, total: null }
+  injured: 8
+  victims:
+    - { name: Havildar Gajendra Singh, role: Special Forces, src: gk-kishtwar-soldier-2026 }
+  src: [gk-kishtwar-soldier-2026]
+  conf: reported
+  hp: false
+  tags: [jammu-region, 2026]
+  summary: >
+    Havildar Gajendra Singh of the Special Forces was killed on 19 January 2026 during an operation in the Singpura area of Kishtwar, in
+    which hiding militants threw grenades. Eight soldiers were injured, mostly by splinters.
+
+- id: 2026-02-05-udhampur-kishtwar-jem
+  date: 2026-02-05
+  title: Three Jaish-e-Mohammed militants killed in Udhampur and Kishtwar
+  place: Udhampur and Kishtwar districts
+  at: district:Udhampur
+  geo: region
+  district: [Udhampur, Udhampur]
+  region: Jammu
+  cat: encounter
+  tactic: cordon_and_search
+  target: [terrorists]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { civ: 0, sf: 0, terr: 3, total: 3 }
+  src: [tribune-jem-3-shot-2026]
+  conf: reported
+  hp: false
+  tags: [india-response, 2026]
+  summary: >
+    Security forces killed three Jaish-e-Mohammed militants, said to include commanders, in separate encounters in Udhampur and Kishtwar
+    districts in early February 2026. Two of them were named in reports as Jaish commanders.
+  notes: The exact date rests on one source.
+
+- id: 2026-07-31-kulgam-kiln-labourer
+  date: 2026-07-31
+  title: Labourer from Chhattisgarh killed at a Kulgam brick kiln
+  place: Brick kiln, Kelam area, Kulgam
+  at: district:Kulgam
+  district: [Kulgam, Kulgam]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [civilians, migrant_workers]
+  community: Migrant labourer from Chhattisgarh
+  perp: []
+  attr: unknown
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  injured: 1
+  src: [theprint-kulgam-labourer-2026, tribune-kulgam-labourer-2026]
+  conf: confirmed
+  hp: true
+  tags: [migrant-workers, 2026]
+  summary: >
+    On 31 July 2026 militants fired on two labourers from Chhattisgarh at a brick kiln in the Kelam area of Kulgam. One died before he
+    could reach hospital and the other was injured.
+
+- id: 2026-09-05-yusmarg-yasir
+  date: 2026-09-05
+  title: Lashkar militant Yasir killed in Yusmarg heights
+  place: Yusmarg heights, Budgam
+  at: district:Budgam
+  district: [Budgam, Budgam]
+  region: Kashmir Valley
+  cat: encounter
+  tactic: cordon_and_search
+  target: [terrorists]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { civ: 0, sf: 0, terr: 1, total: 1 }
+  src: [gk-yasir-yusmarg]
+  conf: reported
+  hp: false
+  tags: [india-response, 2026]
+  summary: >
+    Security forces killed a Lashkar-e-Taiba militant identified by police as Yasir in the Yusmarg heights of Budgam on 5 September 2026.
+    He was a close associate of the commander known as Moosa.
+
+- id: 2026-09-yusmarg-moosa
+  date: 2026-09
+  title: Lashkar commander Moosa killed at Korag, Yusmarg
+  place: Korag, Yusmarg, Budgam
+  at: district:Budgam
+  district: [Budgam, Budgam]
+  region: Kashmir Valley
+  cat: encounter
+  tactic: cordon_and_search
+  target: [terrorists]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { civ: 0, sf: 0, terr: 1, total: 1 }
+  src: [theprint-moosa-ssg, gk-moosa-yousmarg, theprint-moosa-mha]
+  conf: confirmed
+  hp: true
+  tags: [india-response, top-commander, 2026]
+  summary: >
+    In late September 2026 security forces killed Mohammad Asif, known as Moosa or Asif Fauji, in the higher reaches of Korag near Yusmarg.
+    Officials described him as a former soldier of the Pakistan Army's Special Services Group who led Lashkar operations in the region,
+    and the Home Ministry called his killing a serious blow to the group.
+  notes: Exact day not confirmed; month precision only.

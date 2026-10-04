@@ -282,7 +282,9 @@ export const InfiltrationRoute = z
     description: z.string(),
     /** schematic path, deliberately coarse */
     path: z.array(z.tuple([z.number(), z.number()])).min(2),
-    years_active: z.object({ from: z.number().int(), to: z.number().int().nullable() }).strict(),
+    years_active: z.object({ from: z.number().int().nullable(), to: z.number().int().nullable() }).strict(),
+    /** reported as current at the date of the latest source */
+    status: z.enum(["active", "reported_revived", "historical", "unknown"]),
     sources: z.array(Source).min(1),
   })
   .strict();

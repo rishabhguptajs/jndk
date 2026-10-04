@@ -170,7 +170,11 @@
   "hq": null,
   "sponsor": "Pakistan (training and arms in the late 1980s, as reported)",
   "bans": {
-   "india_uapa": null,
+   "india_uapa": {
+    "date": "2019-03-22",
+    "instrument": "Declared an unlawful association under the UAPA",
+    "source_id": "theprint-jklf-banned"
+   },
    "un_1267": null,
    "us_fto": null
   },
@@ -200,6 +204,17 @@
     "publisher": "Kashmir Life",
     "title": "A Consequential Kidnapping",
     "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-jklf-banned",
+    "url": "https://theprint.in/india/what-is-the-jklf-the-organisation-banned-by-the-modi-government/210560/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/what-is-the-jklf-the-organisation-banned-by-the-modi-government/210560/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "What is the JKLF, the organisation banned by the Modi government",
+    "date": "2019-03",
     "pages": null,
     "kind": "news"
    }
@@ -390,7 +405,12 @@
   "founders": [],
   "parent": null,
   "relationship_to_parent": null,
-  "hq": null,
+  "hq": {
+   "name": "Markaz Taiba, Muridke",
+   "lat": 31.8,
+   "lng": 74.26,
+   "precision": "town"
+  },
   "sponsor": "Pakistan",
   "bans": {
    "india_uapa": {
@@ -448,6 +468,17 @@
     "date": null,
     "pages": null,
     "kind": "official"
+   },
+   {
+    "id": "pib-op-sindoor-precision",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: Indian Armed Forces carried out precision strike at terrorist camps",
+    "date": "2025-05-07",
+    "pages": null,
+    "kind": "official"
    }
   ]
  },
@@ -466,7 +497,12 @@
   ],
   "parent": null,
   "relationship_to_parent": null,
-  "hq": null,
+  "hq": {
+   "name": "Markaz Subhan Allah, Bahawalpur",
+   "lat": 29.4,
+   "lng": 71.68,
+   "precision": "town"
+  },
   "sponsor": "Pakistan",
   "bans": {
    "india_uapa": {
@@ -522,6 +558,17 @@
     "publisher": "Ministry of Home Affairs",
     "title": "Banned Organisations",
     "date": null,
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "pib-op-sindoor-precision",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: Indian Armed Forces carried out precision strike at terrorist camps",
+    "date": "2025-05-07",
     "pages": null,
     "kind": "official"
    }
@@ -771,6 +818,91 @@
     "archive_checked": false,
     "publisher": "ThePrint",
     "title": "Govt declares Peoples Anti-Fascist-Front, its manifestations as terrorist organisations",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "kashmir-tigers",
+  "name": "Kashmir Tigers",
+  "kind": "front",
+  "aliases": [],
+  "founded": null,
+  "founders": [],
+  "parent": "jaish-e-mohammed",
+  "relationship_to_parent": "front",
+  "hq": null,
+  "sponsor": "Pakistan",
+  "bans": {
+   "india_uapa": null,
+   "un_1267": null,
+   "us_fto": null
+  },
+  "active_years": {
+   "from": null,
+   "to": null
+  },
+  "status": "active",
+  "summary": "Front for Jaish-e-Mohammed that claimed the July 2024 ambush on an army patrol in Kathua district.",
+  "sources": [
+   {
+    "id": "outlook-kathua-kashmir-tigers",
+    "url": "https://www.outlookindia.com/national/kathua-terrorist-attack-indian-army-convoy-5-jawans-jco-killed-jammu-militant-attack-kashmir-tigers",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/kathua-terrorist-attack-indian-army-convoy-5-jawans-jco-killed-jammu-militant-attack-kashmir-tigers",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Kathua Terror Attack: JeM Offshoot Claims Responsibility For Army Convoy Ambush; Massive Search Op On",
+    "date": "2024-07",
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "pla",
+  "name": "People's Liberation Army (China)",
+  "kind": "state_military",
+  "aliases": [
+   "PLA"
+  ],
+  "founded": null,
+  "founders": [],
+  "parent": null,
+  "relationship_to_parent": null,
+  "hq": null,
+  "sponsor": null,
+  "bans": {
+   "india_uapa": null,
+   "un_1267": null,
+   "us_fto": null
+  },
+  "active_years": {
+   "from": null,
+   "to": null
+  },
+  "status": "active",
+  "summary": "Armed forces of China, in occupation of Aksai Chin. Included only for clashes on the Line of Actual Control in Ladakh such as Galwan in 2020.",
+  "sources": [
+   {
+    "id": "theprint-galwan-20",
+    "url": "https://theprint.in/defence/these-are-the-20-soldiers-killed-in-action-in-galwan-after-clashes-with-chinese-troops/443441/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/these-are-the-20-soldiers-killed-in-action-in-galwan-after-clashes-with-chinese-troops/443441/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "These are the 20 soldiers 'killed in action' in Galwan after clashes with Chinese troops",
+    "date": "2020-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-santosh-babu-mvc",
+    "url": "https://www.tribuneindia.com/news/j-k/galwan-clash-342023/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/galwan-clash-342023/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Col Santosh Babu awarded Mahavir Chakra posthumously",
     "date": null,
     "pages": null,
     "kind": "news"

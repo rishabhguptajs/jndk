@@ -7392,5 +7392,6157 @@
    "fidayeen-era"
   ],
   "notes": null
+ },
+ {
+  "id": "2006-04-30-basantgarh-shepherds",
+  "date": "2006-04-30",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of Hindu shepherds at Lalon Galla, Basantgarh",
+  "place_name": "Lalon Galla meadow above Basantgarh, Udhampur",
+  "district_at_time": "Udhampur",
+  "district_current": "Udhampur",
+  "region": "Jammu",
+  "lat": 32.9094,
+  "lng": 75.3264,
+  "geo_precision": "district",
+  "category": "massacre",
+  "tactic": "mass_shooting",
+  "target_type": [
+   "civilians",
+   "minority_community"
+  ],
+  "victim_community": "Hindu herders",
+  "perpetrator_group": [
+   "lashkar-e-taiba"
+  ],
+  "attribution": "officially_attributed",
+  "killed": {
+   "civilians": {
+    "min": 13,
+    "max": 13
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 13,
+    "max": 13
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On the same night as the Doda killings, another militant unit forced two local Muslim herders to guide them to a high meadow above Basantgarh, where Hindu herdsmen had set up their summer camp. Thirteen shepherds were shot dead.",
+  "sources": [
+   {
+    "id": "outlook-means-and-ends",
+    "url": "https://www.outlookindia.com/national/means-and-ends-news-231179",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/means-and-ends-news-231179",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Means And Ends",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-2006-05-02",
+    "url": "https://www.tribuneindia.com/2006/20060502/main1.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2006/20060502/main1.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, main news, 2 May 2006",
+    "date": "2006-05",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "jammu-region"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2006-04-30-kulhand-tharwa",
+  "date": "2006-04-30",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Kulhand and Tharwa massacre, Doda",
+  "place_name": "Kulhand and Tharwa hamlets, Doda",
+  "district_at_time": "Doda",
+  "district_current": "Doda",
+  "region": "Jammu",
+  "lat": 33.1245,
+  "lng": 75.5535,
+  "geo_precision": "district",
+  "category": "massacre",
+  "tactic": "mass_shooting",
+  "target_type": [
+   "civilians",
+   "minority_community"
+  ],
+  "victim_community": "Hindu",
+  "perpetrator_group": [
+   "lashkar-e-taiba"
+  ],
+  "attribution": "officially_attributed",
+  "killed": {
+   "civilians": {
+    "min": 19,
+    "max": 22
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 19,
+    "max": 22
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [
+   {
+    "source_id": "outlook-means-and-ends",
+    "killed_total": 19,
+    "note": "Nineteen residents of Kulhand and Tharwa shot dead"
+   },
+   {
+    "source_id": "tribune-2006-05-02",
+    "note": "Next-day report on the Doda and Udhampur massacres"
+   }
+  ],
+  "victims": [],
+  "summary": "Late on 30 April 2006 a group of six militants entered the hamlets of Kulhand and Tharwa in Doda, gathered the Hindu men at the village headman's house, lined them up and shot them. Nineteen people, including an eight-year-old girl, were killed according to one detailed account. Lashkar-e-Taiba was held responsible.",
+  "sources": [
+   {
+    "id": "outlook-means-and-ends",
+    "url": "https://www.outlookindia.com/national/means-and-ends-news-231179",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/means-and-ends-news-231179",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Means And Ends",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-2006-05-02",
+    "url": "https://www.tribuneindia.com/2006/20060502/main1.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2006/20060502/main1.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, main news, 2 May 2006",
+    "date": "2006-05",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "organiser-terror-no-religion",
+    "url": "https://organiser.org/2025/04/24/288808/bharat/terror-has-no-religion-timeline-of-religious-massacres-undertaken-by-islamists-targeting-hindus-sikhs-in-jk/",
+    "archive_url": "https://web.archive.org/web/https://organiser.org/2025/04/24/288808/bharat/terror-has-no-religion-timeline-of-religious-massacres-undertaken-by-islamists-targeting-hindus-sikhs-in-jk/",
+    "archive_checked": false,
+    "publisher": "Organiser",
+    "title": "Terror has no religion: incidents of attacks on Hindus in J&K",
+    "date": "2025-04-24",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "disputed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "jammu-region",
+   "doda"
+  ],
+  "notes": "Counts of 19 and 22 appear in published accounts for the Doda killings."
+ },
+ {
+  "id": "2008-07-19-narbal-ied",
+  "date": "2008-07-19",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "IED attack on army convoy at Narbal",
+  "place_name": "Narbal, Srinagar to Baramulla highway",
+  "district_at_time": "Budgam",
+  "district_current": "Budgam",
+  "region": "Kashmir Valley",
+  "lat": 33.864,
+  "lng": 74.6467,
+  "geo_precision": "district",
+  "category": "ied",
+  "tactic": "ied",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 10,
+    "max": 10
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 10,
+    "max": 10
+   }
+  },
+  "injured": {
+   "min": 20,
+   "max": 20
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 19 July 2008 militants set off an IED under an army bus in a convoy at Narbal on the Srinagar to Baramulla highway. Ten soldiers were killed and about 20 injured.",
+  "sources": [
+   {
+    "id": "tribune-major-attacks-jk",
+    "url": "https://www.tribuneindia.com/news/archive/features/major-terror-attacks-in-jk-730241",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/features/major-terror-attacks-in-jk-730241",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Major terror attacks in J&K",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-fidayeen-timeline",
+    "url": "https://www.outlookindia.com/national/india-news-timeline-of-fidayeen-attacks-in-jammu-and-kashmir-news-325485",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/india-news-timeline-of-fidayeen-attacks-in-jammu-and-kashmir-news-325485",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Some Of The Major Fidayeen Attacks In Jammu And Kashmir",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [],
+  "notes": null
+ },
+ {
+  "id": "2008-08-27-chinore-hostage",
+  "date": "2008-08-27",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Fidayeen hostage attack at Chinore, Jammu",
+  "place_name": "Chinore, near Bantalab, Jammu",
+  "district_at_time": "Jammu",
+  "district_current": "Jammu",
+  "region": "Jammu",
+  "lat": 32.7357,
+  "lng": 74.8691,
+  "geo_precision": "tehsil",
+  "category": "fidayeen",
+  "tactic": "suicide_fidayeen",
+  "target_type": [
+   "civilians",
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 5,
+    "max": 5
+   },
+   "security_forces": {
+    "min": 3,
+    "max": 3
+   },
+   "terrorists": {
+    "min": 3,
+    "max": 3
+   },
+   "total": {
+    "min": 11,
+    "max": 11
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 27 August 2008 three fidayeen who had crossed from the Kanachak sector hijacked a load carrier, drove about 15 km and stormed a house at Chinore near Jammu, taking a family hostage. Eleven people were killed, including three soldiers, five civilians and the three attackers.",
+  "sources": [
+   {
+    "id": "outlook-fidayeen-timeline",
+    "url": "https://www.outlookindia.com/national/india-news-timeline-of-fidayeen-attacks-in-jammu-and-kashmir-news-325485",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/india-news-timeline-of-fidayeen-attacks-in-jammu-and-kashmir-news-325485",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Some Of The Major Fidayeen Attacks In Jammu And Kashmir",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-first-hostage-taking",
+    "url": "https://kashmirlife.net/first-hostage-taking-issue-38-vol-07-91308/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/first-hostage-taking-issue-38-vol-07-91308/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "First Hostage Taking",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "fidayeen-era"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2013-03-13-bemina-crpf",
+  "date": "2013-03-13",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Fidayeen attack on CRPF at Bemina, Srinagar",
+  "place_name": "Bemina, Srinagar",
+  "district_at_time": "Srinagar",
+  "district_current": "Srinagar",
+  "region": "Kashmir Valley",
+  "lat": 34.0884,
+  "lng": 74.803,
+  "geo_precision": "village",
+  "category": "fidayeen",
+  "tactic": "grenade",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 5,
+    "max": 5
+   },
+   "terrorists": {
+    "min": 2,
+    "max": 2
+   },
+   "total": {
+    "min": 7,
+    "max": 7
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On the morning of 13 March 2013 two militants threw grenades and opened fire on a CRPF party at Bemina in Srinagar. Five CRPF personnel and both attackers were killed.",
+  "sources": [
+   {
+    "id": "kashmirlife-bemina-crpf",
+    "url": "https://kashmirlife.net/5-crpf-men-2-militants-killed-in-bemina-firing-24849/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/5-crpf-men-2-militants-killed-in-bemina-firing-24849/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "5 CRPF Men, 2 Militants Killed In Bemina Firing",
+    "date": "2013-03",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-fidayeen-attacked-crpf",
+    "url": "https://kashmirlife.net/fidayeen-attacked-crpf-omar-24870/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/fidayeen-attacked-crpf-omar-24870/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Fidayeen Attacked CRPF: Omar",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-enveloping-blindness",
+    "url": "https://www.outlookindia.com/website/story/an-enveloping-blindness/284591",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/website/story/an-enveloping-blindness/284591",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "An Enveloping Blindness",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [],
+  "notes": null
+ },
+ {
+  "id": "2013-06-24-hyderpora-ambush",
+  "date": "2013-06-24",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Ambush on army convoy at Hyderpora, Srinagar",
+  "place_name": "Hyderpora, Srinagar outskirts",
+  "district_at_time": "Srinagar",
+  "district_current": "Srinagar",
+  "region": "Kashmir Valley",
+  "lat": 34.0884,
+  "lng": 74.803,
+  "geo_precision": "tehsil",
+  "category": "ambush",
+  "tactic": "ambush",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "lashkar-e-taiba"
+  ],
+  "attribution": "suspected",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": 8,
+    "max": 8
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": 16,
+   "max": 16
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 24 June 2013, a day before a visit by Prime Minister Manmohan Singh, militants ambushed an army bus at Hyderpora on the outskirts of Srinagar. Eight soldiers were killed and 16 injured. Hizbul Mujahideen claimed the attack, but police found Lashkar-e-Taiba was behind it.",
+  "sources": [
+   {
+    "id": "tribune-major-attacks-jk",
+    "url": "https://www.tribuneindia.com/news/archive/features/major-terror-attacks-in-jk-730241",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/features/major-terror-attacks-in-jk-730241",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Major terror attacks in J&K",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-hyderpora-police",
+    "url": "https://kashmirlife.net/hyderpora-encounter-the-detailed-police-statement-279911/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/hyderpora-encounter-the-detailed-police-statement-279911/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Hyderpora Encounter: The Detailed Police Statement",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [],
+  "notes": null
+ },
+ {
+  "id": "2013-09-26-hiranagar-samba",
+  "date": "2013-09-26",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Twin fidayeen attacks at Hiranagar police station and Samba army camp",
+  "place_name": "Hiranagar (Kathua) and Samba",
+  "district_at_time": "Kathua",
+  "district_current": "Kathua",
+  "region": "Jammu",
+  "lat": 32.4546,
+  "lng": 75.2931,
+  "geo_precision": "village",
+  "category": "fidayeen",
+  "tactic": "suicide_fidayeen",
+  "target_type": [
+   "police",
+   "security_forces",
+   "civilians"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": 8,
+    "max": 8
+   },
+   "terrorists": {
+    "min": 3,
+    "max": 3
+   },
+   "total": {
+    "min": 13,
+    "max": 13
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Lt Col Bikramjeet Singh",
+    "age": null,
+    "role": "Second-in-command of the army unit at Samba",
+    "source_id": "tribune-2013-09-27"
+   }
+  ],
+  "summary": "On 26 September 2013 three militants who had crossed from Pakistan attacked the Hiranagar police station in Kathua, killing four policemen, then struck an army camp in Samba where four soldiers including Lt Col Bikramjeet Singh were killed. At least ten people died in total, and all three attackers were killed.",
+  "sources": [
+   {
+    "id": "tribune-2013-09-27",
+    "url": "https://www.tribuneindia.com/2013/20130927/main1.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2013/20130927/main1.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, main news, 27 September 2013",
+    "date": "2013-09",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-fidayeen-timeline",
+    "url": "https://www.outlookindia.com/national/india-news-timeline-of-fidayeen-attacks-in-jammu-and-kashmir-news-325485",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/india-news-timeline-of-fidayeen-attacks-in-jammu-and-kashmir-news-325485",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Some Of The Major Fidayeen Attacks In Jammu And Kashmir",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "jammu-region"
+  ],
+  "notes": "Civilian deaths are not separated in the cited sources; the total counts at least ten victims plus three attackers."
+ },
+ {
+  "id": "2014-12-05-mohura-uri",
+  "date": "2014-12-05",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Fidayeen attack on army camp at Mohura, Uri",
+  "place_name": "Mohura, Uri sector",
+  "district_at_time": "Baramulla",
+  "district_current": "Baramulla",
+  "region": "Kashmir Valley",
+  "lat": 34.0871,
+  "lng": 74.0477,
+  "geo_precision": "tehsil",
+  "category": "fidayeen",
+  "tactic": "suicide_fidayeen",
+  "target_type": [
+   "security_forces",
+   "police"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "jaish-e-mohammed"
+  ],
+  "attribution": "suspected",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": 11,
+    "max": 11
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 5 December 2014 heavily armed fidayeen stormed an army ordnance camp at Mohura in the Uri sector near the Line of Control. Eleven security personnel were killed: a lieutenant colonel and seven soldiers, and three Jammu and Kashmir policemen.",
+  "sources": [
+   {
+    "id": "outlook-fidayeen-timeline",
+    "url": "https://www.outlookindia.com/national/india-news-timeline-of-fidayeen-attacks-in-jammu-and-kashmir-news-325485",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/india-news-timeline-of-fidayeen-attacks-in-jammu-and-kashmir-news-325485",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Some Of The Major Fidayeen Attacks In Jammu And Kashmir",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-major-attacks-jk",
+    "url": "https://www.tribuneindia.com/news/archive/features/major-terror-attacks-in-jk-730241",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/features/major-terror-attacks-in-jk-730241",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Major terror attacks in J&K",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [],
+  "notes": null
+ },
+ {
+  "id": "2015-03-20-kathua-rajbagh",
+  "date": "2015-03-20",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Fidayeen attack on Rajbagh police station, Kathua",
+  "place_name": "Rajbagh police station, Jammu to Pathankot highway, Kathua",
+  "district_at_time": "Kathua",
+  "district_current": "Kathua",
+  "region": "Jammu",
+  "lat": 32.3707,
+  "lng": 75.5246,
+  "geo_precision": "tehsil",
+  "category": "fidayeen",
+  "tactic": "suicide_fidayeen",
+  "target_type": [
+   "police",
+   "civilians"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "lashkar-e-taiba"
+  ],
+  "attribution": "suspected",
+  "killed": {
+   "civilians": {
+    "min": 2,
+    "max": 2
+   },
+   "security_forces": {
+    "min": 3,
+    "max": 3
+   },
+   "terrorists": {
+    "min": 2,
+    "max": 2
+   },
+   "total": {
+    "min": 7,
+    "max": 7
+   }
+  },
+  "injured": {
+   "min": 10,
+   "max": 12
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [
+   {
+    "source_id": "tribune-kathua-7-die",
+    "killed_total": 7,
+    "note": "Seven dead including two CRPF personnel and a policeman"
+   },
+   {
+    "source_id": "tribune-kathua-assembly-rocked",
+    "note": "Earlier report: three security men among five dead"
+   },
+   {
+    "source_id": "pioneer-fierce-encounter-kathua",
+    "killed_total": 7,
+    "injured": 12,
+    "note": "Three security personnel, two civilians and two militants"
+   }
+  ],
+  "victims": [],
+  "summary": "On 20 March 2015 two attackers in combat dress stormed the Rajbagh police station on the Jammu to Pathankot highway in Kathua, about 15 km from the International Border. Three security personnel, two of them from the CRPF, and two civilians were killed, and both attackers, believed to be from Lashkar-e-Taiba, were shot dead after a gunfight of several hours.",
+  "sources": [
+   {
+    "id": "tribune-kathua-7-die",
+    "url": "https://www.tribuneindia.com/news/archive/community/7-die-in-kathua-police-station-attack-56555/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/community/7-die-in-kathua-police-station-attack-56555/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "7 die in Kathua police station attack",
+    "date": "2015-03",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-kathua-assembly-rocked",
+    "url": "https://www.tribuneindia.com/news/archive/features/kathua-militant-attack-rocks-j-k-assembly-56180",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/features/kathua-militant-attack-rocks-j-k-assembly-56180",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Kathua militant attack rocks J&K Assembly",
+    "date": "2015-03",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "pioneer-fierce-encounter-kathua",
+    "url": "http://www.dailypioneer.com/2025/page1/fierce-encounter-in-kathua.html",
+    "archive_url": "https://web.archive.org/web/http://www.dailypioneer.com/2025/page1/fierce-encounter-in-kathua.html",
+    "archive_checked": false,
+    "publisher": "The Pioneer",
+    "title": "Fierce encounter in Kathua",
+    "date": "2025",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "jammu-region"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2015-08-05-udhampur-bsf-naved",
+  "date": "2015-08-05",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Attack on BSF convoy at Udhampur and capture of Mohammed Naved",
+  "place_name": "Simroli, Jammu to Srinagar highway, Udhampur",
+  "district_at_time": "Udhampur",
+  "district_current": "Udhampur",
+  "region": "Jammu",
+  "lat": 32.9243,
+  "lng": 75.1357,
+  "geo_precision": "tehsil",
+  "category": "ambush",
+  "tactic": "ambush",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "lashkar-e-taiba"
+  ],
+  "attribution": "officially_attributed",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 2,
+    "max": 2
+   },
+   "terrorists": {
+    "min": 1,
+    "max": 1
+   },
+   "total": {
+    "min": 3,
+    "max": 3
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On the morning of 5 August 2015 two Lashkar-e-Taiba militants fired on a BSF convoy on the national highway at Simroli near Udhampur, killing two constables. One attacker was shot dead. The other, Mohammed Naved of Faisalabad in Pakistan, fled and took villagers hostage, but the villagers overpowered him and handed him to police.",
+  "sources": [
+   {
+    "id": "tribune-udhampur-bsf-2015",
+    "url": "https://www.tribuneindia.com/news/archive/j-k/terrorist-caught-after-attack-on-convoy-kills-2-bsf-men-in-j-k-115887",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/j-k/terrorist-caught-after-attack-on-convoy-kills-2-bsf-men-in-j-k-115887",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Terrorist caught after attack on convoy kills 2 BSF men in J&K",
+    "date": "2015-08",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-hanzla-adnan",
+    "url": "https://www.outlookindia.com/international/pakistan-gunmen-kill-lashkar-terrorist-and-udhampur-attack-mastermind-hanzla-adnan-in-karachi-news-334872",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/international/pakistan-gunmen-kill-lashkar-terrorist-and-udhampur-attack-mastermind-hanzla-adnan-in-karachi-news-334872",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Pakistan: Gunmen Kill Lashkar Terrorist And Udhampur Attack Mastermind Hanzla Adnan In Karachi",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "jammu-region"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2016-06-25-pampore-crpf",
+  "date": "2016-06-25",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Attack on CRPF bus at Pampore",
+  "place_name": "Frestbal, Pampore, Srinagar to Jammu highway",
+  "district_at_time": "Pulwama",
+  "district_current": "Pulwama",
+  "region": "Kashmir Valley",
+  "lat": 33.935,
+  "lng": 75.0576,
+  "geo_precision": "district",
+  "category": "ambush",
+  "tactic": "ambush",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "lashkar-e-taiba"
+  ],
+  "attribution": "suspected",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 8,
+    "max": 8
+   },
+   "terrorists": {
+    "min": 2,
+    "max": 2
+   },
+   "total": {
+    "min": 10,
+    "max": 10
+   }
+  },
+  "injured": {
+   "min": 20,
+   "max": 20
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 25 June 2016 militants fired on a CRPF bus on the national highway at Frestbal near Pampore. Eight CRPF personnel were killed and about 20 injured, and two attackers were killed.",
+  "sources": [
+   {
+    "id": "de-pampore-8-crpf",
+    "url": "https://www.dailyexcelsior.com/8-crpf-men-2-militants-killed-20-injured-pampore-attack/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/8-crpf-men-2-militants-killed-20-injured-pampore-attack/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "8 CRPF men, 2 militants killed; 20 injured in Pampore attack",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-major-attacks-jk",
+    "url": "https://www.tribuneindia.com/news/archive/features/major-terror-attacks-in-jk-730241",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/features/major-terror-attacks-in-jk-730241",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Major terror attacks in J&K",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [],
+  "notes": null
+ },
+ {
+  "id": "2016-07-08-burhan-wani-killed",
+  "date": "2016-07-08",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Hizbul commander Burhan Wani killed at Bamdoora, Kokernag",
+  "place_name": "Bamdoora, Kokernag",
+  "district_at_time": "Anantnag",
+  "district_current": "Anantnag",
+  "region": "Kashmir Valley",
+  "lat": 33.7944,
+  "lng": 75.2848,
+  "geo_precision": "district",
+  "category": "encounter",
+  "tactic": "cordon_and_search",
+  "target_type": [
+   "terrorists"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "Hizbul Mujahideen commander Burhan Wani, who had drawn young recruits through social media, was killed in an encounter with security forces at Bamdoora near Kokernag on 8 July 2016. His death set off months of unrest across the Valley.",
+  "sources": [
+   {
+    "id": "outlook-burhan-2-years",
+    "url": "https://outlookindia.com/website/story/how-burhan-wani-changed-the-definition-of-militancy-in-kashmir/313209",
+    "archive_url": "https://web.archive.org/web/https://outlookindia.com/website/story/how-burhan-wani-changed-the-definition-of-militancy-in-kashmir/313209",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "2 Years Since Burhan Wani's Death: How He Changed The Discourse On Militancy In Kashmir",
+    "date": "2018-07",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-burhan-aftermath",
+    "url": "https://www.dailyexcelsior.com/death-renegade-burhan-wanis-killing-aftermath/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/death-renegade-burhan-wanis-killing-aftermath/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "The death of a renegade: Burhan Wani's killing and its aftermath",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "india-response",
+   "top-commander"
+  ],
+  "notes": "Deaths of others in the encounter and in the unrest that followed are not recorded in this event."
+ },
+ {
+  "id": "2016-09-18-uri-attack",
+  "date": "2016-09-18",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Fidayeen attack on Uri brigade headquarters",
+  "place_name": "Army brigade headquarters, Uri",
+  "district_at_time": "Baramulla",
+  "district_current": "Baramulla",
+  "region": "Kashmir Valley",
+  "lat": 34.0871,
+  "lng": 74.0477,
+  "geo_precision": "village",
+  "category": "fidayeen",
+  "tactic": "suicide_fidayeen",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "jaish-e-mohammed"
+  ],
+  "attribution": "suspected",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 17,
+    "max": 19
+   },
+   "terrorists": {
+    "min": 4,
+    "max": 4
+   },
+   "total": {
+    "min": 21,
+    "max": 23
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [
+   {
+    "source_id": "tribune-uri-17-4"
+   },
+   {
+    "source_id": "de-uri-17-killed"
+   }
+  ],
+  "victims": [],
+  "summary": "Before dawn on 18 September 2016 four fidayeen attacked the army's brigade headquarters at Uri. Seventeen soldiers were killed in the first count, in what was reported as the deadliest attack on the brigade, and all four attackers died. India answered with cross-LoC strikes eleven days later.",
+  "sources": [
+   {
+    "id": "de-uri-17-killed",
+    "url": "https://www.dailyexcelsior.com/news/archive/17-army-men-killed-deadliest-attack-uri-brigade",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/news/archive/17-army-men-killed-deadliest-attack-uri-brigade",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "17 Army men killed in deadliest attack at Uri Brigade",
+    "date": "2016-09",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-uri-17-4",
+    "url": "https://www.tribuneindia.com/news/archive/community/17-soldiers-4-terrorists-killed-in-uri-attack-297074/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/community/17-soldiers-4-terrorists-killed-in-uri-attack-297074/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "17 soldiers, 4 terrorists killed in Uri attack",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-surgical-no-data",
+    "url": "https://theprint.in/defence/no-data-of-surgical-strikes-before-september-2016-says-army/232895/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/no-data-of-surgical-strikes-before-september-2016-says-army/232895/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "No data of surgical strikes before September 2016, says Army",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "disputed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "fidayeen-era"
+  ],
+  "notes": "The army toll rose to 19 as wounded soldiers died; 17 is the figure in first reports. The upper figure still needs a cited source."
+ },
+ {
+  "id": "2016-09-29-surgical-strikes",
+  "date": "2016-09-29",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Surgical strikes on terrorist launch pads across the LoC",
+  "place_name": "Launch pads across the Line of Control",
+  "district_at_time": null,
+  "district_current": "Pakistan-occupied Jammu & Kashmir (PoJK)",
+  "region": "PoJK",
+  "lat": 33.9,
+  "lng": 73.8,
+  "geo_precision": "region",
+  "category": "india_strike",
+  "tactic": "ground_raid",
+  "target_type": [
+   "terrorists"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On the night of 28 to 29 September 2016 Indian special forces crossed the Line of Control and struck terrorist launch pads where teams were waiting to infiltrate. The then DGMO, Lt Gen Ranbir Singh, announced the strikes the next morning. The army later said it had no record of earlier operations of this kind.",
+  "sources": [
+   {
+    "id": "tribune-surgical-strike-first",
+    "url": "https://www.tribuneindia.com/news/archive/nation/2016-surgical-strike-was-first-says-lt-gen-ranbir-the-then-dgmo-775831/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/nation/2016-surgical-strike-was-first-says-lt-gen-ranbir-the-then-dgmo-775831/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "2016 surgical strike was first, says Lt Gen Ranbir, the then DGMO",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-surgical-no-data",
+    "url": "https://theprint.in/defence/no-data-of-surgical-strikes-before-september-2016-says-army/232895/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/no-data-of-surgical-strikes-before-september-2016-says-army/232895/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "No data of surgical strikes before September 2016, says Army",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "india-response"
+  ],
+  "notes": "Casualty claims are not recorded because no official figure has been published."
+ },
+ {
+  "id": "2016-11-29-nagrota",
+  "date": "2016-11-29",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Fidayeen attack on Nagrota army base",
+  "place_name": "Army camp at Nagrota, near Jammu",
+  "district_at_time": "Jammu",
+  "district_current": "Jammu",
+  "region": "Jammu",
+  "lat": 32.7357,
+  "lng": 74.8691,
+  "geo_precision": "tehsil",
+  "category": "fidayeen",
+  "tactic": "suicide_fidayeen",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "jaish-e-mohammed"
+  ],
+  "attribution": "officially_attributed",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 7,
+    "max": 7
+   },
+   "terrorists": {
+    "min": 3,
+    "max": 3
+   },
+   "total": {
+    "min": 10,
+    "max": 10
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "Early on 29 November 2016 three fidayeen stormed an army base at Nagrota near Jammu. Seven soldiers, including two majors, and the three attackers were killed. The case was later linked in court to a Jaish-e-Mohammed module.",
+  "sources": [
+   {
+    "id": "de-nagrota-2016",
+    "url": "https://www.dailyexcelsior.com/two-army-majors-5-jawans-6-terrorists-killed/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/two-army-majors-5-jawans-6-terrorists-killed/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Two Army Majors, 5 jawans, 6 terrorists killed",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-nagrota-army",
+    "url": "https://kashmirlife.net/nagrota-attack-army-version-125017/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/nagrota-attack-army-version-125017/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Nagrota attack: Army version",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [],
+  "notes": null
+ },
+ {
+  "id": "2017-07-10-amarnath-bus-attack",
+  "date": "2017-07-10",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Attack on Amarnath pilgrims' bus at Batengoo",
+  "place_name": "Batengoo, Khanabal, Anantnag",
+  "district_at_time": "Anantnag",
+  "district_current": "Anantnag",
+  "region": "Kashmir Valley",
+  "lat": 33.7299,
+  "lng": 75.1517,
+  "geo_precision": "village",
+  "category": "pilgrim_attack",
+  "tactic": "ambush",
+  "target_type": [
+   "pilgrims"
+  ],
+  "victim_community": "Hindu pilgrims",
+  "perpetrator_group": [
+   "lashkar-e-taiba"
+  ],
+  "attribution": "officially_attributed",
+  "killed": {
+   "civilians": {
+    "min": 8,
+    "max": 8
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 8,
+    "max": 8
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On the evening of 10 July 2017 Lashkar-e-Taiba militants fired on a bus carrying Amarnath pilgrims, most from Gujarat, at Batengoo near Khanabal. The bus was travelling outside the protected convoy. Eight pilgrims were killed. Police later charged Lashkar-e-Taiba and 11 people.",
+  "sources": [
+   {
+    "id": "de-amarnath-2017-let",
+    "url": "https://www.dailyexcelsior.com/news/archive/let-behind-attack-yatris-4-arrested-4-killed-3-absconding",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/news/archive/let-behind-attack-yatris-4-arrested-4-killed-3-absconding",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "LeT behind attack on yatris; 4 arrested, 4 killed, 3 absconding",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-massacre-of-pilgrims",
+    "url": "https://www.dailyexcelsior.com/massacre-of-the-pilgrims/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/massacre-of-the-pilgrims/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Massacre of the pilgrims",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-amarnath-2017-bandh",
+    "url": "https://www.outlookindia.com/newswire/story/amarnath-attack-indo-pak-buses-diverted-as-phagwara-observes-bandh/972195",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/newswire/story/amarnath-attack-indo-pak-buses-diverted-as-phagwara-observes-bandh/972195",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Amarnath Attack: Indo-Pak Buses Diverted As Phagwara Observes Bandh",
+    "date": "2017-07",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "amarnath"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2018-02-10-sunjuwan",
+  "date": "2018-02-10",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Fidayeen attack on Sunjuwan military station",
+  "place_name": "Sunjuwan military station, Jammu",
+  "district_at_time": "Jammu",
+  "district_current": "Jammu",
+  "region": "Jammu",
+  "lat": 32.7357,
+  "lng": 74.8691,
+  "geo_precision": "tehsil",
+  "category": "fidayeen",
+  "tactic": "suicide_fidayeen",
+  "target_type": [
+   "security_forces",
+   "civilians"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "jaish-e-mohammed"
+  ],
+  "attribution": "suspected",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": 6,
+    "max": 6
+   },
+   "terrorists": {
+    "min": 3,
+    "max": 3
+   },
+   "total": {
+    "min": 10,
+    "max": 10
+   }
+  },
+  "injured": {
+   "min": 20,
+   "max": 20
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "Before dawn on 10 February 2018 three Jaish-e-Mohammed fidayeen entered the family quarters of the Sunjuwan military station in Jammu. Six soldiers and a civilian were killed and about 20 people injured, including women and children, before all three attackers were killed.",
+  "sources": [
+   {
+    "id": "outlook-sunjuwan-toll-10",
+    "url": "https://www.outlookindia.com/national/sunjuwan-attack-body-of-another-army-jawan-recovered-death-toll-rises-to-10-news-308238",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/sunjuwan-attack-body-of-another-army-jawan-recovered-death-toll-rises-to-10-news-308238",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Sunjuwan Attack: Body Of Another Soldier Recovered; Death Toll Rises To 10",
+    "date": "2018-02",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-sunjwan-story",
+    "url": "https://kashmirlife.net/sunjwan-fidayeen-attack-the-complete-story-164988/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/sunjwan-fidayeen-attack-the-complete-story-164988/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Sunjwan Fidayeen Attack: The Complete Story",
+    "date": "2018-02",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [],
+  "notes": null
+ },
+ {
+  "id": "2018-06-14-rifleman-aurangzeb",
+  "date": "2018-06-14",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Abduction and killing of Rifleman Aurangzeb",
+  "place_name": "Kalampora to Gussu, Pulwama",
+  "district_at_time": "Pulwama",
+  "district_current": "Pulwama",
+  "region": "Kashmir Valley",
+  "lat": 33.935,
+  "lng": 75.0576,
+  "geo_precision": "district",
+  "category": "targeted_killing",
+  "tactic": "kidnapping",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "hizbul-mujahideen"
+  ],
+  "attribution": "officially_attributed",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 1,
+    "max": 1
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": 1,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Rifleman Aurangzeb",
+    "age": null,
+    "role": "44 Rashtriya Rifles",
+    "source_id": "theprint-aurangzeb-probe"
+   }
+  ],
+  "summary": "Rifleman Aurangzeb of 44 Rashtriya Rifles was abducted by militants on 14 June 2018 while going home for Eid, and his body was found hours later at Gussu village in Pulwama. He was awarded the Shaurya Chakra, and his brothers later joined the Army.",
+  "sources": [
+   {
+    "id": "theprint-aurangzeb-probe",
+    "url": "https://theprint.in/defence/indian-army-probing-two-soldiers-for-tipping-off-militants-who-killed-rifleman-aurangzeb/189107/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/indian-army-probing-two-soldiers-for-tipping-off-militants-who-killed-rifleman-aurangzeb/189107/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Indian Army probing two soldiers for 'tipping off' militants who killed rifleman Aurangzeb",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-aurangzeb-shaurya",
+    "url": "https://www.outlookindia.com/national/major-aditya-slain-rifleman-aurangzeb-to-get-shaurya-chakra-news-315047",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/major-aditya-slain-rifleman-aurangzeb-to-get-shaurya-chakra-news-315047",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Major Aditya, Slain Rifleman Aurangzeb To Get Shaurya Chakra",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [],
+  "notes": null
+ },
+ {
+  "id": "2018-06-14-shujaat-bukhari",
+  "date": "2018-06-14",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of editor Shujaat Bukhari and his guards",
+  "place_name": "Press Enclave, Srinagar",
+  "district_at_time": "Srinagar",
+  "district_current": "Srinagar",
+  "region": "Kashmir Valley",
+  "lat": 34.0884,
+  "lng": 74.803,
+  "geo_precision": "village",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "civilians",
+   "police"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "lashkar-e-taiba"
+  ],
+  "attribution": "officially_attributed",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": 2,
+    "max": 2
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 3,
+    "max": 3
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Shujaat Bukhari",
+    "age": null,
+    "role": "Editor-in-chief",
+    "source_id": "gk-bukhari-shot-dead"
+   }
+  ],
+  "summary": "Shujaat Bukhari, editor-in-chief of Rising Kashmir, was shot dead outside his office in Press Enclave, Srinagar on the evening of 14 June 2018, along with his two police guards. Police linked the killing to Lashkar-e-Taiba, and a Pakistan-based plotter was later designated a terrorist.",
+  "sources": [
+   {
+    "id": "gk-bukhari-shot-dead",
+    "url": "https://www.greaterkashmir.com/kashmir/rising-kashmir-editor-in-chief-shujaat-bukhari-shot-dead/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/kashmir/rising-kashmir-editor-in-chief-shujaat-bukhari-shot-dead/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Rising Kashmir Editor-in-Chief Shujaat Bukhari shot dead",
+    "date": "2018-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-bukhari-sajjad-gul",
+    "url": "https://www.tribuneindia.com/news/j-k/sajjad-gul-who-plotted-shujaat-bukharis-killing-designated-as-terrorist-387739",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/sajjad-gul-who-plotted-shujaat-bukharis-killing-designated-as-terrorist-387739",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Sajjad Gul who plotted Shujaat Bukhari's killing designated as terrorist",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "media"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2019-02-14-pulwama",
+  "date": "2019-02-14",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Pulwama suicide car bombing of CRPF convoy",
+  "place_name": "Lethpora, Pulwama, Jammu to Srinagar highway",
+  "district_at_time": "Pulwama",
+  "district_current": "Pulwama",
+  "region": "Kashmir Valley",
+  "lat": 33.9198,
+  "lng": 75.0152,
+  "geo_precision": "tehsil",
+  "category": "fidayeen",
+  "tactic": "vbied",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "jaish-e-mohammed"
+  ],
+  "attribution": "claimed",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 40,
+    "max": 40
+   },
+   "terrorists": {
+    "min": 1,
+    "max": 1
+   },
+   "total": {
+    "min": 41,
+    "max": 41
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [
+   {
+    "source_id": "outlook-pulwama-list",
+    "note": "Published list of 40 CRPF personnel killed"
+   },
+   {
+    "source_id": "tribune-pulwama-42",
+    "note": "First-day headline figure"
+   }
+  ],
+  "victims": [],
+  "summary": "On 14 February 2019 a Jaish-e-Mohammed suicide bomber, Adil Ahmad Dar, drove a vehicle packed with explosives into a bus in a CRPF convoy of about 70 vehicles at Lethpora on the Jammu to Srinagar highway. Forty CRPF personnel were killed, among the deadliest attacks on Indian security forces in Kashmir. India responded with an air strike on a Jaish camp at Balakot twelve days later.",
+  "sources": [
+   {
+    "id": "outlook-pulwama-list",
+    "url": "https://www.outlookindia.com/national/pulwama-terror-attack-complete-list-of-martyred-crpf-jawans-news-325538",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/pulwama-terror-attack-complete-list-of-martyred-crpf-jawans-news-325538",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Pulwama Terror Attack: Complete List Of Martyred CRPF Jawans",
+    "date": "2019-02",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-pulwama-42",
+    "url": "https://www.tribuneindia.com/news/archive/j-k/42-crpf-jawans-killed-in-pulwama-blast-728948",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/j-k/42-crpf-jawans-killed-in-pulwama-blast-728948",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "42 CRPF jawans killed in Pulwama blast",
+    "date": "2019-02",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-pulwama-19-attackers",
+    "url": "https://www.tribuneindia.com/news/j-k/of-19-pulwama-attackers-eight-eliminated-seven-arrested-so-far-479791",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/of-19-pulwama-attackers-eight-eliminated-seven-arrested-so-far-479791",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Of 19 Pulwama attackers, eight eliminated, seven arrested so far",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "fidayeen-era",
+   "pulwama"
+  ],
+  "notes": "First reports put the toll at 42; the final official list names 40 personnel."
+ },
+ {
+  "id": "2019-02-26-balakot",
+  "date": "2019-02-26",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Air strike on Jaish-e-Mohammed camp at Balakot",
+  "place_name": "Balakot, Khyber Pakhtunkhwa, Pakistan",
+  "district_at_time": null,
+  "district_current": null,
+  "region": "Outside J&K",
+  "lat": 34.3333,
+  "lng": 73.2,
+  "geo_precision": "district",
+  "category": "india_strike",
+  "tactic": "air_strike",
+  "target_type": [
+   "terrorists"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [
+   {
+    "source_id": "pib-fs-balakot",
+    "note": "Foreign Secretary: a very large number of JeM terrorists, trainers, senior commanders and fidayeen trainees were eliminated. No figure given."
+   }
+  ],
+  "victims": [],
+  "summary": "Before dawn on 26 February 2019 Indian Air Force jets struck what the government called the biggest Jaish-e-Mohammed training camp, at Balakot in Pakistan. The Foreign Secretary described it as a non-military, pre-emptive strike based on intelligence that more suicide attacks were being planned. No official casualty figure was released.",
+  "sources": [
+   {
+    "id": "pib-fs-balakot",
+    "url": "https://pib.gov.in/newsite/PrintRelease.aspx?relid=188948",
+    "archive_url": "https://web.archive.org/web/https://pib.gov.in/newsite/PrintRelease.aspx?relid=188948",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Statement by Foreign Secretary on 26 February 2019 on the Strike on JeM training camp at Balakot",
+    "date": "2019-02-26",
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "theprint-pak-hit-back-balakot",
+    "url": "https://theprint.in/defence/how-pakistan-planned-to-hit-india-back-for-balakot-the-mission-the-fighters-the-tactics/291522/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/how-pakistan-planned-to-hit-india-back-for-balakot-the-mission-the-fighters-the-tactics/291522/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "How Pakistan planned to hit India back for Balakot: the mission, the fighters, the tactics",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": true,
+  "tags": [
+   "india-response"
+  ],
+  "notes": "Shown at district precision in Mansehra district, outside the map frame of J&K."
+ },
+ {
+  "id": "2019-02-27-pakistan-air-raid",
+  "date": "2019-02-27",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Pakistani air raid and capture of Wing Commander Abhinandan Varthaman",
+  "place_name": "Nowshera and Rajouri sectors, and Pakistan-occupied Kashmir",
+  "district_at_time": null,
+  "district_current": null,
+  "region": "PoJK",
+  "lat": 33.9,
+  "lng": 73.8,
+  "geo_precision": "region",
+  "category": "cross_border_shelling",
+  "tactic": "air_strike",
+  "target_type": [
+   "military"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "pakistan-army"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": 1,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Wing Commander Abhinandan Varthaman",
+    "age": null,
+    "role": "IAF pilot",
+    "source_id": "theprint-abhinandan-returns"
+   }
+  ],
+  "summary": "A day after Balakot, Pakistani jets tried to strike military targets across the Line of Control. In the air battle that followed, Wing Commander Abhinandan Varthaman's MiG-21 was shot down and he ejected over Pakistan-occupied Kashmir, where he was captured. He was handed back on 1 March 2019 and later awarded the Vir Chakra for shooting down a Pakistani jet.",
+  "sources": [
+   {
+    "id": "theprint-pak-hit-back-balakot",
+    "url": "https://theprint.in/defence/how-pakistan-planned-to-hit-india-back-for-balakot-the-mission-the-fighters-the-tactics/291522/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/how-pakistan-planned-to-hit-india-back-for-balakot-the-mission-the-fighters-the-tactics/291522/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "How Pakistan planned to hit India back for Balakot: the mission, the fighters, the tactics",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-abhinandan-returns",
+    "url": "https://theprint.in/defence/iaf-pilot-abhinandan-varthaman-returns-to-india-2-days-after-being-captured-by-pakistan/200029/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/iaf-pilot-abhinandan-varthaman-returns-to-india-2-days-after-being-captured-by-pakistan/200029/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "IAF pilot Abhinandan Varthaman returns to India 2 days after being captured by Pakistan",
+    "date": "2019-03",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-abhinandan-vir-chakra",
+    "url": "https://www.tribuneindia.com/news/nation/gp-capt-abhinandan-receives-vir-chakra-for-downing-pak-jet-341551",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/nation/gp-capt-abhinandan-receives-vir-chakra-for-downing-pak-jet-341551",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Gp Capt Abhinandan receives Vir Chakra for downing Pak jet",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "india-response"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2019-02-28-jei-banned",
+  "date": "2019-02-28",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Jamaat-e-Islami Jammu and Kashmir declared an unlawful association",
+  "place_name": "Jammu and Kashmir",
+  "district_at_time": null,
+  "district_current": null,
+  "region": "Kashmir Valley",
+  "lat": 34,
+  "lng": 74.8,
+  "geo_precision": "region",
+  "category": "policy",
+  "tactic": "policy_measure",
+  "target_type": [
+   "none"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 28 February 2019, after the Pulwama attack, the Home Ministry declared Jamaat-e-Islami Jammu and Kashmir an unlawful association under the UAPA. The ban was extended for a further five years in 2024.",
+  "sources": [
+   {
+    "id": "pib-jei-ban-extended",
+    "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2009511&reg=3&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2009511&reg=3&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Government declares 'Jamaat-e-Islami Jammu Kashmir' as an 'Unlawful Association' for a further period of 5 years",
+    "date": "2024-02",
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "de-jei-ban",
+    "url": "https://www.dailyexcelsior.com/banning-of-jamaat-e-islami-jammu-and-kashmir/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/banning-of-jamaat-e-islami-jammu-and-kashmir/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Banning of Jamaat-e-Islami, Jammu and Kashmir",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "uapa",
+   "india-response"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2019-03-22-jklf-banned",
+  "date": "2019-03-22",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "JKLF declared an unlawful association",
+  "place_name": "Jammu and Kashmir",
+  "district_at_time": null,
+  "district_current": null,
+  "region": "Kashmir Valley",
+  "lat": 34,
+  "lng": 74.8,
+  "geo_precision": "region",
+  "category": "policy",
+  "tactic": "policy_measure",
+  "target_type": [
+   "none"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 22 March 2019 the Home Ministry banned Yasin Malik's JKLF under the UAPA, accusing it of funding terrorism and of responsibility for killings of Kashmiri Pandits in 1989 that led to their exodus. A UAPA tribunal later upheld extensions of the ban.",
+  "sources": [
+   {
+    "id": "theprint-jklf-banned",
+    "url": "https://theprint.in/india/what-is-the-jklf-the-organisation-banned-by-the-modi-government/210560/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/what-is-the-jklf-the-organisation-banned-by-the-modi-government/210560/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "What is the JKLF, the organisation banned by the Modi government",
+    "date": "2019-03",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-jklf-banned",
+    "url": "https://www.tribuneindia.com/news/archive/j-k/jklf-banned-under-unlawful-activities-act-747038",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/j-k/jklf-banned-under-unlawful-activities-act-747038",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "JKLF banned under Unlawful Activities Act",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-jklf-tribunal",
+    "url": "https://www.tribuneindia.com/news/j-k/uapa-tribunal-upholds-centres-decision-to-extend-ban-on-jklf/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/uapa-tribunal-upholds-centres-decision-to-extend-ban-on-jklf/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "UAPA Tribunal upholds Centre's decision to extend ban on JKLF",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "uapa",
+   "india-response"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2019-08-05-article-370",
+  "date": "2019-08-05",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Article 370 provisions revoked and the state reorganised",
+  "place_name": "Jammu and Kashmir",
+  "district_at_time": null,
+  "district_current": null,
+  "region": "Kashmir Valley",
+  "lat": 34,
+  "lng": 74.8,
+  "geo_precision": "region",
+  "category": "policy",
+  "tactic": "policy_measure",
+  "target_type": [
+   "none"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 5 August 2019 Parliament ended the special status of Jammu and Kashmir under Article 370 and passed the Jammu and Kashmir Reorganisation Act, which split the state into two Union Territories. The Supreme Court upheld the decision on 11 December 2023.",
+  "sources": [
+   {
+    "id": "outlook-370-scrapped",
+    "url": "https://www.outlookindia.com/national/india-news-as-kashmir-reels-under-curfew-and-communication-blackout-article-370-scrapped-jk-bifurcated-news-335622",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/india-news-as-kashmir-reels-under-curfew-and-communication-blackout-article-370-scrapped-jk-bifurcated-news-335622",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Army On High Alert Along LoC After Article 370 Scrapped, J&K Bifurcated",
+    "date": "2019-08",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-370-new-era",
+    "url": "https://www.tribuneindia.com/news/india/abrogation-of-article-370-marked-new-era-for-jammu-and-kashmir-amit-shah/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/india/abrogation-of-article-370-marked-new-era-for-jammu-and-kashmir-amit-shah/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Abrogation of Article 370 marked new era for Jammu and Kashmir: Amit Shah",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "pib-sc-370-verdict",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1984951&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleasePage.aspx?PRID=1984951&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Union Home Minister welcomes the Supreme Court's ruling to uphold the decision to abolish Article 370",
+    "date": "2023-12-11",
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "outlook-sc-370",
+    "url": "https://www.outlookindia.com/national/supreme-court-verdict-on-article-370-abrogation-special-status-jammu-and-kashmir-statehood-news-335737",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/supreme-court-verdict-on-article-370-abrogation-special-status-jammu-and-kashmir-statehood-news-335737",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "SC Says Article 370 Was A Temporary Provision, Revocation By Presidential Order Valid; Orders Polls In J&K",
+    "date": "2023-12",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "article-370"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2019-10-29-kulgam-labourers",
+  "date": "2019-10-29",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of five labourers from West Bengal at Katrasoo, Kulgam",
+  "place_name": "Katrasoo (Kutroosa), Kulgam",
+  "district_at_time": "Kulgam",
+  "district_current": "Kulgam",
+  "region": "Kashmir Valley",
+  "lat": 33.6394,
+  "lng": 74.645,
+  "geo_precision": "district",
+  "category": "targeted_killing",
+  "tactic": "mass_shooting",
+  "target_type": [
+   "civilians",
+   "migrant_workers"
+  ],
+  "victim_community": "Migrant labourers from West Bengal",
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 5,
+    "max": 5
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 5,
+    "max": 5
+   }
+  },
+  "injured": {
+   "min": 1,
+   "max": 1
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Sheikh Kamrudin",
+    "age": null,
+    "role": "Labourer from Murshidabad",
+    "source_id": "theprint-kulgam-5-labourers"
+   },
+   {
+    "name": "Sheikh Mohammad Rafiq",
+    "age": null,
+    "role": "Labourer from Murshidabad",
+    "source_id": "theprint-kulgam-5-labourers"
+   },
+   {
+    "name": "Sheikh Muzaffar",
+    "age": null,
+    "role": "Labourer from Murshidabad",
+    "source_id": "theprint-kulgam-5-labourers"
+   },
+   {
+    "name": "Rafiq Sheikh",
+    "age": null,
+    "role": "Labourer from Murshidabad",
+    "source_id": "theprint-kulgam-5-labourers"
+   },
+   {
+    "name": "Zahoor Sheikh",
+    "age": null,
+    "role": "Labourer from Murshidabad",
+    "source_id": "theprint-kulgam-5-labourers"
+   }
+  ],
+  "summary": "On 29 October 2019 militants shot dead five labourers from Murshidabad in West Bengal at Katrasoo village in Kulgam, where they had worked in orchards for years, and injured a sixth. The victims' bodies were flown home to Murshidabad.",
+  "sources": [
+   {
+    "id": "theprint-kulgam-5-labourers",
+    "url": "https://theprint.in/india/5-non-kashmiri-labourers-shot-dead-in-jks-kulgam/313105/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/5-non-kashmiri-labourers-shot-dead-in-jks-kulgam/313105/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "5 non-Kashmiri labourers shot dead in J&K's Kulgam, one more injured",
+    "date": "2019-10",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-kutroosa-grief",
+    "url": "https://theprint.in/india/kashmir-grief-guilt-after-murder-5-men-guests-of-kutroosa-for-12-years/313332/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/kashmir-grief-guilt-after-murder-5-men-guests-of-kutroosa-for-12-years/313332/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "In Kashmir, grief & guilt after murder of 5 men who were guests of Kutroosa for 12 years",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-kulgam-congress",
+    "url": "https://www.outlookindia.com/national/india-news-after-kulgam-attack-congress-asks-pm-modi-to-allow-all-party-delegation-to-jk-news-341398",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/india-news-after-kulgam-attack-congress-asks-pm-modi-to-allow-all-party-delegation-to-jk-news-341398",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "After Kulgam Attack, Congress Asks PM Modi To Allow All-Party Delegation To J&K",
+    "date": "2019-10",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "migrant-workers"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2019-10-31-union-territories",
+  "date": "2019-10-31",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Union Territories of Jammu and Kashmir and Ladakh come into being",
+  "place_name": "Jammu and Kashmir and Ladakh",
+  "district_at_time": null,
+  "district_current": null,
+  "region": "Kashmir Valley",
+  "lat": 34,
+  "lng": 74.8,
+  "geo_precision": "region",
+  "category": "policy",
+  "tactic": "policy_measure",
+  "target_type": [
+   "none"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "The Union Territories of Jammu and Kashmir and Ladakh came into existence on 31 October 2019. The new official maps of 2 November 2019 placed Pakistan-occupied Mirpur, Muzaffarabad and Poonch in the UT of Jammu and Kashmir, and Gilgit-Baltistan in the UT of Ladakh.",
+  "sources": [
+   {
+    "id": "outlook-370-scrapped",
+    "url": "https://www.outlookindia.com/national/india-news-as-kashmir-reels-under-curfew-and-communication-blackout-article-370-scrapped-jk-bifurcated-news-335622",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/india-news-as-kashmir-reels-under-curfew-and-communication-blackout-article-370-scrapped-jk-bifurcated-news-335622",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Army On High Alert Along LoC After Article 370 Scrapped, J&K Bifurcated",
+    "date": "2019-08",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "journalsofindia-new-map",
+    "url": "https://journalsofindia.com/new-map-of-jammu-and-kashmir/?print=pdf",
+    "archive_url": "https://web.archive.org/web/https://journalsofindia.com/new-map-of-jammu-and-kashmir/?print=pdf",
+    "archive_checked": false,
+    "publisher": "Journals of India",
+    "title": "New map of Jammu and Kashmir",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "wire-pok-in-ut-map",
+    "url": "https://cms.thewire.in/government/pok-in-union-territory-of-jk-gilgit-baltistan-in-ladakh-in-newly-released-map-of-india",
+    "archive_url": "https://web.archive.org/web/https://cms.thewire.in/government/pok-in-union-territory-of-jk-gilgit-baltistan-in-ladakh-in-newly-released-map-of-india",
+    "archive_checked": false,
+    "publisher": "The Wire",
+    "title": "PoK in Union Territory of J&K, Gilgit-Baltistan in Ladakh in newly released map of India",
+    "date": "2019-11",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "article-370"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2020-05-02-handwara",
+  "date": "2020-05-02",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Handwara encounter, Colonel and Major among five killed",
+  "place_name": "Handwara, Kupwara",
+  "district_at_time": "Kupwara",
+  "district_current": "Kupwara",
+  "region": "Kashmir Valley",
+  "lat": 34.5748,
+  "lng": 74.2856,
+  "geo_precision": "district",
+  "category": "encounter",
+  "tactic": "cordon_and_search",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "lashkar-e-taiba"
+  ],
+  "attribution": "suspected",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 5,
+    "max": 5
+   },
+   "terrorists": {
+    "min": 2,
+    "max": 2
+   },
+   "total": {
+    "min": 7,
+    "max": 7
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Colonel Ashutosh Sharma",
+    "age": null,
+    "role": "Commanding Officer of a Rashtriya Rifles battalion",
+    "source_id": "gk-handwara-colonel"
+   },
+   {
+    "name": "Major Anuj Sood",
+    "age": null,
+    "role": "Army officer",
+    "source_id": "gk-handwara-colonel"
+   },
+   {
+    "name": "Sub-Inspector Shakeel Qazi",
+    "age": null,
+    "role": "J&K Police",
+    "source_id": "gk-handwara-colonel"
+   }
+  ],
+  "summary": "On 2 May 2020 a Rashtriya Rifles team led by Colonel Ashutosh Sharma entered a house in Handwara where militants were holding civilians. The civilians were rescued, but five security personnel, including the Colonel, Major Anuj Sood and a police sub-inspector, were killed along with two militants.",
+  "sources": [
+   {
+    "id": "gk-handwara-colonel",
+    "url": "https://www.greaterkashmir.com/kashmir/colonel-major-among-five-security-personnel-killed-in-encounter-with-militants-in-north-kashmirs-handwara/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/kashmir/colonel-major-among-five-security-personnel-killed-in-encounter-with-militants-in-north-kashmirs-handwara/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Colonel, Major among five security personnel killed in encounter with militants in north Kashmir's Handwara",
+    "date": "2020-05",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-handwara-co",
+    "url": "https://theprint.in/defence/rashtriya-rifles-battalion-co-among-5-killed-in-encounter-with-terrorists-in-jks-handwara/413442/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/rashtriya-rifles-battalion-co-among-5-killed-in-encounter-with-terrorists-in-jks-handwara/413442/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Rashtriya Rifles battalion CO among 5 killed in encounter with terrorists in J&K's Handwara",
+    "date": "2020-05",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [],
+  "notes": "The perpetrator group is recorded as suspected."
+ },
+ {
+  "id": "2020-05-06-riyaz-naikoo-killed",
+  "date": "2020-05-06",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Hizbul Mujahideen chief Riyaz Naikoo killed at Beighpora",
+  "place_name": "Beighpora, Awantipora",
+  "district_at_time": "Pulwama",
+  "district_current": "Pulwama",
+  "region": "Kashmir Valley",
+  "lat": 33.9198,
+  "lng": 75.0152,
+  "geo_precision": "tehsil",
+  "category": "encounter",
+  "tactic": "cordon_and_search",
+  "target_type": [
+   "terrorists"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 2,
+    "max": 2
+   },
+   "total": {
+    "min": 2,
+    "max": 2
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "Riyaz Naikoo, operations chief of Hizbul Mujahideen in Kashmir and successor to Burhan Wani, was killed with an associate in an encounter in his home village of Beighpora on 6 May 2020. He had been the most wanted militant in the Valley.",
+  "sources": [
+   {
+    "id": "theprint-naikoo-killed",
+    "url": "https://theprint.in/defence/kashmirs-most-wanted-terrorist-riyaz-naikoo-killed-in-encounter-in-his-pulwama-village/415391/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/kashmirs-most-wanted-terrorist-riyaz-naikoo-killed-in-encounter-in-his-pulwama-village/415391/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Kashmir's most wanted terrorist Riyaz Naikoo killed in encounter in his Pulwama village",
+    "date": "2020-05",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-naikoo-killed",
+    "url": "https://www.tribuneindia.com/news/nation/hizbul-mujahideen-chief-naikoo-killed-in-jk-encounter-81424",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/nation/hizbul-mujahideen-chief-naikoo-killed-in-jk-encounter-81424",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Hizbul Mujahideen chief Naikoo killed in J&K encounter",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "india-response",
+   "top-commander"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2020-06-08-ajay-pandita",
+  "date": "2020-06-08",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of sarpanch Ajay Pandita",
+  "place_name": "Lokbawan Larkipora, Anantnag",
+  "district_at_time": "Anantnag",
+  "district_current": "Anantnag",
+  "region": "Kashmir Valley",
+  "lat": 33.7944,
+  "lng": 75.2848,
+  "geo_precision": "district",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "political",
+   "minority_community"
+  ],
+  "victim_community": "Kashmiri Pandit (Hindu)",
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Ajay Pandita",
+    "age": null,
+    "role": "Sarpanch of Lokbawan Larkipora",
+    "source_id": "tribune-pandita-shot"
+   }
+  ],
+  "summary": "Ajay Pandita, a Kashmiri Pandit and elected sarpanch of Lokbawan Larkipora in Anantnag, was shot dead by militants on 8 June 2020. His killing raised fears among the few Pandits who had stayed in or returned to the Valley and among elected village representatives.",
+  "sources": [
+   {
+    "id": "tribune-pandita-shot",
+    "url": "https://www.tribuneindia.com/news/j-k/sarpanch-shot-dead-in-militant-attack-in-anantnag-village-96283",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/sarpanch-shot-dead-in-militant-attack-in-anantnag-village-96283",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Sarpanch shot dead in militant attack in Anantnag village",
+    "date": "2020-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-pandita-shot",
+    "url": "https://theprint.in/india/militants-shoot-dead-kashmiri-pandit-sarpanch-in-jammu-and-kashmirs-anantnag-district/438237/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/militants-shoot-dead-kashmiri-pandit-sarpanch-in-jammu-and-kashmirs-anantnag-district/438237/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Militants shoot dead Kashmiri Pandit sarpanch in Jammu and Kashmir's Anantnag district",
+    "date": "2020-06",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "kashmiri-pandits",
+   "panchayat"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2020-06-15-galwan",
+  "date": "2020-06-15",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Galwan valley clash with China",
+  "place_name": "Galwan valley, eastern Ladakh",
+  "district_at_time": "Leh",
+  "district_current": "Leh",
+  "region": "Ladakh",
+  "lat": 34.75,
+  "lng": 78.2,
+  "geo_precision": "region",
+  "category": "war",
+  "tactic": "other",
+  "target_type": [
+   "military"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "pla"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": 20,
+    "max": 20
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Colonel B. Santosh Babu",
+    "age": null,
+    "role": "Commanding Officer",
+    "source_id": "tribune-santosh-babu-mvc"
+   }
+  ],
+  "summary": "On the night of 15 to 16 June 2020 Indian and Chinese troops clashed in the Galwan valley along the Line of Actual Control. No shots were fired, but Chinese troops used clubs studded with nails. Twenty Indian soldiers were killed, including the commanding officer of 16 Bihar, Colonel B. Santosh Babu, who was awarded the Maha Vir Chakra.",
+  "sources": [
+   {
+    "id": "theprint-galwan-20",
+    "url": "https://theprint.in/defence/these-are-the-20-soldiers-killed-in-action-in-galwan-after-clashes-with-chinese-troops/443441/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/these-are-the-20-soldiers-killed-in-action-in-galwan-after-clashes-with-chinese-troops/443441/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "These are the 20 soldiers 'killed in action' in Galwan after clashes with Chinese troops",
+    "date": "2020-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-santosh-babu-mvc",
+    "url": "https://www.tribuneindia.com/news/j-k/galwan-clash-342023/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/galwan-clash-342023/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Col Santosh Babu awarded Mahavir Chakra posthumously",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "china-lac"
+  ],
+  "notes": "Chinese losses are not recorded here."
+ },
+ {
+  "id": "2021-06-27-jammu-airbase-drone",
+  "date": "2021-06-27",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Drone attack on the Air Force station at Jammu",
+  "place_name": "Jammu Air Force Station",
+  "district_at_time": "Jammu",
+  "district_current": "Jammu",
+  "region": "Jammu",
+  "lat": 32.7357,
+  "lng": 74.8691,
+  "geo_precision": "village",
+  "category": "ied",
+  "tactic": "drone",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "suspected",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": 0,
+    "max": 0
+   }
+  },
+  "injured": {
+   "min": 2,
+   "max": 2
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "In the early hours of 27 June 2021 two explosive devices dropped by drones exploded at the Air Force station in Jammu, five minutes apart. Two airmen were slightly injured and a building was damaged. It was the first drone attack on an Indian military installation, and investigators said the explosives pointed to Pakistani ordnance factories.",
+  "sources": [
+   {
+    "id": "tribune-drone-attack-jammu",
+    "url": "https://www.tribuneindia.com/news/j-k/new-face-of-terror-drone-attack-on-air-force-base-in-jammu-2-injured-275016",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/new-face-of-terror-drone-attack-on-air-force-base-in-jammu-2-injured-275016",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "New face of terror: Drone attack on Air Force base in Jammu; 2 injured",
+    "date": "2021-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-drone-ieds-pakistan",
+    "url": "https://theprint.in/defence/design-materials-of-jammu-drone-attack-ieds-point-to-pakistan-ordnance-factories/691449/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/design-materials-of-jammu-drone-attack-ieds-point-to-pakistan-ordnance-factories/691449/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Design & materials of Jammu drone attack IEDs 'point to Pakistan Ordnance factories'",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "drone",
+   "first"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2021-10-05-bindroo",
+  "date": "2021-10-05",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of chemist Makhan Lal Bindroo",
+  "place_name": "Bindroo Medicate, Iqbal Park, Srinagar",
+  "district_at_time": "Srinagar",
+  "district_current": "Srinagar",
+  "region": "Kashmir Valley",
+  "lat": 34.0884,
+  "lng": 74.803,
+  "geo_precision": "village",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "civilians",
+   "minority_community"
+  ],
+  "victim_community": "Kashmiri Pandit (Hindu)",
+  "perpetrator_group": [
+   "trf"
+  ],
+  "attribution": "officially_attributed",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Makhan Lal Bindroo",
+    "age": 68,
+    "role": "Owner of Bindroo Medicate pharmacy",
+    "source_id": "outlook-unending-obituaries"
+   }
+  ],
+  "summary": "Makhan Lal Bindroo, 68, a Kashmiri Pandit who owned one of Srinagar's best-known pharmacies, was shot dead at his shop on 5 October 2021. Two other civilians were killed within hours the same evening. Police blamed The Resistance Front.",
+  "sources": [
+   {
+    "id": "outlook-unending-obituaries",
+    "url": "https://www.outlookindia.com/national/kashmiri-pandit-cop-killings-and-kashmir-s-unending-blood-trail-news-196496",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/kashmiri-pandit-cop-killings-and-kashmir-s-unending-blood-trail-news-196496",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Kashmiri Pandit, Cop And Migrant Killings In J&K: An Unending List Of Obituaries",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "pioneer-pandits-killers-identified",
+    "url": "https://www.dailypioneer.com/2021/page1/5-ultras-killed--pandits----killers-identified.html",
+    "archive_url": "https://web.archive.org/web/https://www.dailypioneer.com/2021/page1/5-ultras-killed--pandits----killers-identified.html",
+    "archive_checked": false,
+    "publisher": "The Pioneer",
+    "title": "5 ultras killed, Pandits' killers identified",
+    "date": "2021-10",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-three-civilians-hours",
+    "url": "https://greaterkashmir.com/todays-paper/front-page/3-civilians-shot-dead-within-few-hours-in-kashmir",
+    "archive_url": "https://web.archive.org/web/https://greaterkashmir.com/todays-paper/front-page/3-civilians-shot-dead-within-few-hours-in-kashmir",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "3 civilians shot dead within few hours in Kashmir",
+    "date": "2021-10",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "kashmiri-pandits",
+   "targeted-killings-2021"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2021-10-05-virender-paswan",
+  "date": "2021-10-05",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of street vendor Virender Paswan",
+  "place_name": "Srinagar",
+  "district_at_time": "Srinagar",
+  "district_current": "Srinagar",
+  "region": "Kashmir Valley",
+  "lat": 34.0884,
+  "lng": 74.803,
+  "geo_precision": "village",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "civilians",
+   "migrant_workers"
+  ],
+  "victim_community": "Hindu migrant worker from Bihar",
+  "perpetrator_group": [
+   "trf"
+  ],
+  "attribution": "suspected",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Virender Paswan",
+    "age": null,
+    "role": "Street food vendor from Bhagalpur",
+    "source_id": "theprint-paswan"
+   }
+  ],
+  "summary": "Virender Paswan, a street food vendor from Bhagalpur in Bihar and the sole earner for his family, was shot dead in Srinagar on the evening of 5 October 2021, hours after Makhan Lal Bindroo. He was cremated in Srinagar without his family present.",
+  "sources": [
+   {
+    "id": "theprint-paswan",
+    "url": "https://theprint.in/india/bihar-man-lost-kolkata-job-sold-chaat-in-kashmir-killed-by-terrorists-cremated-without-family/748314/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/bihar-man-lost-kolkata-job-sold-chaat-in-kashmir-killed-by-terrorists-cremated-without-family/748314/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Bihar man lost Kolkata job, sold chaat in Kashmir, killed by terrorists, cremated without family",
+    "date": "2021-10",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-three-civilians-hours",
+    "url": "https://greaterkashmir.com/todays-paper/front-page/3-civilians-shot-dead-within-few-hours-in-kashmir",
+    "archive_url": "https://web.archive.org/web/https://greaterkashmir.com/todays-paper/front-page/3-civilians-shot-dead-within-few-hours-in-kashmir",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "3 civilians shot dead within few hours in Kashmir",
+    "date": "2021-10",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "migrant-workers",
+   "targeted-killings-2021"
+  ],
+  "notes": "The exact locality is not confirmed in the cited sources; placed at town level in Srinagar."
+ },
+ {
+  "id": "2021-10-07-eidgah-school-teachers",
+  "date": "2021-10-07",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of principal Supinder Kaur and teacher Deepak Chand",
+  "place_name": "Government school, Eidgah, Srinagar",
+  "district_at_time": "Srinagar",
+  "district_current": "Srinagar",
+  "region": "Kashmir Valley",
+  "lat": 34.0884,
+  "lng": 74.803,
+  "geo_precision": "village",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "civilians",
+   "minority_community",
+   "government_employees"
+  ],
+  "victim_community": "Sikh and Kashmiri Pandit (Hindu)",
+  "perpetrator_group": [
+   "trf"
+  ],
+  "attribution": "officially_attributed",
+  "killed": {
+   "civilians": {
+    "min": 2,
+    "max": 2
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 2,
+    "max": 2
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Supinder Kaur",
+    "age": null,
+    "role": "School principal",
+    "source_id": "tribune-teachers-lined-up"
+   },
+   {
+    "name": "Deepak Chand",
+    "age": null,
+    "role": "Teacher",
+    "source_id": "tribune-teachers-lined-up"
+   }
+  ],
+  "summary": "On 7 October 2021 gunmen entered a government school at Eidgah in Srinagar, checked the staff's identities, let the Muslim teachers go and shot dead the Sikh principal Supinder Kaur and the Hindu teacher Deepak Chand. Police linked the killing to The Resistance Front.",
+  "sources": [
+   {
+    "id": "tribune-teachers-lined-up",
+    "url": "https://www.tribuneindia.com/news/j-k/teachers-lined-up-2-of-them-shot-in-srinagar-321626",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/teachers-lined-up-2-of-them-shot-in-srinagar-321626",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Teachers lined up, 2 of them shot in Srinagar",
+    "date": "2021-10",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "pioneer-pandits-killers-identified",
+    "url": "https://www.dailypioneer.com/2021/page1/5-ultras-killed--pandits----killers-identified.html",
+    "archive_url": "https://web.archive.org/web/https://www.dailypioneer.com/2021/page1/5-ultras-killed--pandits----killers-identified.html",
+    "archive_checked": false,
+    "publisher": "The Pioneer",
+    "title": "5 ultras killed, Pandits' killers identified",
+    "date": "2021-10",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-unending-obituaries",
+    "url": "https://www.outlookindia.com/national/kashmiri-pandit-cop-killings-and-kashmir-s-unending-blood-trail-news-196496",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/kashmiri-pandit-cop-killings-and-kashmir-s-unending-blood-trail-news-196496",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Kashmiri Pandit, Cop And Migrant Killings In J&K: An Unending List Of Obituaries",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "targeted-killings-2021",
+   "minorities"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2021-10-11-surankote-encounter",
+  "date": "2021-10-11",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Ambush on army search party in Surankote forests",
+  "place_name": "Surankote forests, Poonch",
+  "district_at_time": "Poonch",
+  "district_current": "Poonch",
+  "region": "Jammu",
+  "lat": 33.6997,
+  "lng": 74.1813,
+  "geo_precision": "district",
+  "category": "ambush",
+  "tactic": "ambush",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 5,
+    "max": 5
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 5,
+    "max": 5
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 11 October 2021 militants hiding in the forests of Surankote in Poonch fired on an army search party, killing a junior commissioned officer and four soldiers. The operation spread to Mendhar and Thanamandi and became one of the longest in the Pir Panjal belt.",
+  "sources": [
+   {
+    "id": "de-surankote-5",
+    "url": "https://www.dailyexcelsior.com/army-jco-and-four-soldiers-maryted-in-jks-rajouri/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/army-jco-and-four-soldiers-maryted-in-jks-rajouri/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "JCO Among 5 Soldiers Martyred In Encounter With Militants In J&K's Poonch",
+    "date": "2021-10",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-poonch-toll-9",
+    "url": "https://theprint.in/defence/two-mo%E2%80%8B%E2%80%8Bre-soldiers-including-jco-killed-in-jks-poonch-toll-rises-to-9-for-the-week/751838/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/two-mo%E2%80%8B%E2%80%8Bre-soldiers-including-jco-killed-in-jks-poonch-toll-rises-to-9-for-the-week/751838/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Two more soldiers including JCO killed in J&K's Poonch, toll rises to 9 for the week",
+    "date": "2021-10",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "pir-panjal-shift"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2021-10-14-bhata-durian-encounter",
+  "date": "2021-10-14",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Soldiers killed in Bhata Durian forests, Mendhar",
+  "place_name": "Bhata Durian forests, Mendhar, Poonch",
+  "district_at_time": "Poonch",
+  "district_current": "Poonch",
+  "region": "Jammu",
+  "lat": 33.6997,
+  "lng": 74.1813,
+  "geo_precision": "district",
+  "category": "encounter",
+  "tactic": "ambush",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 4,
+    "max": 4
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 4,
+    "max": 4
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [
+   {
+    "source_id": "tribune-poonch-jco-two",
+    "note": "Two killed on 14 October"
+   },
+   {
+    "source_id": "theprint-poonch-toll-9",
+    "note": "Bodies of two more soldiers recovered later; army toll nine for the week"
+   }
+  ],
+  "victims": [],
+  "summary": "Three days after the Surankote ambush, troops combing the Bhata Durian forests in Mendhar were fired on from a hillock on 14 October 2021. Two soldiers including a junior commissioned officer were killed that evening, and the bodies of two more were recovered later, taking the army's toll for the week to nine.",
+  "sources": [
+   {
+    "id": "tribune-poonch-jco-two",
+    "url": "https://www.tribuneindia.com/news/j-k/jco-among-two-soldiers-killed-in-poonch-rajouri-forest-gunfight-325616",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/jco-among-two-soldiers-killed-in-poonch-rajouri-forest-gunfight-325616",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "JCO among two soldiers killed in Poonch-Rajouri forest gunfight",
+    "date": "2021-10",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-poonch-toll-9",
+    "url": "https://theprint.in/defence/two-mo%E2%80%8B%E2%80%8Bre-soldiers-including-jco-killed-in-jks-poonch-toll-rises-to-9-for-the-week/751838/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/two-mo%E2%80%8B%E2%80%8Bre-soldiers-including-jco-killed-in-jks-poonch-toll-rises-to-9-for-the-week/751838/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Two more soldiers including JCO killed in J&K's Poonch, toll rises to 9 for the week",
+    "date": "2021-10",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "pir-panjal-shift"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2021-10-17-wanpoh-bihar-labourers",
+  "date": "2021-10-17",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of two labourers from Bihar at Wanpoh, Kulgam",
+  "place_name": "Wanpoh, Kulgam",
+  "district_at_time": "Kulgam",
+  "district_current": "Kulgam",
+  "region": "Kashmir Valley",
+  "lat": 33.6394,
+  "lng": 74.645,
+  "geo_precision": "district",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "civilians",
+   "migrant_workers"
+  ],
+  "victim_community": "Migrant labourers from Bihar",
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 2,
+    "max": 2
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 2,
+    "max": 2
+   }
+  },
+  "injured": {
+   "min": 1,
+   "max": 1
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Raja Reshi Dev",
+    "age": null,
+    "role": "Labourer from Bihar",
+    "source_id": "tribune-kulgam-bihar-labourers"
+   },
+   {
+    "name": "Joginder Reshi Dev",
+    "age": null,
+    "role": "Labourer from Bihar",
+    "source_id": "tribune-kulgam-bihar-labourers"
+   }
+  ],
+  "summary": "On the evening of 17 October 2021 militants burst into a rented room at Wanpoh in Kulgam and shot dead two labourers from Bihar, injuring a third. The killings, part of a wave of attacks on outside workers that month, led many migrant labourers to leave the Valley.",
+  "sources": [
+   {
+    "id": "tribune-kulgam-bihar-labourers",
+    "url": "https://www.tribuneindia.com/news/j-k/targeted-killings-two-labourers-from-bihar-shot-dead-by-terrorists-in-j-ks-kulgam-325822",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/targeted-killings-two-labourers-from-bihar-shot-dead-by-terrorists-in-j-ks-kulgam-325822",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Targeted killings: Two labourers from Bihar shot dead by terrorists in J-K's Kulgam",
+    "date": "2021-10",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-kulgam-two-nonlocals",
+    "url": "https://www.greaterkashmir.com/kashmir/another-non-local-labourer-shot-at-in-south-kashmirs-kulgam",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/kashmir/another-non-local-labourer-shot-at-in-south-kashmirs-kulgam",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Two non-locals shot dead, another injured in south Kashmir's Kulgam",
+    "date": "2021-10",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "migrant-workers",
+   "targeted-killings-2021"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2022-05-12-rahul-bhat",
+  "date": "2022-05-12",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of revenue employee Rahul Bhat",
+  "place_name": "Tehsil office, Chadoora, Budgam",
+  "district_at_time": "Budgam",
+  "district_current": "Budgam",
+  "region": "Kashmir Valley",
+  "lat": 33.864,
+  "lng": 74.6467,
+  "geo_precision": "district",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "civilians",
+   "minority_community",
+   "government_employees"
+  ],
+  "victim_community": "Kashmiri Pandit (Hindu)",
+  "perpetrator_group": [
+   "lashkar-e-taiba"
+  ],
+  "attribution": "suspected",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Rahul Bhat",
+    "age": null,
+    "role": "Clerk in the tehsil office",
+    "source_id": "kashmirlife-slain-pandit-family"
+   }
+  ],
+  "summary": "Rahul Bhat, a Kashmiri Pandit clerk working in the Chadoora tehsil office, was shot inside his office on 12 May 2022 and died in hospital. He lived in a transit colony for Pandit employees at Sheikhpora. His killing set off months of protests by Pandit employees demanding transfer out of the Valley.",
+  "sources": [
+   {
+    "id": "kashmirlife-slain-pandit-family",
+    "url": "https://kashmirlife.net/slain-pandits-family-inconsolable-killing-condemned-292267/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/slain-pandits-family-inconsolable-killing-condemned-292267/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Slain Pandit's Family Inconsolable, Killing Condemned",
+    "date": "2022-05",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-rahul-bhat-protest",
+    "url": "https://theprint.in/india/stop-innocent-killings-bjp-protests-against-kashmiri-pandit-rahul-bhats-murder-in-srinagar/956533/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/stop-innocent-killings-bjp-protests-against-kashmiri-pandit-rahul-bhats-murder-in-srinagar/956533/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "'Stop innocent killings': BJP protests against Kashmiri Pandit Rahul Bhat's murder in Srinagar",
+    "date": "2022-05",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "kashmiri-pandits",
+   "targeted-killings-2022"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2022-05-31-rajni-bala",
+  "date": "2022-05-31",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of teacher Rajni Bala",
+  "place_name": "Government High School, Gopalpora, Kulgam",
+  "district_at_time": "Kulgam",
+  "district_current": "Kulgam",
+  "region": "Kashmir Valley",
+  "lat": 33.6394,
+  "lng": 74.645,
+  "geo_precision": "district",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "civilians",
+   "minority_community",
+   "government_employees"
+  ],
+  "victim_community": "Hindu (from Samba, Jammu)",
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Rajni Bala",
+    "age": null,
+    "role": "Government school teacher from Samba",
+    "source_id": "theprint-rajni-bala-tribute"
+   }
+  ],
+  "summary": "Rajni Bala, a Hindu teacher from Samba in the Jammu region, was shot dead at the gate of the government high school at Gopalpora in Kulgam on 31 May 2022, shortly after her husband dropped her at work. Students and staff later held a memorial for her at the school.",
+  "sources": [
+   {
+    "id": "theprint-rajni-bala-tribute",
+    "url": "https://theprint.in/india/kashmir-students-staff-pay-tribute-to-late-school-teacher-rajni-bala/989709/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/kashmir-students-staff-pay-tribute-to-late-school-teacher-rajni-bala/989709/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Kashmir: Students, Staff pay tribute to late school teacher Rajni Bala",
+    "date": "2022-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-targeted-killings-2022",
+    "url": "https://kashmirlife.net/targeted-killings-vol-14-issue-10-293862/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/targeted-killings-vol-14-issue-10-293862/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Targeted Killings",
+    "date": "2022-06",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "targeted-killings-2022"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2022-06-02-dilkhush-kumar",
+  "date": "2022-06-02",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of a Bihar labourer at Chadoora",
+  "place_name": "Chadoora, Budgam",
+  "district_at_time": "Budgam",
+  "district_current": "Budgam",
+  "region": "Kashmir Valley",
+  "lat": 33.864,
+  "lng": 74.6467,
+  "geo_precision": "district",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "civilians",
+   "migrant_workers"
+  ],
+  "victim_community": "Migrant labourer from Bihar",
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "Hours after the killing of bank manager Vijay Kumar on 2 June 2022, militants shot dead a labourer from Bihar in the Valley. The two killings in one day deepened fear among workers from outside the region.",
+  "sources": [
+   {
+    "id": "tribune-dilkhush-bihar-labourer",
+    "url": "https://www.tribuneindia.com/news/j-k/hours-after-non-local-bank-manager-shot-bihar-labourer-killed-in-valley-400481",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/hours-after-non-local-bank-manager-shot-bihar-labourer-killed-in-valley-400481",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Hours after non-local bank manager shot, Bihar labourer killed in Kashmir Valley",
+    "date": "2022-06",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "reported",
+  "high_profile": false,
+  "cross_border": false,
+  "tags": [
+   "migrant-workers",
+   "targeted-killings-2022"
+  ],
+  "notes": "Place and victim name to be confirmed with a second source."
+ },
+ {
+  "id": "2022-06-02-vijay-kumar",
+  "date": "2022-06-02",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of bank manager Vijay Kumar",
+  "place_name": "Ellaquai Dehati Bank, Arreh Mohanpora, Kulgam",
+  "district_at_time": "Kulgam",
+  "district_current": "Kulgam",
+  "region": "Kashmir Valley",
+  "lat": 33.6394,
+  "lng": 74.645,
+  "geo_precision": "district",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "civilians",
+   "migrant_workers"
+  ],
+  "victim_community": "Hindu (from Rajasthan)",
+  "perpetrator_group": [
+   "lashkar-e-taiba"
+  ],
+  "attribution": "suspected",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Vijay Kumar",
+    "age": 29,
+    "role": "Bank manager from Rajasthan",
+    "source_id": "tribune-vijay-kumar"
+   }
+  ],
+  "summary": "Vijay Kumar, a 29-year-old bank manager from Rajasthan, was shot inside his branch of the Ellaquai Dehati Bank at Arreh Mohanpora in Kulgam on 2 June 2022 and died on the way to hospital. It was the eighth targeted killing in the Valley since 1 May that year.",
+  "sources": [
+   {
+    "id": "tribune-vijay-kumar",
+    "url": "https://www.tribuneindia.com/news/j-k/bank-employee-shot-dead-in-j-ks-kulgam-400375",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/bank-employee-shot-dead-in-j-ks-kulgam-400375",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Bank manager from Rajasthan shot dead in Kashmir's Kulgam district",
+    "date": "2022-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-vijay-kumar",
+    "url": "https://www.greaterkashmir.com/kashmir/kulgam-killing-vijay-kumar-tied-the-knot-in-february-was-planning-trip-back-home-in-july/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/kashmir/kulgam-killing-vijay-kumar-tied-the-knot-in-february-was-planning-trip-back-home-in-july/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Kulgam killing: Vijay Kumar tied the knot in February, was planning trip back home in July",
+    "date": "2022-06",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "targeted-killings-2022"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2022-08-16-sunil-kumar-bhat",
+  "date": "2022-08-16",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of Sunil Kumar Bhat in his orchard",
+  "place_name": "Chotigam, Shopian",
+  "district_at_time": "Shopian",
+  "district_current": "Shopian",
+  "region": "Kashmir Valley",
+  "lat": 33.7216,
+  "lng": 74.7976,
+  "geo_precision": "district",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "civilians",
+   "minority_community"
+  ],
+  "victim_community": "Kashmiri Pandit (Hindu)",
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": 1,
+   "max": 1
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Sunil Kumar Bhat",
+    "age": null,
+    "role": "Orchard owner",
+    "source_id": "theprint-sunil-bhat"
+   }
+  ],
+  "summary": "Militants shot dead Sunil Kumar Bhat, a Kashmiri Pandit who had never left the Valley, and injured his relative in their apple orchard at Chotigam in Shopian on 16 August 2022. His relative survived with injuries.",
+  "sources": [
+   {
+    "id": "theprint-sunil-bhat",
+    "url": "https://theprint.in/india/terrorists-gun-down-kashmiri-pandit-injure-brother/1084995/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/terrorists-gun-down-kashmiri-pandit-injure-brother/1084995/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Terrorists gun down Kashmiri Pandit, injure brother",
+    "date": "2022-08",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-sunil-bhat",
+    "url": "https://www.greaterkashmir.com/kashmir/minority-community-member-shot-dead-brother-injured-in-shopian",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/kashmir/minority-community-member-shot-dead-brother-injured-in-shopian",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Minority community member shot dead, brother injured in Shopian",
+    "date": "2022-08",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "kashmiri-pandits",
+   "targeted-killings-2022"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2022-10-15-puran-krishan-bhat",
+  "date": "2022-10-15",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of Puran Krishan Bhat",
+  "place_name": "Chowdhary Gund, Shopian",
+  "district_at_time": "Shopian",
+  "district_current": "Shopian",
+  "region": "Kashmir Valley",
+  "lat": 33.7216,
+  "lng": 74.7976,
+  "geo_precision": "district",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "civilians",
+   "minority_community"
+  ],
+  "victim_community": "Kashmiri Pandit (Hindu)",
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Puran Krishan Bhat",
+    "age": null,
+    "role": "Orchard owner",
+    "source_id": "de-puran-bhat-lg"
+   }
+  ],
+  "summary": "Puran Krishan Bhat was shot dead outside his ancestral home at Chowdhary Gund in Shopian on 15 October 2022, where he had gone to look after his orchard. Lieutenant Governor Manoj Sinha visited the family and promised a job and other help.",
+  "sources": [
+   {
+    "id": "de-puran-bhat-lg",
+    "url": "https://www.dailyexcelsior.com/sinha-visits-bhats-family-assures-job-other-help/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/sinha-visits-bhats-family-assures-job-other-help/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Sinha visits Bhat's family; assures job, other help",
+    "date": "2022-10",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-puran-bhat-protest",
+    "url": "https://www.tribuneindia.com/news/j-k/kps-block-jammu-road-to-protest-killing-441739",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/kps-block-jammu-road-to-protest-killing-441739",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "KPs block Jammu road to protest killing",
+    "date": "2022-10",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "kashmiri-pandits",
+   "targeted-killings-2022"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2023-01-01-dhangri",
+  "date": "2023-01-01",
+  "end_date": "2023-01-02",
+  "date_precision": "day",
+  "time": null,
+  "title": "Dhangri massacre, Rajouri",
+  "place_name": "Upper Dhangri village, Rajouri",
+  "district_at_time": "Rajouri",
+  "district_current": "Rajouri",
+  "region": "Jammu",
+  "lat": 33.3753,
+  "lng": 74.3092,
+  "geo_precision": "tehsil",
+  "category": "massacre",
+  "tactic": "mass_shooting",
+  "target_type": [
+   "civilians",
+   "minority_community"
+  ],
+  "victim_community": "Hindu",
+  "perpetrator_group": [
+   "lashkar-e-taiba"
+  ],
+  "attribution": "officially_attributed",
+  "killed": {
+   "civilians": {
+    "min": 7,
+    "max": 7
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 7,
+    "max": 7
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On the evening of 1 January 2023 two terrorists went from house to house in Dhangri village, checking identities and shooting Hindu residents, killing five. The next morning an explosive device they had left behind went off and killed two children. The NIA named Pakistan-based Lashkar handlers as the planners.",
+  "sources": [
+   {
+    "id": "theprint-dhangri-tributes",
+    "url": "https://theprint.in/india/tributes-paid-to-2023-dhangri-attack-victims-in-j-ks-rajouri-families-demand-justice/2427277/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/tributes-paid-to-2023-dhangri-attack-victims-in-j-ks-rajouri-families-demand-justice/2427277/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Tributes paid to 2023 Dhangri attack victims in J-K's Rajouri, families demand justice",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-dhangri-nia",
+    "url": "https://kashmirlife.net/sajid-jutt-qatal-sindhi-and-wasim-masterminds-behind-dhangri-killings-nia-326960/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/sajid-jutt-qatal-sindhi-and-wasim-masterminds-behind-dhangri-killings-nia-326960/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Sajid Jutt, Qatal Sindhi, And Wasim Masterminds Behind Dhangri Killings: NIA",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-dhangri-holi",
+    "url": "https://www.outlookindia.com/national/holi-2023-terror-hit-dhangri-village-in-jk-rajouri-skips-holi-celebrations-as-it-mourns-terror-victims-news-268180",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/holi-2023-terror-hit-dhangri-village-in-jk-rajouri-skips-holi-celebrations-as-it-mourns-terror-victims-news-268180",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Holi 2023: Terror-Hit Dhangri Village In J&K's Rajouri Skips Holi Celebrations As It Mourns Terror Victims",
+    "date": "2023-03",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "pir-panjal-shift",
+   "jammu-region"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2023-02-26-sanjay-sharma",
+  "date": "2023-02-26",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of bank guard Sanjay Sharma",
+  "place_name": "Achan, Pulwama",
+  "district_at_time": "Pulwama",
+  "district_current": "Pulwama",
+  "region": "Kashmir Valley",
+  "lat": 33.935,
+  "lng": 75.0576,
+  "geo_precision": "district",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "civilians",
+   "minority_community"
+  ],
+  "victim_community": "Kashmiri Pandit (Hindu)",
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Sanjay Sharma",
+    "age": 40,
+    "role": "Bank ATM guard",
+    "source_id": "theprint-sanjay-sharma"
+   }
+  ],
+  "summary": "Sanjay Sharma, a 40-year-old Kashmiri Pandit who worked as a bank guard, was shot at close range on a street leading to his house in the village of Achan in Pulwama on the morning of 26 February 2023. His Muslim neighbours mourned him, and the militant accused was later killed by security forces.",
+  "sources": [
+   {
+    "id": "theprint-sanjay-sharma",
+    "url": "https://theprint.in/india/terrorists-kill-kashmiri-pandit-in-jammu-and-kashmirs-pulwama/1400769/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/terrorists-kill-kashmiri-pandit-in-jammu-and-kashmirs-pulwama/1400769/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Terrorists kill Kashmiri Pandit in Jammu and Kashmir's Pulwama",
+    "date": "2023-02",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-sanjay-sharma-grief",
+    "url": "https://www.greaterkashmir.com/kashmir/muslim-neighbourhood-in-pulwama-sinks-in-grief/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/kashmir/muslim-neighbourhood-in-pulwama-sinks-in-grief/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Muslim neighbourhood in Pulwama sinks in grief",
+    "date": "2023-02",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "kashmiri-pandits"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2023-04-20-bhata-dhurian-truck",
+  "date": "2023-04-20",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Ambush on army truck at Bhata Dhurian, Poonch",
+  "place_name": "Bhata Dhurian, Bhimber Gali to Sanjiote road, Poonch",
+  "district_at_time": "Poonch",
+  "district_current": "Poonch",
+  "region": "Jammu",
+  "lat": 33.6997,
+  "lng": 74.1813,
+  "geo_precision": "district",
+  "category": "ambush",
+  "tactic": "ambush",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "paff"
+  ],
+  "attribution": "claimed",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 5,
+    "max": 5
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 5,
+    "max": 5
+   }
+  },
+  "injured": {
+   "min": 1,
+   "max": 1
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 20 April 2023 militants ambushed an army truck moving from Bhimber Gali to Sanjiote at Bhata Dhurian in Poonch, firing assault rifles and throwing grenades. The truck caught fire and five soldiers were killed. Investigators said the attackers had studied the target and used armour-piercing rounds.",
+  "sources": [
+   {
+    "id": "tribune-poonch-truck-ambush-2023",
+    "url": "https://www.tribuneindia.com/news/nation/army-truck-ambushed-5-soldiers-dead-499318",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/nation/army-truck-ambushed-5-soldiers-dead-499318",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Army truck ambushed, 5 soldiers dead",
+    "date": "2023-04",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-poonch-armour-piercing",
+    "url": "https://theprint.in/defence/poonch-attack-terrorists-chose-target-after-recce-used-armour-piercing-bullets/1533546/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/poonch-attack-terrorists-chose-target-after-recce-used-armour-piercing-bullets/1533546/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Poonch attack: Terrorists chose target after recce, used armour-piercing bullets",
+    "date": "2023-04",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "pir-panjal-shift"
+  ],
+  "notes": "The PAFF claim is widely reported but is not stated in the two cited sources; attribution should be checked."
+ },
+ {
+  "id": "2023-05-05-kandi-rajouri",
+  "date": "2023-05-05",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "IED blast kills five para commandos in Kandi forests, Rajouri",
+  "place_name": "Kesari hills, Kandi, Rajouri",
+  "district_at_time": "Rajouri",
+  "district_current": "Rajouri",
+  "region": "Jammu",
+  "lat": 33.3111,
+  "lng": 74.402,
+  "geo_precision": "district",
+  "category": "ied",
+  "tactic": "ied",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 5,
+    "max": 5
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 5,
+    "max": 5
+   }
+  },
+  "injured": {
+   "min": 1,
+   "max": 1
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 5 May 2023 militants cornered in the Kesari hills near Kandi set off a remote-controlled explosive as special forces closed in. Five para commandos were killed and a major was injured. The attack followed the pattern of militants drawing troops into prepared positions in the forests.",
+  "sources": [
+   {
+    "id": "de-kandi-5-paras",
+    "url": "https://www.dailyexcelsior.com/5-elite-para-commandos-of-army-martyred-major-injured-during-specific-input-operation-in-rajouri/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/5-elite-para-commandos-of-army-martyred-major-injured-during-specific-input-operation-in-rajouri/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "5 elite para commandos of Army martyred, Major injured during specific input operation in Rajouri",
+    "date": "2023-05",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-rajouri-trapping-soldiers",
+    "url": "https://theprint.in/opinion/newsmaker-of-the-week/rajouri-killing-shows-a-worrying-pattern-terrorists-are-trapping-army-soldiers/1858392/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/opinion/newsmaker-of-the-week/rajouri-killing-shows-a-worrying-pattern-terrorists-are-trapping-army-soldiers/1858392/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Rajouri killing shows a worrying pattern. Terrorists are trapping Army soldiers",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "pir-panjal-shift"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2023-09-13-kokernag-gadole",
+  "date": "2023-09-13",
+  "end_date": "2023-09-19",
+  "date_precision": "day",
+  "time": null,
+  "title": "Gadole encounter in Kokernag forests",
+  "place_name": "Gadole, Kokernag, Anantnag",
+  "district_at_time": "Anantnag",
+  "district_current": "Anantnag",
+  "region": "Kashmir Valley",
+  "lat": 33.7944,
+  "lng": 75.2848,
+  "geo_precision": "district",
+  "category": "encounter",
+  "tactic": "ambush",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "trf"
+  ],
+  "attribution": "claimed",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 5,
+    "max": 5
+   },
+   "terrorists": {
+    "min": 2,
+    "max": 2
+   },
+   "total": {
+    "min": 7,
+    "max": 7
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Colonel Manpreet Singh",
+    "age": null,
+    "role": "Commanding Officer",
+    "source_id": "outlook-kokernag"
+   },
+   {
+    "name": "Major Ashish Dhonchak",
+    "age": null,
+    "role": "Army officer",
+    "source_id": "outlook-kokernag"
+   },
+   {
+    "name": "DSP Humayun Bhat",
+    "age": null,
+    "role": "J&K Police",
+    "source_id": "outlook-kokernag"
+   }
+  ],
+  "summary": "On 13 September 2023 a search party moving up towards a militant hideout at Gadole in the Kokernag forests came under fire. Colonel Manpreet Singh, Major Ashish Dhonchak and Deputy Superintendent Humayun Bhat were among those killed. The operation lasted a week and ended with two militants, including commander Uzair Khan, killed; five security personnel died in all.",
+  "sources": [
+   {
+    "id": "outlook-kokernag",
+    "url": "https://www.outlookindia.com/national/kashmir-army-colonel-police-officer-critically-injured-in-kokernag-encounter-news-317733",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/kashmir-army-colonel-police-officer-critically-injured-in-kokernag-encounter-news-317733",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Kashmir: Army Colonel, Major And DSP Killed In Gunfight Against Terrorists In Kokernag",
+    "date": "2023-09",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-kokernag-ends",
+    "url": "https://kashmirlife.net/seven-day-kokernag-gunfight-ends-uzair-khan-among-two-militants-killed-328305/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/seven-day-kokernag-gunfight-ends-uzair-khan-among-two-militants-killed-328305/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Seven-Day Kokernag Gunfight Ends, Uzair Khan Among Two Militants Killed",
+    "date": "2023-09",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [],
+  "notes": null
+ },
+ {
+  "id": "2023-11-22-kalakote",
+  "date": "2023-11-22",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Kalakote encounter, two captains among soldiers killed",
+  "place_name": "Baaji Maal, Kalakote, Rajouri",
+  "district_at_time": "Rajouri",
+  "district_current": "Rajouri",
+  "region": "Jammu",
+  "lat": 33.3111,
+  "lng": 74.402,
+  "geo_precision": "district",
+  "category": "encounter",
+  "tactic": "ambush",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": 4,
+    "max": 4
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 22 November 2023 an army search team in the Baaji Maal area of Kalakote came under fire from militants. Two captains and two soldiers were killed in the first day of fighting.",
+  "sources": [
+   {
+    "id": "tribune-kalakote-captains",
+    "url": "https://www.tribuneindia.com/news/j-k/encounter-under-way-in-jammu-and-kashmirs-rajouri-564829",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/encounter-under-way-in-jammu-and-kashmirs-rajouri-564829",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Two captains among four Army personnel killed, two injured in encounter with terrorists in J-K's Rajouri",
+    "date": "2023-11",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-kalakote",
+    "url": "https://www.greaterkashmir.com/front-page-2/rajouri-encounter-2-captains-2-army-soldiers-killed/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/front-page-2/rajouri-encounter-2-captains-2-army-soldiers-killed/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Rajouri Encounter: 2 captains, 2 army soldiers killed",
+    "date": "2023-11",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "pir-panjal-shift"
+  ],
+  "notes": "Later reports give a higher army toll and two militants killed; these are not yet tied to cited sources."
+ },
+ {
+  "id": "2023-12-21-dera-ki-gali",
+  "date": "2023-12-21",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Ambush on army vehicles near Dera Ki Gali, Poonch",
+  "place_name": "Dhatyar Morh, between Dera Ki Gali and Bafliaz, Poonch",
+  "district_at_time": "Poonch",
+  "district_current": "Poonch",
+  "region": "Jammu",
+  "lat": 33.6997,
+  "lng": 74.1813,
+  "geo_precision": "district",
+  "category": "ambush",
+  "tactic": "ambush",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 4,
+    "max": 4
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 4,
+    "max": 4
+   }
+  },
+  "injured": {
+   "min": 3,
+   "max": 3
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On the afternoon of 21 December 2023 militants fired on two army vehicles carrying troops on the Surankote to Thanamandi road near Dera Ki Gali. Four soldiers were killed and three injured.",
+  "sources": [
+   {
+    "id": "tribune-dkg-ambush",
+    "url": "https://www.tribuneindia.com/news/4-soldiers-killed-3-hurt-in-poonch-ambush-574214/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/4-soldiers-killed-3-hurt-in-poonch-ambush-574214/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "4 soldiers killed, 3 hurt in Poonch ambush",
+    "date": "2023-12",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-dkg-ambush",
+    "url": "https://www.greaterkashmir.com/front-page-2/4-soldiers-killed-3-injured-in-terrorists-firing-in-poonch/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/front-page-2/4-soldiers-killed-3-injured-in-terrorists-firing-in-poonch/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "4 soldiers killed; 3 injured in terrorists' firing in Poonch",
+    "date": "2023-12",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "pir-panjal-shift"
+  ],
+  "notes": "Three civilians detained for questioning after this ambush died in army custody. An Armed Forces Tribunal later upheld censure of a brigadier. Those deaths are outside this dataset's scope and are noted here for completeness."
+ },
+ {
+  "id": "2024-06-09-reasi-bus",
+  "date": "2024-06-09",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Attack on pilgrims' bus at Reasi",
+  "place_name": "Near Teryath, Ransoo area, Reasi (Shiv Khori to Katra road)",
+  "district_at_time": "Reasi",
+  "district_current": "Reasi",
+  "region": "Jammu",
+  "lat": 33.195,
+  "lng": 74.7743,
+  "geo_precision": "district",
+  "category": "pilgrim_attack",
+  "tactic": "ambush",
+  "target_type": [
+   "pilgrims"
+  ],
+  "victim_community": "Hindu pilgrims from Uttar Pradesh, Rajasthan and Delhi",
+  "perpetrator_group": [
+   "lashkar-e-taiba"
+  ],
+  "attribution": "officially_attributed",
+  "killed": {
+   "civilians": {
+    "min": 9,
+    "max": 9
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 9,
+    "max": 9
+   }
+  },
+  "injured": {
+   "min": 33,
+   "max": 41
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [
+   {
+    "source_id": "tribune-reasi-bus",
+    "killed_total": 9,
+    "injured": 33
+   },
+   {
+    "source_id": "outlook-reasi-bus",
+    "killed_total": 9,
+    "note": "Three women and two children among the dead; an LeT offshoot claimed the attack"
+   }
+  ],
+  "victims": [],
+  "summary": "On the evening of 9 June 2024 militants fired on a bus taking pilgrims from the Shiv Khori shrine to Katra, and the bus fell into a gorge. Nine people were killed, including three women and two children, and dozens were injured. The NIA later charged accused linked to Lashkar-e-Taiba.",
+  "sources": [
+   {
+    "id": "tribune-reasi-bus",
+    "url": "https://www.tribuneindia.com/news/j-k/bus-with-pilgrims-plunges-into-deep-gorge-in-jammu-and-kashmirs-reasi-after-suspected-terror-attack-officials-629251",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/bus-with-pilgrims-plunges-into-deep-gorge-in-jammu-and-kashmirs-reasi-after-suspected-terror-attack-officials-629251",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "9 killed, 33 injured as bus carrying pilgrims falls into gorge in Jammu and Kashmir's Reasi after terrorists open fire",
+    "date": "2024-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-reasi-bus",
+    "url": "https://www.outlookindia.com/national/reasi-terrorist-attack-jammu-kashmir-bus-ambush-vaishno-devi-katra-amit-shah-security-operation-nia",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/reasi-terrorist-attack-jammu-kashmir-bus-ambush-vaishno-devi-katra-amit-shah-security-operation-nia",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Reasi, J&K, Terrorist Attack: 3 Women, 2 Kids Among 9 Dead In Bus Ambush; LeT Offshoot Claims Responsibility",
+    "date": "2024-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-reasi-nia-chargesheet",
+    "url": "https://www.tribuneindia.com/news/j-k/nia-chargesheets-accused-in-katra-bus-terror-attack-case/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/nia-chargesheets-accused-in-katra-bus-terror-attack-case/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "NIA chargesheets accused in Katra bus terror attack case",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "pilgrims",
+   "jammu-region"
+  ],
+  "notes": "Injured counts of 33 and 41 are both reported."
+ },
+ {
+  "id": "2024-06-11-hiranagar-saida-sukhal",
+  "date": "2024-06-11",
+  "end_date": "2024-06-12",
+  "date_precision": "day",
+  "time": null,
+  "title": "Militant attack at Saida Sukhal, Hiranagar",
+  "place_name": "Saida Sukhal village, Hiranagar, Kathua",
+  "district_at_time": "Kathua",
+  "district_current": "Kathua",
+  "region": "Jammu",
+  "lat": 32.4546,
+  "lng": 75.2931,
+  "geo_precision": "tehsil",
+  "category": "encounter",
+  "tactic": "armed_assault",
+  "target_type": [
+   "civilians",
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 1,
+    "max": 1
+   },
+   "terrorists": {
+    "min": 2,
+    "max": 2
+   },
+   "total": {
+    "min": 3,
+    "max": 3
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Kabir Das",
+    "age": null,
+    "role": "CRPF constable",
+    "source_id": "gk-hiranagar-second-terrorist"
+   }
+  ],
+  "summary": "Two days after Reasi, two militants who had crossed the border fired on villagers in Saida Sukhal near Hiranagar on the evening of 11 June 2024. Both were killed by the next day, and CRPF constable Kabir Das died of his wounds.",
+  "sources": [
+   {
+    "id": "gk-hiranagar-second-terrorist",
+    "url": "https://www.greaterkashmir.com/front-page-2/holed-up-2nd-terrorist-killed-in-hiranagar/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/front-page-2/holed-up-2nd-terrorist-killed-in-hiranagar/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Holed up 2nd terrorist killed in Hiranagar",
+    "date": "2024-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-hiranagar-2024",
+    "url": "https://www.dailyexcelsior.com/two-more-terror-attacks-in-jammu-cops-neutralize-terrorist-associate-hiding-in-hiranagar-civilian-injured/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/two-more-terror-attacks-in-jammu-cops-neutralize-terrorist-associate-hiding-in-hiranagar-civilian-injured/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Two more terror attacks in Jammu: Cops neutralize terrorist, associate hiding in Hiranagar; civilian injured",
+    "date": "2024-06",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "jammu-region"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2024-07-08-kathua-machedi",
+  "date": "2024-07-08",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Ambush on army patrol at Badnota, Machedi, Kathua",
+  "place_name": "Badnota, Machedi to Kindli road, Kathua",
+  "district_at_time": "Kathua",
+  "district_current": "Kathua",
+  "region": "Jammu",
+  "lat": 32.5768,
+  "lng": 75.6078,
+  "geo_precision": "district",
+  "category": "ambush",
+  "tactic": "ambush",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "kashmir-tigers"
+  ],
+  "attribution": "claimed",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 5,
+    "max": 5
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 5,
+    "max": 5
+   }
+  },
+  "injured": {
+   "min": 5,
+   "max": 5
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On the afternoon of 8 July 2024 militants hit an army truck with a grenade and gunfire on a remote road near Badnota in Kathua. Five soldiers, including a junior commissioned officer, were killed and five injured. A Jaish-e-Mohammed front, Kashmir Tigers, claimed the attack.",
+  "sources": [
+   {
+    "id": "tribune-kathua-machedi",
+    "url": "https://www.tribuneindia.com/news/j-k/terrorists-open-fire-on-army-vehicles-in-jammu-and-kashmirs-kathua-two-soldiers-injured-637912",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/terrorists-open-fire-on-army-vehicles-in-jammu-and-kashmirs-kathua-two-soldiers-injured-637912",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "JCO among 5 Army personnel killed as terrorists ambush patrol party in Jammu and Kashmir's Kathua",
+    "date": "2024-07",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-kathua-machedi",
+    "url": "https://theprint.in/india/massive-search-underway-after-terrorists-kill-5-soldiers-in-jammus-kathua/2167972/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/massive-search-underway-after-terrorists-kill-5-soldiers-in-jammus-kathua/2167972/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Massive search underway after terrorists kill 5 soldiers in Jammu's Kathua",
+    "date": "2024-07",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-kathua-kashmir-tigers",
+    "url": "https://www.outlookindia.com/national/kathua-terrorist-attack-indian-army-convoy-5-jawans-jco-killed-jammu-militant-attack-kashmir-tigers",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/kathua-terrorist-attack-indian-army-convoy-5-jawans-jco-killed-jammu-militant-attack-kashmir-tigers",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Kathua Terror Attack: JeM Offshoot Claims Responsibility For Army Convoy Ambush; Massive Search Op On",
+    "date": "2024-07",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "jammu-region"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2024-07-15-doda-desa",
+  "date": "2024-07-15",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Desa forest encounter, Doda",
+  "place_name": "Desa forest, Doda",
+  "district_at_time": "Doda",
+  "district_current": "Doda",
+  "region": "Jammu",
+  "lat": 33.1245,
+  "lng": 75.5535,
+  "geo_precision": "district",
+  "category": "encounter",
+  "tactic": "ambush",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 4,
+    "max": 4
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 4,
+    "max": 4
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Captain Brijesh Thapa",
+    "age": null,
+    "role": "Army officer",
+    "source_id": "tribune-doda-desa"
+   }
+  ],
+  "summary": "On the night of 15 July 2024 troops chasing militants in the Desa forest of Doda came under heavy fire. Captain Brijesh Thapa and three soldiers were killed, and the militants escaped deeper into the forest.",
+  "sources": [
+   {
+    "id": "tribune-doda-desa",
+    "url": "https://www.tribuneindia.com/news/j-k/capt-among-4-soldiers-killed-in-doda-gunfight-army-vows-to-wipe-out-terror-640462",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/capt-among-4-soldiers-killed-in-doda-gunfight-army-vows-to-wipe-out-terror-640462",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Capt among 4 soldiers killed in Doda gunfight; Indian Army vows to wipe out terror",
+    "date": "2024-07",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-doda-desa",
+    "url": "https://www.dailyexcelsior.com/capt-among-4-soldiers-martyred-in-doda-gun-battle-terrorists-flee-deep-into-forests/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/capt-among-4-soldiers-martyred-in-doda-gun-battle-terrorists-flee-deep-into-forests/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Capt among 4 soldiers martyred in Doda gun battle, terrorists flee deep into forests",
+    "date": "2024-07",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "jammu-region"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2024-10-20-gagangir",
+  "date": "2024-10-20",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Attack on Z-Morh tunnel workers' camp, Gagangir",
+  "place_name": "Gagangir, Ganderbal (Srinagar to Leh highway)",
+  "district_at_time": "Ganderbal",
+  "district_current": "Ganderbal",
+  "region": "Kashmir Valley",
+  "lat": 34.2299,
+  "lng": 74.7783,
+  "geo_precision": "district",
+  "category": "massacre",
+  "tactic": "mass_shooting",
+  "target_type": [
+   "civilians",
+   "migrant_workers"
+  ],
+  "victim_community": "Construction workers and a local doctor",
+  "perpetrator_group": [
+   "lashkar-e-taiba"
+  ],
+  "attribution": "suspected",
+  "killed": {
+   "civilians": {
+    "min": 7,
+    "max": 7
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 7,
+    "max": 7
+   }
+  },
+  "injured": {
+   "min": 5,
+   "max": 5
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On the evening of 20 October 2024 militants fired on the camp of workers building the Z-Morh tunnel at Gagangir, on the road to Sonamarg. Six workers and a local doctor were killed and five injured. A Lashkar-e-Taiba militant involved was later killed.",
+  "sources": [
+   {
+    "id": "gk-gagangir-7",
+    "url": "https://www.greaterkashmir.com/front-page-2/7-killed-5-injured-in-gagangeer-terror-attack/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/front-page-2/7-killed-5-injured-in-gagangeer-terror-attack/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "7 killed, 5 injured in Gagangeer terror attack",
+    "date": "2024-10",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-gagangir-let-killed",
+    "url": "https://www.tribuneindia.com/news/j-k/let-terrorist-involved-in-ganderbal-tunnel-attack-gunned-down/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/let-terrorist-involved-in-ganderbal-tunnel-attack-gunned-down/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "LeT terrorist involved in Ganderbal tunnel attack gunned down",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "infrastructure",
+   "migrant-workers"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2024-10-24-botapathri-gulmarg",
+  "date": "2024-10-24",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Attack on army vehicle at Botapathri near Gulmarg",
+  "place_name": "Nagin, Botapathri, Gulmarg, Baramulla",
+  "district_at_time": "Baramulla",
+  "district_current": "Baramulla",
+  "region": "Kashmir Valley",
+  "lat": 34.1324,
+  "lng": 74.5302,
+  "geo_precision": "district",
+  "category": "ambush",
+  "tactic": "ambush",
+  "target_type": [
+   "security_forces",
+   "civilians"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 2,
+    "max": 2
+   },
+   "security_forces": {
+    "min": 2,
+    "max": 2
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 4,
+    "max": 4
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On the evening of 24 October 2024 militants fired on a Rashtriya Rifles vehicle at Botapathri, a few kilometres from the Gulmarg ski resort. Two soldiers and two civilian porters working with the army were killed.",
+  "sources": [
+   {
+    "id": "de-gulmarg-toll-4",
+    "url": "https://www.dailyexcelsior.com/a-total-of-four-people-including-two-jawans-and-two-porters-were-martyred-in-a-terrorist-attack-at-gulmarg/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/a-total-of-four-people-including-two-jawans-and-two-porters-were-martyred-in-a-terrorist-attack-at-gulmarg/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Gulmarg Terror Attack: Two Soldiers Succumb To Injuries, Toll Rises To Four",
+    "date": "2024-10",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-gulmarg-porters",
+    "url": "https://theprint.in/india/2-army-porters-killed-3-soldiers-among-4-injured-in-terror-attack-in-j-ks-gulmarg/2327459/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/2-army-porters-killed-3-soldiers-among-4-injured-in-terror-attack-in-j-ks-gulmarg/2327459/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "2 Army porters killed, 3 soldiers among 4 injured in terror attack in J&K's Gulmarg",
+    "date": "2024-10",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [],
+  "notes": null
+ },
+ {
+  "id": "2025-04-22-pahalgam-baisaran",
+  "date": "2025-04-22",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Pahalgam massacre at Baisaran meadow",
+  "place_name": "Baisaran meadow, Pahalgam",
+  "district_at_time": "Anantnag",
+  "district_current": "Anantnag",
+  "region": "Kashmir Valley",
+  "lat": 34.0142,
+  "lng": 75.319,
+  "geo_precision": "tehsil",
+  "category": "massacre",
+  "tactic": "mass_shooting",
+  "target_type": [
+   "civilians"
+  ],
+  "victim_community": "Tourists, targeted after being asked their religion",
+  "perpetrator_group": [
+   "lashkar-e-taiba",
+   "trf"
+  ],
+  "attribution": "officially_attributed",
+  "killed": {
+   "civilians": {
+    "min": 26,
+    "max": 26
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 26,
+    "max": 26
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [
+   {
+    "source_id": "gk-pahalgam-26",
+    "killed_total": 26
+   },
+   {
+    "source_id": "de-pahalgam-26",
+    "killed_total": 26,
+    "note": "Two foreign nationals, an IB officer and a Navy officer among the dead"
+   }
+  ],
+  "victims": [],
+  "summary": "On the afternoon of 22 April 2025 militants opened fire on visitors at the Baisaran meadow above Pahalgam, after asking about their religious identity. Twenty-six people were killed, most of them tourists. The Resistance Front first claimed the attack and then withdrew the claim. The NIA charged Lashkar-e-Taiba, the TRF and Pakistan-based handlers.",
+  "sources": [
+   {
+    "id": "gk-pahalgam-26",
+    "url": "https://www.greaterkashmir.com/jammu-kashmir/pahalgam-attack-26-people-mostly-tourists-killed-several-injured/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/jammu-kashmir/pahalgam-attack-26-people-mostly-tourists-killed-several-injured/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Pahalgam attack: 26 people, mostly tourists killed; several injured",
+    "date": "2025-04",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-pahalgam-26",
+    "url": "https://www.dailyexcelsior.com/two-foreigners-ib-navy-officers-among-26-tourists-killed-in-deadly-terror-attack-at-pahalgam/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/two-foreigners-ib-navy-officers-among-26-tourists-killed-in-deadly-terror-attack-at-pahalgam/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Two foreigners, IB & Navy officers among 26 tourists killed in deadly terror attack at Pahalgam",
+    "date": "2025-04",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-trf-backtracks",
+    "url": "https://www.tribuneindia.com/news/j-k/pakistans-proxy-group-the-resistance-front-backtracks-on-pahalgam-terror-attack-claim",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/pakistans-proxy-group-the-resistance-front-backtracks-on-pahalgam-terror-attack-claim",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Pakistan's proxy group The Resistance Front backtracks on Pahalgam terror attack claim",
+    "date": "2025-04",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-pahalgam-nia-chargesheet",
+    "url": "https://www.greaterkashmir.com/front-page-2/pahalgam-attack-nia-files-1597-page-chargesheet-against-let-trf-6-other-accused",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/front-page-2/pahalgam-attack-nia-files-1597-page-chargesheet-against-let-trf-6-other-accused",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Pahalgam attack: NIA files 1597-page chargesheet against LeT-TRF, 6 other accused",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "tourists",
+   "pahalgam-2025"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2025-05-07-operation-sindoor",
+  "date": "2025-05-07",
+  "end_date": "2025-05-10",
+  "date_precision": "day",
+  "time": null,
+  "title": "Operation Sindoor strikes on terror camps in Pakistan and PoJK",
+  "place_name": "Bahawalpur, Muridke, Sialkot, Tehra Kalan and Barnala in Pakistan; Muzaffarabad and Kotli in PoJK",
+  "district_at_time": null,
+  "district_current": "Pakistan-occupied Jammu & Kashmir (PoJK)",
+  "region": "PoJK",
+  "lat": 33.9,
+  "lng": 73.8,
+  "geo_precision": "region",
+  "category": "india_strike",
+  "tactic": "missile_strike",
+  "target_type": [
+   "terrorists",
+   "infrastructure"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [
+   {
+    "source_id": "pib-op-sindoor-clarity",
+    "note": "Government: over 100 terrorists killed across nine sites"
+   }
+  ],
+  "victims": [],
+  "summary": "In the early hours of 7 May 2025 India struck nine sites in Pakistan and Pakistan-occupied Jammu and Kashmir linked to Jaish-e-Mohammed, Lashkar-e-Taiba and Hizbul Mujahideen, including Jaish-e-Mohammed's Markaz Subhan Allah at Bahawalpur and Lashkar-e-Taiba's Markaz Taiba at Muridke. The government said no Pakistani military facilities were targeted in this first wave. Four days of fighting followed before a ceasefire understanding on 10 May.",
+  "sources": [
+   {
+    "id": "pib-op-sindoor-precision",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: Indian Armed Forces carried out precision strike at terrorist camps",
+    "date": "2025-05-07",
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "pib-op-sindoor-clarity",
+    "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: India's Strategic Clarity and Calculated Force",
+    "date": "2025-05-14",
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "theprint-sindoor-announced",
+    "url": "https://theprint.in/defence/ready-to-strike-trained-to-win-army-announces-operation-sindoor-says-justice-is-served/2617582/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/ready-to-strike-trained-to-win-army-announces-operation-sindoor-says-justice-is-served/2617582/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "'Ready to strike, trained to win', Army announces Operation Sindoor, says 'justice is served'",
+    "date": "2025-05",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-sindoor-satellite",
+    "url": "https://www.tribuneindia.com/news/collateraldamage/op-sindoor-satellite-images-reveal-extensive-damage-to-terror-camps-in-paks-bahawalpur-muridke",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/collateraldamage/op-sindoor-satellite-images-reveal-extensive-damage-to-terror-camps-in-paks-bahawalpur-muridke",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Op Sindoor: Satellite images reveal extensive damage to terror camps in Pak's Bahawalpur, Muridke",
+    "date": "2025-05",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": true,
+  "tags": [
+   "india-response",
+   "op-sindoor"
+  ],
+  "notes": "The government figure of over 100 terrorists killed is recorded as stated; it is not entered in the toll fields because no per-site breakdown has been published."
+ },
+ {
+  "id": "2025-05-07-poonch-shelling",
+  "date": "2025-05-07",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Pakistani shelling of Poonch and Tangdhar",
+  "place_name": "Poonch town and villages along the LoC, and Tangdhar",
+  "district_at_time": "Poonch",
+  "district_current": "Poonch",
+  "region": "Jammu",
+  "lat": 33.7697,
+  "lng": 74.0921,
+  "geo_precision": "village",
+  "category": "cross_border_shelling",
+  "tactic": "artillery_shelling",
+  "target_type": [
+   "civilians"
+  ],
+  "victim_community": "Residents of Poonch including Sikh worshippers",
+  "perpetrator_group": [
+   "pakistan-army"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": 12,
+    "max": 15
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": 12,
+    "max": 15
+   }
+  },
+  "injured": {
+   "min": 43,
+   "max": 57
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [
+   {
+    "source_id": "gk-loc-12-dead",
+    "killed_total": 12,
+    "injured": 57
+   },
+   {
+    "source_id": "tribune-poonch-gurdwara-13",
+    "killed_total": 13,
+    "note": "13 killed in Poonch, four of them Sikhs; a gurdwara was hit"
+   },
+   {
+    "source_id": "theprint-poonch-shelling-15",
+    "killed_total": 15,
+    "injured": 43,
+    "note": "Poonch and Tangdhar together"
+   }
+  ],
+  "victims": [],
+  "summary": "Within an hour of Operation Sindoor on 7 May 2025, Pakistan's army shelled towns and villages along the Line of Control. Poonch town was hit hardest, including a gurdwara, and at least a dozen civilians were killed and dozens injured on the first day alone.",
+  "sources": [
+   {
+    "id": "gk-loc-12-dead",
+    "url": "https://www.greaterkashmir.com/latest-news/12-dead-57-injured-as-pakistan-army-pounds-villages-along-loc-in-jk/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/latest-news/12-dead-57-injured-as-pakistan-army-pounds-villages-along-loc-in-jk/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "12 dead, 57 injured as Pakistan Army pounds villages along LoC in J&K",
+    "date": "2025-05",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-poonch-gurdwara-13",
+    "url": "https://www.tribuneindia.com/news/j-k/4-sikhs-among-13-killed-as-pak-shells-poonch-attacks-gurdwara/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/4-sikhs-among-13-killed-as-pak-shells-poonch-attacks-gurdwara/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "4 Sikhs among 13 killed as Pak shells Poonch, attacks gurdwara",
+    "date": "2025-05",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-poonch-shelling-15",
+    "url": "https://theprint.in/india/at-least-10-civilians-killed-in-pakistan-shelling-in-jks-poonch-after-operation-sindoor/2617922/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/at-least-10-civilians-killed-in-pakistan-shelling-in-jks-poonch-after-operation-sindoor/2617922/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "At least 15 civilians killed in Pakistan shelling in J&K's Poonch & Tangdhar after Operation Sindoor",
+    "date": "2025-05",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "disputed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "op-sindoor",
+   "shelling"
+  ],
+  "notes": "Figures differ by date and by whether Tangdhar is included; all published figures are shown."
+ },
+ {
+  "id": "2025-05-10-ceasefire-understanding",
+  "date": "2025-05-10",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "India and Pakistan agree to stop firing",
+  "place_name": "Line of Control and International Border",
+  "district_at_time": null,
+  "district_current": null,
+  "region": "Jammu",
+  "lat": 33,
+  "lng": 75,
+  "geo_precision": "region",
+  "category": "policy",
+  "tactic": "policy_measure",
+  "target_type": [
+   "none"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On the afternoon of 10 May 2025 Pakistan's DGMO called his Indian counterpart, and both sides agreed to stop all firing on land, in the air and at sea from 5 pm. India accused Pakistan of violating the understanding the same night.",
+  "sources": [
+   {
+    "id": "outlook-ceasefire-violated",
+    "url": "https://www.outlookindia.com/national/india-pakistan-conflict-live-updates-operation-sindoor-pakistani-military-drone-attack-news",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/india-pakistan-conflict-live-updates-operation-sindoor-pakistani-military-drone-attack-news",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "India Pakistan Ceasefire: 'Understanding Violated By Pakistan', Says MEA; Explosions Heard, Drones Intercepted In Srinagar",
+    "date": "2025-05",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-war-live-may10",
+    "url": "https://theprint.in/india/india-pakistan-war-live-latest-updates-today-army-attack-drones-missiles/2620240/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/india-pakistan-war-live-latest-updates-today-army-attack-drones-missiles/2620240/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "India-Pakistan live updates, 10 May 2025",
+    "date": "2025-05",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "op-sindoor",
+   "ceasefire"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2025-05-10-rajouri-shelling-addc",
+  "date": "2025-05-10",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Pakistani shell kills Rajouri official Raj Kumar Thapa",
+  "place_name": "Rajouri town",
+  "district_at_time": "Rajouri",
+  "district_current": "Rajouri",
+  "region": "Jammu",
+  "lat": 33.3753,
+  "lng": 74.3092,
+  "geo_precision": "village",
+  "category": "cross_border_shelling",
+  "tactic": "artillery_shelling",
+  "target_type": [
+   "civilians",
+   "government_employees"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "pakistan-army"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": 3,
+    "max": 3
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": 3,
+    "max": 3
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Raj Kumar Thapa",
+    "age": null,
+    "role": "Additional District Development Commissioner",
+    "source_id": "tribune-rajouri-addc"
+   }
+  ],
+  "summary": "In the early hours of 10 May 2025 a Pakistani artillery shell hit the official residence of Raj Kumar Thapa, Additional District Development Commissioner of Rajouri, killing him and wounding two staff members. Two other civilians were killed in Rajouri that morning.",
+  "sources": [
+   {
+    "id": "theprint-rajouri-addc",
+    "url": "https://theprint.in/india/pakistans-shelling-kills-govt-official-2-civilians-in-rajouri-red-alert-sirens-blackouts-witnessed/2620986/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/pakistans-shelling-kills-govt-official-2-civilians-in-rajouri-red-alert-sirens-blackouts-witnessed/2620986/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Pakistan's shelling kills govt official, 2 civilians in Rajouri, red alert sirens & blackouts witnessed",
+    "date": "2025-05",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-rajouri-addc",
+    "url": "https://www.tribuneindia.com/news/j-k/jk-official-killed-2-critically-injured-in-pakistan-shelling-in-rajouri/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/jk-official-killed-2-critically-injured-in-pakistan-shelling-in-rajouri/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "J&K official killed, 2 critically injured in Pakistan shelling in Rajouri",
+    "date": "2025-05",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "op-sindoor",
+   "shelling"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2025-07-28-operation-mahadev",
+  "date": "2025-07-28",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Operation Mahadev kills the Pahalgam attackers near Dachigam",
+  "place_name": "Harwan and Dachigam forests, Srinagar",
+  "district_at_time": "Srinagar",
+  "district_current": "Srinagar",
+  "region": "Kashmir Valley",
+  "lat": 34.0884,
+  "lng": 74.803,
+  "geo_precision": "tehsil",
+  "category": "encounter",
+  "tactic": "cordon_and_search",
+  "target_type": [
+   "terrorists"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 3,
+    "max": 3
+   },
+   "total": {
+    "min": 3,
+    "max": 3
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "After a hunt of about three months, security forces killed three Pakistani terrorists in the Dachigam and Harwan forests near Srinagar on 28 July 2025. The Home Minister told Parliament they were Suleman Shah, Jibran and Hamza Afghani, the men behind the Pahalgam massacre.",
+  "sources": [
+   {
+    "id": "tribune-op-mahadev",
+    "url": "https://www.tribuneindia.com/news/j-k/3-terrorists-killed-in-srinagars-dachigam-encounter-in-armys-operation-mahadev/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/3-terrorists-killed-in-srinagars-dachigam-encounter-in-armys-operation-mahadev/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "3 terrorists killed in Srinagar's Dachigam encounter in Army's 'Operation Mahadev'",
+    "date": "2025-07",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-op-mahadev",
+    "url": "https://www.outlookindia.com/national/operation-mahadev-three-terrorists-killed-in-encounter-by-security-forces",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/operation-mahadev-three-terrorists-killed-in-encounter-by-security-forces",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Operation Mahadev: Three Terrorists Killed In Encounter By Security Forces",
+    "date": "2025-07",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "pib-amit-shah-sindoor-ls",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2149811&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleasePage.aspx?PRID=2149811&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Union Home Minister participates in the special discussion in the Lok Sabha on India's response to the Pahalgam terrorist attack through 'Operation Sindoor'",
+    "date": "2025-07",
+    "pages": null,
+    "kind": "official"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "india-response",
+   "pahalgam-2025"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2026-01-19-kishtwar-singpura",
+  "date": "2026-01-19",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Special forces soldier killed in Kishtwar encounter",
+  "place_name": "Singpura area, Kishtwar",
+  "district_at_time": "Kishtwar",
+  "district_current": "Kishtwar",
+  "region": "Jammu",
+  "lat": 33.6154,
+  "lng": 75.8998,
+  "geo_precision": "district",
+  "category": "encounter",
+  "tactic": "grenade",
+  "target_type": [
+   "security_forces"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 1,
+    "max": 1
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": 8,
+   "max": 8
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Havildar Gajendra Singh",
+    "age": null,
+    "role": "Special Forces",
+    "source_id": "gk-kishtwar-soldier-2026"
+   }
+  ],
+  "summary": "Havildar Gajendra Singh of the Special Forces was killed on 19 January 2026 during an operation in the Singpura area of Kishtwar, in which hiding militants threw grenades. Eight soldiers were injured, mostly by splinters.",
+  "sources": [
+   {
+    "id": "gk-kishtwar-soldier-2026",
+    "url": "https://www.greaterkashmir.com/gk-top-news/soldier-killed-in-kishtwar-encounter-army-pays-tribute",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/gk-top-news/soldier-killed-in-kishtwar-encounter-army-pays-tribute",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Soldier killed in Kishtwar encounter; army pays tribute",
+    "date": "2026-01",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "reported",
+  "high_profile": false,
+  "cross_border": false,
+  "tags": [
+   "jammu-region",
+   "2026"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2026-02-05-udhampur-kishtwar-jem",
+  "date": "2026-02-05",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Three Jaish-e-Mohammed militants killed in Udhampur and Kishtwar",
+  "place_name": "Udhampur and Kishtwar districts",
+  "district_at_time": "Udhampur",
+  "district_current": "Udhampur",
+  "region": "Jammu",
+  "lat": 32.9094,
+  "lng": 75.3264,
+  "geo_precision": "region",
+  "category": "encounter",
+  "tactic": "cordon_and_search",
+  "target_type": [
+   "terrorists"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 3,
+    "max": 3
+   },
+   "total": {
+    "min": 3,
+    "max": 3
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "Security forces killed three Jaish-e-Mohammed militants, said to include commanders, in separate encounters in Udhampur and Kishtwar districts in early February 2026. Two of them were named in reports as Jaish commanders.",
+  "sources": [
+   {
+    "id": "tribune-jem-3-shot-2026",
+    "url": "https://www.tribuneindia.com/news/cifdelta/3-jem-militants-killed-in-udhampur-kishtwar-encounters",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/cifdelta/3-jem-militants-killed-in-udhampur-kishtwar-encounters",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Top JeM commander among 3 shot in J&K",
+    "date": "2026-02",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "reported",
+  "high_profile": false,
+  "cross_border": false,
+  "tags": [
+   "india-response",
+   "2026"
+  ],
+  "notes": "The exact date rests on one source."
+ },
+ {
+  "id": "2026-07-31-kulgam-kiln-labourer",
+  "date": "2026-07-31",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Labourer from Chhattisgarh killed at a Kulgam brick kiln",
+  "place_name": "Brick kiln, Kelam area, Kulgam",
+  "district_at_time": "Kulgam",
+  "district_current": "Kulgam",
+  "region": "Kashmir Valley",
+  "lat": 33.6394,
+  "lng": 74.645,
+  "geo_precision": "district",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "civilians",
+   "migrant_workers"
+  ],
+  "victim_community": "Migrant labourer from Chhattisgarh",
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": 1,
+   "max": 1
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 31 July 2026 militants fired on two labourers from Chhattisgarh at a brick kiln in the Kelam area of Kulgam. One died before he could reach hospital and the other was injured.",
+  "sources": [
+   {
+    "id": "theprint-kulgam-labourer-2026",
+    "url": "https://theprint.in/india/terror-attack-in-j-chhattisgarh-labourer-killed-another-injured/3002589/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/terror-attack-in-j-chhattisgarh-labourer-killed-another-injured/3002589/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Terror attack in J&K's Kulgam; Chhattisgarh labourer killed, another injured",
+    "date": "2026-07",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-kulgam-labourer-2026",
+    "url": "https://www.tribuneindia.com/news/j-k/terrorists-open-fire-on-labourers-in-j-ks-kulgam-1-killed-1-injured/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/terrorists-open-fire-on-labourers-in-j-ks-kulgam-1-killed-1-injured/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Terrorists open fire on labourers in J-K's Kulgam; 1 killed, 1 injured",
+    "date": "2026-07",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "migrant-workers",
+   "2026"
+  ],
+  "notes": null
+ },
+ {
+  "id": "2026-09-yusmarg-moosa",
+  "date": "2026-09",
+  "end_date": null,
+  "date_precision": "month",
+  "time": null,
+  "title": "Lashkar commander Moosa killed at Korag, Yusmarg",
+  "place_name": "Korag, Yusmarg, Budgam",
+  "district_at_time": "Budgam",
+  "district_current": "Budgam",
+  "region": "Kashmir Valley",
+  "lat": 33.864,
+  "lng": 74.6467,
+  "geo_precision": "district",
+  "category": "encounter",
+  "tactic": "cordon_and_search",
+  "target_type": [
+   "terrorists"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 1,
+    "max": 1
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "In late September 2026 security forces killed Mohammad Asif, known as Moosa or Asif Fauji, in the higher reaches of Korag near Yusmarg. Officials described him as a former soldier of the Pakistan Army's Special Services Group who led Lashkar operations in the region, and the Home Ministry called his killing a serious blow to the group.",
+  "sources": [
+   {
+    "id": "theprint-moosa-ssg",
+    "url": "https://theprint.in/india/top-terrorist-killed-in-budgam-encounter-after-5-year-hunt-was-ex-pak-army-ssg-commando-musharrafs-guard/3057952/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/top-terrorist-killed-in-budgam-encounter-after-5-year-hunt-was-ex-pak-army-ssg-commando-musharrafs-guard/3057952/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Top terrorist killed in Budgam encounter after 5-year hunt was ex-Pak army SSG commando, Musharraf's guard",
+    "date": "2026-09",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-moosa-yousmarg",
+    "url": "https://www.greaterkashmir.com/kashmir/top-let-commander-asif-fauji-alias-moosa-killed-in-overnight-operation-in-yousmarg-forests-in-budgam-12592200",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/kashmir/top-let-commander-asif-fauji-alias-moosa-killed-in-overnight-operation-in-yousmarg-forests-in-budgam-12592200",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Top LeT commander Asif Fauji alias Moosa killed in overnight operation in Yousmarg forests in Budgam",
+    "date": "2026-09",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-moosa-mha",
+    "url": "https://theprint.in/india/killing-of-senior-let-commander-musa-a-serious-blow-to-terror-outfit-mha/3058170/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/killing-of-senior-let-commander-musa-a-serious-blow-to-terror-outfit-mha/3058170/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Killing of senior LeT commander Musa a serious blow to terror outfit: MHA",
+    "date": "2026-09",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "india-response",
+   "top-commander",
+   "2026"
+  ],
+  "notes": "Exact day not confirmed; month precision only."
+ },
+ {
+  "id": "2026-09-05-yusmarg-yasir",
+  "date": "2026-09-05",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Lashkar militant Yasir killed in Yusmarg heights",
+  "place_name": "Yusmarg heights, Budgam",
+  "district_at_time": "Budgam",
+  "district_current": "Budgam",
+  "region": "Kashmir Valley",
+  "lat": 33.864,
+  "lng": 74.6467,
+  "geo_precision": "district",
+  "category": "encounter",
+  "tactic": "cordon_and_search",
+  "target_type": [
+   "terrorists"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": 0,
+    "max": 0
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 1,
+    "max": 1
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "Security forces killed a Lashkar-e-Taiba militant identified by police as Yasir in the Yusmarg heights of Budgam on 5 September 2026. He was a close associate of the commander known as Moosa.",
+  "sources": [
+   {
+    "id": "gk-yasir-yusmarg",
+    "url": "https://www.greaterkashmir.com/kashmir/terrorist-killed-in-yusmarg-encounter-identified-as-lets-yasir-jk-police-12495727",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/kashmir/terrorist-killed-in-yusmarg-encounter-identified-as-lets-yasir-jk-police-12495727",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Terrorist killed in Yusmarg encounter identified as LeT's Yasir: J&K Police",
+    "date": "2026-09",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "reported",
+  "high_profile": false,
+  "cross_border": false,
+  "tags": [
+   "india-response",
+   "2026"
+  ],
+  "notes": null
  }
 ]

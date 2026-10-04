@@ -1,1 +1,313 @@
-[]
+[
+ {
+  "id": "keran-sector",
+  "sector": "Keran, Kupwara",
+  "description": "Described as the easiest and shortest route into the Valley, with three avenues. Infiltrators then cross the Shamsabari forest range toward the Kupwara hinterland.",
+  "path": [
+   [
+    73.95,
+    34.65
+   ],
+   [
+    74.1,
+    34.6
+   ],
+   [
+    74.25,
+    34.53
+   ]
+  ],
+  "years_active": {
+   "from": null,
+   "to": null
+  },
+  "status": "active",
+  "sources": [
+   {
+    "id": "tribune-350km-loc-routes",
+    "url": "https://www.tribuneindia.com/news/archive/features/350-km-loc-in-kashmir-valley-has-40-50-infiltration-routes-201713",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/features/350-km-loc-in-kashmir-valley-has-40-50-infiltration-routes-201713",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "350-km LoC in Kashmir valley has 40-50 infiltration routes",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "machil-sector",
+  "sector": "Machil, Kupwara",
+  "description": "The second favoured route in Kupwara after Keran, also leading across the Shamsabari range.",
+  "path": [
+   [
+    74.15,
+    34.65
+   ],
+   [
+    74.22,
+    34.58
+   ],
+   [
+    74.25,
+    34.53
+   ]
+  ],
+  "years_active": {
+   "from": null,
+   "to": null
+  },
+  "status": "active",
+  "sources": [
+   {
+    "id": "tribune-350km-loc-routes",
+    "url": "https://www.tribuneindia.com/news/archive/features/350-km-loc-in-kashmir-valley-has-40-50-infiltration-routes-201713",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/features/350-km-loc-in-kashmir-valley-has-40-50-infiltration-routes-201713",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "350-km LoC in Kashmir valley has 40-50 infiltration routes",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "tangdhar-sector",
+  "sector": "Tangdhar (Karnah), Kupwara",
+  "description": "A route that lay inactive for a long period and was reported to have become active again.",
+  "path": [
+   [
+    73.9,
+    34.42
+   ],
+   [
+    74.05,
+    34.45
+   ],
+   [
+    74.25,
+    34.53
+   ]
+  ],
+  "years_active": {
+   "from": null,
+   "to": null
+  },
+  "status": "reported_revived",
+  "sources": [
+   {
+    "id": "tribune-350km-loc-routes",
+    "url": "https://www.tribuneindia.com/news/archive/features/350-km-loc-in-kashmir-valley-has-40-50-infiltration-routes-201713",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/features/350-km-loc-in-kashmir-valley-has-40-50-infiltration-routes-201713",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "350-km LoC in Kashmir valley has 40-50 infiltration routes",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "gurez-sector",
+  "sector": "Gurez, Bandipora",
+  "description": "The toughest route into the Valley, through a sector ringed by mountains of about 14,000 feet.",
+  "path": [
+   [
+    74.8,
+    34.68
+   ],
+   [
+    74.75,
+    34.55
+   ],
+   [
+    74.64,
+    34.42
+   ]
+  ],
+  "years_active": {
+   "from": null,
+   "to": null
+  },
+  "status": "active",
+  "sources": [
+   {
+    "id": "tribune-350km-loc-routes",
+    "url": "https://www.tribuneindia.com/news/archive/features/350-km-loc-in-kashmir-valley-has-40-50-infiltration-routes-201713",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/features/350-km-loc-in-kashmir-valley-has-40-50-infiltration-routes-201713",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "350-km LoC in Kashmir valley has 40-50 infiltration routes",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "uri-sector",
+  "sector": "Uri, Baramulla (Haji Pir to Kala Pahar)",
+  "description": "Rugged ground between about 4,000 and 14,000 feet where some routes stay open through the year.",
+  "path": [
+   [
+    74.03,
+    34.05
+   ],
+   [
+    74.2,
+    34.1
+   ],
+   [
+    74.34,
+    34.2
+   ]
+  ],
+  "years_active": {
+   "from": null,
+   "to": null
+  },
+  "status": "active",
+  "sources": [
+   {
+    "id": "tribune-350km-loc-routes",
+    "url": "https://www.tribuneindia.com/news/archive/features/350-km-loc-in-kashmir-valley-has-40-50-infiltration-routes-201713",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/features/350-km-loc-in-kashmir-valley-has-40-50-infiltration-routes-201713",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "350-km LoC in Kashmir valley has 40-50 infiltration routes",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "rajouri-poonch-nullahs",
+  "sector": "Rajouri and Poonch (Pir Panjal)",
+  "description": "The Army identified at least seven routes in Rajouri and Poonch, many along nullahs that can be crossed when water is low, leading into the Pir Panjal forests and on toward the Valley.",
+  "path": [
+   [
+    74.05,
+    33.7
+   ],
+   [
+    74.3,
+    33.7
+   ],
+   [
+    74.6,
+    33.68
+   ],
+   [
+    74.83,
+    33.71
+   ]
+  ],
+  "years_active": {
+   "from": null,
+   "to": null
+  },
+  "status": "active",
+  "sources": [
+   {
+    "id": "theprint-pir-panjal-hotspot",
+    "url": "https://theprint.in/india/why-pir-panjal-region-is-becoming-a-militant-hotspot-porous-loc-routes-to-kashmir-local-support/1764003/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/why-pir-panjal-region-is-becoming-a-militant-hotspot-porous-loc-routes-to-kashmir-local-support/1764003/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Why Pir Panjal region is becoming a militant hotspot: porous LoC, routes to Kashmir, 'local support'",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-rajouri-poonch-tunnels",
+    "url": "https://www.tribuneindia.com/news/j-k/search-operations-on-in-rajouri-poonch-to-detect-border-tunnels-575984",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/search-operations-on-in-rajouri-poonch-to-detect-border-tunnels-575984",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Search operations on in Rajouri, Poonch to detect border tunnels",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "samba-kathua-ib",
+  "sector": "Samba and Kathua (International Border)",
+  "description": "Route across the International Border, including cross-border tunnels, that saw a revival. Infiltrators move into the heights of Kathua toward Udhampur, Doda and Kishtwar, or on to the Valley.",
+  "path": [
+   [
+    75.1,
+    32.45
+   ],
+   [
+    75.4,
+    32.6
+   ],
+   [
+    75.65,
+    32.85
+   ],
+   [
+    75.72,
+    33.15
+   ]
+  ],
+  "years_active": {
+   "from": null,
+   "to": null
+  },
+  "status": "reported_revived",
+  "sources": [
+   {
+    "id": "theprint-revival-routes-jammu",
+    "url": "https://theprint.in/india/revival-of-infiltration-routes-dried-intel-whats-fuelling-surge-in-terror-attacks-in-jammu/2128665/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/revival-of-infiltration-routes-dried-intel-whats-fuelling-surge-in-terror-attacks-in-jammu/2128665/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Revival of infiltration routes, dried intel: what's fuelling surge in terror attacks in Jammu",
+    "date": "2024-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-kathua-route-exposed",
+    "url": "https://www.greaterkashmir.com/latest-news/kathua-encounters-exposed-infiltration-route-operations-on-to-neutralize-terrorists-police/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/latest-news/kathua-encounters-exposed-infiltration-route-operations-on-to-neutralize-terrorists-police/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Kathua encounters exposed infiltration route, operations on to neutralize terrorists: Police",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-bsf-tunnels",
+    "url": "https://theprint.in/india/bsf-steps-up-dismantling-of-terror-tunnels-in-jammus-infiltration-prone-zone-24-km-done-7-to-go/2457672/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/bsf-steps-up-dismantling-of-terror-tunnels-in-jammus-infiltration-prone-zone-24-km-done-7-to-go/2457672/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "BSF steps up dismantling of terror tunnels in Jammu's 'infiltration-prone zone'. 24 km done, 7 to go",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-samba-kathua-tunnel-drive",
+    "url": "https://www.tribuneindia.com/news/j-k/drive-against-cross-border-tunnels-launched-in-samba-kathua-districts-638931/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/drive-against-cross-border-tunnels-launched-in-samba-kathua-districts-638931/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Drive against cross-border tunnels launched in Samba, Kathua districts",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ }
+]

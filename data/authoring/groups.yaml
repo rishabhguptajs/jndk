@@ -54,11 +54,14 @@
   relationship_to_parent: null
   hq: null
   sponsor: Pakistan (training and arms in the late 1980s, as reported)
-  bans: { india_uapa: null, un_1267: null, us_fto: null }
+  bans:
+    india_uapa: { date: "2019-03-22", instrument: "Declared an unlawful association under the UAPA", source_id: theprint-jklf-banned }
+    un_1267: null
+    us_fto: null
   active_years: { from: null, to: null }
   status: dormant
   summary: Separatist armed group that began the insurgency in the Valley with the 1988 Srinagar blasts and carried out early killings and kidnappings, including the 1989 abduction of Rubaiya Sayeed.
-  src: [kashmirlife-1988-blast, kashmirlife-rubaiya-consequential]
+  src: [kashmirlife-1988-blast, kashmirlife-rubaiya-consequential, theprint-jklf-banned]
 - id: jk-nlf
   name: National Liberation Front (Jammu Kashmir)
   kind: terror_group
@@ -115,7 +118,7 @@
   founders: []
   parent: null
   relationship_to_parent: null
-  hq: null
+  hq: { name: "Markaz Taiba, Muridke", lat: 31.8, lng: 74.26, precision: town }
   sponsor: Pakistan
   bans:
     india_uapa: { date: null, instrument: "UAPA First Schedule, serial 5", source_id: mha-banned-orgs }
@@ -124,7 +127,7 @@
   active_years: { from: null, to: null }
   status: active
   summary: Pakistan-based terrorist group responsible for many of the deadliest attacks in Jammu and Kashmir and across India. Operates in Kashmir through fronts including The Resistance Front.
-  src: [un-1267-let, state-fto-list, mha-banned-orgs]
+  src: [un-1267-let, state-fto-list, mha-banned-orgs, pib-op-sindoor-precision]
 - id: jaish-e-mohammed
   name: Jaish-e-Mohammed (JeM)
   kind: terror_group
@@ -133,7 +136,7 @@
   founders: [Masood Azhar]
   parent: null
   relationship_to_parent: null
-  hq: null
+  hq: { name: "Markaz Subhan Allah, Bahawalpur", lat: 29.4, lng: 71.68, precision: town }
   sponsor: Pakistan
   bans:
     india_uapa: { date: null, instrument: "UAPA First Schedule, serial 6", source_id: mha-banned-orgs }
@@ -142,7 +145,7 @@
   active_years: { from: 2000, to: null }
   status: active
   summary: Pakistan-based terrorist group founded by Masood Azhar after his release in the IC 814 hijacking exchange. Pioneered suicide car bombings in Kashmir and carried out the 2001 legislature attack and the 2019 Pulwama bombing. Operates through fronts including the PAFF.
-  src: [un-1267-jem, state-fto-list, mha-banned-orgs]
+  src: [un-1267-jem, state-fto-list, mha-banned-orgs, pib-op-sindoor-precision]
 - id: harkat-ul-mujahideen
   name: Harkat-ul-Mujahideen (HuM)
   kind: terror_group
@@ -215,3 +218,33 @@
   status: active
   summary: Front for Jaish-e-Mohammed that emerged in 2019 and claimed several ambushes on the Army in the Poonch and Rajouri belt. Banned by India a day after the TRF.
   src: [tribune-paff-banned, theprint-paff-banned]
+- id: kashmir-tigers
+  name: Kashmir Tigers
+  kind: front
+  aliases: []
+  founded: null
+  founders: []
+  parent: jaish-e-mohammed
+  relationship_to_parent: front
+  hq: null
+  sponsor: Pakistan
+  bans: { india_uapa: null, un_1267: null, us_fto: null }
+  active_years: { from: null, to: null }
+  status: active
+  summary: Front for Jaish-e-Mohammed that claimed the July 2024 ambush on an army patrol in Kathua district.
+  src: [outlook-kathua-kashmir-tigers]
+- id: pla
+  name: People's Liberation Army (China)
+  kind: state_military
+  aliases: [PLA]
+  founded: null
+  founders: []
+  parent: null
+  relationship_to_parent: null
+  hq: null
+  sponsor: null
+  bans: { india_uapa: null, un_1267: null, us_fto: null }
+  active_years: { from: null, to: null }
+  status: active
+  summary: Armed forces of China, in occupation of Aksai Chin. Included only for clashes on the Line of Actual Control in Ladakh such as Galwan in 2020.
+  src: [theprint-galwan-20, tribune-santosh-babu-mvc]

@@ -47,5 +47,19 @@
   "lng": -1.9,
   "precision": "region",
   "source": "City-level point for an event outside India."
+ },
+ "manual:galwan": {
+  "name": "Galwan valley, eastern Ladakh",
+  "lat": 34.75,
+  "lng": 78.2,
+  "precision": "region",
+  "source": "Approximate position of the Galwan valley near the LAC. Region precision only."
+ },
+ "manual:pojk-generic": {
+  "name": "Pakistan-occupied Jammu & Kashmir (general)",
+  "lat": 33.9,
+  "lng": 73.8,
+  "precision": "region",
+  "source": "Generic point inside PoJK for events spread across several places."
  }
 }

@@ -591,13 +591,13 @@
  },
  {
   "year": 2006,
-  "events": 0,
-  "two_plus_sources_pct": 0,
+  "events": 2,
+  "two_plus_sources_pct": 100,
   "village_geocoded_pct": 0,
-  "killed_min": 0,
-  "killed_max": 0,
+  "killed_min": 32,
+  "killed_max": 35,
   "unknown_toll": 0,
-  "gap": true
+  "gap": false
  },
  {
   "year": 2007,
@@ -611,13 +611,13 @@
  },
  {
   "year": 2008,
-  "events": 0,
-  "two_plus_sources_pct": 0,
+  "events": 2,
+  "two_plus_sources_pct": 100,
   "village_geocoded_pct": 0,
-  "killed_min": 0,
-  "killed_max": 0,
+  "killed_min": 21,
+  "killed_max": 21,
   "unknown_toll": 0,
-  "gap": true
+  "gap": false
  },
  {
   "year": 2009,
@@ -661,142 +661,142 @@
  },
  {
   "year": 2013,
-  "events": 0,
-  "two_plus_sources_pct": 0,
-  "village_geocoded_pct": 0,
-  "killed_min": 0,
-  "killed_max": 0,
-  "unknown_toll": 0,
-  "gap": true
+  "events": 3,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 67,
+  "killed_min": 20,
+  "killed_max": 20,
+  "unknown_toll": 1,
+  "gap": false
  },
  {
   "year": 2014,
-  "events": 0,
-  "two_plus_sources_pct": 0,
+  "events": 1,
+  "two_plus_sources_pct": 100,
   "village_geocoded_pct": 0,
   "killed_min": 0,
   "killed_max": 0,
-  "unknown_toll": 0,
-  "gap": true
+  "unknown_toll": 1,
+  "gap": false
  },
  {
   "year": 2015,
-  "events": 0,
-  "two_plus_sources_pct": 0,
+  "events": 2,
+  "two_plus_sources_pct": 100,
   "village_geocoded_pct": 0,
-  "killed_min": 0,
-  "killed_max": 0,
+  "killed_min": 10,
+  "killed_max": 10,
   "unknown_toll": 0,
-  "gap": true
+  "gap": false
  },
  {
   "year": 2016,
-  "events": 0,
-  "two_plus_sources_pct": 0,
-  "village_geocoded_pct": 0,
-  "killed_min": 0,
-  "killed_max": 0,
-  "unknown_toll": 0,
-  "gap": true
+  "events": 5,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 20,
+  "killed_min": 41,
+  "killed_max": 43,
+  "unknown_toll": 2,
+  "gap": false
  },
  {
   "year": 2017,
-  "events": 0,
-  "two_plus_sources_pct": 0,
-  "village_geocoded_pct": 0,
-  "killed_min": 0,
-  "killed_max": 0,
+  "events": 1,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 100,
+  "killed_min": 8,
+  "killed_max": 8,
   "unknown_toll": 0,
-  "gap": true
+  "gap": false
  },
  {
   "year": 2018,
-  "events": 0,
-  "two_plus_sources_pct": 0,
-  "village_geocoded_pct": 0,
-  "killed_min": 0,
-  "killed_max": 0,
+  "events": 3,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 33,
+  "killed_min": 14,
+  "killed_max": 14,
   "unknown_toll": 0,
-  "gap": true
+  "gap": false
  },
  {
   "year": 2019,
-  "events": 0,
-  "two_plus_sources_pct": 0,
+  "events": 8,
+  "two_plus_sources_pct": 100,
   "village_geocoded_pct": 0,
-  "killed_min": 0,
-  "killed_max": 0,
-  "unknown_toll": 0,
-  "gap": true
+  "killed_min": 46,
+  "killed_max": 46,
+  "unknown_toll": 6,
+  "gap": false
  },
  {
   "year": 2020,
-  "events": 0,
-  "two_plus_sources_pct": 0,
+  "events": 4,
+  "two_plus_sources_pct": 100,
   "village_geocoded_pct": 0,
-  "killed_min": 0,
-  "killed_max": 0,
-  "unknown_toll": 0,
-  "gap": true
+  "killed_min": 10,
+  "killed_max": 10,
+  "unknown_toll": 1,
+  "gap": false
  },
  {
   "year": 2021,
-  "events": 0,
-  "two_plus_sources_pct": 0,
-  "village_geocoded_pct": 0,
-  "killed_min": 0,
-  "killed_max": 0,
+  "events": 7,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 57,
+  "killed_min": 15,
+  "killed_max": 15,
   "unknown_toll": 0,
-  "gap": true
+  "gap": false
  },
  {
   "year": 2022,
-  "events": 0,
-  "two_plus_sources_pct": 0,
+  "events": 6,
+  "two_plus_sources_pct": 83,
   "village_geocoded_pct": 0,
-  "killed_min": 0,
-  "killed_max": 0,
+  "killed_min": 6,
+  "killed_max": 6,
   "unknown_toll": 0,
-  "gap": true
+  "gap": false
  },
  {
   "year": 2023,
-  "events": 0,
-  "two_plus_sources_pct": 0,
+  "events": 7,
+  "two_plus_sources_pct": 100,
   "village_geocoded_pct": 0,
-  "killed_min": 0,
-  "killed_max": 0,
-  "unknown_toll": 0,
-  "gap": true
+  "killed_min": 29,
+  "killed_max": 29,
+  "unknown_toll": 1,
+  "gap": false
  },
  {
   "year": 2024,
-  "events": 0,
-  "two_plus_sources_pct": 0,
+  "events": 6,
+  "two_plus_sources_pct": 100,
   "village_geocoded_pct": 0,
-  "killed_min": 0,
-  "killed_max": 0,
+  "killed_min": 32,
+  "killed_max": 32,
   "unknown_toll": 0,
-  "gap": true
+  "gap": false
  },
  {
   "year": 2025,
-  "events": 0,
-  "two_plus_sources_pct": 0,
-  "village_geocoded_pct": 0,
-  "killed_min": 0,
-  "killed_max": 0,
-  "unknown_toll": 0,
-  "gap": true
+  "events": 6,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 33,
+  "killed_min": 44,
+  "killed_max": 47,
+  "unknown_toll": 2,
+  "gap": false
  },
  {
   "year": 2026,
-  "events": 0,
-  "two_plus_sources_pct": 0,
+  "events": 5,
+  "two_plus_sources_pct": 40,
   "village_geocoded_pct": 0,
-  "killed_min": 0,
-  "killed_max": 0,
-  "unknown_toll": 0,
-  "gap": true
+  "killed_min": 6,
+  "killed_max": 6,
+  "unknown_toll": 1,
+  "gap": false
  }
 ]

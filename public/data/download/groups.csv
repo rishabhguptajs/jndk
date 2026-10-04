@@ -2,5 +2,15 @@ id,name,kind,aliases,founded,parent,relationship,hq,sponsor,india_uapa_ban,un_12
 pakistan-army,Pakistan Army,state_military,,1947,,,Rawalpindi,,,,,1947,,active
 tribal-lashkars-1947,Tribal lashkars of 1947 (Operation Gulmarg),irregular,Raiders; Kabailis,1947-10,pakistan-army,wing,,"Pakistan (armed, transported and led by Pakistan Army personnel)",,,,1947,1948,defunct
 gilgit-scouts-1947,Gilgit Scouts (1947 revolt),irregular,,,,,Gilgit,,,,,1947,1948,defunct
-jklf,Jammu Kashmir Liberation Front (JKLF),terror_group,JKLF,,,,,"Pakistan (training and arms in the late 1980s, as reported)",,,,1977,,dormant
-jk-nlf,National Liberation Front (Jammu Kashmir),terror_group,NLF; JKNLF,,,,,,,,,1965,1977,defunct
+jklf,Jammu Kashmir Liberation Front (JKLF),terror_group,JKLF,,,,,"Pakistan (training and arms in the late 1980s, as reported)",2019-03-22,,,,,dormant
+jk-nlf,National Liberation Front (Jammu Kashmir),terror_group,NLF; JKNLF,,,,,,,,,,,defunct
+jkslf,Jammu and Kashmir Students Liberation Front (JKSLF),terror_group,JKSLF,,,,,,,,,1990,,defunct
+hizbul-mujahideen,Hizbul Mujahideen (HM),terror_group,Hizb-ul-Mujahideen; HM; Hizb-Ul-Mujahideen Pir Panjal Regiment,1989,,,,Pakistan,,,2017-08-16,1989,,active
+lashkar-e-taiba,Lashkar-e-Taiba (LeT),terror_group,Lashkar-e-Tayyiba; LeT; Pasban-e-Ahle Hadis; Jamaat-ud-Dawa,,,,"Markaz Taiba, Muridke",Pakistan,,2005-05-02,2001-12-26,,,active
+jaish-e-mohammed,Jaish-e-Mohammed (JeM),terror_group,Jaish-i-Mohammed; JeM; Tahrik-e-Furqan,2000,,,"Markaz Subhan Allah, Bahawalpur",Pakistan,,2001-10-17,2001-12-26,2000,,active
+harkat-ul-mujahideen,Harkat-ul-Mujahideen (HuM),terror_group,Harakat ul-Mujahidin; Harkat-ul-Ansar; Harkat-ul-Jehad-e-Islami; Ansar-ul-Ummah; Al-Faran,,,,,Pakistan,,2001-10-06,1997-10-08,,,dormant
+al-badr,Al-Badr,terror_group,Al Badr Mujahideen,,,,,Pakistan,,,,,,active
+trf,The Resistance Front (TRF),front,TRF,2019,lashkar-e-taiba,front,,Pakistan,2023-01-05,,2025-07,2019,,active
+paff,People's Anti-Fascist Front (PAFF),front,PAFF,2019,jaish-e-mohammed,front,,Pakistan,2023-01-06,,,2019,,active
+kashmir-tigers,Kashmir Tigers,front,,,jaish-e-mohammed,front,,Pakistan,,,,,,active
+pla,People's Liberation Army (China),state_military,PLA,,,,,,,,,,,active

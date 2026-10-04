@@ -168,7 +168,7 @@ for (const r of rawEvents) {
     confidence: r.conf,
     high_profile: r.hp ?? false,
     cross_border: r.cross_border ?? r.region === "Outside J&K",
-    tags: r.tags ?? [],
+    tags: (r.tags ?? []).map(String),
     notes: r.notes ? String(r.notes).trim().replace(/\s+/g, " ") : null,
   };
   const parsed = Event.safeParse(ev);
@@ -205,10 +205,45 @@ function one(file: string) {
   return (YAML.parse(fs.readFileSync(p, "utf8")) ?? []).map((d: object) => ({ ...d, __file: file }));
 }
 const groups = GroupsFile.safeParse(expandSources(one("groups.yaml"), "group"));
-const zones = GroupZonesFile.safeParse(
-  expandSources(one("group_zones.yaml"), "zone").map((z: any) => ({ ...z, source_ids: z.sources.map((s: Source) => s.id) })),
+// Group operational zones: hand-authored entries plus zones derived from attributed events.
+// A derived zone says "this group was attributed an event in this district in this year",
+// and carries the sources of those events, so every zone traces back to cited incidents.
+const derivedZones = new Map<string, { group_id: string; year: number; districts: Set<string>; sources: Map<string, Source>; events: string[] }>();
+for (const e of events) {
+  if (!["claimed", "officially_attributed", "suspected"].includes(e.attribution)) continue;
+  const d = e.district_current ?? e.district_at_time;
+  if (!d || e.region === "Outside J&K") continue;
+  for (const g of e.perpetrator_group) {
+    const kind = groups.success ? groups.data.find((x) => x.id === g)?.kind : undefined;
+    if (kind !== "terror_group" && kind !== "front") continue;
+    const year = Number(e.date.slice(0, 4));
+    const key = `${g}|${year}`;
+    if (!derivedZones.has(key)) derivedZones.set(key, { group_id: g, year, districts: new Set(), sources: new Map(), events: [] });
+    const z = derivedZones.get(key)!;
+    z.districts.add(d);
+    z.events.push(e.id);
+    for (const s of e.sources.slice(0, 2)) z.sources.set(s.id, s);
+  }
+}
+const zones = GroupZonesFile.safeParse([
+  ...expandSources(one("group_zones.yaml"), "zone").map((z: any) => ({ ...z, source_ids: z.sources.map((s: Source) => s.id) })),
+  ...[...derivedZones.values()].map((z) => ({
+    group_id: z.group_id,
+    year: z.year,
+    districts: [...z.districts].sort(),
+    source_ids: [...z.sources.keys()],
+    sources: [...z.sources.values()],
+    note: `Derived from attributed events: ${z.events.join(", ")}`,
+  })),
+]);
+const infra = InfrastructureFile.safeParse(
+  expandSources(one("infrastructure.yaml"), "infra").map((i: any) => {
+    const { at, ...rest } = i;
+    const g = at ? gazetteer[at] : undefined;
+    if (at && !g) errors.push(`infra ${i.id}: unknown gazetteer key ${at}`);
+    return g ? { ...rest, lat: g.lat, lng: g.lng } : rest;
+  }),
 );
-const infra = InfrastructureFile.safeParse(expandSources(one("infrastructure.yaml"), "infra"));
 const routes = RoutesFile.safeParse(expandSources(one("routes.yaml"), "route"));
 for (const [name, res] of [["groups", groups], ["group_zones", zones], ["infrastructure", infra], ["routes", routes]] as const) {
   if (!res.success) for (const i of res.error.issues) errors.push(`${name}: ${i.path.join(".")} ${i.message}`);
