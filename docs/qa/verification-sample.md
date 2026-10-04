@@ -1,7 +1,7 @@
 # Re-verification sample (Phase 6)
 
 Date: 2026-10-04. Sample: 50 events drawn with a fixed seed (20261004) from `data/events.json`
-(script in the Phase 6 commit message). Each was re-checked with fresh web searches, without
+(`scripts/qa/sample-events.mjs`, run against the pre-correction data at commit ce336c3). Each was re-checked with fresh web searches, without
 restricting to the publishers already cited, looking for date, place, toll and attribution.
 
 Direct page fetches were blocked in the build environment, so checks rely on search-engine
