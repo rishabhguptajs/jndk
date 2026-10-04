@@ -162,8 +162,9 @@
     us_fto: { date: "1997-10-08", instrument: "Foreign Terrorist Organization", source_id: state-fto-list }
   active_years: { from: null, to: null }
   status: dormant
-  summary: Pakistan-based terrorist group, known as Harkat-ul-Ansar in the mid 1990s. Its fighters dominated the foreign militant presence in Kashmir in that decade.
-  src: [un-1267-hum, state-fto-list, mha-banned-orgs]
+  summary: Pakistan-based terrorist group, known as Harkat-ul-Ansar in the mid 1990s. Its front Al-Faran kidnapped foreign trekkers near Pahalgam in 1995.
+  # source for the Al-Faran link: kashmirlife-wronged-hostages
+  src: [un-1267-hum, state-fto-list, mha-banned-orgs, kashmirlife-wronged-hostages]
 - id: al-badr
   name: Al-Badr
   kind: terror_group

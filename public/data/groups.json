@@ -613,7 +613,7 @@
    "to": null
   },
   "status": "dormant",
-  "summary": "Pakistan-based terrorist group, known as Harkat-ul-Ansar in the mid 1990s. Its fighters dominated the foreign militant presence in Kashmir in that decade.",
+  "summary": "Pakistan-based terrorist group, known as Harkat-ul-Ansar in the mid 1990s. Its front Al-Faran kidnapped foreign trekkers near Pahalgam in 1995.",
   "sources": [
    {
     "id": "un-1267-hum",
@@ -647,6 +647,17 @@
     "date": null,
     "pages": null,
     "kind": "official"
+   },
+   {
+    "id": "kashmirlife-wronged-hostages",
+    "url": "https://kashmirlife.net/wronged-hostages-2306/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/wronged-hostages-2306/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Wronged Hostages",
+    "date": null,
+    "pages": null,
+    "kind": "news"
    }
   ]
  },

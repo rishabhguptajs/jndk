@@ -573,3 +573,20 @@ input[type="date"] {
     animation: none !important;
   }
 }
+
+.timeline-axis {
+  position: relative;
+  height: 14px;
+  font-size: 0.68rem;
+  color: var(--text-faint);
+}
+.timeline-axis span {
+  position: absolute;
+  transform: translateX(-50%);
+}
+.timeline-axis span:first-child {
+  transform: none;
+}
+.timeline-axis span:last-child {
+  transform: translateX(-100%);
+}
