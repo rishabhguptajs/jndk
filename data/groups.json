@@ -4,16 +4,11 @@
   "name": "Pakistan Army",
   "kind": "state_military",
   "aliases": [],
-  "founded": "1947",
+  "founded": null,
   "founders": [],
   "parent": null,
   "relationship_to_parent": null,
-  "hq": {
-   "name": "Rawalpindi",
-   "lat": 33.6,
-   "lng": 73.05,
-   "precision": "town"
-  },
+  "hq": null,
   "sponsor": null,
   "bans": {
    "india_uapa": null,
@@ -21,7 +16,7 @@
    "us_fto": null
   },
   "active_years": {
-   "from": 1947,
+   "from": null,
    "to": null
   },
   "status": "active",

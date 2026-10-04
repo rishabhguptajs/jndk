@@ -38,6 +38,10 @@ export function Atlas() {
   const [tab, setTab] = useState<Tab>("filters");
   const [overlays, setOverlays] = useState({ hotspot: false, zones: false, infra: false, routes: false, hqs: false, loc: false, lac: false });
   const [zoneGroup, setZoneGroup] = useState<string>("");
+  const [legendOpen, setLegendOpen] = useState(true);
+  useEffect(() => {
+    if (window.innerWidth < 900) setLegendOpen(false);
+  }, []);
 
   // URL state: ?event=<id>
   useEffect(() => {
@@ -213,7 +217,15 @@ export function Atlas() {
               <legend>Map mode</legend>
               <div className="chips">
                 {(["markers", "heatmap", "choropleth"] as Mode[]).map((m) => (
-                  <button key={m} className="chip" aria-pressed={mode === m} onClick={() => setMode(m)}>
+                  <button
+                    key={m}
+                    className="chip"
+                    aria-pressed={mode === m}
+                    onClick={() => {
+                      setMode(m);
+                      if (m !== "markers") mapRef.current?.fitBounds(JK_BOUNDS, { padding: 30 });
+                    }}
+                  >
                     {m === "markers" ? "Markers" : m === "heatmap" ? "Heatmap" : "Districts"}
                   </button>
                 ))}
@@ -239,7 +251,18 @@ export function Atlas() {
                     ["lac", "LAC"],
                   ] as const
                 ).map(([k, l]) => (
-                  <button key={k} className="chip" aria-pressed={overlays[k]} onClick={() => setOverlays((o) => ({ ...o, [k]: !o[k] }))}>
+                  <button
+                    key={k}
+                    className="chip"
+                    aria-pressed={overlays[k]}
+                    onClick={() => {
+                      if (!overlays[k]) {
+                        const wide = k === "infra" || k === "hqs";
+                        mapRef.current?.fitBounds(wide ? [[69.5, 28.8], [80.6, 37.2]] : JK_BOUNDS, { padding: 30 });
+                      }
+                      setOverlays((o) => ({ ...o, [k]: !o[k] }));
+                    }}
+                  >
                     {l}
                   </button>
                 ))}
@@ -283,7 +306,8 @@ export function Atlas() {
             All India
           </button>
         </div>
-        <div className="legend" aria-label="Legend">
+        <details className="legend" open={legendOpen} onToggle={(e) => setLegendOpen((e.target as HTMLDetailsElement).open)}>
+          <summary style={{ cursor: "pointer" }}>Legend</summary>
           <ul>
             {GROUP_ORDER.map((g) => (
               <li key={g}>
@@ -297,7 +321,7 @@ export function Atlas() {
             ))}
             <li className="faint">Size shows the number killed. Faded markers are placed at district or region level only. Grey numbered circles group nearby events.</li>
           </ul>
-        </div>
+        </details>
         {selectedEvent && data && (
           <div className="event-panel" role="dialog" aria-label={selectedEvent.title}>
             <button className="btn" onClick={() => setSelectedId(null)} style={{ float: "right" }} aria-label="Close event card">

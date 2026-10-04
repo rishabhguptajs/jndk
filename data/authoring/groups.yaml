@@ -3,14 +3,14 @@
   name: Pakistan Army
   kind: state_military
   aliases: []
-  founded: "1947"
+  founded: null
   founders: []
   parent: null
   relationship_to_parent: null
-  hq: { name: Rawalpindi, lat: 33.6, lng: 73.05, precision: town }
+  hq: null
   sponsor: null
   bans: { india_uapa: null, un_1267: null, us_fto: null }
-  active_years: { from: 1947, to: null }
+  active_years: { from: null, to: null }
   status: active
   summary: Regular army of Pakistan. Planned and directed the October 1947 invasion of Jammu and Kashmir (Operation Gulmarg), and fought India in 1947 to 1948, 1965, 1971 and 1999.
   src: [pioneer-op-gulmarg, jknow-oct1947-military-attack]

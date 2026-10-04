@@ -364,7 +364,7 @@ export function setTerrorStatic(map: maplibregl.Map, infra: Infrastructure[], ro
   (map.getSource("hqs") as maplibregl.GeoJSONSource).setData(
     fc(
       groups
-        .filter((g) => g.hq && g.kind !== "state_military")
+        .filter((g) => g.hq && (g.kind === "terror_group" || g.kind === "front"))
         .map((g) => ({
           type: "Feature",
           properties: { id: g.id, label: `${g.name.replace(/ \(.*\)$/, "")} HQ` },

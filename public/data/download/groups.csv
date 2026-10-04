@@ -1,5 +1,5 @@
 id,name,kind,aliases,founded,parent,relationship,hq,sponsor,india_uapa_ban,un_1267,us_fto,active_from,active_to,status
-pakistan-army,Pakistan Army,state_military,,1947,,,Rawalpindi,,,,,1947,,active
+pakistan-army,Pakistan Army,state_military,,,,,,,,,,,,active
 tribal-lashkars-1947,Tribal lashkars of 1947 (Operation Gulmarg),irregular,Raiders; Kabailis,1947-10,pakistan-army,wing,,"Pakistan (armed, transported and led by Pakistan Army personnel)",,,,1947,1948,defunct
 gilgit-scouts-1947,Gilgit Scouts (1947 revolt),irregular,,,,,Gilgit,,,,,1947,1948,defunct
 jklf,Jammu Kashmir Liberation Front (JKLF),terror_group,JKLF,,,,,"Pakistan (training and arms in the late 1980s, as reported)",2019-03-22,,,,,dormant

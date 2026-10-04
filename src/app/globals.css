@@ -590,3 +590,17 @@ input[type="date"] {
 .timeline-axis span:last-child {
   transform: translateX(-100%);
 }
+
+@media (max-width: 900px) {
+  .map-note {
+    display: none;
+  }
+  .legend {
+    bottom: 8px;
+    max-width: 70%;
+  }
+}
+.legend summary {
+  color: var(--text);
+  font-size: 0.78rem;
+}
