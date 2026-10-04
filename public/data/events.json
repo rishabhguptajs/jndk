@@ -1,0 +1,3193 @@
+[
+ {
+  "id": "1947-pojk-displacement",
+  "date": "1947-10",
+  "end_date": "1948-12",
+  "date_precision": "month",
+  "time": null,
+  "title": "Displacement of families from Pakistan-occupied areas",
+  "place_name": "Mirpur, Muzaffarabad, Bhimber, Kotli and other occupied areas",
+  "district_at_time": null,
+  "district_current": "Pakistan-occupied Jammu & Kashmir (PoJK)",
+  "region": "PoJK",
+  "lat": 33.1418,
+  "lng": 73.7674,
+  "geo_precision": "region",
+  "category": "exodus",
+  "tactic": "displacement",
+  "target_type": [
+   "civilians",
+   "minority_community"
+  ],
+  "victim_community": "Hindu and Sikh",
+  "perpetrator_group": [
+   "pakistan-army",
+   "tribal-lashkars-1947"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "The 1947 war displaced 31,619 families from areas that came under Pakistani occupation, according to the Union government. Of these, 26,319 families registered and settled in Jammu and Kashmir, and 5,300 moved to other parts of India. Many still await full rehabilitation.",
+  "sources": [
+   {
+    "id": "loksabha-pojk-dp-families",
+    "url": "https://eparlib.sansad.in/bitstream/123456789/969431/1/AU1608.pdf",
+    "archive_url": "https://web.archive.org/web/https://eparlib.sansad.in/bitstream/123456789/969431/1/AU1608.pdf",
+    "archive_checked": false,
+    "publisher": "Lok Sabha (Digital Library of Parliament)",
+    "title": "Unstarred question 1608: displaced persons from PoJK",
+    "date": null,
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "kashmirreader-31619-families",
+    "url": "https://kashmirreader.com/2020/02/12/31619-displaced-families-from-pak-registered-after-1947-govt/",
+    "archive_url": "https://web.archive.org/web/https://kashmirreader.com/2020/02/12/31619-displaced-families-from-pak-registered-after-1947-govt/",
+    "archive_checked": false,
+    "publisher": "Kashmir Reader",
+    "title": "31619 displaced families from Pak registered after 1947: Govt",
+    "date": "2020-02-12",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "pmindia-5300-families",
+    "url": "https://www.pmindia.gov.in/en/news_updates/cabinet-approves-inclusion-of-5300-dp-families-of-jk-1947-who-initially-opted-to-move-outside-the-state-of-jk/",
+    "archive_url": "https://web.archive.org/web/https://www.pmindia.gov.in/en/news_updates/cabinet-approves-inclusion-of-5300-dp-families-of-jk-1947-who-initially-opted-to-move-outside-the-state-of-jk/",
+    "archive_checked": false,
+    "publisher": "Prime Minister's Office (pmindia.gov.in)",
+    "title": "Cabinet approves inclusion of 5300 DP families of J&K 1947 who initially opted to move outside the state of J&K",
+    "date": "2019-10-09",
+    "pages": null,
+    "kind": "official"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "war-1947",
+   "refugees"
+  ],
+  "notes": "Figures are in families, not persons, as stated in the Lok Sabha answer."
+ },
+ {
+  "id": "1947-10-22-muzaffarabad-invasion",
+  "date": "1947-10-22",
+  "end_date": "1947-10-24",
+  "date_precision": "day",
+  "time": null,
+  "title": "Invasion of Muzaffarabad and killings at Domel",
+  "place_name": "Muzaffarabad and Domel",
+  "district_at_time": "Muzaffarabad",
+  "district_current": "Pakistan-occupied Jammu & Kashmir (PoJK)",
+  "region": "PoJK",
+  "lat": 34.37,
+  "lng": 73.4708,
+  "geo_precision": "village",
+  "category": "massacre",
+  "tactic": "armed_assault",
+  "target_type": [
+   "civilians",
+   "minority_community"
+  ],
+  "victim_community": "Hindu and Sikh",
+  "perpetrator_group": [
+   "pakistan-army",
+   "tribal-lashkars-1947"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 22 October 1947 tribal lashkars, armed, transported and led by Pakistan Army officers, crossed into Jammu and Kashmir and took Muzaffarabad within days. Hindu and Sikh residents and refugees were killed, their homes looted and burnt, and many women abducted. Men rounded up near Domel were shot and their bodies thrown into the river. India marks 22 October as a Black Day for the invasion.",
+  "sources": [
+   {
+    "id": "ians-oct22-1947",
+    "url": "https://ianslive.in/oct-22-1947-the-day-when-pakistan-betrayed-and-backstabbed-kashmiris--20231022150515",
+    "archive_url": "https://web.archive.org/web/https://ianslive.in/oct-22-1947-the-day-when-pakistan-betrayed-and-backstabbed-kashmiris--20231022150515",
+    "archive_checked": false,
+    "publisher": "IANS",
+    "title": "Oct 22, 1947: The day when Pakistan betrayed and backstabbed Kashmiris",
+    "date": "2023-10-22",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "pioneer-op-gulmarg",
+    "url": "https://www.dailypioneer.com/2020/columnists/a-sad-epoch-in-human-history.html",
+    "archive_url": "https://web.archive.org/web/https://www.dailypioneer.com/2020/columnists/a-sad-epoch-in-human-history.html",
+    "archive_checked": false,
+    "publisher": "The Pioneer",
+    "title": "A sad epoch in human history",
+    "date": "2020",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-paradise-lost",
+    "url": "https://www.tribuneindia.com/news/archive/comment/the-day-paradise-was-lost-850006",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/comment/the-day-paradise-was-lost-850006",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The day paradise was lost",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "ians-invasion-terrorism",
+    "url": "https://ianslive.in/pakistans-invasion-of-kashmir-in-october-1947-marked-beginning-of-terrorism-in-jk--20251021144145",
+    "archive_url": "https://web.archive.org/web/https://ianslive.in/pakistans-invasion-of-kashmir-in-october-1947-marked-beginning-of-terrorism-in-jk--20251021144145",
+    "archive_checked": false,
+    "publisher": "IANS",
+    "title": "'Pakistan's invasion of Kashmir in October 1947 marked beginning of terrorism in J&K'",
+    "date": "2025-10-21",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "operation-gulmarg",
+   "war-1947"
+  ],
+  "notes": "Death tolls for Muzaffarabad and Domel are not settled. One account cited here gives more than 1,000 killed at Domel alone; no single figure is recorded until a primary source is reviewed."
+ },
+ {
+  "id": "1947-10-26-baramulla-massacre",
+  "date": "1947-10-26",
+  "end_date": "1947-11-08",
+  "date_precision": "day",
+  "time": null,
+  "title": "Sack of Baramulla",
+  "place_name": "Baramulla, including St Joseph's Convent and hospital",
+  "district_at_time": "Baramulla",
+  "district_current": "Baramulla",
+  "region": "Kashmir Valley",
+  "lat": 34.209,
+  "lng": 74.3428,
+  "geo_precision": "village",
+  "category": "massacre",
+  "tactic": "armed_assault",
+  "target_type": [
+   "civilians"
+  ],
+  "victim_community": "Hindu, Sikh, Christian and Muslim residents",
+  "perpetrator_group": [
+   "pakistan-army",
+   "tribal-lashkars-1947"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": 3000,
+    "max": 3000
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [
+   {
+    "source_id": "tribune-spectrum-2008-baramulla",
+    "killed_total": 3000,
+    "note": "Estimate by surviving residents; only about 1,000 of some 14,000 residents remained"
+   }
+  ],
+  "victims": [
+   {
+    "name": "Lt Col D.O.T. Dykes",
+    "age": null,
+    "role": "Retired British Army officer",
+    "source_id": "bw-baramulla-raid"
+   },
+   {
+    "name": "Biddy Dykes",
+    "age": null,
+    "role": "Wife of Lt Col Dykes",
+    "source_id": "bw-baramulla-raid"
+   },
+   {
+    "name": "Motia Devi Kapoor",
+    "age": null,
+    "role": "Hospital patient",
+    "source_id": "bw-baramulla-raid"
+   },
+   {
+    "name": "Sister Teresalina",
+    "age": null,
+    "role": "Nun",
+    "source_id": "bw-baramulla-raid"
+   },
+   {
+    "name": "Philomena",
+    "age": null,
+    "role": "Nurse",
+    "source_id": "bw-baramulla-raid"
+   }
+  ],
+  "summary": "The lashkars reached Baramulla on 26 October 1947 and spent days looting the town instead of pressing on to Srinagar. Raiders stormed St Joseph's Convent and its hospital, killing nuns, staff and patients. Survivors estimated that about 3,000 townspeople were killed. The delay gave India time to fly troops into Srinagar.",
+  "sources": [
+   {
+    "id": "bw-baramulla-raid",
+    "url": "https://www.businessworld.in/article/october-1947-the-raid-on-baramulla-333463",
+    "archive_url": "https://web.archive.org/web/https://www.businessworld.in/article/october-1947-the-raid-on-baramulla-333463",
+    "archive_checked": false,
+    "publisher": "BW Businessworld",
+    "title": "October 1947: The raid on Baramulla",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-spectrum-2008-baramulla",
+    "url": "https://www.tribuneindia.com/2008/20080113/spectrum/main1.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2008/20080113/spectrum/main1.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Sunday Tribune - Spectrum (13 Jan 2008)",
+    "date": "2008-01-13",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "pioneer-op-gulmarg",
+    "url": "https://www.dailypioneer.com/2020/columnists/a-sad-epoch-in-human-history.html",
+    "archive_url": "https://web.archive.org/web/https://www.dailypioneer.com/2020/columnists/a-sad-epoch-in-human-history.html",
+    "archive_checked": false,
+    "publisher": "The Pioneer",
+    "title": "A sad epoch in human history",
+    "date": "2020",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "reported",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "operation-gulmarg",
+   "war-1947"
+  ],
+  "notes": "Only one attributed toll (residents' estimate of about 3,000). Higher figures circulate but are not yet tied to a reviewable source."
+ },
+ {
+  "id": "1947-10-27-indian-army-airlift",
+  "date": "1947-10-27",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Indian troops airlifted to Srinagar after accession",
+  "place_name": "Srinagar airfield",
+  "district_at_time": "Srinagar",
+  "district_current": "Budgam",
+  "region": "Kashmir Valley",
+  "lat": 34.0884,
+  "lng": 74.803,
+  "geo_precision": "tehsil",
+  "category": "war",
+  "tactic": "conventional_war",
+  "target_type": [
+   "military"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "Maharaja Hari Singh signed the Instrument of Accession to India on 26 October 1947. From the morning of 27 October the Indian Army flew its first troops into Srinagar airfield to stop the advance of the invaders on the city. The airlift is regarded as the step that saved Srinagar.",
+  "sources": [
+   {
+    "id": "tribune-giant-leap-srinagar",
+    "url": "https://www.tribuneindia.com/news/features/a-giant-leap-that-saved-srinagar-in-1947-10123",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/features/a-giant-leap-that-saved-srinagar-in-1947-10123",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "A giant leap that saved Srinagar in 1947",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-srinagar-saved",
+    "url": "https://www.tribuneindia.com/news/comment/how-srinagar-was-saved-from-pak-raiders-in-1947-444631/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/comment/how-srinagar-was-saved-from-pak-raiders-in-1947-444631/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "How Srinagar was saved from Pak raiders in 1947",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "idr-shalateng",
+    "url": "https://indiandefencereview.com/defence-of-srinagar-1947/",
+    "archive_url": "https://web.archive.org/web/https://indiandefencereview.com/defence-of-srinagar-1947/",
+    "archive_checked": false,
+    "publisher": "Indian Defence Review",
+    "title": "Battle of Shalateng",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "india-response",
+   "war-1947"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1947-10-28-fall-of-bhimber",
+  "date": "1947-10-28",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Fall of Bhimber",
+  "place_name": "Bhimber",
+  "district_at_time": "Mirpur",
+  "district_current": "Pakistan-occupied Jammu & Kashmir (PoJK)",
+  "region": "PoJK",
+  "lat": 32.9757,
+  "lng": 74.0793,
+  "geo_precision": "village",
+  "category": "massacre",
+  "tactic": "armed_assault",
+  "target_type": [
+   "civilians",
+   "minority_community"
+  ],
+  "victim_community": "Hindu and Sikh",
+  "perpetrator_group": [
+   "pakistan-army",
+   "tribal-lashkars-1947"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "Bhimber fell to Pakistan-backed forces in the early hours of 28 October 1947, the first town in the south of the state to be captured. Accounts describe men being killed and women and children taken hostage. No reliable toll has been found.",
+  "sources": [
+   {
+    "id": "de-peep-bhimber",
+    "url": "https://www.dailyexcelsior.com/a-peep-into-bhimber/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/a-peep-into-bhimber/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "A peep into Bhimber",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "jknow-oct1947-military-attack",
+    "url": "https://www.jammukashmirnow.com/Encyc/2023/10/30/Oct-1947-Jammu-and-Kashmir-The-Pakistani-Military-attack-disguised-as-a-Tribal-Invasion.html",
+    "archive_url": "https://web.archive.org/web/https://www.jammukashmirnow.com/Encyc/2023/10/30/Oct-1947-Jammu-and-Kashmir-The-Pakistani-Military-attack-disguised-as-a-Tribal-Invasion.html",
+    "archive_checked": false,
+    "publisher": "Jammu Kashmir Now",
+    "title": "Oct 1947 Jammu and Kashmir: The Pakistani Military attack disguised as a Tribal Invasion",
+    "date": "2023-10-30",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "war-1947"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1947-11-alibeg-camp",
+  "date": "1947-11",
+  "end_date": "1948-03",
+  "date_precision": "month",
+  "time": null,
+  "title": "Killings of prisoners at Alibeg camp",
+  "place_name": "Alibeg gurdwara camp, near Mirpur",
+  "district_at_time": "Mirpur",
+  "district_current": "Pakistan-occupied Jammu & Kashmir (PoJK)",
+  "region": "PoJK",
+  "lat": 33.1418,
+  "lng": 73.7674,
+  "geo_precision": "tehsil",
+  "category": "massacre",
+  "tactic": "mass_shooting",
+  "target_type": [
+   "civilians",
+   "minority_community"
+  ],
+  "victim_community": "Hindu and Sikh",
+  "perpetrator_group": [
+   "pakistan-army"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": 3000,
+    "max": 8000
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [
+   {
+    "source_id": "de-alibeg-prisoners",
+    "killed_total": 3000,
+    "note": "About 2,000 young men killed and more than 1,000 sick prisoners died by the end of December 1947"
+   },
+   {
+    "source_id": "jknow-chronicle-hostility",
+    "killed_total": 8000,
+    "note": "Says 7,000 to 8,000 detainees were killed, citing eyewitness and Red Cross accounts"
+   }
+  ],
+  "victims": [],
+  "summary": "Hindu and Sikh survivors from Mirpur and nearby areas were held in a gurdwara at Alibeg that Pakistani forces turned into a prison camp. Many were killed and others died of disease and hunger. The Red Cross reached the camp in early 1948 and about 1,600 survivors were moved to India in March 1948.",
+  "sources": [
+   {
+    "id": "de-alibeg-prisoners",
+    "url": "https://www.dailyexcelsior.com/death-of-mahatma-gandhi-and-alibeg-prisoners/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/death-of-mahatma-gandhi-and-alibeg-prisoners/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Death of Mahatma Gandhi and Alibeg Prisoners",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-managing-1947",
+    "url": "https://kashmirlife.net/managing-1947-mayhem-issue-44-vol-09-164264/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/managing-1947-mayhem-issue-44-vol-09-164264/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Managing 1947 Mayhem",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "jknow-chronicle-hostility",
+    "url": "https://www.jammukashmirnow.com/Encyc/2025/7/26/chronicle-of-pakistans-persistent-hostility-indias-rise-from-defence-to-deterrent-dominance.html",
+    "archive_url": "https://web.archive.org/web/https://www.jammukashmirnow.com/Encyc/2025/7/26/chronicle-of-pakistans-persistent-hostility-indias-rise-from-defence-to-deterrent-dominance.html",
+    "archive_checked": false,
+    "publisher": "Jammu Kashmir Now",
+    "title": "Chronicle of Pakistan's Persistent Hostility & India's Rise from Defence to Deterrent Dominance",
+    "date": "2025-07-26",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "disputed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "war-1947"
+  ],
+  "notes": "Published tolls range from about 3,000 to 8,000. The range is shown, no single figure is chosen."
+ },
+ {
+  "id": "1947-11-01-gilgit-coup",
+  "date": "1947-11-01",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Gilgit Scouts revolt and seizure of Gilgit",
+  "place_name": "Gilgit",
+  "district_at_time": "Gilgit",
+  "district_current": "Gilgit-Baltistan (Pakistan-occupied)",
+  "region": "PoJK",
+  "lat": 35.9187,
+  "lng": 74.3124,
+  "geo_precision": "village",
+  "category": "war",
+  "tactic": "armed_assault",
+  "target_type": [
+   "political",
+   "military"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "gilgit-scouts-1947"
+  ],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 1 November 1947 the Gilgit Scouts revolted, arrested the state's Governor and declared for Pakistan, which took over the area soon after. The revolt cut Gilgit off from the state and opened the way for attacks on Skardu and Ladakh.",
+  "sources": [
+   {
+    "id": "de-fall-of-gilgit",
+    "url": "https://www.dailyexcelsior.com/fall-of-gilgit/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/fall-of-gilgit/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Fall of Gilgit",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-gilgit-baltistan",
+    "url": "https://theprint.in/opinion/the-politics-military-tactics-geography-behind-how-pakistan-won-gilgit-baltistan-from-india/284288/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/opinion/the-politics-military-tactics-geography-behind-how-pakistan-won-gilgit-baltistan-from-india/284288/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "The politics, military tactics & geography behind how Pakistan won Gilgit-Baltistan from India",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "war-1947"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1947-11-07-rajouri-massacre",
+  "date": "1947-11-07",
+  "end_date": "1947-11-12",
+  "date_precision": "day",
+  "time": null,
+  "title": "Rajouri massacre",
+  "place_name": "Rajouri town",
+  "district_at_time": null,
+  "district_current": "Rajouri",
+  "region": "Jammu",
+  "lat": 33.3753,
+  "lng": 74.3092,
+  "geo_precision": "village",
+  "category": "massacre",
+  "tactic": "mass_shooting",
+  "target_type": [
+   "civilians",
+   "minority_community"
+  ],
+  "victim_community": "Hindu and Sikh",
+  "perpetrator_group": [
+   "pakistan-army",
+   "tribal-lashkars-1947"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": 3000,
+    "max": 30000
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [
+   {
+    "source_id": "jknow-rajouri-1947",
+    "killed_total": 30000,
+    "note": "Says more than 30,000 killed over the period of occupation, and more than 3,000 in one day"
+   },
+   {
+    "source_id": "de-rajouri-files",
+    "note": "Reports thousands killed and 3,000 to 3,500 women who took their own lives"
+   }
+  ],
+  "victims": [],
+  "summary": "Pakistani troops and raiders captured Rajouri on 7 November 1947, when the town was crowded with Hindu and Sikh refugees from the west. Killings peaked around Diwali on 11 and 12 November, and many women took their own lives to avoid capture. The town remained under occupation until the Indian Army retook it on 12 to 13 April 1948.",
+  "sources": [
+   {
+    "id": "jknow-rajouri-1947",
+    "url": "https://www.jammukashmirnow.com/Encyc/2023/11/12/12-November-1947-Rajouri-Massacre-when-thousands-of-Hindus-and-Sikhs-were-slaughtered-by-Pakistani-marauders.html",
+    "archive_url": "https://web.archive.org/web/https://www.jammukashmirnow.com/Encyc/2023/11/12/12-November-1947-Rajouri-Massacre-when-thousands-of-Hindus-and-Sikhs-were-slaughtered-by-Pakistani-marauders.html",
+    "archive_checked": false,
+    "publisher": "Jammu Kashmir Now",
+    "title": "11-12 November 1947: Rajouri Massacre, when thousands of Hindus and Sikhs were slaughtered by Pakistani marauders",
+    "date": "2023-11-12",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-rajouri-files",
+    "url": "https://www.dailyexcelsior.com/rajouri-files-1947-the-unforgettable-massacre-johar/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/rajouri-files-1947-the-unforgettable-massacre-johar/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Rajouri Files : 1947 The unforgettable massacre & Johar",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "organiser-rajouri-jauhar",
+    "url": "https://organiser.org/2017/11/14/119697/bharat/special-story-j-k-a-jauhar-in-rajouri-2/",
+    "archive_url": "https://web.archive.org/web/https://organiser.org/2017/11/14/119697/bharat/special-story-j-k-a-jauhar-in-rajouri-2/",
+    "archive_checked": false,
+    "publisher": "Organiser",
+    "title": "Special Story/J&K : A Jauhar in Rajouri",
+    "date": "2017-11-14",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "disputed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "war-1947"
+  ],
+  "notes": "Published tolls range from more than 3,000 in one day to more than 30,000 over the occupation. The range is shown, no single figure is chosen."
+ },
+ {
+  "id": "1947-11-07-shalateng",
+  "date": "1947-11-07",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Battle of Shalateng",
+  "place_name": "Shalateng, outskirts of Srinagar",
+  "district_at_time": "Srinagar",
+  "district_current": "Srinagar",
+  "region": "Kashmir Valley",
+  "lat": 34.0884,
+  "lng": 74.803,
+  "geo_precision": "tehsil",
+  "category": "war",
+  "tactic": "conventional_war",
+  "target_type": [
+   "military"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "pakistan-army",
+   "tribal-lashkars-1947"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "Indian troops routed the main body of the invaders at Shalateng on the edge of Srinagar on 7 November 1947. The victory ended the threat to the city and opened the way to retake Baramulla and Uri.",
+  "sources": [
+   {
+    "id": "idr-shalateng",
+    "url": "https://indiandefencereview.com/defence-of-srinagar-1947/",
+    "archive_url": "https://web.archive.org/web/https://indiandefencereview.com/defence-of-srinagar-1947/",
+    "archive_checked": false,
+    "publisher": "Indian Defence Review",
+    "title": "Battle of Shalateng",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-srinagar-saved",
+    "url": "https://www.tribuneindia.com/news/comment/how-srinagar-was-saved-from-pak-raiders-in-1947-444631/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/comment/how-srinagar-was-saved-from-pak-raiders-in-1947-444631/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "How Srinagar was saved from Pak raiders in 1947",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "india-response",
+   "war-1947"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1947-11-poonch-siege",
+  "date": "1947-11-22",
+  "end_date": "1948-11-21",
+  "date_precision": "day",
+  "time": null,
+  "title": "Siege of Poonch",
+  "place_name": "Poonch town",
+  "district_at_time": "Poonch",
+  "district_current": "Poonch",
+  "region": "Jammu",
+  "lat": 33.7697,
+  "lng": 74.0921,
+  "geo_precision": "village",
+  "category": "war",
+  "tactic": "conventional_war",
+  "target_type": [
+   "civilians",
+   "military"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "pakistan-army",
+   "tribal-lashkars-1947"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "Poonch, crowded with refugees, was surrounded by Pakistani forces from late November 1947. Under Brigadier Pritam Singh the garrison and residents built an airstrip in about a week, and supplies came in by air from December 1947 despite shelling. The siege was broken in November 1948 when a relief force linked up with the garrison.",
+  "sources": [
+   {
+    "id": "idr-pritam-singh-poonch",
+    "url": "https://indiandefencereview.com/brigadier-pritam-singh-the-saviour-of-poonch/",
+    "archive_url": "https://web.archive.org/web/https://indiandefencereview.com/brigadier-pritam-singh-the-saviour-of-poonch/",
+    "archive_checked": false,
+    "publisher": "Indian Defence Review",
+    "title": "Brigadier Pritam Singh: The Saviour of Poonch",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-poonch-siege",
+    "url": "https://www.tribuneindia.com/news/musings/how-poonch-withstood-the-siege-453656/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/musings/how-poonch-withstood-the-siege-453656/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "How Poonch withstood the siege",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-saviours-poonch",
+    "url": "https://www.dailyexcelsior.com/news/archive/saviours-poonch",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/news/archive/saviours-poonch",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Saviours of Poonch",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "war-1947"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1947-11-25-mirpur-massacre",
+  "date": "1947-11-25",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Mirpur massacre",
+  "place_name": "Mirpur town",
+  "district_at_time": "Mirpur",
+  "district_current": "Pakistan-occupied Jammu & Kashmir (PoJK)",
+  "region": "PoJK",
+  "lat": 33.1418,
+  "lng": 73.7674,
+  "geo_precision": "village",
+  "category": "massacre",
+  "tactic": "armed_assault",
+  "target_type": [
+   "civilians",
+   "minority_community"
+  ],
+  "victim_community": "Hindu and Sikh",
+  "perpetrator_group": [
+   "pakistan-army",
+   "tribal-lashkars-1947"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": 18000,
+    "max": 20000
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [
+   {
+    "source_id": "de-ferocious-bloodbath-mirpur",
+    "killed_total": 18000,
+    "note": "About 18,000 killed within 24 hours"
+   },
+   {
+    "source_id": "jknow-mirpur-20000",
+    "killed_total": 20000
+   }
+  ],
+  "victims": [],
+  "summary": "Mirpur, home to some 25,000 to 30,000 Hindus and Sikhs including refugees, fell to Pakistani forces and raiders on 25 November 1947 after a night of shelling. Thousands were killed within a day and many women took their own lives. About 3,500 survivors were held at a camp at Alibeg, while others reached Jammu on foot.",
+  "sources": [
+   {
+    "id": "de-ferocious-bloodbath-mirpur",
+    "url": "https://www.dailyexcelsior.com/ferocious-bloodbath-of-mirpur/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/ferocious-bloodbath-of-mirpur/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Ferocious bloodbath of Mirpur",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-fall-of-mirpur",
+    "url": "https://www.dailyexcelsior.com/fall-of-mirpur/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/fall-of-mirpur/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Fall of Mirpur",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "jknow-mirpur-20000",
+    "url": "https://www.jammukashmirnow.com/Encyc/2023/11/24/25-November1947-Mirpur-massacre-A-day-that-stands-among-the-worst-in-history-when-20-000-Hindus-and-Sikhs-w.html",
+    "archive_url": "https://web.archive.org/web/https://www.jammukashmirnow.com/Encyc/2023/11/24/25-November1947-Mirpur-massacre-A-day-that-stands-among-the-worst-in-history-when-20-000-Hindus-and-Sikhs-w.html",
+    "archive_checked": false,
+    "publisher": "Jammu Kashmir Now",
+    "title": "November 25, 1947 Mirpur massacre: A day that stands among the worst in history when 20,000 Hindus and Sikhs were slaughtered",
+    "date": "2023-11-24",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-mirpur-refugees",
+    "url": "https://www.tribuneindia.com/news/comment/mirpur-refugees-jammus-bakshi-nagar-and-bus-stop-drama/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/comment/mirpur-refugees-jammus-bakshi-nagar-and-bus-stop-drama/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Mirpur refugees, Jammu's Bakshi Nagar, and bus stop drama",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "disputed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "war-1947"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1948-02-naushera",
+  "date": "1948-02",
+  "end_date": null,
+  "date_precision": "month",
+  "time": null,
+  "title": "Battle of Naushera",
+  "place_name": "Naushera",
+  "district_at_time": null,
+  "district_current": "Rajouri",
+  "region": "Jammu",
+  "lat": 33.3111,
+  "lng": 74.402,
+  "geo_precision": "district",
+  "category": "war",
+  "tactic": "conventional_war",
+  "target_type": [
+   "military"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "pakistan-army",
+   "tribal-lashkars-1947"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "In February 1948 the 50 Parachute Brigade under Brigadier Mohammad Usman beat back a major Pakistani assault on Naushera. The brigade later retook Jhangar.",
+  "sources": [
+   {
+    "id": "de-lion-nowshera",
+    "url": "https://www.dailyexcelsior.com/the-lion-who-saved-nowshera/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/the-lion-who-saved-nowshera/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "The Lion who saved Nowshera",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-jhangar-day",
+    "url": "https://theprint.in/india/indian-army-celebrates-jhangar-day-to-commemorate-sacrifice-of-brigadier-usman/2678719/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/indian-army-celebrates-jhangar-day-to-commemorate-sacrifice-of-brigadier-usman/2678719/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Indian Army celebrates Jhangar Day to commemorate sacrifice of Brigadier Usman",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": false,
+  "cross_border": false,
+  "tags": [
+   "india-response",
+   "war-1947"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1948-04-13-rajouri-recaptured",
+  "date": "1948-04-13",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Indian Army retakes Rajouri",
+  "place_name": "Rajouri town",
+  "district_at_time": null,
+  "district_current": "Rajouri",
+  "region": "Jammu",
+  "lat": 33.3753,
+  "lng": 74.3092,
+  "geo_precision": "village",
+  "category": "war",
+  "tactic": "conventional_war",
+  "target_type": [
+   "military"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "Indian troops recaptured Rajouri on 12 to 13 April 1948 after five months of occupation. They found the town ruined and its Hindu and Sikh population largely killed or gone.",
+  "sources": [
+   {
+    "id": "de-rajouri-reclaimed",
+    "url": "https://www.dailyexcelsior.com/april-13-1948-when-rajouri-was-reclaimed/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/april-13-1948-when-rajouri-was-reclaimed/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "April 13, 1948 When Rajouri was reclaimed",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "jknow-rajouri-reclaimed",
+    "url": "https://www.jammukashmirnow.com/Encyc/2022/4/12/12-April-1948-When-Rajouri-was-reclaimed-by-Indian-Army-Story-of-Story-of-Rajouri-Massacre.amp.html",
+    "archive_url": "https://web.archive.org/web/https://www.jammukashmirnow.com/Encyc/2022/4/12/12-April-1948-When-Rajouri-was-reclaimed-by-Indian-Army-Story-of-Story-of-Rajouri-Massacre.amp.html",
+    "archive_checked": false,
+    "publisher": "Jammu Kashmir Now",
+    "title": "12 April 1948; When Rajouri was reclaimed by Indian Army; Story of Rajouri Massacre",
+    "date": "2022-04-12",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": false,
+  "cross_border": false,
+  "tags": [
+   "india-response",
+   "war-1947"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1948-07-03-brigadier-usman-killed",
+  "date": "1948-07-03",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Brigadier Mohammad Usman killed at Jhangar",
+  "place_name": "Jhangar",
+  "district_at_time": null,
+  "district_current": "Rajouri",
+  "region": "Jammu",
+  "lat": 33.3111,
+  "lng": 74.402,
+  "geo_precision": "district",
+  "category": "war",
+  "tactic": "artillery_shelling",
+  "target_type": [
+   "military"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "pakistan-army"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": 1,
+    "max": 1
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Brigadier Mohammad Usman",
+    "age": null,
+    "role": "Commander",
+    "source_id": "theprint-jhangar-day"
+   }
+  ],
+  "summary": "Brigadier Mohammad Usman, who had held Naushera and retaken Jhangar, was killed by a Pakistani shell on 3 July 1948. He remains the highest-ranking Indian officer killed in battle, and the Army marks Jhangar Day in his memory.",
+  "sources": [
+   {
+    "id": "theprint-jhangar-day",
+    "url": "https://theprint.in/india/indian-army-celebrates-jhangar-day-to-commemorate-sacrifice-of-brigadier-usman/2678719/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/indian-army-celebrates-jhangar-day-to-commemorate-sacrifice-of-brigadier-usman/2678719/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Indian Army celebrates Jhangar Day to commemorate sacrifice of Brigadier Usman",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "pioneer-brig-usman",
+    "url": "https://www.dailypioneer.com/2025/world/army-pays-tribute-to-brigadier-usman.html",
+    "archive_url": "https://web.archive.org/web/https://www.dailypioneer.com/2025/world/army-pays-tribute-to-brigadier-usman.html",
+    "archive_checked": false,
+    "publisher": "The Pioneer",
+    "title": "Army pays tribute to Brigadier Usman",
+    "date": "2025",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-lion-nowshera",
+    "url": "https://www.dailyexcelsior.com/the-lion-who-saved-nowshera/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/the-lion-who-saved-nowshera/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "The Lion who saved Nowshera",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "war-1947"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1948-08-14-fall-of-skardu",
+  "date": "1948-08-14",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Fall of Skardu and killing of the garrison",
+  "place_name": "Skardu fort",
+  "district_at_time": null,
+  "district_current": "Gilgit-Baltistan (Pakistan-occupied)",
+  "region": "PoJK",
+  "lat": 35.2885,
+  "lng": 75.6333,
+  "geo_precision": "village",
+  "category": "massacre",
+  "tactic": "armed_assault",
+  "target_type": [
+   "military",
+   "civilians",
+   "minority_community"
+  ],
+  "victim_community": "Hindu and Sikh refugees and soldiers",
+  "perpetrator_group": [
+   "gilgit-scouts-1947",
+   "pakistan-army"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "The 6th Jammu and Kashmir Infantry under Lt Col Sher Jung Thapa held Skardu fort for about six months against forces from Gilgit. Out of food and ammunition, the garrison surrendered on 14 August 1948. Soldiers and the refugees sheltering with them were then killed, and women in the garrison took their own lives. Thapa was taken prisoner.",
+  "sources": [
+   {
+    "id": "tribune-skardu-defenders",
+    "url": "https://www.tribuneindia.com/news/archive/comment/spare-a-thought-for-those-defenders-of-skardu-121327/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/comment/spare-a-thought-for-those-defenders-of-skardu-121327/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Spare a thought for those defenders of Skardu",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "jknow-battle-skardu",
+    "url": "https://www.jammukashmirnow.com/Encyc/2020/2/14/BATTLE-OF-SKARDU-a-story-of-determination-courage-and-hope-Indo-Pak-war.html",
+    "archive_url": "https://web.archive.org/web/https://www.jammukashmirnow.com/Encyc/2020/2/14/BATTLE-OF-SKARDU-a-story-of-determination-courage-and-hope-Indo-Pak-war.html",
+    "archive_checked": false,
+    "publisher": "Jammu Kashmir Now",
+    "title": "BATTLE OF SKARDU- a story of determination, courage and hope- Indo-Pak war",
+    "date": "2020-02-14",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-gilgit-baltistan",
+    "url": "https://theprint.in/opinion/the-politics-military-tactics-geography-behind-how-pakistan-won-gilgit-baltistan-from-india/284288/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/opinion/the-politics-military-tactics-geography-behind-how-pakistan-won-gilgit-baltistan-from-india/284288/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "The politics, military tactics & geography behind how Pakistan won Gilgit-Baltistan from India",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "war-1947"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1948-11-01-zoji-la",
+  "date": "1948-11-01",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Operation Bison, tanks at Zoji La",
+  "place_name": "Zoji La pass",
+  "district_at_time": null,
+  "district_current": "Ganderbal",
+  "region": "Kashmir Valley",
+  "lat": 34.28,
+  "lng": 75.47,
+  "geo_precision": "tehsil",
+  "category": "war",
+  "tactic": "conventional_war",
+  "target_type": [
+   "military"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 1 November 1948 Indian light tanks crossed Zoji La at more than 11,500 feet and surprised the Pakistani-backed forces holding the pass. The attack reopened the road to Kargil and Ladakh.",
+  "sources": [
+   {
+    "id": "theprint-zojila-1948",
+    "url": "https://theprint.in/defence/zojila-battle-of-1948-when-indians-surprised-pakistan-with-tanks-at-11553-ft/314474/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/zojila-battle-of-1948-when-indians-surprised-pakistan-with-tanks-at-11553-ft/314474/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Zojila battle of 1948, when Indians surprised Pakistan with tanks at 11,553 ft",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-zojila-tanks",
+    "url": "https://www.tribuneindia.com/news/j-k/when-tanks-drove-on-snow-at-zoji-la-to-secure-ladakh-from-pak-militia-558572",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/when-tanks-drove-on-snow-at-zoji-la-to-secure-ladakh-from-pak-militia-558572",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "When tanks drove on snow at Zoji La to secure Ladakh from Pakistani militia",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "india-response",
+   "war-1947"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1949-01-01-ceasefire",
+  "date": "1949-01-01",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Ceasefire ends the first war",
+  "place_name": "Jammu and Kashmir",
+  "district_at_time": null,
+  "district_current": null,
+  "region": "Kashmir Valley",
+  "lat": 34.1583,
+  "lng": 74.9377,
+  "geo_precision": "region",
+  "category": "policy",
+  "tactic": "policy_measure",
+  "target_type": [
+   "none"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "A UN-brokered ceasefire took effect at midnight on 1 January 1949. Pakistan was left in occupation of Mirpur, Muzaffarabad, parts of Poonch and the Gilgit region. The ceasefire line was fixed by the Karachi Agreement of July 1949.",
+  "sources": [
+   {
+    "id": "un-unipom-background",
+    "url": "https://peacekeeping.un.org/ar/mission/past/unipombackgr.html",
+    "archive_url": "https://web.archive.org/web/https://peacekeeping.un.org/ar/mission/past/unipombackgr.html",
+    "archive_checked": false,
+    "publisher": "United Nations Peacekeeping",
+    "title": "India/Pakistan, UNIPOM background",
+    "date": null,
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "kashmirlife-karachi-agreement",
+    "url": "https://kashmirlife.net/karachi-agreement-12109/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/karachi-agreement-12109/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Karachi Agreement",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "war-1947"
+  ],
+  "notes": "The UN commission reported in August 1948 that regular Pakistani troops were inside the state, a material change in the situation."
+ },
+ {
+  "id": "1965-08-05-operation-gibraltar",
+  "date": "1965-08-05",
+  "end_date": "1965-08-31",
+  "date_precision": "day",
+  "time": null,
+  "title": "Operation Gibraltar, Pakistani infiltration into Kashmir",
+  "place_name": "Ceasefire line from Kargil to Mendhar",
+  "district_at_time": null,
+  "district_current": null,
+  "region": "Kashmir Valley",
+  "lat": 34,
+  "lng": 74.8,
+  "geo_precision": "region",
+  "category": "infiltration",
+  "tactic": "armed_assault",
+  "target_type": [
+   "military",
+   "civilians"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "pakistan-army"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "From the night of 5 August 1965 Pakistan sent armed infiltrators, many of them soldiers dressed as locals, across the ceasefire line through routes in Gurez, Tithwal, Uri, Poonch, Rajouri and Kargil. The plan was to start an uprising in the Valley. Local people did not rise and often reported the infiltrators to the authorities, and the operation failed.",
+  "sources": [
+   {
+    "id": "de-op-gibraltar",
+    "url": "https://www.dailyexcelsior.com/operation-gibraltar-that-failed-in-kashmir/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/operation-gibraltar-that-failed-in-kashmir/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Operation Gibraltar that failed in Kashmir",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-op-gibraltar",
+    "url": "https://www.tribuneindia.com/news/comment/how-india-foiled-op-gibraltar-in-1965/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/comment/how-india-foiled-op-gibraltar-in-1965/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "How India foiled Op Gibraltar in 1965",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "idr-1965-valour",
+    "url": "https://indiandefencereview.com/1965-war-the-valour-and-the-victory/",
+    "archive_url": "https://web.archive.org/web/https://indiandefencereview.com/1965-war-the-valour-and-the-victory/",
+    "archive_checked": false,
+    "publisher": "Indian Defence Review",
+    "title": "1965 War: The Valour and the Victory",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "war-1965"
+  ],
+  "notes": "Published estimates of the size of the infiltrating force differ widely and are not recorded here."
+ },
+ {
+  "id": "1965-08-28-haji-pir-captured",
+  "date": "1965-08-28",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Indian paratroopers capture the Haji Pir pass",
+  "place_name": "Haji Pir pass",
+  "district_at_time": null,
+  "district_current": "Pakistan-occupied Jammu & Kashmir (PoJK)",
+  "region": "PoJK",
+  "lat": 33.97,
+  "lng": 74.08,
+  "geo_precision": "region",
+  "category": "war",
+  "tactic": "ground_raid",
+  "target_type": [
+   "military"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "To cut the main infiltration route into the Valley, 1 Para under Major Ranjit Singh Dyal climbed about 4,000 feet overnight and took the Haji Pir pass on the morning of 28 August 1965. Dyal received the Maha Vir Chakra. The pass was handed back to Pakistan under the Tashkent Declaration of 1966.",
+  "sources": [
+   {
+    "id": "tribune-hajipir-victory",
+    "url": "https://www.tribuneindia.com/news/comment/the-glorious-victory-at-hajipir-in-1965-132361/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/comment/the-glorious-victory-at-hajipir-in-1965-132361/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The glorious victory at Hajipir in 1965",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-hajipir-excerpt",
+    "url": "https://theprint.in/pageturner/excerpt/indias-original-surgical-strike-how-the-haji-pir-pass-was-captured-in-1965/128551/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/pageturner/excerpt/indias-original-surgical-strike-how-the-haji-pir-pass-was-captured-in-1965/128551/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "India's original surgical strike: How the Haji Pir pass was captured in 1965",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-return-hajipir",
+    "url": "https://www.tribuneindia.com/news/archive/comment/return-of-haji-pir-still-haunts-us-287239/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/comment/return-of-haji-pir-still-haunts-us-287239/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Return of Haji Pir still haunts us",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "war-1965",
+   "india-response"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1965-09-01-operation-grand-slam",
+  "date": "1965-09-01",
+  "end_date": "1965-09-05",
+  "date_precision": "day",
+  "time": null,
+  "title": "Operation Grand Slam, Pakistani armoured attack at Chhamb",
+  "place_name": "Chhamb and Jaurian, Akhnoor sector",
+  "district_at_time": "Jammu",
+  "district_current": "Jammu",
+  "region": "Jammu",
+  "lat": 32.8667,
+  "lng": 74.7333,
+  "geo_precision": "tehsil",
+  "category": "war",
+  "tactic": "conventional_war",
+  "target_type": [
+   "military"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "pakistan-army"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "At 4 am on 1 September 1965 Pakistan attacked on the Chhamb and Akhnoor axis with an infantry division and Patton tanks, aiming to cut the road linking Jammu to the Valley. Chhamb fell on 2 September and Jaurian on 4 September. The advance was halted short of Akhnoor as India opened new fronts in Punjab.",
+  "sources": [
+   {
+    "id": "idr-1965-valour",
+    "url": "https://indiandefencereview.com/1965-war-the-valour-and-the-victory/",
+    "archive_url": "https://web.archive.org/web/https://indiandefencereview.com/1965-war-the-valour-and-the-victory/",
+    "archive_checked": false,
+    "publisher": "Indian Defence Review",
+    "title": "1965 War: The Valour and the Victory",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-1965-overview",
+    "url": "https://www.dailyexcelsior.com/an-over-view-of-the-indo-pak-war-of-1965/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/an-over-view-of-the-indo-pak-war-of-1965/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "An Over view of the Indo-Pak War of 1965",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "war-1965"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1965-09-23-ceasefire",
+  "date": "1965-09-23",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Ceasefire ends the 1965 war",
+  "place_name": "Jammu and Kashmir and the Punjab front",
+  "district_at_time": null,
+  "district_current": null,
+  "region": "Jammu",
+  "lat": 33,
+  "lng": 75,
+  "geo_precision": "region",
+  "category": "policy",
+  "tactic": "policy_measure",
+  "target_type": [
+   "none"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "A UN-backed ceasefire took effect on 23 September 1965. Under the Tashkent Declaration signed on 10 January 1966, both sides pulled back to positions held before 5 August 1965, which meant India returned the Haji Pir pass.",
+  "sources": [
+   {
+    "id": "theprint-tashkent",
+    "url": "https://theprint.in/opinion/little-lenin-shastri-worked-his-magic-to-keep-kashmir-issue-out-of-tashkent-declaration/799484/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/opinion/little-lenin-shastri-worked-his-magic-to-keep-kashmir-issue-out-of-tashkent-declaration/799484/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Shastri-Ayub Tashkent pact ended 1965 War. And brought Russia into South Asian politics",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-agreements-history",
+    "url": "https://www.tribuneindia.com/news/india/india-pakistan-relations-a-history-of-agreements-and-treaties/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/india/india-pakistan-relations-a-history-of-agreements-and-treaties/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "India-Pakistan relations: A history of agreements and treaties",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-1965-overview",
+    "url": "https://www.dailyexcelsior.com/an-over-view-of-the-indo-pak-war-of-1965/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/an-over-view-of-the-indo-pak-war-of-1965/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "An Over view of the Indo-Pak War of 1965",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "war-1965"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1971-01-30-ganga-hijacking",
+  "date": "1971-01-30",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Hijacking of Indian Airlines flight Ganga to Lahore",
+  "place_name": "Srinagar to Jammu flight, taken to Lahore",
+  "district_at_time": "Srinagar",
+  "district_current": "Srinagar",
+  "region": "Kashmir Valley",
+  "lat": 34.0884,
+  "lng": 74.803,
+  "geo_precision": "tehsil",
+  "category": "abduction",
+  "tactic": "hijacking",
+  "target_type": [
+   "civilians"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "jk-nlf"
+  ],
+  "attribution": "claimed",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": 0,
+    "max": 0
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 30 January 1971 two members of the National Liberation Front, Hashim Qureshi and his cousin, hijacked the Indian Airlines Fokker Friendship Ganga soon after take-off from Srinagar and forced it to land at Lahore. Passengers and crew were sent back to India, but the aircraft was destroyed on the ground in Lahore. India responded by banning Pakistani flights over its territory, which hampered Pakistan later that year.",
+  "sources": [
+   {
+    "id": "theprint-ganga-hijack",
+    "url": "https://theprint.in/theprint-explorer/how-1971-indian-airlines-hijacking-led-pakistan-to-add-false-flag-to-its-terror-denial-toolkit/2615585/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/theprint-explorer/how-1971-indian-airlines-hijacking-led-pakistan-to-add-false-flag-to-its-terror-denial-toolkit/2615585/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "How 1971 Indian Airlines hijacking led Pakistan to add 'false flag' to its terror denial toolkit",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-ganga-pilot",
+    "url": "https://www.tribuneindia.com/news/archive/nation/pilot-of-indian-airlines-flight-hijacked-to-pak-in-1971-passes-away-566661/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/nation/pilot-of-indian-airlines-flight-hijacked-to-pak-in-1971-passes-away-566661/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Pilot of Indian Airlines flight hijacked to Pak in 1971 passes away",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-exiled-by-hijack",
+    "url": "https://kashmirlife.net/exiled-by-hijack-issue-30-vol-10-189851/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/exiled-by-hijack-issue-30-vol-10-189851/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Exiled By Hijack",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": true,
+  "tags": [
+   "hijacking"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1971-12-turtuk-liberated",
+  "date": "1971-12",
+  "end_date": null,
+  "date_precision": "month",
+  "time": null,
+  "title": "Turtuk and nearby villages retaken in Ladakh",
+  "place_name": "Turtuk, Chalunkha, Thang and Takshi, Nubra",
+  "district_at_time": "Leh",
+  "district_current": "Leh",
+  "region": "Ladakh",
+  "lat": 34.85,
+  "lng": 76.83,
+  "geo_precision": "tehsil",
+  "category": "war",
+  "tactic": "ground_raid",
+  "target_type": [
+   "military"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "In December 1971 troops led by Major Chewang Rinchen of the Ladakh Scouts advanced about 22 km through mountains in winter, without artillery support. They retook more than 800 sq km held by Pakistan since 1948, including the villages of Turtuk, Chalunkha, Thang and Takshi.",
+  "sources": [
+   {
+    "id": "tribune-mahavirs-nubra",
+    "url": "https://www.tribuneindia.com/news/features/maha-virs-of-nubra-kargil-243918",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/features/maha-virs-of-nubra-kargil-243918",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Maha Virs of Nubra & Kargil",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-rinchen-statue",
+    "url": "https://theprint.in/india/statue-of-lion-of-ladakh-col-rinchen-comes-up-in-leh/1054916/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/statue-of-lion-of-ladakh-col-rinchen-comes-up-in-leh/1054916/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Statue of 'Lion of Ladakh' Col Rinchen comes up in Leh",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "war-1971",
+   "india-response"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1971-12-03-battle-of-chhamb",
+  "date": "1971-12-03",
+  "end_date": "1971-12-10",
+  "date_precision": "day",
+  "time": null,
+  "title": "Battle of Chhamb, 1971",
+  "place_name": "Chhamb sector",
+  "district_at_time": "Jammu",
+  "district_current": "Jammu",
+  "region": "Jammu",
+  "lat": 32.8667,
+  "lng": 74.7333,
+  "geo_precision": "tehsil",
+  "category": "war",
+  "tactic": "conventional_war",
+  "target_type": [
+   "military"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "pakistan-army"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On the night of 3 to 4 December 1971 Pakistan attacked in the Chhamb sector with a strong force, alongside air strikes on Indian airfields that opened the war in the west. India lost Chhamb for the second time in six years.",
+  "sources": [
+   {
+    "id": "tribune-1971-first-day",
+    "url": "https://www.tribuneindia.com/news/anniversary/first-day-of-1971-war/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/anniversary/first-day-of-1971-war/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "First day of 1971 War",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "idr-chamb-1971",
+    "url": "https://indiandefencereview.com/review-of-battle-of-chamb-1971/",
+    "archive_url": "https://web.archive.org/web/https://indiandefencereview.com/review-of-battle-of-chamb-1971/",
+    "archive_checked": false,
+    "publisher": "Indian Defence Review",
+    "title": "Review of Battle of Chamb 1971",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "war-1971"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1972-07-02-simla-agreement",
+  "date": "1972-07-02",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Simla Agreement and the Line of Control",
+  "place_name": "Simla",
+  "district_at_time": null,
+  "district_current": null,
+  "region": "Outside J&K",
+  "lat": 33,
+  "lng": 75,
+  "geo_precision": "region",
+  "category": "policy",
+  "tactic": "policy_measure",
+  "target_type": [
+   "none"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "India and Pakistan signed the Simla Agreement on 2 July 1972 after the 1971 war. The ceasefire line at the end of the 1971 war became the Line of Control, and both sides agreed to settle differences bilaterally.",
+  "sources": [
+   {
+    "id": "tribune-agreements-history",
+    "url": "https://www.tribuneindia.com/news/india/india-pakistan-relations-a-history-of-agreements-and-treaties/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/india/india-pakistan-relations-a-history-of-agreements-and-treaties/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "India-Pakistan relations: A history of agreements and treaties",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-indo-pak-timeline",
+    "url": "https://theprint.in/india/timeline-of-indo-pak-armed-conflicts-since-1947/2617868/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/timeline-of-indo-pak-armed-conflicts-since-1947/2617868/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Timeline of Indo-Pak armed conflicts since 1947",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": true,
+  "tags": [
+   "war-1971"
+  ],
+  "notes": "Placed on the map at a generic Jammu region point only so it appears on the timeline; the agreement was signed outside J&K."
+ },
+ {
+  "id": "1984-02-ravindra-mhatre",
+  "date": "1984-02",
+  "end_date": null,
+  "date_precision": "month",
+  "time": null,
+  "title": "Abduction and killing of diplomat Ravindra Mhatre in Birmingham",
+  "place_name": "Birmingham, United Kingdom",
+  "district_at_time": null,
+  "district_current": null,
+  "region": "Outside J&K",
+  "lat": 52.48,
+  "lng": -1.9,
+  "geo_precision": "region",
+  "category": "targeted_killing",
+  "tactic": "kidnapping",
+  "target_type": [
+   "political"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "jklf"
+  ],
+  "attribution": "claimed",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": 1,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Ravindra Mhatre",
+    "age": null,
+    "role": "Indian diplomat",
+    "source_id": "theprint-maqbool-bhat"
+   }
+  ],
+  "summary": "In February 1984 Indian diplomat Ravindra Mhatre was abducted in Birmingham by militants who demanded the release of JKLF founder Maqbool Bhat, and was then killed. Maqbool Bhat was hanged in Delhi soon after.",
+  "sources": [
+   {
+    "id": "theprint-maqbool-bhat",
+    "url": "https://theprint.in/past-forward/maqbool-bhat-kashmirs-first-radical-separatist-hanged-by-indira-after-diplomats-killing/363201/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/past-forward/maqbool-bhat-kashmirs-first-radical-separatist-hanged-by-indira-after-diplomats-killing/363201/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Maqbool Bhat, Kashmir's first radical separatist, hanged by Indira after diplomat's killing",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "organiser-mhatre",
+    "url": "https://organiser.org/2023/08/10/189467/bharat/how-yasin-maliks-jklf-kidnapped-killed-diplomat-ravindra-mhatre-to-free-terrorist-maqbool-bhat/",
+    "archive_url": "https://web.archive.org/web/https://organiser.org/2023/08/10/189467/bharat/how-yasin-maliks-jklf-kidnapped-killed-diplomat-ravindra-mhatre-to-free-terrorist-maqbool-bhat/",
+    "archive_checked": false,
+    "publisher": "Organiser",
+    "title": "How Yasin Malik's JKLF kidnapped, killed diplomat Ravindra Mhatre to free terrorist Maqbool Bhat",
+    "date": "2023-08-10",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": true,
+  "tags": [
+   "abroad"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1984-04-13-operation-meghdoot",
+  "date": "1984-04-13",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Operation Meghdoot secures the Siachen glacier",
+  "place_name": "Bilafond La and Sia La, Saltoro Ridge",
+  "district_at_time": "Leh",
+  "district_current": "Leh",
+  "region": "Ladakh",
+  "lat": 35.39,
+  "lng": 76.97,
+  "geo_precision": "region",
+  "category": "war",
+  "tactic": "ground_raid",
+  "target_type": [
+   "military"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "not_applicable",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 13 April 1984, Baisakhi day, the Indian Army and Air Force began Operation Meghdoot and took the main passes of the Saltoro Ridge, Bilafond La and Sia La. The move pre-empted a Pakistani plan to occupy the heights, and India has held the Siachen glacier since.",
+  "sources": [
+   {
+    "id": "idr-meghdoot",
+    "url": "https://indiandefencereview.com/siachen-day-operation-meghdoot-a-chronicle-of-unparalleled-courage/",
+    "archive_url": "https://web.archive.org/web/https://indiandefencereview.com/siachen-day-operation-meghdoot-a-chronicle-of-unparalleled-courage/",
+    "archive_checked": false,
+    "publisher": "Indian Defence Review",
+    "title": "Operation Meghdoot, Siachen: A chronicle of unparalleled courage",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "pib-iaf-meghdoot",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2017834&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleasePage.aspx?PRID=2017834&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "IAF in Operation Meghdoot",
+    "date": null,
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "theprint-meghdoot",
+    "url": "https://theprint.in/past-forward/how-india-beat-pakistan-to-gain-control-of-worlds-highest-battlefield-34-years-ago/49222/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/past-forward/how-india-beat-pakistan-to-gain-control-of-worlds-highest-battlefield-34-years-ago/49222/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "How India beat Pakistan to gain control of the world's highest battlefield 34 years ago",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "siachen",
+   "india-response"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1986-02-anantnag-riots",
+  "date": "1986-02-20",
+  "end_date": "1986-03",
+  "date_precision": "day",
+  "time": null,
+  "title": "Anantnag riots against Kashmiri Pandits",
+  "place_name": "Wanpoh, Bijbehara, Akura and other villages of Anantnag",
+  "district_at_time": "Anantnag",
+  "district_current": "Anantnag",
+  "region": "Kashmir Valley",
+  "lat": 33.7299,
+  "lng": 75.1517,
+  "geo_precision": "district",
+  "category": "riot",
+  "tactic": "arson",
+  "target_type": [
+   "civilians",
+   "minority_community"
+  ],
+  "victim_community": "Kashmiri Pandit (Hindu)",
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "From around 20 February 1986 mobs in Anantnag district attacked Kashmiri Pandit homes, shops and temples, starting at Wanpoh and spreading to Bijbehara and other villages. Temples were desecrated and burnt and houses looted. The riots are widely seen as an early warning of the 1990 exodus.",
+  "sources": [
+   {
+    "id": "organiser-anantnag-1986",
+    "url": "https://organiser.org/2026/02/20/340670/bharat/anantnag-riots-1986-dress-rehearsal-for-the-genocide-in-kashmir/",
+    "archive_url": "https://web.archive.org/web/https://organiser.org/2026/02/20/340670/bharat/anantnag-riots-1986-dress-rehearsal-for-the-genocide-in-kashmir/",
+    "archive_checked": false,
+    "publisher": "Organiser",
+    "title": "Anantnag Riots 1986: Dress Rehearsal for the Genocide in Kashmir",
+    "date": "2026-02-20",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "wire-dreaming-of-return",
+    "url": "https://thewire.in/culture/to-die-while-dreaming-of-return",
+    "archive_url": "https://web.archive.org/web/https://thewire.in/culture/to-die-while-dreaming-of-return",
+    "archive_checked": false,
+    "publisher": "The Wire",
+    "title": "To Die While Dreaming of Return",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "kashmiri-pandits"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1987-06-26-operation-rajiv-quaid-post",
+  "date": "1987-06-26",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Operation Rajiv, capture of Quaid post on Siachen",
+  "place_name": "Quaid post, renamed Bana Top",
+  "district_at_time": "Leh",
+  "district_current": "Leh",
+  "region": "Ladakh",
+  "lat": 35.39,
+  "lng": 76.97,
+  "geo_precision": "region",
+  "category": "war",
+  "tactic": "ground_raid",
+  "target_type": [
+   "military"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "pakistan-army"
+  ],
+  "attribution": "state_actor",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "In June 1987 a party of 8 JAK LI attacked Quaid post, a Pakistani position overlooking Indian posts on Siachen, after two nights of artillery fire on 25 and 26 June. Naib Subedar Bana Singh led the final assault and received the Param Vir Chakra, and the post was renamed Bana Top.",
+  "sources": [
+   {
+    "id": "theprint-quaid-post",
+    "url": "https://theprint.in/defence/quaid-post-to-bana-top-how-the-indian-army-took-back-a-critical-post-in-siachen-35-years-ago/975690/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/quaid-post-to-bana-top-how-the-indian-army-took-back-a-critical-post-in-siachen-35-years-ago/975690/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Quaid Post to Bana Top: How the Indian Army took back a critical post in Siachen 35 years ago",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-bana-singh",
+    "url": "https://www.tribuneindia.com/news/anniversary/naib-subedar-bana-singh-the-hero-of-siachen/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/anniversary/naib-subedar-bana-singh-the-hero-of-siachen/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Naib Subedar Bana Singh: The hero of Siachen",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "siachen",
+   "india-response"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1988-07-31-srinagar-blasts",
+  "date": "1988-07-31",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Bomb blasts at Srinagar Telegraph Office and Golf Course",
+  "place_name": "Central Telegraph Office and Golf Course, Srinagar",
+  "district_at_time": "Srinagar",
+  "district_current": "Srinagar",
+  "region": "Kashmir Valley",
+  "lat": 34.0884,
+  "lng": 74.803,
+  "geo_precision": "village",
+  "category": "ied",
+  "tactic": "ied",
+  "target_type": [
+   "infrastructure"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "jklf"
+  ],
+  "attribution": "claimed",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": null,
+    "max": null
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On 31 July 1988 JKLF militants set off two bombs in Srinagar, one at the Central Telegraph Office and one at the Golf Course. The blasts are usually taken as the start of the armed insurgency in the Valley.",
+  "sources": [
+   {
+    "id": "kashmirlife-1988-blast",
+    "url": "https://kashmirlife.net/july-31-1988-when-first-blast-rocked-the-srinagar-city-38269/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/july-31-1988-when-first-blast-rocked-the-srinagar-city-38269/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "July 31, 1988: When First Blast Rocked The Srinagar City",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "reported",
+  "high_profile": false,
+  "cross_border": false,
+  "tags": [
+   "start-of-insurgency"
+  ],
+  "notes": "No casualty figure found in the cited source."
+ },
+ {
+  "id": "1989-08-21-yusuf-halwai",
+  "date": "1989-08-21",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of National Conference leader Mohammad Yusuf Halwai",
+  "place_name": "Downtown Srinagar",
+  "district_at_time": "Srinagar",
+  "district_current": "Srinagar",
+  "region": "Kashmir Valley",
+  "lat": 34.0884,
+  "lng": 74.803,
+  "geo_precision": "village",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "political"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Mohammad Yusuf Halwai (Yusuf Wani)",
+    "age": null,
+    "role": "National Conference leader",
+    "source_id": "theprint-early-victims"
+   }
+  ],
+  "summary": "Mohammad Yusuf Halwai, a National Conference leader, was shot dead in daylight in downtown Srinagar on 21 August 1989. He is often described as the first political victim of the militancy in the Valley.",
+  "sources": [
+   {
+    "id": "theprint-early-victims",
+    "url": "https://theprint.in/india/which-kashmir-file-do-we-figure-in-ask-families-of-valleys-early-victims-of-terror/938266/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/which-kashmir-file-do-we-figure-in-ask-families-of-valleys-early-victims-of-terror/938266/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Which Kashmir file do we figure in, ask families of Valley's early victims of terror",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "reported",
+  "high_profile": false,
+  "cross_border": false,
+  "tags": [
+   "political-killing"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1989-09-14-tika-lal-taploo",
+  "date": "1989-09-14",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of Tika Lal Taploo",
+  "place_name": "Srinagar",
+  "district_at_time": "Srinagar",
+  "district_current": "Srinagar",
+  "region": "Kashmir Valley",
+  "lat": 34.0884,
+  "lng": 74.803,
+  "geo_precision": "village",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "political",
+   "minority_community"
+  ],
+  "victim_community": "Kashmiri Pandit (Hindu)",
+  "perpetrator_group": [
+   "jklf"
+  ],
+  "attribution": "suspected",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Tika Lal Taploo",
+    "age": null,
+    "role": "Advocate and BJP state vice-president",
+    "source_id": "theprint-taploo-exodus"
+   }
+  ],
+  "summary": "Tika Lal Taploo, a High Court advocate and vice-president of the BJP in the state, was shot dead in Srinagar on 14 September 1989. He was the first prominent Kashmiri Pandit leader to be killed, and his death spread fear through the community. The JKLF was blamed but the case stayed unsolved for decades.",
+  "sources": [
+   {
+    "id": "theprint-taploo-exodus",
+    "url": "https://theprint.in/india/how-killing-of-this-kashmiri-hindu-leader-led-to-exodus-of-pandits-from-valley/732572/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/how-killing-of-this-kashmiri-hindu-leader-led-to-exodus-of-pandits-from-valley/732572/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "How killing of this Kashmiri Hindu leader led to exodus of Pandits from Valley",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-tribute-taploo",
+    "url": "https://www.dailyexcelsior.com/tribute-tika-lal-taploo/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/tribute-tika-lal-taploo/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Tribute to Tika Lal Taploo",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-sia-cold-cases",
+    "url": "https://theprint.in/india/old-files-new-leads-how-jks-sia-is-probing-decades-old-unsolved-killings-of-kashmiri-pandits/3025597/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/old-files-new-leads-how-jks-sia-is-probing-decades-old-unsolved-killings-of-kashmiri-pandits/3025597/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Old files, new leads: How J&K's SIA is probing decades-old unsolved killings of Kashmiri Pandits",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "kashmiri-pandits"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1989-11-04-neelkanth-ganjoo",
+  "date": "1989-11-04",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of retired judge Neelkanth Ganjoo",
+  "place_name": "Hari Singh High Street, near the High Court, Srinagar",
+  "district_at_time": "Srinagar",
+  "district_current": "Srinagar",
+  "region": "Kashmir Valley",
+  "lat": 34.0884,
+  "lng": 74.803,
+  "geo_precision": "village",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "civilians",
+   "minority_community"
+  ],
+  "victim_community": "Kashmiri Pandit (Hindu)",
+  "perpetrator_group": [
+   "jklf"
+  ],
+  "attribution": "suspected",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Neelkanth Ganjoo",
+    "age": null,
+    "role": "Retired judge who sentenced Maqbool Bhat to death",
+    "source_id": "organiser-ganjoo-reopened"
+   }
+  ],
+  "summary": "Neelkanth Ganjoo, the judge who had sentenced JKLF founder Maqbool Bhat to death, was shot dead near the High Court in Srinagar on 4 November 1989. Suspicion fell on the JKLF but no one was arrested. The State Investigation Agency reopened the case in 2023.",
+  "sources": [
+   {
+    "id": "organiser-ganjoo-reopened",
+    "url": "https://organiser.org/2023/08/09/188945/bharat/kashmiri-hindu-genocide-indian-govt-reopens-case-after-30-years-sia-to-probe-brutal-murder-of-neelkanth-ganjoo/",
+    "archive_url": "https://web.archive.org/web/https://organiser.org/2023/08/09/188945/bharat/kashmiri-hindu-genocide-indian-govt-reopens-case-after-30-years-sia-to-probe-brutal-murder-of-neelkanth-ganjoo/",
+    "archive_checked": false,
+    "publisher": "Organiser",
+    "title": "Kashmiri Hindu Genocide: Indian Govt reopens case after 30 years; SIA to probe brutal murder of Neelkanth Ganjoo",
+    "date": "2023-08-09",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-ganjoo-reopened",
+    "url": "https://kashmirlife.net/jkps-sia-reopens-judge-neelkant-ganjoos-assassination-case-324678/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/jkps-sia-reopens-judge-neelkant-ganjoos-assassination-case-324678/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "JKP's SIA Reopens Judge Neelkant Ganjoo's Assassination Case",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-ganjoo-reopened",
+    "url": "https://theprint.in/india/j-k-bjp-kashmiri-pandits-welcome-reopening-of-retired-judge-neelkanth-ganjoo-murder-case/1706133/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/j-k-bjp-kashmiri-pandits-welcome-reopening-of-retired-judge-neelkanth-ganjoo-murder-case/1706133/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "J-K: BJP, Kashmiri Pandits welcome reopening of retired judge Neelkanth Ganjoo murder case",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "kashmiri-pandits"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1989-12-08-rubaiya-sayeed-abduction",
+  "date": "1989-12-08",
+  "end_date": "1989-12-13",
+  "date_precision": "day",
+  "time": null,
+  "title": "Abduction of Rubaiya Sayeed and release of five militants",
+  "place_name": "Srinagar",
+  "district_at_time": "Srinagar",
+  "district_current": "Srinagar",
+  "region": "Kashmir Valley",
+  "lat": 34.0884,
+  "lng": 74.803,
+  "geo_precision": "village",
+  "category": "abduction",
+  "tactic": "kidnapping",
+  "target_type": [
+   "political"
+  ],
+  "victim_community": null,
+  "perpetrator_group": [
+   "jklf"
+  ],
+  "attribution": "officially_attributed",
+  "killed": {
+   "civilians": {
+    "min": null,
+    "max": null
+   },
+   "security_forces": {
+    "min": null,
+    "max": null
+   },
+   "terrorists": {
+    "min": null,
+    "max": null
+   },
+   "total": {
+    "min": 0,
+    "max": 0
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": 1,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "Rubaiya Sayeed, daughter of Union Home Minister Mufti Mohammad Sayeed, was abducted in Srinagar on 8 December 1989. She was freed on 13 December after the government released five jailed JKLF militants. The exchange is widely seen as having emboldened armed groups. She later identified JKLF chief Yasin Malik in court as one of her abductors.",
+  "sources": [
+   {
+    "id": "kashmirlife-rubaiya-consequential",
+    "url": "https://kashmirlife.net/a-consequential-kidnapping-issue-37-vol-12-254878/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/a-consequential-kidnapping-issue-37-vol-12-254878/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "A Consequential Kidnapping",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-rubaiya-identifies-malik",
+    "url": "https://www.tribuneindia.com/news/j-k/rubaiya-sayeed-identifies-yasin-malik-in-court-412770/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/rubaiya-sayeed-identifies-yasin-malik-in-court-412770/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Mufti Mohammad Sayeed's daughter Rubaiya identifies Yasin Malik in court",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-rubaiya-policy",
+    "url": "https://theprint.in/opinion/1989-rubaiya-sayeed-kidnapping-case-policy-kashmir/2797189/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/opinion/1989-rubaiya-sayeed-kidnapping-case-policy-kashmir/2797189/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "1989 Rubaiya Sayeed kidnapping case still haunts Indian policy-making in Kashmir",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "start-of-insurgency"
+  ],
+  "notes": null
+ },
+ {
+  "id": "1989-12-27-prem-nath-bhat",
+  "date": "1989-12-27",
+  "end_date": null,
+  "date_precision": "day",
+  "time": null,
+  "title": "Killing of advocate Prem Nath Bhat",
+  "place_name": "Khah Bazar, Anantnag",
+  "district_at_time": "Anantnag",
+  "district_current": "Anantnag",
+  "region": "Kashmir Valley",
+  "lat": 33.7299,
+  "lng": 75.1517,
+  "geo_precision": "village",
+  "category": "targeted_killing",
+  "tactic": "targeted_shooting",
+  "target_type": [
+   "civilians",
+   "minority_community"
+  ],
+  "victim_community": "Kashmiri Pandit (Hindu)",
+  "perpetrator_group": [],
+  "attribution": "unknown",
+  "killed": {
+   "civilians": {
+    "min": 1,
+    "max": 1
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 1,
+    "max": 1
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "figures_by_source": [],
+  "victims": [
+   {
+    "name": "Prem Nath Bhat",
+    "age": null,
+    "role": "Advocate",
+    "source_id": "de-remembering-pn-bhat"
+   }
+  ],
+  "summary": "Advocate Prem Nath Bhat was shot dead by militants at Khah Bazar in Anantnag on 27 December 1989. His killing came days before the mass flight of Kashmiri Pandits from the Valley in January 1990.",
+  "sources": [
+   {
+    "id": "de-remembering-pn-bhat",
+    "url": "https://www.dailyexcelsior.com/remembering-prem-nath-bhat/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/remembering-prem-nath-bhat/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Remembering Prem Nath Bhat",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-pn-bhat-tributes",
+    "url": "http://www.tribuneindia.com/news/jammu-kashmir/tributes-paid-to-prem-nath-bhat/519782.html",
+    "archive_url": "https://web.archive.org/web/http://www.tribuneindia.com/news/jammu-kashmir/tributes-paid-to-prem-nath-bhat/519782.html",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Tributes paid to Prem Nath Bhat",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "kashmiri-pandits"
+  ],
+  "notes": null
+ }
+]

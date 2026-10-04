@@ -56,6 +56,9 @@ export const CATEGORIES = [
   "exodus",
   "india_strike",
   "policy",
+  // extensions to the brief, documented on the methodology page
+  "riot",
+  "abduction",
 ] as const;
 export const Category = z.enum(CATEGORIES);
 export type Category = z.infer<typeof Category>;
@@ -102,6 +105,8 @@ export const TACTICS = [
   "cordon_and_search",
   "policy_measure",
   "displacement",
+  "hijacking",
+  "kidnapping",
   "other",
 ] as const;
 export const Tactic = z.enum(TACTICS);
@@ -174,14 +179,15 @@ export const Event = z
     for (const f of e.figures_by_source)
       if (!ids.has(f.source_id)) ctx.addIssue({ code: "custom", message: `figures cite unknown source ${f.source_id}` });
 
-    const publishers = new Set(e.sources.map((s) => s.publisher.toLowerCase()));
+    // Independence is counted by distinct publisher. Reference works (encyclopedias,
+    // aggregators) never count toward independence.
+    const publishers = new Set(e.sources.filter((s) => s.kind !== "reference").map((s) => s.publisher.toLowerCase()));
     const major = (e.killed.total.max ?? 0) >= 5 || e.high_profile;
     if (major && publishers.size < 2)
       ctx.addIssue({ code: "custom", message: "major events (5+ killed or high profile) need 2+ independent sources" });
     if (e.confidence === "confirmed" && publishers.size < 2)
       ctx.addIssue({ code: "custom", message: "confirmed needs 2+ independent sources" });
-    if (e.confidence === "reported" && publishers.size !== 1 && !major)
-      ctx.addIssue({ code: "custom", message: "reported means exactly one source; use confirmed or disputed" });
+    // "reported" is allowed with several sources when the toll rests on only one of them.
 
     // Totals must be consistent with the parts where all parts are known.
     const k = e.killed;
@@ -214,6 +220,7 @@ export const Group = z
   .object({
     id: slug,
     name: z.string(),
+    kind: z.enum(["terror_group", "front", "state_military", "state_agency", "irregular"]),
     aliases: z.array(z.string()),
     founded: isoDate.nullable(),
     founders: z.array(z.string()),

@@ -7,3 +7,4 @@ data/raw/terrain/cache/
 __pycache__/
 .DS_Store
 test-results/
+data/raw/gtd/

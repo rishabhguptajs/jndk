@@ -1,0 +1,260 @@
+[
+ {
+  "id": "pakistan-army",
+  "name": "Pakistan Army",
+  "kind": "state_military",
+  "aliases": [],
+  "founded": "1947",
+  "founders": [],
+  "parent": null,
+  "relationship_to_parent": null,
+  "hq": {
+   "name": "Rawalpindi",
+   "lat": 33.6,
+   "lng": 73.05,
+   "precision": "town"
+  },
+  "sponsor": null,
+  "bans": {
+   "india_uapa": null,
+   "un_1267": null,
+   "us_fto": null
+  },
+  "active_years": {
+   "from": 1947,
+   "to": null
+  },
+  "status": "active",
+  "summary": "Regular army of Pakistan. Planned and directed the October 1947 invasion of Jammu and Kashmir (Operation Gulmarg), and fought India in 1947 to 1948, 1965, 1971 and 1999.",
+  "sources": [
+   {
+    "id": "pioneer-op-gulmarg",
+    "url": "https://www.dailypioneer.com/2020/columnists/a-sad-epoch-in-human-history.html",
+    "archive_url": "https://web.archive.org/web/https://www.dailypioneer.com/2020/columnists/a-sad-epoch-in-human-history.html",
+    "archive_checked": false,
+    "publisher": "The Pioneer",
+    "title": "A sad epoch in human history",
+    "date": "2020",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "jknow-oct1947-military-attack",
+    "url": "https://www.jammukashmirnow.com/Encyc/2023/10/30/Oct-1947-Jammu-and-Kashmir-The-Pakistani-Military-attack-disguised-as-a-Tribal-Invasion.html",
+    "archive_url": "https://web.archive.org/web/https://www.jammukashmirnow.com/Encyc/2023/10/30/Oct-1947-Jammu-and-Kashmir-The-Pakistani-Military-attack-disguised-as-a-Tribal-Invasion.html",
+    "archive_checked": false,
+    "publisher": "Jammu Kashmir Now",
+    "title": "Oct 1947 Jammu and Kashmir: The Pakistani Military attack disguised as a Tribal Invasion",
+    "date": "2023-10-30",
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "tribal-lashkars-1947",
+  "name": "Tribal lashkars of 1947 (Operation Gulmarg)",
+  "kind": "irregular",
+  "aliases": [
+   "Raiders",
+   "Kabailis"
+  ],
+  "founded": "1947-10",
+  "founders": [],
+  "parent": "pakistan-army",
+  "relationship_to_parent": "wing",
+  "hq": null,
+  "sponsor": "Pakistan (armed, transported and led by Pakistan Army personnel)",
+  "bans": {
+   "india_uapa": null,
+   "un_1267": null,
+   "us_fto": null
+  },
+  "active_years": {
+   "from": 1947,
+   "to": 1948
+  },
+  "status": "defunct",
+  "summary": "Armed tribal forces from Pakistan's North-West Frontier, armed, transported and led by Pakistan Army officers during the October 1947 invasion of Jammu and Kashmir. Regular army troops joined them in civilian clothes.",
+  "sources": [
+   {
+    "id": "pioneer-op-gulmarg",
+    "url": "https://www.dailypioneer.com/2020/columnists/a-sad-epoch-in-human-history.html",
+    "archive_url": "https://web.archive.org/web/https://www.dailypioneer.com/2020/columnists/a-sad-epoch-in-human-history.html",
+    "archive_checked": false,
+    "publisher": "The Pioneer",
+    "title": "A sad epoch in human history",
+    "date": "2020",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "ians-oct22-1947",
+    "url": "https://ianslive.in/oct-22-1947-the-day-when-pakistan-betrayed-and-backstabbed-kashmiris--20231022150515",
+    "archive_url": "https://web.archive.org/web/https://ianslive.in/oct-22-1947-the-day-when-pakistan-betrayed-and-backstabbed-kashmiris--20231022150515",
+    "archive_checked": false,
+    "publisher": "IANS",
+    "title": "Oct 22, 1947: The day when Pakistan betrayed and backstabbed Kashmiris",
+    "date": "2023-10-22",
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "gilgit-scouts-1947",
+  "name": "Gilgit Scouts (1947 revolt)",
+  "kind": "irregular",
+  "aliases": [],
+  "founded": null,
+  "founders": [],
+  "parent": null,
+  "relationship_to_parent": null,
+  "hq": {
+   "name": "Gilgit",
+   "lat": 35.92,
+   "lng": 74.31,
+   "precision": "town"
+  },
+  "sponsor": null,
+  "bans": {
+   "india_uapa": null,
+   "un_1267": null,
+   "us_fto": null
+  },
+  "active_years": {
+   "from": 1947,
+   "to": 1948
+  },
+  "status": "defunct",
+  "summary": "Local paramilitary force in the Gilgit Agency that revolted against the state of Jammu and Kashmir on 1 November 1947, arrested the Governor and handed the area to Pakistan. Later besieged Skardu.",
+  "sources": [
+   {
+    "id": "de-fall-of-gilgit",
+    "url": "https://www.dailyexcelsior.com/fall-of-gilgit/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/fall-of-gilgit/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Fall of Gilgit",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-gilgit-baltistan",
+    "url": "https://theprint.in/opinion/the-politics-military-tactics-geography-behind-how-pakistan-won-gilgit-baltistan-from-india/284288/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/opinion/the-politics-military-tactics-geography-behind-how-pakistan-won-gilgit-baltistan-from-india/284288/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "The politics, military tactics & geography behind how Pakistan won Gilgit-Baltistan from India",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "jklf",
+  "name": "Jammu Kashmir Liberation Front (JKLF)",
+  "kind": "terror_group",
+  "aliases": [
+   "JKLF"
+  ],
+  "founded": null,
+  "founders": [
+   "Amanullah Khan",
+   "Maqbool Bhat"
+  ],
+  "parent": null,
+  "relationship_to_parent": null,
+  "hq": null,
+  "sponsor": "Pakistan (training and arms in the late 1980s, as reported)",
+  "bans": {
+   "india_uapa": null,
+   "un_1267": null,
+   "us_fto": null
+  },
+  "active_years": {
+   "from": 1977,
+   "to": null
+  },
+  "status": "dormant",
+  "summary": "Separatist armed group that began the insurgency in the Valley with the 1988 Srinagar blasts and carried out early killings and kidnappings, including the 1989 abduction of Rubaiya Sayeed.",
+  "sources": [
+   {
+    "id": "kashmirlife-1988-blast",
+    "url": "https://kashmirlife.net/july-31-1988-when-first-blast-rocked-the-srinagar-city-38269/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/july-31-1988-when-first-blast-rocked-the-srinagar-city-38269/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "July 31, 1988: When First Blast Rocked The Srinagar City",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-rubaiya-consequential",
+    "url": "https://kashmirlife.net/a-consequential-kidnapping-issue-37-vol-12-254878/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/a-consequential-kidnapping-issue-37-vol-12-254878/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "A Consequential Kidnapping",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "jk-nlf",
+  "name": "National Liberation Front (Jammu Kashmir)",
+  "kind": "terror_group",
+  "aliases": [
+   "NLF",
+   "JKNLF"
+  ],
+  "founded": null,
+  "founders": [
+   "Maqbool Bhat"
+  ],
+  "parent": null,
+  "relationship_to_parent": null,
+  "hq": null,
+  "sponsor": null,
+  "bans": {
+   "india_uapa": null,
+   "un_1267": null,
+   "us_fto": null
+  },
+  "active_years": {
+   "from": 1965,
+   "to": 1977
+  },
+  "status": "defunct",
+  "summary": "Early Kashmiri separatist armed group whose members hijacked the Indian Airlines flight Ganga to Lahore in January 1971.",
+  "sources": [
+   {
+    "id": "theprint-ganga-hijack",
+    "url": "https://theprint.in/theprint-explorer/how-1971-indian-airlines-hijacking-led-pakistan-to-add-false-flag-to-its-terror-denial-toolkit/2615585/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/theprint-explorer/how-1971-indian-airlines-hijacking-led-pakistan-to-add-false-flag-to-its-terror-denial-toolkit/2615585/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "How 1971 Indian Airlines hijacking led Pakistan to add 'false flag' to its terror denial toolkit",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-exiled-by-hijack",
+    "url": "https://kashmirlife.net/exiled-by-hijack-issue-30-vol-10-189851/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/exiled-by-hijack-issue-30-vol-10-189851/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Exiled By Hijack",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ }
+]

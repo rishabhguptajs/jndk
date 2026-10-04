@@ -1,0 +1,51 @@
+{
+ "manual:zoji-la": {
+  "name": "Zoji La pass",
+  "lat": 34.28,
+  "lng": 75.47,
+  "precision": "tehsil",
+  "source": "Approximate position of the pass on the Ganderbal and Kargil district edge (Census 2011 polygons, DataMeet). Placed at tehsil precision on purpose."
+ },
+ "manual:siachen-bilafond": {
+  "name": "Bilafond La, Saltoro Ridge (Siachen)",
+  "lat": 35.39,
+  "lng": 76.97,
+  "precision": "region",
+  "source": "Approximate position of Bilafond La on the Saltoro Ridge. Region precision only."
+ },
+ "manual:turtuk": {
+  "name": "Turtuk, Nubra",
+  "lat": 34.85,
+  "lng": 76.83,
+  "precision": "tehsil",
+  "source": "Approximate position of Turtuk village in the Shyok valley. Tehsil precision on purpose."
+ },
+ "manual:haji-pir": {
+  "name": "Haji Pir pass",
+  "lat": 33.97,
+  "lng": 74.08,
+  "precision": "region",
+  "source": "Approximate position of the pass between Uri and Poonch. Region precision only."
+ },
+ "manual:kashmir-valley": {
+  "name": "Kashmir Valley (general)",
+  "lat": 34.0,
+  "lng": 74.8,
+  "precision": "region",
+  "source": "Generic point for events spread across the Kashmir Valley."
+ },
+ "manual:jammu-region": {
+  "name": "Jammu region (general)",
+  "lat": 33.0,
+  "lng": 75.0,
+  "precision": "region",
+  "source": "Generic point for events spread across the Jammu region."
+ },
+ "manual:birmingham": {
+  "name": "Birmingham, United Kingdom",
+  "lat": 52.48,
+  "lng": -1.9,
+  "precision": "region",
+  "source": "City-level point for an event outside India."
+ }
+}

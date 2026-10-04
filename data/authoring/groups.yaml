@@ -1,0 +1,76 @@
+# Group registry. Ban dates are filled only where a cited source states them.
+- id: pakistan-army
+  name: Pakistan Army
+  kind: state_military
+  aliases: []
+  founded: "1947"
+  founders: []
+  parent: null
+  relationship_to_parent: null
+  hq: { name: Rawalpindi, lat: 33.6, lng: 73.05, precision: town }
+  sponsor: null
+  bans: { india_uapa: null, un_1267: null, us_fto: null }
+  active_years: { from: 1947, to: null }
+  status: active
+  summary: Regular army of Pakistan. Planned and directed the October 1947 invasion of Jammu and Kashmir (Operation Gulmarg), and fought India in 1947 to 1948, 1965, 1971 and 1999.
+  src: [pioneer-op-gulmarg, jknow-oct1947-military-attack]
+- id: tribal-lashkars-1947
+  name: Tribal lashkars of 1947 (Operation Gulmarg)
+  kind: irregular
+  aliases: [Raiders, Kabailis]
+  founded: "1947-10"
+  founders: []
+  parent: pakistan-army
+  relationship_to_parent: wing
+  hq: null
+  sponsor: Pakistan (armed, transported and led by Pakistan Army personnel)
+  bans: { india_uapa: null, un_1267: null, us_fto: null }
+  active_years: { from: 1947, to: 1948 }
+  status: defunct
+  summary: Armed tribal forces from Pakistan's North-West Frontier, armed, transported and led by Pakistan Army officers during the October 1947 invasion of Jammu and Kashmir. Regular army troops joined them in civilian clothes.
+  src: [pioneer-op-gulmarg, ians-oct22-1947]
+- id: gilgit-scouts-1947
+  name: Gilgit Scouts (1947 revolt)
+  kind: irregular
+  aliases: []
+  founded: null
+  founders: []
+  parent: null
+  relationship_to_parent: null
+  hq: { name: Gilgit, lat: 35.92, lng: 74.31, precision: town }
+  sponsor: null
+  bans: { india_uapa: null, un_1267: null, us_fto: null }
+  active_years: { from: 1947, to: 1948 }
+  status: defunct
+  summary: Local paramilitary force in the Gilgit Agency that revolted against the state of Jammu and Kashmir on 1 November 1947, arrested the Governor and handed the area to Pakistan. Later besieged Skardu.
+  src: [de-fall-of-gilgit, theprint-gilgit-baltistan]
+- id: jklf
+  name: Jammu Kashmir Liberation Front (JKLF)
+  kind: terror_group
+  aliases: [JKLF]
+  founded: null
+  founders: [Amanullah Khan, Maqbool Bhat]
+  parent: null
+  relationship_to_parent: null
+  hq: null
+  sponsor: Pakistan (training and arms in the late 1980s, as reported)
+  bans: { india_uapa: null, un_1267: null, us_fto: null }
+  active_years: { from: 1977, to: null }
+  status: dormant
+  summary: Separatist armed group that began the insurgency in the Valley with the 1988 Srinagar blasts and carried out early killings and kidnappings, including the 1989 abduction of Rubaiya Sayeed.
+  src: [kashmirlife-1988-blast, kashmirlife-rubaiya-consequential]
+- id: jk-nlf
+  name: National Liberation Front (Jammu Kashmir)
+  kind: terror_group
+  aliases: [NLF, JKNLF]
+  founded: null
+  founders: [Maqbool Bhat]
+  parent: null
+  relationship_to_parent: null
+  hq: null
+  sponsor: null
+  bans: { india_uapa: null, un_1267: null, us_fto: null }
+  active_years: { from: 1965, to: 1977 }
+  status: defunct
+  summary: Early Kashmiri separatist armed group whose members hijacked the Indian Airlines flight Ganga to Lahore in January 1971.
+  src: [theprint-ganga-hijack, kashmirlife-exiled-by-hijack]

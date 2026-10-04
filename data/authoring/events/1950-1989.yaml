@@ -1,0 +1,431 @@
+# 1950 to 1989: the 1965 and 1971 wars, Siachen, and the turn to terror.
+
+- id: 1965-08-05-operation-gibraltar
+  date: 1965-08-05
+  end: 1965-08-31
+  title: Operation Gibraltar, Pakistani infiltration into Kashmir
+  place: Ceasefire line from Kargil to Mendhar
+  at: manual:kashmir-valley
+  district: [null, null]
+  region: Kashmir Valley
+  cat: infiltration
+  tactic: armed_assault
+  target: [military, civilians]
+  community: null
+  perp: [pakistan-army]
+  attr: state_actor
+  killed: { total: null }
+  src: [de-op-gibraltar, tribune-op-gibraltar, idr-1965-valour]
+  conf: confirmed
+  hp: true
+  tags: [war-1965]
+  summary: >
+    From the night of 5 August 1965 Pakistan sent armed infiltrators, many of them soldiers dressed as locals, across the ceasefire line
+    through routes in Gurez, Tithwal, Uri, Poonch, Rajouri and Kargil. The plan was to start an uprising in the Valley. Local people did
+    not rise and often reported the infiltrators to the authorities, and the operation failed.
+  notes: Published estimates of the size of the infiltrating force differ widely and are not recorded here.
+
+- id: 1965-08-28-haji-pir-captured
+  date: 1965-08-28
+  title: Indian paratroopers capture the Haji Pir pass
+  place: Haji Pir pass
+  at: manual:haji-pir
+  district: [null, Pakistan-occupied Jammu & Kashmir (PoJK)]
+  region: PoJK
+  cat: war
+  tactic: ground_raid
+  target: [military]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  src: [tribune-hajipir-victory, theprint-hajipir-excerpt, tribune-return-hajipir]
+  conf: confirmed
+  hp: true
+  tags: [war-1965, india-response]
+  summary: >
+    To cut the main infiltration route into the Valley, 1 Para under Major Ranjit Singh Dyal climbed about 4,000 feet overnight and took
+    the Haji Pir pass on the morning of 28 August 1965. Dyal received the Maha Vir Chakra. The pass was handed back to Pakistan under the
+    Tashkent Declaration of 1966.
+
+- id: 1965-09-01-operation-grand-slam
+  date: 1965-09-01
+  end: 1965-09-05
+  title: Operation Grand Slam, Pakistani armoured attack at Chhamb
+  place: Chhamb and Jaurian, Akhnoor sector
+  at: town:Akhnur
+  geo: tehsil
+  district: [Jammu, Jammu]
+  region: Jammu
+  cat: war
+  tactic: conventional_war
+  target: [military]
+  community: null
+  perp: [pakistan-army]
+  attr: state_actor
+  killed: { total: null }
+  src: [idr-1965-valour, de-1965-overview]
+  conf: confirmed
+  hp: true
+  tags: [war-1965]
+  summary: >
+    At 4 am on 1 September 1965 Pakistan attacked on the Chhamb and Akhnoor axis with an infantry division and Patton tanks, aiming to cut
+    the road linking Jammu to the Valley. Chhamb fell on 2 September and Jaurian on 4 September. The advance was halted short of Akhnoor
+    as India opened new fronts in Punjab.
+
+- id: 1965-09-23-ceasefire
+  date: 1965-09-23
+  title: Ceasefire ends the 1965 war
+  place: Jammu and Kashmir and the Punjab front
+  at: manual:jammu-region
+  district: [null, null]
+  region: Jammu
+  cat: policy
+  tactic: policy_measure
+  target: [none]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  src: [theprint-tashkent, tribune-agreements-history, de-1965-overview]
+  conf: confirmed
+  hp: true
+  tags: [war-1965]
+  summary: >
+    A UN-backed ceasefire took effect on 23 September 1965. Under the Tashkent Declaration signed on 10 January 1966, both sides pulled
+    back to positions held before 5 August 1965, which meant India returned the Haji Pir pass.
+
+- id: 1971-01-30-ganga-hijacking
+  date: 1971-01-30
+  title: Hijacking of Indian Airlines flight Ganga to Lahore
+  place: Srinagar to Jammu flight, taken to Lahore
+  at: town:Srinagar
+  geo: tehsil
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: abduction
+  tactic: hijacking
+  target: [civilians]
+  community: null
+  perp: [jk-nlf]
+  attr: claimed
+  killed: { total: 0 }
+  src: [theprint-ganga-hijack, tribune-ganga-pilot, kashmirlife-exiled-by-hijack]
+  conf: confirmed
+  hp: true
+  cross_border: true
+  tags: [hijacking]
+  summary: >
+    On 30 January 1971 two members of the National Liberation Front, Hashim Qureshi and his cousin, hijacked the Indian Airlines Fokker
+    Friendship Ganga soon after take-off from Srinagar and forced it to land at Lahore. Passengers and crew were sent back to India, but
+    the aircraft was destroyed on the ground in Lahore. India responded by banning Pakistani flights over its territory, which hampered
+    Pakistan later that year.
+
+- id: 1971-12-03-battle-of-chhamb
+  date: 1971-12-03
+  end: 1971-12-10
+  title: Battle of Chhamb, 1971
+  place: Chhamb sector
+  at: town:Akhnur
+  geo: tehsil
+  district: [Jammu, Jammu]
+  region: Jammu
+  cat: war
+  tactic: conventional_war
+  target: [military]
+  community: null
+  perp: [pakistan-army]
+  attr: state_actor
+  killed: { total: null }
+  src: [tribune-1971-first-day, idr-chamb-1971]
+  conf: confirmed
+  hp: true
+  tags: [war-1971]
+  summary: >
+    On the night of 3 to 4 December 1971 Pakistan attacked in the Chhamb sector with a strong force, alongside air strikes on Indian
+    airfields that opened the war in the west. India lost Chhamb for the second time in six years.
+
+- id: 1971-12-turtuk-liberated
+  date: 1971-12
+  title: Turtuk and nearby villages retaken in Ladakh
+  place: Turtuk, Chalunkha, Thang and Takshi, Nubra
+  at: manual:turtuk
+  district: [Leh, Leh]
+  region: Ladakh
+  cat: war
+  tactic: ground_raid
+  target: [military]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  src: [tribune-mahavirs-nubra, theprint-rinchen-statue]
+  conf: confirmed
+  hp: true
+  tags: [war-1971, india-response]
+  summary: >
+    In December 1971 troops led by Major Chewang Rinchen of the Ladakh Scouts advanced about 22 km through mountains in winter, without
+    artillery support. They retook more than 800 sq km held by Pakistan since 1948, including the villages of Turtuk, Chalunkha, Thang and
+    Takshi.
+
+- id: 1972-07-02-simla-agreement
+  date: 1972-07-02
+  title: Simla Agreement and the Line of Control
+  place: Simla
+  at: manual:jammu-region
+  district: [null, null]
+  region: Outside J&K
+  cat: policy
+  tactic: policy_measure
+  target: [none]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  src: [tribune-agreements-history, theprint-indo-pak-timeline]
+  conf: confirmed
+  hp: true
+  tags: [war-1971]
+  summary: >
+    India and Pakistan signed the Simla Agreement on 2 July 1972 after the 1971 war. The ceasefire line at the end of the 1971 war became the
+    Line of Control, and both sides agreed to settle differences bilaterally.
+  notes: Placed on the map at a generic Jammu region point only so it appears on the timeline; the agreement was signed outside J&K.
+
+- id: 1984-02-ravindra-mhatre
+  date: 1984-02
+  title: Abduction and killing of diplomat Ravindra Mhatre in Birmingham
+  place: Birmingham, United Kingdom
+  at: manual:birmingham
+  district: [null, null]
+  region: Outside J&K
+  cat: targeted_killing
+  tactic: kidnapping
+  target: [political]
+  community: null
+  perp: [jklf]
+  attr: claimed
+  killed: { civ: 1, total: 1 }
+  abducted: 1
+  victims:
+    - { name: Ravindra Mhatre, role: Indian diplomat, src: theprint-maqbool-bhat }
+  src: [theprint-maqbool-bhat, organiser-mhatre]
+  conf: confirmed
+  hp: true
+  tags: [abroad]
+  summary: >
+    In February 1984 Indian diplomat Ravindra Mhatre was abducted in Birmingham by militants who demanded the release of JKLF founder
+    Maqbool Bhat, and was then killed. Maqbool Bhat was hanged in Delhi soon after.
+
+- id: 1984-04-13-operation-meghdoot
+  date: 1984-04-13
+  title: Operation Meghdoot secures the Siachen glacier
+  place: Bilafond La and Sia La, Saltoro Ridge
+  at: manual:siachen-bilafond
+  district: [Leh, Leh]
+  region: Ladakh
+  cat: war
+  tactic: ground_raid
+  target: [military]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  src: [idr-meghdoot, pib-iaf-meghdoot, theprint-meghdoot]
+  conf: confirmed
+  hp: true
+  tags: [siachen, india-response]
+  summary: >
+    On 13 April 1984, Baisakhi day, the Indian Army and Air Force began Operation Meghdoot and took the main passes of the Saltoro Ridge,
+    Bilafond La and Sia La. The move pre-empted a Pakistani plan to occupy the heights, and India has held the Siachen glacier since.
+
+- id: 1986-02-anantnag-riots
+  date: 1986-02-20
+  end: 1986-03
+  title: Anantnag riots against Kashmiri Pandits
+  place: Wanpoh, Bijbehara, Akura and other villages of Anantnag
+  at: town:Anantnag
+  geo: district
+  district: [Anantnag, Anantnag]
+  region: Kashmir Valley
+  cat: riot
+  tactic: arson
+  target: [civilians, minority_community]
+  community: Kashmiri Pandit (Hindu)
+  perp: []
+  attr: unknown
+  killed: { total: null }
+  src: [organiser-anantnag-1986, wire-dreaming-of-return]
+  conf: confirmed
+  hp: true
+  tags: [kashmiri-pandits]
+  summary: >
+    From around 20 February 1986 mobs in Anantnag district attacked Kashmiri Pandit homes, shops and temples, starting at Wanpoh and
+    spreading to Bijbehara and other villages. Temples were desecrated and burnt and houses looted. The riots are widely seen as an early
+    warning of the 1990 exodus.
+
+- id: 1987-06-26-operation-rajiv-quaid-post
+  date: 1987-06-26
+  title: Operation Rajiv, capture of Quaid post on Siachen
+  place: Quaid post, renamed Bana Top
+  at: manual:siachen-bilafond
+  district: [Leh, Leh]
+  region: Ladakh
+  cat: war
+  tactic: ground_raid
+  target: [military]
+  community: null
+  perp: [pakistan-army]
+  attr: state_actor
+  killed: { total: null }
+  src: [theprint-quaid-post, tribune-bana-singh]
+  conf: confirmed
+  hp: true
+  tags: [siachen, india-response]
+  summary: >
+    In June 1987 a party of 8 JAK LI attacked Quaid post, a Pakistani position overlooking Indian posts on Siachen, after two nights of
+    artillery fire on 25 and 26 June. Naib Subedar Bana Singh led the final assault and received the Param Vir Chakra, and the post was
+    renamed Bana Top.
+
+- id: 1988-07-31-srinagar-blasts
+  date: 1988-07-31
+  title: Bomb blasts at Srinagar Telegraph Office and Golf Course
+  place: Central Telegraph Office and Golf Course, Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: ied
+  tactic: ied
+  target: [infrastructure]
+  community: null
+  perp: [jklf]
+  attr: claimed
+  killed: { total: null }
+  src: [kashmirlife-1988-blast]
+  conf: reported
+  hp: false
+  tags: [start-of-insurgency]
+  summary: >
+    On 31 July 1988 JKLF militants set off two bombs in Srinagar, one at the Central Telegraph Office and one at the Golf Course. The
+    blasts are usually taken as the start of the armed insurgency in the Valley.
+  notes: No casualty figure found in the cited source.
+
+- id: 1989-08-21-yusuf-halwai
+  date: 1989-08-21
+  title: Killing of National Conference leader Mohammad Yusuf Halwai
+  place: Downtown Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [political]
+  community: null
+  perp: []
+  attr: unknown
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  victims:
+    - { name: Mohammad Yusuf Halwai (Yusuf Wani), role: National Conference leader, src: theprint-early-victims }
+  src: [theprint-early-victims]
+  conf: reported
+  tags: [political-killing]
+  summary: >
+    Mohammad Yusuf Halwai, a National Conference leader, was shot dead in daylight in downtown Srinagar on 21 August 1989. He is often
+    described as the first political victim of the militancy in the Valley.
+
+- id: 1989-09-14-tika-lal-taploo
+  date: 1989-09-14
+  title: Killing of Tika Lal Taploo
+  place: Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [political, minority_community]
+  community: Kashmiri Pandit (Hindu)
+  perp: [jklf]
+  attr: suspected
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  victims:
+    - { name: Tika Lal Taploo, role: Advocate and BJP state vice-president, src: theprint-taploo-exodus }
+  src: [theprint-taploo-exodus, de-tribute-taploo, theprint-sia-cold-cases]
+  conf: confirmed
+  hp: true
+  tags: [kashmiri-pandits]
+  summary: >
+    Tika Lal Taploo, a High Court advocate and vice-president of the BJP in the state, was shot dead in Srinagar on 14 September 1989.
+    He was the first prominent Kashmiri Pandit leader to be killed, and his death spread fear through the community. The JKLF was blamed
+    but the case stayed unsolved for decades.
+
+- id: 1989-11-04-neelkanth-ganjoo
+  date: 1989-11-04
+  title: Killing of retired judge Neelkanth Ganjoo
+  place: Hari Singh High Street, near the High Court, Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [civilians, minority_community]
+  community: Kashmiri Pandit (Hindu)
+  perp: [jklf]
+  attr: suspected
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  victims:
+    - { name: Neelkanth Ganjoo, role: Retired judge who sentenced Maqbool Bhat to death, src: organiser-ganjoo-reopened }
+  src: [organiser-ganjoo-reopened, kashmirlife-ganjoo-reopened, theprint-ganjoo-reopened]
+  conf: confirmed
+  hp: true
+  tags: [kashmiri-pandits]
+  summary: >
+    Neelkanth Ganjoo, the judge who had sentenced JKLF founder Maqbool Bhat to death, was shot dead near the High Court in Srinagar on
+    4 November 1989. Suspicion fell on the JKLF but no one was arrested. The State Investigation Agency reopened the case in 2023.
+
+- id: 1989-12-08-rubaiya-sayeed-abduction
+  date: 1989-12-08
+  end: 1989-12-13
+  title: Abduction of Rubaiya Sayeed and release of five militants
+  place: Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: abduction
+  tactic: kidnapping
+  target: [political]
+  community: null
+  perp: [jklf]
+  attr: officially_attributed
+  killed: { total: 0 }
+  abducted: 1
+  src: [kashmirlife-rubaiya-consequential, tribune-rubaiya-identifies-malik, theprint-rubaiya-policy]
+  conf: confirmed
+  hp: true
+  tags: [start-of-insurgency]
+  summary: >
+    Rubaiya Sayeed, daughter of Union Home Minister Mufti Mohammad Sayeed, was abducted in Srinagar on 8 December 1989. She was freed on
+    13 December after the government released five jailed JKLF militants. The exchange is widely seen as having emboldened armed groups.
+    She later identified JKLF chief Yasin Malik in court as one of her abductors.
+
+- id: 1989-12-27-prem-nath-bhat
+  date: 1989-12-27
+  title: Killing of advocate Prem Nath Bhat
+  place: Khah Bazar, Anantnag
+  at: town:Anantnag
+  district: [Anantnag, Anantnag]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [civilians, minority_community]
+  community: Kashmiri Pandit (Hindu)
+  perp: []
+  attr: unknown
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  victims:
+    - { name: Prem Nath Bhat, role: Advocate, src: de-remembering-pn-bhat }
+  src: [de-remembering-pn-bhat, tribune-pn-bhat-tributes]
+  conf: confirmed
+  hp: true
+  tags: [kashmiri-pandits]
+  summary: >
+    Advocate Prem Nath Bhat was shot dead by militants at Khah Bazar in Anantnag on 27 December 1989. His killing came days before the
+    mass flight of Kashmiri Pandits from the Valley in January 1990.
