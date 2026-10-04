@@ -160,6 +160,7 @@ for (const r of rawEvents) {
     },
     injured: range(r.injured, ctx),
     abducted: r.abducted ?? null,
+    displaced: r.displaced !== undefined ? range(r.displaced, ctx) : null,
     figures_by_source: figures,
     victims: (r.victims ?? []).map((v: any) => ({ name: v.name, age: v.age ?? null, role: v.role ?? null, source_id: v.src })),
     summary: String(r.summary ?? "").trim().replace(/\s+/g, " "),

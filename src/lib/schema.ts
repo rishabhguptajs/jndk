@@ -160,6 +160,8 @@ export const Event = z
       .strict(),
     injured: Range,
     abducted: z.number().int().nonnegative().nullable(),
+    /** persons displaced, for exodus events */
+    displaced: Range.nullable().optional(),
     figures_by_source: z.array(SourceFigures).default([]),
     victims: z.array(Victim).default([]),
     summary: z.string().min(40),
@@ -212,7 +214,7 @@ export type Event = z.infer<typeof Event>;
 /* ------------------------------------------------------------------ */
 
 const BanEntry = z
-  .object({ date: isoDate, instrument: z.string(), source_id: slug })
+  .object({ date: isoDate.nullable(), instrument: z.string(), source_id: slug })
   .strict()
   .nullable();
 
@@ -229,7 +231,7 @@ export const Group = z
     hq: z.object({ name: z.string(), lat: z.number(), lng: z.number(), precision: z.enum(["town", "district", "region"]) }).strict().nullable(),
     sponsor: z.string().nullable(),
     bans: z.object({ india_uapa: BanEntry, un_1267: BanEntry, us_fto: BanEntry }).strict(),
-    active_years: z.object({ from: z.number().int(), to: z.number().int().nullable() }).strict(),
+    active_years: z.object({ from: z.number().int().nullable(), to: z.number().int().nullable() }).strict(),
     status: z.enum(["active", "defunct", "dormant", "unknown"]),
     summary: z.string().min(20),
     sources: z.array(Source).min(1),

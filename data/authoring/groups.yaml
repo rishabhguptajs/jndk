@@ -55,7 +55,7 @@
   hq: null
   sponsor: Pakistan (training and arms in the late 1980s, as reported)
   bans: { india_uapa: null, un_1267: null, us_fto: null }
-  active_years: { from: 1977, to: null }
+  active_years: { from: null, to: null }
   status: dormant
   summary: Separatist armed group that began the insurgency in the Valley with the 1988 Srinagar blasts and carried out early killings and kidnappings, including the 1989 abduction of Rubaiya Sayeed.
   src: [kashmirlife-1988-blast, kashmirlife-rubaiya-consequential]
@@ -70,7 +70,148 @@
   hq: null
   sponsor: null
   bans: { india_uapa: null, un_1267: null, us_fto: null }
-  active_years: { from: 1965, to: 1977 }
+  active_years: { from: null, to: null }
   status: defunct
   summary: Early Kashmiri separatist armed group whose members hijacked the Indian Airlines flight Ganga to Lahore in January 1971.
   src: [theprint-ganga-hijack, kashmirlife-exiled-by-hijack]
+- id: jkslf
+  name: Jammu and Kashmir Students Liberation Front (JKSLF)
+  kind: terror_group
+  aliases: [JKSLF]
+  founded: null
+  founders: []
+  parent: null
+  relationship_to_parent: null
+  hq: null
+  sponsor: null
+  bans: { india_uapa: null, un_1267: null, us_fto: null }
+  active_years: { from: 1990, to: null }
+  status: defunct
+  summary: Militant group of the early 1990s whose members were charged by the CBI with the 1990 kidnapping and killing of Kashmir University Vice Chancellor Mushir-ul-Haq. The accused were acquitted.
+  src: [tribune-ku-vc-acquittal, gk-ku-vc-acquittal]
+- id: hizbul-mujahideen
+  name: Hizbul Mujahideen (HM)
+  kind: terror_group
+  aliases: [Hizb-ul-Mujahideen, HM, Hizb-Ul-Mujahideen Pir Panjal Regiment]
+  founded: "1989"
+  founders: []
+  parent: null
+  relationship_to_parent: null
+  hq: null
+  sponsor: Pakistan
+  bans:
+    india_uapa: { date: null, instrument: "UAPA First Schedule, serial 8", source_id: mha-banned-orgs }
+    un_1267: null
+    us_fto: { date: "2017-08-16", instrument: "Foreign Terrorist Organization and SDGT", source_id: state-hm-fto }
+  active_years: { from: 1989, to: null }
+  status: active
+  summary: One of the largest and oldest militant groups in Kashmir, formed in 1989 and led by Mohammad Yusuf Shah (Syed Salahuddin) from Pakistan-occupied territory. Designated a terrorist organisation by India and the United States.
+  src: [state-hm-fto, state-salahuddin-sdgt, mha-banned-orgs]
+- id: lashkar-e-taiba
+  name: Lashkar-e-Taiba (LeT)
+  kind: terror_group
+  aliases: [Lashkar-e-Tayyiba, LeT, Pasban-e-Ahle Hadis, Jamaat-ud-Dawa]
+  founded: null
+  founders: []
+  parent: null
+  relationship_to_parent: null
+  hq: null
+  sponsor: Pakistan
+  bans:
+    india_uapa: { date: null, instrument: "UAPA First Schedule, serial 5", source_id: mha-banned-orgs }
+    un_1267: { date: "2005-05-02", instrument: "UNSC 1267 sanctions list", source_id: un-1267-let }
+    us_fto: { date: "2001-12-26", instrument: "Foreign Terrorist Organization", source_id: state-fto-list }
+  active_years: { from: null, to: null }
+  status: active
+  summary: Pakistan-based terrorist group responsible for many of the deadliest attacks in Jammu and Kashmir and across India. Operates in Kashmir through fronts including The Resistance Front.
+  src: [un-1267-let, state-fto-list, mha-banned-orgs]
+- id: jaish-e-mohammed
+  name: Jaish-e-Mohammed (JeM)
+  kind: terror_group
+  aliases: [Jaish-i-Mohammed, JeM, Tahrik-e-Furqan]
+  founded: "2000"
+  founders: [Masood Azhar]
+  parent: null
+  relationship_to_parent: null
+  hq: null
+  sponsor: Pakistan
+  bans:
+    india_uapa: { date: null, instrument: "UAPA First Schedule, serial 6", source_id: mha-banned-orgs }
+    un_1267: { date: "2001-10-17", instrument: "UNSC 1267 sanctions list", source_id: un-1267-jem }
+    us_fto: { date: "2001-12-26", instrument: "Foreign Terrorist Organization", source_id: state-fto-list }
+  active_years: { from: 2000, to: null }
+  status: active
+  summary: Pakistan-based terrorist group founded by Masood Azhar after his release in the IC 814 hijacking exchange. Pioneered suicide car bombings in Kashmir and carried out the 2001 legislature attack and the 2019 Pulwama bombing. Operates through fronts including the PAFF.
+  src: [un-1267-jem, state-fto-list, mha-banned-orgs]
+- id: harkat-ul-mujahideen
+  name: Harkat-ul-Mujahideen (HuM)
+  kind: terror_group
+  aliases: [Harakat ul-Mujahidin, Harkat-ul-Ansar, Harkat-ul-Jehad-e-Islami, Ansar-ul-Ummah, Al-Faran]
+  founded: null
+  founders: []
+  parent: null
+  relationship_to_parent: null
+  hq: null
+  sponsor: Pakistan
+  bans:
+    india_uapa: { date: null, instrument: "UAPA First Schedule, serial 7", source_id: mha-banned-orgs }
+    un_1267: { date: "2001-10-06", instrument: "UNSC 1267 sanctions list", source_id: un-1267-hum }
+    us_fto: { date: "1997-10-08", instrument: "Foreign Terrorist Organization", source_id: state-fto-list }
+  active_years: { from: null, to: null }
+  status: dormant
+  summary: Pakistan-based terrorist group, known as Harkat-ul-Ansar in the mid 1990s. Its fighters dominated the foreign militant presence in Kashmir in that decade.
+  src: [un-1267-hum, state-fto-list, mha-banned-orgs]
+- id: al-badr
+  name: Al-Badr
+  kind: terror_group
+  aliases: [Al Badr Mujahideen]
+  founded: null
+  founders: []
+  parent: null
+  relationship_to_parent: null
+  hq: null
+  sponsor: Pakistan
+  bans:
+    india_uapa: { date: null, instrument: "UAPA First Schedule, serial 26", source_id: mha-banned-orgs }
+    un_1267: null
+    us_fto: null
+  active_years: { from: null, to: null }
+  status: active
+  summary: Pakistan-based militant group active in Kashmir, listed as a banned terrorist organisation in India.
+  src: [mha-banned-orgs]
+- id: trf
+  name: The Resistance Front (TRF)
+  kind: front
+  aliases: [TRF]
+  founded: "2019"
+  founders: []
+  parent: lashkar-e-taiba
+  relationship_to_parent: front
+  hq: null
+  sponsor: Pakistan
+  bans:
+    india_uapa: { date: "2023-01-05", instrument: "Declared terrorist organisation under the UAPA", source_id: de-trf-banned }
+    un_1267: null
+    us_fto: { date: "2025-07", instrument: "Foreign Terrorist Organization and SDGT", source_id: theprint-trf-fto }
+  active_years: { from: 2019, to: null }
+  status: active
+  summary: Front for Lashkar-e-Taiba that emerged in 2019 and claimed many targeted killings of minorities and migrant workers. It claimed the April 2025 Pahalgam massacre and was designated by the United States soon after.
+  src: [de-trf-banned, gk-trf-banned, theprint-trf-fto, tribune-trf-fto]
+- id: paff
+  name: People's Anti-Fascist Front (PAFF)
+  kind: front
+  aliases: [PAFF]
+  founded: "2019"
+  founders: []
+  parent: jaish-e-mohammed
+  relationship_to_parent: front
+  hq: null
+  sponsor: Pakistan
+  bans:
+    india_uapa: { date: "2023-01-06", instrument: "Declared terrorist organisation under the UAPA", source_id: tribune-paff-banned }
+    un_1267: null
+    us_fto: null
+  active_years: { from: 2019, to: null }
+  status: active
+  summary: Front for Jaish-e-Mohammed that emerged in 2019 and claimed several ambushes on the Army in the Poonch and Rajouri belt. Banned by India a day after the TRF.
+  src: [tribune-paff-banned, theprint-paff-banned]

@@ -1,0 +1,84 @@
+state-hm-fto:
+  url: https://2017-2021.state.gov/state-department-terrorist-designation-of-hizbul-mujahideen/
+  publisher: US Department of State
+  title: "State Department Terrorist Designation of Hizbul Mujahideen"
+  date: 2017-08-16
+  kind: official
+state-salahuddin-sdgt:
+  url: https://2017-2021.state.gov/state-department-terrorist-designations-of-mohammad-yusuf-shah-aka-syed-salahuddin/
+  publisher: US Department of State
+  title: "State Department Terrorist Designations of Mohammad Yusuf Shah aka Syed Salahuddin"
+  date: null
+  kind: official
+state-fto-list:
+  url: https://www.state.gov/foreign-terrorist-organizations
+  publisher: US Department of State
+  title: "Foreign Terrorist Organizations"
+  date: null
+  kind: official
+mha-banned-orgs:
+  url: https://www.mha.gov.in/en/banned-organisations
+  publisher: Ministry of Home Affairs
+  title: "Banned Organisations"
+  date: null
+  kind: official
+mha-terror-orgs-list-2023:
+  url: https://www.mha.gov.in/sites/default/files/2023-01/NAMESBTORG_20012023.pdf
+  publisher: Ministry of Home Affairs
+  title: "List of organisations designated as 'Terrorist Organizations' under Section 35 of the UAPA (20 Jan 2023)"
+  date: 2023-01-20
+  kind: official
+un-1267-let:
+  url: https://main.un.org/securitycouncil/en/sanctions/1267/aq_sanctions_list/summaries/entity/lashkar-e-tayyiba
+  publisher: UN Security Council
+  title: "Lashkar-e-Tayyiba: narrative summary of reasons for listing"
+  date: null
+  kind: official
+un-1267-jem:
+  url: https://main.un.org/securitycouncil/en/sanctions/1267/aq_sanctions_list/summaries/entity/jaish-i-mohammed
+  publisher: UN Security Council
+  title: "Jaish-i-Mohammed: narrative summary of reasons for listing"
+  date: null
+  kind: official
+un-1267-hum:
+  url: https://main.un.org/securitycouncil/en/sanctions/1267/aq_sanctions_list/summaries/entity/harakat-ul-mujahidin/hum
+  publisher: UN Security Council
+  title: "Harakat ul-Mujahidin / HUM: narrative summary of reasons for listing"
+  date: null
+  kind: official
+de-trf-banned:
+  url: https://www.dailyexcelsior.com/mha-declares-trf-as-terror-outfit-lets-jammu-incharge-as-individual-terrorist/
+  publisher: Daily Excelsior
+  title: "MHA declares TRF as terror outfit, LeT's Jammu Incharge as individual terrorist"
+  date: 2023-01-05
+  kind: news
+gk-trf-banned:
+  url: https://www.greaterkashmir.com/kashmir/pak-created-lets-offshoot-trf-responsible-for-brutal-killings-of-innocents-banned-by-mha-under-uapa/
+  publisher: Greater Kashmir
+  title: "Pak-created LeT's offshoot TRF, responsible for brutal killings of innocents, banned by MHA under UAPA"
+  date: null
+  kind: news
+tribune-paff-banned:
+  url: https://www.tribuneindia.com/news/j-k/centre-bans-peoples-anti-fascist-front-a-proxy-of-jaish-e-mohammed-468217/
+  publisher: The Tribune
+  title: "Centre bans People's Anti-Fascist Front, a proxy of Jaish-e-Mohammed"
+  date: null
+  kind: news
+theprint-paff-banned:
+  url: https://theprint.in/india/govt-declares-peoples-anti-fascist-front-its-manifestations-as-terrorist-organisations/1302553/
+  publisher: ThePrint
+  title: "Govt declares Peoples Anti-Fascist-Front, its manifestations as terrorist organisations"
+  date: null
+  kind: news
+theprint-trf-fto:
+  url: https://theprint.in/diplomacy/in-setback-to-pakistan-us-designates-let-front-as-terror-group-for-pahalgam-attack-what-is-trf/2694081/
+  publisher: ThePrint
+  title: "In setback to Pakistan, US designates LeT front as terror group for Pahalgam attack. What is TRF"
+  date: 2025-07
+  kind: news
+tribune-trf-fto:
+  url: https://www.tribuneindia.com/news/india/us-designates-let-proxy-trf-terror-outfit-was-behind-pahalgam-attack
+  publisher: The Tribune
+  title: "US designates LeT proxy TRF terror outfit, was behind Pahalgam attack"
+  date: 2025-07
+  kind: news
