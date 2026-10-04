@@ -593,13 +593,38 @@
   "group_id": "lashkar-e-taiba",
   "year": 2001,
   "districts": [
-   "Kishtwar"
+   "Kishtwar",
+   "Rajouri"
   ],
   "source_ids": [
+   "outlook-jammu-files",
+   "theprint-rajouri-communal-war",
    "tribune-2001-08-06",
    "organiser-hindu-massacres-chronicle"
   ],
   "sources": [
+   {
+    "id": "outlook-jammu-files",
+    "url": "https://www.outlookindia.com/national/jammu-files-the-faceless-victims-of-militancy-across-the-pir-panjal-news-189966",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/jammu-files-the-faceless-victims-of-militancy-across-the-pir-panjal-news-189966",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Jammu Files: The Faceless Victims Of Militancy Across Pir Panjal",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-rajouri-communal-war",
+    "url": "https://theprint.in/opinion/security-code/pakistani-militants-bringing-communal-war-back-to-jk-hindu-killings-in-rajouri-are-proof/1297089/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/opinion/security-code/pakistani-militants-bringing-communal-war-back-to-jk-hindu-killings-in-rajouri-are-proof/1297089/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Pakistani militants bringing communal war back to J&K. Hindu killings in Rajouri are proof",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
    {
     "id": "tribune-2001-08-06",
     "url": "https://www.tribuneindia.com/2001/20010806/main1.htm",
@@ -623,7 +648,7 @@
     "kind": "news"
    }
   ],
-  "note": "Derived from attributed events: 2001-08-03-loodar-kishtwar"
+  "note": "Derived from attributed events: 2001-02-09-kot-charwal, 2001-08-03-loodar-kishtwar"
  },
  {
   "group_id": "jaish-e-mohammed",
@@ -675,7 +700,8 @@
    "organiser-hindu-massacres-chronicle",
    "tribune-2002-08-07-nunwan",
    "organiser-terror-no-religion",
-   "tribune-2002-11-25"
+   "tribune-2002-11-25",
+   "tribune-2002-11-26"
   ],
   "sources": [
    {
@@ -752,6 +778,17 @@
     "publisher": "The Tribune",
     "title": "The Tribune, main news, 25 November 2002",
     "date": "2002-11-25",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-2002-11-26",
+    "url": "https://www.tribuneindia.com/2002/20021126/main1.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2002/20021126/main1.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, main news, 26 November 2002",
+    "date": "2002-11-26",
     "pages": null,
     "kind": "news"
    }

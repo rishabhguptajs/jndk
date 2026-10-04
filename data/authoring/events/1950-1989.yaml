@@ -325,8 +325,8 @@
   killed: { civ: 1, sf: 0, terr: 0, total: 1 }
   victims:
     - { name: Mohammad Yusuf Halwai (Yusuf Wani), role: National Conference leader, src: theprint-early-victims }
-  src: [theprint-early-victims]
-  conf: reported
+  src: [theprint-early-victims, kashmirdespatch-5000-political-killings]
+  conf: confirmed
   tags: [political-killing]
   summary: >
     Mohammad Yusuf Halwai, a National Conference leader, was shot dead in daylight in downtown Srinagar on 21 August 1989. He is often
@@ -356,6 +356,7 @@
     Tika Lal Taploo, a High Court advocate and vice-president of the BJP in the state, was shot dead in Srinagar on 14 September 1989.
     He was the first prominent Kashmiri Pandit leader to be killed, and his death spread fear through the community. The JKLF was blamed
     but the case stayed unsolved for decades.
+  notes: Most sources give 14 September 1989, the day his death is commemorated; some give 13 September.
 
 - id: 1989-11-04-neelkanth-ganjoo
   date: 1989-11-04

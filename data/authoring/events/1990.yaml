@@ -13,12 +13,14 @@
   perp: []
   attr: not_applicable
   killed: { total: null }
-  displaced: 154712-400000
+  displaced: 90000-400000
   figures:
     loksabha-kp-migrants-324: { note: "44,684 Kashmiri migrant families, 1,54,712 persons, registered with the Relief and Rehabilitation Commissioner (Migrants), Jammu" }
     kashmirlife-64827-families: { note: "MHA: 64,827 Kashmiri Pandit families left the Valley in the early 1990s" }
     theprint-31-years-exile: { note: "Between three and four lakh Kashmiri Pandits displaced within months" }
-  src: [theprint-31-years-exile, organiser-jan19-1990, tribune-acknowledge-exodus, kashmirlife-64827-families, loksabha-kp-migrants-324]
+    quint-kp-exodus-timeline: { note: "Kashmiri Pandit Sangharsh Samiti: 75,343 left in January 1990 and about 70,000 more by March" }
+    wikipedia-kh-exodus: { note: "Summarises scholarly estimates of 90,000 to 150,000 leaving between January and March 1990 (reference work, not counted as an independent source)" }
+  src: [theprint-31-years-exile, organiser-jan19-1990, tribune-acknowledge-exodus, kashmirlife-64827-families, loksabha-kp-migrants-324, quint-kp-exodus-timeline, wikipedia-kh-exodus]
   conf: disputed
   hp: true
   tags: [kashmiri-pandits, exodus]
@@ -28,8 +30,9 @@
     Valley for Jammu, Delhi and elsewhere, many living for years in camps. Official records count 64,827 families who left in the early
     1990s.
   notes: >
-    Displacement is shown as a range. The lower bound is persons registered with the Relief Commissioner in Jammu (1,54,712, which leaves
-    out families registered in Delhi and elsewhere). The upper bound reflects published estimates of three to four lakh people.
+    Displacement is shown as a range because estimates differ widely and depend on the period counted. Scholarly estimates for January
+    to March 1990 run from about 90,000 to 150,000; the Kashmiri Pandit Sangharsh Samiti counts about 145,000 by March; the Relief
+    Commissioner in Jammu lists 1,54,712 registered persons; other published estimates reach three to four lakh.
 
 - id: 1990-01-25-rawalpora-iaf
   date: 1990-01-25

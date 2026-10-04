@@ -990,7 +990,7 @@
   "tags": [
    "war-1947"
   ],
-  "notes": null
+  "notes": "Accounts give 20 or 21 November 1948 for the relief."
  },
  {
   "id": "1947-11-25-mirpur-massacre",
@@ -2828,9 +2828,20 @@
     "date": null,
     "pages": null,
     "kind": "news"
+   },
+   {
+    "id": "kashmirdespatch-5000-political-killings",
+    "url": "https://kashmirdespatch.com/over-5000-political-killings-in-kashmir-in-30-years/",
+    "archive_url": "https://web.archive.org/web/https://kashmirdespatch.com/over-5000-political-killings-in-kashmir-in-30-years/",
+    "archive_checked": false,
+    "publisher": "Kashmir Despatch",
+    "title": "Over 5000 political killings in Kashmir in 30 years",
+    "date": null,
+    "pages": null,
+    "kind": "news"
    }
   ],
-  "confidence": "reported",
+  "confidence": "confirmed",
   "high_profile": false,
   "cross_border": false,
   "tags": [
@@ -2938,7 +2949,7 @@
   "tags": [
    "kashmiri-pandits"
   ],
-  "notes": null
+  "notes": "Most sources give 14 September 1989, the day his death is commemorated; some give 13 September."
  },
  {
   "id": "1989-11-04-neelkanth-ganjoo",
@@ -3272,7 +3283,7 @@
   },
   "abducted": null,
   "displaced": {
-   "min": 154712,
+   "min": 90000,
    "max": 400000
   },
   "figures_by_source": [
@@ -3287,6 +3298,14 @@
    {
     "source_id": "theprint-31-years-exile",
     "note": "Between three and four lakh Kashmiri Pandits displaced within months"
+   },
+   {
+    "source_id": "quint-kp-exodus-timeline",
+    "note": "Kashmiri Pandit Sangharsh Samiti: 75,343 left in January 1990 and about 70,000 more by March"
+   },
+   {
+    "source_id": "wikipedia-kh-exodus",
+    "note": "Summarises scholarly estimates of 90,000 to 150,000 leaving between January and March 1990 (reference work, not counted as an independent source)"
    }
   ],
   "victims": [],
@@ -3346,6 +3365,28 @@
     "date": null,
     "pages": null,
     "kind": "official"
+   },
+   {
+    "id": "quint-kp-exodus-timeline",
+    "url": "https://fithindi.thequint.com/amp/story/news/india/kashmiri-pandits-exodus-the-timeline-how-the-kashmir-files-deviates-from-it",
+    "archive_url": "https://web.archive.org/web/https://fithindi.thequint.com/amp/story/news/india/kashmiri-pandits-exodus-the-timeline-how-the-kashmir-files-deviates-from-it",
+    "archive_checked": false,
+    "publisher": "The Quint",
+    "title": "Kashmiri Pandits Exodus: The Timeline & How 'The Kashmir Files' Deviates From It",
+    "date": "2022-03",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "wikipedia-kh-exodus",
+    "url": "https://en.wikipedia.org/wiki/Exodus_of_Kashmiri_Hindus",
+    "archive_url": "https://web.archive.org/web/https://en.wikipedia.org/wiki/Exodus_of_Kashmiri_Hindus",
+    "archive_checked": false,
+    "publisher": "Wikipedia",
+    "title": "Exodus of Kashmiri Hindus",
+    "date": null,
+    "pages": null,
+    "kind": "reference"
    }
   ],
   "confidence": "disputed",
@@ -3355,7 +3396,7 @@
    "kashmiri-pandits",
    "exodus"
   ],
-  "notes": "Displacement is shown as a range. The lower bound is persons registered with the Relief Commissioner in Jammu (1,54,712, which leaves out families registered in Delhi and elsewhere). The upper bound reflects published estimates of three to four lakh people."
+  "notes": "Displacement is shown as a range because estimates differ widely and depend on the period counted. Scholarly estimates for January to March 1990 run from about 90,000 to 150,000; the Kashmiri Pandit Sangharsh Samiti counts about 145,000 by March; the Relief Commissioner in Jammu lists 1,54,712 registered persons; other published estimates reach three to four lakh."
  },
  {
   "id": "1990-01-25-rawalpora-iaf",
@@ -5307,7 +5348,14 @@
   "abducted": null,
   "displaced": null,
   "figures_by_source": [],
-  "victims": [],
+  "victims": [
+   {
+    "name": "Rupin Katyal",
+    "age": null,
+    "role": "Passenger",
+    "source_id": "tribune-1999-12-26"
+   }
+  ],
   "summary": "Indian Airlines flight IC 814 from Kathmandu was hijacked on 24 December 1999 and taken to Kandahar in Taliban-ruled Afghanistan. After a week, India freed three jailed militants, Masood Azhar, Omar Saeed Sheikh and Mushtaq Zargar, in exchange for the passengers. Masood Azhar founded Jaish-e-Mohammed weeks later.",
   "sources": [
    {
@@ -5329,6 +5377,17 @@
     "publisher": "Outlook",
     "title": "What Is Jaish-e-Mohammad? Who Is Masood Azhar?",
     "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-1999-12-26",
+    "url": "https://www.tribuneindia.com/1999/99dec26/head.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/1999/99dec26/head.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, headlines, 26 December 1999",
+    "date": "1999-12-26",
     "pages": null,
     "kind": "news"
    }
@@ -5873,10 +5932,105 @@
   "notes": null
  },
  {
-  "id": "2001-07-sheshnag-amarnath",
-  "date": "2001-07",
+  "id": "2001-02-09-kot-charwal",
+  "date": "2001-02-09",
   "end_date": null,
-  "date_precision": "month",
+  "date_precision": "day",
+  "time": null,
+  "title": "Kot Charwal massacre of Gujjar families",
+  "place_name": "Morasalahi village, Kot Charwal, Rajouri",
+  "district_at_time": "Rajouri",
+  "district_current": "Rajouri",
+  "region": "Jammu",
+  "lat": 33.3111,
+  "lng": 74.402,
+  "geo_precision": "district",
+  "category": "massacre",
+  "tactic": "arson",
+  "target_type": [
+   "civilians"
+  ],
+  "victim_community": "Gujjar Muslim families of Village Defence Committee members",
+  "perpetrator_group": [
+   "lashkar-e-taiba"
+  ],
+  "attribution": "suspected",
+  "killed": {
+   "civilians": {
+    "min": 15,
+    "max": 15
+   },
+   "security_forces": {
+    "min": 0,
+    "max": 0
+   },
+   "terrorists": {
+    "min": 0,
+    "max": 0
+   },
+   "total": {
+    "min": 15,
+    "max": 15
+   }
+  },
+  "injured": {
+   "min": null,
+   "max": null
+  },
+  "abducted": null,
+  "displaced": null,
+  "figures_by_source": [],
+  "victims": [],
+  "summary": "On the night of 9 to 10 February 2001 militants locked 15 members of three Gujjar Muslim families, whose men served in the Village Defence Committee, inside their homes in a remote hamlet of Kot Charwal in Rajouri and set the houses on fire. Seven children and three women were among the dead.",
+  "sources": [
+   {
+    "id": "outlook-jammu-files",
+    "url": "https://www.outlookindia.com/national/jammu-files-the-faceless-victims-of-militancy-across-the-pir-panjal-news-189966",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/jammu-files-the-faceless-victims-of-militancy-across-the-pir-panjal-news-189966",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Jammu Files: The Faceless Victims Of Militancy Across Pir Panjal",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-rajouri-communal-war",
+    "url": "https://theprint.in/opinion/security-code/pakistani-militants-bringing-communal-war-back-to-jk-hindu-killings-in-rajouri-are-proof/1297089/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/opinion/security-code/pakistani-militants-bringing-communal-war-back-to-jk-hindu-killings-in-rajouri-are-proof/1297089/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Pakistani militants bringing communal war back to J&K. Hindu killings in Rajouri are proof",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-2001-02-11",
+    "url": "https://www.tribuneindia.com/2001/20010211/main1.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2001/20010211/main1.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, main news, 11 February 2001",
+    "date": "2001-02-11",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "confidence": "confirmed",
+  "high_profile": true,
+  "cross_border": false,
+  "tags": [
+   "jammu-region",
+   "vdc"
+  ],
+  "notes": "Accounts give 9 or 10 February. Lashkar-e-Taiba is recorded as suspected."
+ },
+ {
+  "id": "2001-07-20-sheshnag-amarnath",
+  "date": "2001-07-20",
+  "end_date": null,
+  "date_precision": "day",
   "time": null,
   "title": "Attack on Amarnath pilgrims at Sheshnag",
   "place_name": "Sheshnag camp, Amarnath route",
@@ -5915,8 +6069,8 @@
    }
   },
   "injured": {
-   "min": null,
-   "max": null
+   "min": 15,
+   "max": 15
   },
   "abducted": null,
   "displaced": null,
@@ -5927,7 +6081,7 @@
    }
   ],
   "victims": [],
-  "summary": "In July 2001 militants got past the security cordon at the Sheshnag camp on the Amarnath route, set off explosives and fired on pilgrims. Thirteen people were killed: eight pilgrims, three local Muslim civilians and two security personnel.",
+  "summary": "Before dawn on 20 July 2001 militants got past the security cordon at the Sheshnag camp on the Amarnath route, set off explosives and fired on pilgrims. Thirteen people were killed: eight pilgrims, three local Muslim civilians and two security personnel.",
   "sources": [
    {
     "id": "tribune-timeline-civilians-2000",
@@ -5950,6 +6104,17 @@
     "date": "2025-04-23",
     "pages": null,
     "kind": "news"
+   },
+   {
+    "id": "tribune-2001-07-22",
+    "url": "https://www.tribuneindia.com/2001/20010722/main1.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2001/20010722/main1.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, main news, 22 July 2001",
+    "date": "2001-07-22",
+    "pages": null,
+    "kind": "news"
    }
   ],
   "confidence": "confirmed",
@@ -5958,7 +6123,7 @@
   "tags": [
    "amarnath"
   ],
-  "notes": "Exact day not yet confirmed in the cited sources; month precision only."
+  "notes": null
  },
  {
   "id": "2001-08-03-loodar-kishtwar",
@@ -6671,7 +6836,7 @@
    }
   },
   "injured": {
-   "min": 28,
+   "min": 27,
    "max": 28
   },
   "abducted": null,
@@ -6739,32 +6904,38 @@
   "attribution": "suspected",
   "killed": {
    "civilians": {
-    "min": 10,
-    "max": 10
+    "min": null,
+    "max": null
    },
    "security_forces": {
-    "min": 2,
-    "max": 2
+    "min": null,
+    "max": null
    },
    "terrorists": {
     "min": null,
     "max": null
    },
    "total": {
-    "min": null,
-    "max": null
+    "min": 13,
+    "max": 14
    }
   },
   "injured": {
    "min": 50,
-   "max": 50
+   "max": 52
   },
   "abducted": null,
   "displaced": null,
   "figures_by_source": [
    {
     "source_id": "tribune-2002-11-25",
-    "note": "At least 12 killed including four women and two security men, about 50 injured (next-day report)"
+    "note": "At least 12 killed including four women and two security men, about 50 injured; one attacker shot dead (next-day report)"
+   },
+   {
+    "source_id": "tribune-2002-11-26",
+    "killed_total": 13,
+    "injured": 52,
+    "note": "13 dead including two attackers and a CRPF jawan"
    }
   ],
   "victims": [],
@@ -6782,6 +6953,17 @@
     "kind": "news"
    },
    {
+    "id": "tribune-2002-11-26",
+    "url": "https://www.tribuneindia.com/2002/20021126/main1.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2002/20021126/main1.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, main news, 26 November 2002",
+    "date": "2002-11-26",
+    "pages": null,
+    "kind": "news"
+   },
+   {
     "id": "organiser-raghunath-temple",
     "url": "https://organiser.org/2026/01/21/335565/bharat/shri-raghunath-temple-how-faith-survived-displacement-humiliation-and-terror-in-jammu-kashmir/",
     "archive_url": "https://web.archive.org/web/https://organiser.org/2026/01/21/335565/bharat/shri-raghunath-temple-how-faith-survived-displacement-humiliation-and-terror-in-jammu-kashmir/",
@@ -6793,13 +6975,13 @@
     "kind": "news"
    }
   ],
-  "confidence": "confirmed",
+  "confidence": "disputed",
   "high_profile": true,
   "cross_border": false,
   "tags": [
    "temple"
   ],
-  "notes": "Figures from next-day reporting; the final toll may be higher."
+  "notes": "Contemporary reports differ on how many of the dead were attackers. The total is shown as a range and not split by category."
  },
  {
   "id": "2003-03-23-nadimarg",
@@ -6908,10 +7090,10 @@
   "notes": "Recorded in Pulwama district at the time. The current district is left blank until confirmed after the 2007 reorganisation."
  },
  {
-  "id": "2003-06-sunjwan-army-camp",
-  "date": "2003-06",
+  "id": "2003-06-28-sunjwan-army-camp",
+  "date": "2003-06-28",
   "end_date": null,
-  "date_precision": "month",
+  "date_precision": "day",
   "time": null,
   "title": "Fidayeen attack on Sunjwan army camp, Jammu",
   "place_name": "Sunjwan military station, Jammu",
@@ -6939,23 +7121,23 @@
     "max": 12
    },
    "terrorists": {
-    "min": null,
-    "max": null
+    "min": 2,
+    "max": 2
    },
    "total": {
-    "min": null,
-    "max": null
+    "min": 14,
+    "max": 14
    }
   },
   "injured": {
-   "min": null,
-   "max": null
+   "min": 7,
+   "max": 7
   },
   "abducted": null,
   "displaced": null,
   "figures_by_source": [],
   "victims": [],
-  "summary": "In June 2003 fidayeen cut through the wire at the Sunjwan army camp in Jammu and attacked soldiers in their barracks. Twelve soldiers, including an officer, were killed.",
+  "summary": "On 28 June 2003 two fidayeen cut through the wire at the Sunjwan army camp in Jammu and attacked soldiers in their barracks. Twelve soldiers, including an officer, were killed and seven wounded before both attackers died.",
   "sources": [
    {
     "id": "theprint-sunjuwan-lessons",
@@ -6978,6 +7160,17 @@
     "date": null,
     "pages": null,
     "kind": "news"
+   },
+   {
+    "id": "tribune-2003-06-29",
+    "url": "https://www.tribuneindia.com/2003/20030629/main1.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2003/20030629/main1.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, main news, 29 June 2003",
+    "date": "2003-06-29",
+    "pages": null,
+    "kind": "news"
    }
   ],
   "confidence": "confirmed",
@@ -6986,7 +7179,7 @@
   "tags": [
    "fidayeen-era"
   ],
-  "notes": "Exact day and attacker deaths not yet confirmed in the cited sources."
+  "notes": null
  },
  {
   "id": "2003-07-22-tanda-akhnoor",
@@ -7057,6 +7250,17 @@
     "publisher": "The Tribune",
     "title": "The Tribune, special editorial, 24 July 2003",
     "date": "2003-07-24",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-2003-07-23",
+    "url": "https://www.tribuneindia.com/2003/20030723/main2.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2003/20030723/main2.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, main news, 23 July 2003",
+    "date": "2003-07-23",
     "pages": null,
     "kind": "news"
    }
@@ -8085,7 +8289,7 @@
   "high_profile": true,
   "cross_border": false,
   "tags": [],
-  "notes": null
+  "notes": "Reference accounts say all six attackers were also killed; not yet confirmed in a cited news or official source."
  },
  {
   "id": "2015-03-20-kathua-rajbagh",
@@ -8497,6 +8701,10 @@
     "source_id": "tribune-uri-17-4"
    },
    {
+    "source_id": "tribune-uri-toll-19",
+    "note": "Two wounded soldiers died later"
+   },
+   {
     "source_id": "de-uri-17-killed"
    }
   ],
@@ -8526,6 +8734,17 @@
     "kind": "news"
    },
    {
+    "id": "tribune-uri-toll-19",
+    "url": "https://www.tribuneindia.com/news/archive/features/uri-attack-toll-rises-to-19-302981",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/features/uri-attack-toll-rises-to-19-302981",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Uri attack toll rises to 19",
+    "date": "2016-09",
+    "pages": null,
+    "kind": "news"
+   },
+   {
     "id": "theprint-surgical-no-data",
     "url": "https://theprint.in/defence/no-data-of-surgical-strikes-before-september-2016-says-army/232895/",
     "archive_url": "https://web.archive.org/web/https://theprint.in/defence/no-data-of-surgical-strikes-before-september-2016-says-army/232895/",
@@ -8543,7 +8762,7 @@
   "tags": [
    "fidayeen-era"
   ],
-  "notes": "The army toll rose to 19 as wounded soldiers died; 17 is the figure in first reports. The upper figure still needs a cited source."
+  "notes": "First reports gave 17 soldiers killed; the toll rose to 19 as wounded soldiers died."
  },
  {
   "id": "2016-09-29-surgical-strikes",
@@ -8791,6 +9010,17 @@
     "date": "2017-07",
     "pages": null,
     "kind": "news"
+   },
+   {
+    "id": "wire-amarnath-2017-seven",
+    "url": "https://thewire.in/156349/seven-amarnath-pilgrims-killed-15-injured-in-terror-attack-in-anantnag/",
+    "archive_url": "https://web.archive.org/web/https://thewire.in/156349/seven-amarnath-pilgrims-killed-15-injured-in-terror-attack-in-anantnag/",
+    "archive_checked": false,
+    "publisher": "The Wire",
+    "title": "Seven Amarnath pilgrims killed, 15 injured in terror attack in Anantnag",
+    "date": "2017-07-10",
+    "pages": null,
+    "kind": "news"
    }
   ],
   "confidence": "confirmed",
@@ -8799,7 +9029,7 @@
   "tags": [
    "amarnath"
   ],
-  "notes": null
+  "notes": "First reports gave seven dead and 15 injured; an injured woman died later, taking the toll to eight."
  },
  {
   "id": "2018-02-10-sunjuwan",
@@ -10511,7 +10741,7 @@
   "perpetrator_group": [
    "trf"
   ],
-  "attribution": "officially_attributed",
+  "attribution": "claimed",
   "killed": {
    "civilians": {
     "min": 2,
@@ -10551,7 +10781,7 @@
     "source_id": "tribune-teachers-lined-up"
    }
   ],
-  "summary": "On 7 October 2021 gunmen entered a government school at Eidgah in Srinagar, checked the staff's identities, let the Muslim teachers go and shot dead the Sikh principal Supinder Kaur and the Hindu teacher Deepak Chand. Police linked the killing to The Resistance Front.",
+  "summary": "On 7 October 2021 gunmen entered a government school at Eidgah in Srinagar, checked the staff's identities, let the Muslim teachers go and shot dead the Sikh principal Supinder Kaur and the Hindu teacher Deepak Chand. The Resistance Front claimed the killing.",
   "sources": [
    {
     "id": "tribune-teachers-lined-up",
@@ -10765,7 +10995,7 @@
   "tags": [
    "pir-panjal-shift"
   ],
-  "notes": null
+  "notes": "Some reports place this encounter in the Nar Khas forest of Mendhar."
  },
  {
   "id": "2021-10-17-wanpoh-bihar-labourers",
@@ -11052,8 +11282,8 @@
   "end_date": null,
   "date_precision": "day",
   "time": null,
-  "title": "Killing of a Bihar labourer at Chadoora",
-  "place_name": "Chadoora, Budgam",
+  "title": "Killing of Bihar labourer Dilkhush Kumar at a Chadoora brick kiln",
+  "place_name": "Brick kiln, Magraypora, Chadoora, Budgam",
   "district_at_time": "Budgam",
   "district_current": "Budgam",
   "region": "Kashmir Valley",
@@ -11088,14 +11318,21 @@
    }
   },
   "injured": {
-   "min": null,
-   "max": null
+   "min": 1,
+   "max": 1
   },
   "abducted": null,
   "displaced": null,
   "figures_by_source": [],
-  "victims": [],
-  "summary": "Hours after the killing of bank manager Vijay Kumar on 2 June 2022, militants shot dead a labourer from Bihar in the Valley. The two killings in one day deepened fear among workers from outside the region.",
+  "victims": [
+   {
+    "name": "Dilkhush Kumar",
+    "age": 17,
+    "role": "Brick kiln labourer from Bihar",
+    "source_id": "wire-budgam-labourer-17"
+   }
+  ],
+  "summary": "On the night of 2 June 2022, hours after the killing of bank manager Vijay Kumar, militants fired on two brick kiln workers at Magraypora in Chadoora. Dilkhush Kumar, 17, from Bihar, died, and a co-worker from Punjab was injured.",
   "sources": [
    {
     "id": "tribune-dilkhush-bihar-labourer",
@@ -11107,16 +11344,38 @@
     "date": "2022-06",
     "pages": null,
     "kind": "news"
+   },
+   {
+    "id": "wire-budgam-labourer-17",
+    "url": "https://cms.thewire.in/security/jk-17-year-old-migrant-labourer-shot-dead-another-injured-in-budgam",
+    "archive_url": "https://web.archive.org/web/https://cms.thewire.in/security/jk-17-year-old-migrant-labourer-shot-dead-another-injured-in-budgam",
+    "archive_checked": false,
+    "publisher": "The Wire",
+    "title": "J&K: 17-Year-Old Migrant Labourer Shot Dead, Another Injured in Budgam",
+    "date": "2022-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "organiser-budgam-labourer",
+    "url": "https://organiser.org/2022/06/03/83857/bharat/one-migrant-labourer-and-another-killed-another-injured-in-a-terrorist-attack-in-j-ks-budgam/",
+    "archive_url": "https://web.archive.org/web/https://organiser.org/2022/06/03/83857/bharat/one-migrant-labourer-and-another-killed-another-injured-in-a-terrorist-attack-in-j-ks-budgam/",
+    "archive_checked": false,
+    "publisher": "Organiser",
+    "title": "Terrorists kill one migrant labour, injure another in Jammu and Kashmir's Budgam",
+    "date": "2022-06-03",
+    "pages": null,
+    "kind": "news"
    }
   ],
-  "confidence": "reported",
+  "confidence": "confirmed",
   "high_profile": false,
   "cross_border": false,
   "tags": [
    "migrant-workers",
    "targeted-killings-2022"
   ],
-  "notes": "Place and victim name to be confirmed with a second source."
+  "notes": null
  },
  {
   "id": "2022-06-02-vijay-kumar",
@@ -11768,7 +12027,7 @@
     "max": 0
    },
    "security_forces": {
-    "min": 5,
+    "min": 4,
     "max": 5
    },
    "terrorists": {
@@ -11776,7 +12035,7 @@
     "max": 2
    },
    "total": {
-    "min": 7,
+    "min": 6,
     "max": 7
    }
   },
@@ -11807,7 +12066,7 @@
     "source_id": "outlook-kokernag"
    }
   ],
-  "summary": "On 13 September 2023 a search party moving up towards a militant hideout at Gadole in the Kokernag forests came under fire. Colonel Manpreet Singh, Major Ashish Dhonchak and Deputy Superintendent Humayun Bhat were among those killed. The operation lasted a week and ended with two militants, including commander Uzair Khan, killed; five security personnel died in all.",
+  "summary": "On 13 September 2023 a search party moving up towards a militant hideout at Gadole in the Kokernag forests came under fire. Colonel Manpreet Singh, Major Ashish Dhonchak and Deputy Superintendent Humayun Bhat were among those killed. The operation lasted a week and ended with two militants, including commander Uzair Khan, killed. Four or five security personnel died in all, depending on the account.",
   "sources": [
    {
     "id": "outlook-kokernag",
@@ -11830,9 +12089,20 @@
     "date": "2023-09",
     "pages": null,
     "kind": "news"
+   },
+   {
+    "id": "wire-kokernag-fourth",
+    "url": "https://m.thewire.in/article/security/kokernag-operation-anantnag-fourth-soldier-killed/amp",
+    "archive_url": "https://web.archive.org/web/https://m.thewire.in/article/security/kokernag-operation-anantnag-fourth-soldier-killed/amp",
+    "archive_checked": false,
+    "publisher": "The Wire",
+    "title": "Kokernag operation: fourth security personnel killed",
+    "date": "2023-09",
+    "pages": null,
+    "kind": "news"
    }
   ],
-  "confidence": "confirmed",
+  "confidence": "disputed",
   "high_profile": true,
   "cross_border": false,
   "tags": [],
@@ -13345,7 +13615,14 @@
   "abducted": null,
   "displaced": null,
   "figures_by_source": [],
-  "victims": [],
+  "victims": [
+   {
+    "name": "Deepak",
+    "age": null,
+    "role": "Brick kiln worker from Chhattisgarh",
+    "source_id": "ians-kulgam-2026"
+   }
+  ],
   "summary": "On 31 July 2026 militants fired on two labourers from Chhattisgarh at a brick kiln in the Kelam area of Kulgam. One died before he could reach hospital and the other was injured.",
   "sources": [
    {
@@ -13367,6 +13644,17 @@
     "publisher": "The Tribune",
     "title": "Terrorists open fire on labourers in J-K's Kulgam; 1 killed, 1 injured",
     "date": "2026-07",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "ians-kulgam-2026",
+    "url": "https://ianslive.in/terrorists-kill-one-non-local-worker-critically-injure-another-in-jks-kulgam-district-ld--20260731223637",
+    "archive_url": "https://web.archive.org/web/https://ianslive.in/terrorists-kill-one-non-local-worker-critically-injure-another-in-jks-kulgam-district-ld--20260731223637",
+    "archive_checked": false,
+    "publisher": "IANS",
+    "title": "Terrorists kill one non-local worker, critically injure another in J&K's Kulgam district",
+    "date": "2026-07-31",
     "pages": null,
     "kind": "news"
    }

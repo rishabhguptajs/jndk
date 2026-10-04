@@ -180,7 +180,7 @@ export function Atlas() {
       <aside className="atlas-filters" aria-label="Atlas controls">
         <div className="chips" role="tablist" aria-label="Panels" style={{ marginBottom: 12 }}>
           {(["filters", "list", "layers"] as Tab[]).map((t) => (
-            <button key={t} role="tab" aria-selected={tab === t} className="chip" aria-pressed={tab === t} onClick={() => setTab(t)}>
+            <button key={t} role="tab" aria-selected={tab === t} className="chip" onClick={() => setTab(t)}>
               {t === "filters" ? "Filter and search" : t === "list" ? `List (${visible.length})` : "Layers"}
             </button>
           ))}

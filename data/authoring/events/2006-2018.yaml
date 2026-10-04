@@ -189,6 +189,7 @@
   summary: >
     On 5 December 2014 heavily armed fidayeen stormed an army ordnance camp at Mohura in the Uri sector near the Line of Control. Eleven
     security personnel were killed: a lieutenant colonel and seven soldiers, and three Jammu and Kashmir policemen.
+  notes: Reference accounts say all six attackers were also killed; not yet confirmed in a cited news or official source.
 
 - id: 2016-06-25-pampore-crpf
   date: 2016-06-25
@@ -252,8 +253,9 @@
   killed: { civ: 0, sf: 17-19, terr: 4, total: 21-23 }
   figures:
     tribune-uri-17-4: { killed_security_forces: 17, killed_terrorists: 4 }
+    tribune-uri-toll-19: { killed_security_forces: 19, note: "Two wounded soldiers died later" }
     de-uri-17-killed: { killed_security_forces: 17 }
-  src: [de-uri-17-killed, tribune-uri-17-4, theprint-surgical-no-data]
+  src: [de-uri-17-killed, tribune-uri-17-4, tribune-uri-toll-19, theprint-surgical-no-data]
   conf: disputed
   hp: true
   tags: [fidayeen-era]
@@ -261,7 +263,7 @@
     Before dawn on 18 September 2016 four fidayeen attacked the army's brigade headquarters at Uri. Seventeen soldiers were
     killed in the first count, in what was reported as the deadliest attack on the brigade, and all four attackers died. India
     answered with cross-LoC strikes eleven days later.
-  notes: The army toll rose to 19 as wounded soldiers died; 17 is the figure in first reports. The upper figure still needs a cited source.
+  notes: First reports gave 17 soldiers killed; the toll rose to 19 as wounded soldiers died.
 
 - id: 2016-09-29-surgical-strikes
   date: 2016-09-29
@@ -324,13 +326,14 @@
   perp: [lashkar-e-taiba]
   attr: officially_attributed
   killed: { civ: 8, sf: 0, terr: 0, total: 8 }
-  src: [de-amarnath-2017-let, de-massacre-of-pilgrims, outlook-amarnath-2017-bandh]
+  src: [de-amarnath-2017-let, de-massacre-of-pilgrims, outlook-amarnath-2017-bandh, wire-amarnath-2017-seven]
   conf: confirmed
   hp: true
   tags: [amarnath]
   summary: >
     On the evening of 10 July 2017 Lashkar-e-Taiba militants fired on a bus carrying Amarnath pilgrims, most from Gujarat, at Batengoo near
     Khanabal. The bus was travelling outside the protected convoy. Eight pilgrims were killed. Police later charged Lashkar-e-Taiba and 11 people.
+  notes: First reports gave seven dead and 15 injured; an injured woman died later, taking the toll to eight.
 
 - id: 2018-02-10-sunjuwan
   date: 2018-02-10

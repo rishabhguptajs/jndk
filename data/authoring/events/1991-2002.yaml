@@ -316,7 +316,9 @@
   perp: [harkat-ul-mujahideen]
   attr: officially_attributed
   killed: { civ: 1, sf: 0, terr: 0, total: 1 }
-  src: [theprint-cia-ic814-plot, outlook-jem-explainer]
+  victims:
+    - { name: Rupin Katyal, role: Passenger, src: tribune-1999-12-26 }
+  src: [theprint-cia-ic814-plot, outlook-jem-explainer, tribune-1999-12-26]
   conf: confirmed
   hp: true
   cross_border: true
@@ -476,8 +478,8 @@
     In the fourth of the August 2000 attacks, militants killed seven members of the family of a surrendered militant in a village in
     Kupwara district. The attack targeted the relatives of a man who had left militancy.
 
-- id: 2001-07-sheshnag-amarnath
-  date: 2001-07
+- id: 2001-07-20-sheshnag-amarnath
+  date: 2001-07-20
   title: Attack on Amarnath pilgrims at Sheshnag
   place: Sheshnag camp, Amarnath route
   at: town:Pahalgam
@@ -491,16 +493,16 @@
   perp: []
   attr: unknown
   killed: { civ: 11, sf: 2, terr: 0, total: 13 }
+  injured: 15
   figures:
     tribune-timeline-civilians-2000: { total: 13 }
-  src: [tribune-timeline-civilians-2000, organiser-two-decades-massacres]
+  src: [tribune-timeline-civilians-2000, organiser-two-decades-massacres, tribune-2001-07-22]
   conf: confirmed
   hp: true
   tags: [amarnath]
   summary: >
-    In July 2001 militants got past the security cordon at the Sheshnag camp on the Amarnath route, set off explosives and fired on
+    Before dawn on 20 July 2001 militants got past the security cordon at the Sheshnag camp on the Amarnath route, set off explosives and fired on
     pilgrims. Thirteen people were killed: eight pilgrims, three local Muslim civilians and two security personnel.
-  notes: Exact day not yet confirmed in the cited sources; month precision only.
 
 - id: 2001-10-01-jk-assembly-attack
   date: 2001-10-01
@@ -616,7 +618,7 @@
   perp: [lashkar-e-taiba]
   attr: officially_attributed
   killed: { civ: 9, sf: 0, terr: 1, total: 10 }
-  injured: 28
+  injured: 27-28
   src: [tribune-2002-08-07-nunwan, organiser-terror-no-religion]
   conf: confirmed
   hp: true
@@ -639,16 +641,17 @@
   community: Hindu devotees
   perp: [lashkar-e-taiba]
   attr: suspected
-  killed: { civ: 10, sf: 2, total: null }
-  injured: 50
+  killed: { total: 13-14 }
+  injured: 50-52
   figures:
-    tribune-2002-11-25: { note: "At least 12 killed including four women and two security men, about 50 injured (next-day report)" }
-  src: [tribune-2002-11-25, organiser-raghunath-temple]
-  conf: confirmed
+    tribune-2002-11-25: { note: "At least 12 killed including four women and two security men, about 50 injured; one attacker shot dead (next-day report)" }
+    tribune-2002-11-26: { total: 13, injured: 52, note: "13 dead including two attackers and a CRPF jawan" }
+  src: [tribune-2002-11-25, tribune-2002-11-26, organiser-raghunath-temple]
+  conf: disputed
   hp: true
   tags: [temple]
   summary: >
     On 24 November 2002, eight months after the first attack, Lashkar-e-Taiba fidayeen stormed the Raghunath temple when it was crowded
     with devotees and also attacked a nearby Shiv temple. At least 12 people were killed, including four women and two security men, and
     about 50 were injured.
-  notes: Figures from next-day reporting; the final toll may be higher.
+  notes: Contemporary reports differ on how many of the dead were attackers. The total is shown as a range and not split by category.

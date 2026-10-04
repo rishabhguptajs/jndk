@@ -6,7 +6,7 @@
   --line-strong: #353b43;
   --text: #e6e8eb;
   --text-muted: #9aa2ab;
-  --text-faint: #6c747d;
+  --text-faint: #848c95;
   --red: #b42323;
   --red-deep: #8f1b1b;
   --amber: #c98a1a;
@@ -213,7 +213,8 @@ a:hover {
   border-color: #59616b;
 }
 .btn[aria-pressed="true"],
-.chip[aria-pressed="true"] {
+.chip[aria-pressed="true"],
+.chip[aria-selected="true"] {
   background: #2a3038;
   border-color: #8b95a1;
 }
@@ -483,36 +484,38 @@ input[type="date"] {
 .chapter {
   min-height: 80vh;
   padding-top: 20vh;
-  opacity: 0.35;
-  transition: opacity 0.3s;
+  color: var(--text-muted);
+  transition: color 0.3s;
 }
 .chapter.active {
-  opacity: 1;
+  color: var(--text);
 }
 .chapter h2 {
   font-size: 1.6rem;
 }
 .chapter-map {
   position: sticky;
-  top: 58px;
-  height: calc(100dvh - 58px);
+  top: var(--nav-h, 58px);
+  height: calc(100dvh - var(--nav-h, 58px));
 }
 @media (max-width: 900px) {
   .chapters {
     grid-template-columns: 1fr;
   }
+  /* Map first and pinned under the nav; the text scrolls up beneath it. */
   .chapter-map {
-    height: 45dvh;
-    z-index: 2;
+    order: -1;
+    height: 38dvh;
+    z-index: 4;
+    border-bottom: 1px solid var(--line-strong);
   }
   .chapter-text {
     position: relative;
     z-index: 3;
   }
   .chapter {
-    background: rgba(7, 8, 10, 0.88);
-    min-height: 60vh;
-    padding-top: 10vh;
+    min-height: 55vh;
+    padding-top: 6vh;
   }
 }
 

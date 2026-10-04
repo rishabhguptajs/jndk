@@ -422,7 +422,7 @@
  {
   "year": 1989,
   "events": 5,
-  "two_plus_sources_pct": 80,
+  "two_plus_sources_pct": 100,
   "village_geocoded_pct": 100,
   "killed_min": 4,
   "killed_max": 4,
@@ -541,11 +541,11 @@
  },
  {
   "year": 2001,
-  "events": 4,
+  "events": 5,
   "two_plus_sources_pct": 100,
-  "village_geocoded_pct": 25,
-  "killed_min": 83,
-  "killed_max": 87,
+  "village_geocoded_pct": 20,
+  "killed_min": 98,
+  "killed_max": 102,
   "unknown_toll": 0,
   "gap": false
  },
@@ -554,9 +554,9 @@
   "events": 6,
   "two_plus_sources_pct": 100,
   "village_geocoded_pct": 83,
-  "killed_min": 66,
-  "killed_max": 75,
-  "unknown_toll": 3,
+  "killed_min": 79,
+  "killed_max": 89,
+  "unknown_toll": 2,
   "gap": false
  },
  {
@@ -564,9 +564,9 @@
   "events": 4,
   "two_plus_sources_pct": 100,
   "village_geocoded_pct": 0,
-  "killed_min": 24,
-  "killed_max": 24,
-  "unknown_toll": 3,
+  "killed_min": 38,
+  "killed_max": 38,
+  "unknown_toll": 2,
   "gap": false
  },
  {
@@ -752,7 +752,7 @@
  {
   "year": 2022,
   "events": 6,
-  "two_plus_sources_pct": 83,
+  "two_plus_sources_pct": 100,
   "village_geocoded_pct": 0,
   "killed_min": 6,
   "killed_max": 6,
@@ -764,7 +764,7 @@
   "events": 7,
   "two_plus_sources_pct": 100,
   "village_geocoded_pct": 0,
-  "killed_min": 29,
+  "killed_min": 28,
   "killed_max": 29,
   "unknown_toll": 1,
   "gap": false

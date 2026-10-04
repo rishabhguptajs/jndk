@@ -27,13 +27,24 @@ export function Chapters() {
     return () => map.remove();
   }, []);
 
+  // Pin the map just below the site nav, whose height changes when it wraps on small screens.
+  useEffect(() => {
+    const nav = document.querySelector<HTMLElement>(".site-nav");
+    const root = document.querySelector<HTMLElement>(".chapters");
+    if (!nav || !root) return;
+    const ro = new ResizeObserver(() => root.style.setProperty("--nav-h", `${nav.offsetHeight}px`));
+    ro.observe(nav);
+    return () => ro.disconnect();
+  }, []);
+
   useEffect(() => {
     const els = document.querySelectorAll<HTMLElement>(".chapter");
     const io = new IntersectionObserver(
       (entries) => {
         for (const e of entries) if (e.isIntersecting) setActive(Number((e.target as HTMLElement).dataset.index));
       },
-      { rootMargin: "-45% 0px -45% 0px" },
+      // On narrow screens the map covers the top of the viewport, so read the chapter below it.
+      { rootMargin: window.matchMedia("(max-width: 900px)").matches ? "-62% 0px -28% 0px" : "-45% 0px -45% 0px" },
     );
     els.forEach((el) => io.observe(el));
     return () => io.disconnect();
@@ -92,7 +103,7 @@ export function Chapters() {
           </section>
         ))}
       </div>
-      <div className="chapter-map" aria-hidden>
+      <div className="chapter-map" role="region" aria-label="Map of the events in the current chapter">
         <div ref={ref} style={{ position: "absolute", inset: 0 }} />
       </div>
     </div>

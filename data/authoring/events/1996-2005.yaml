@@ -146,8 +146,8 @@
     ordered the stalled trial to resume.
   notes: Recorded in Pulwama district at the time. The current district is left blank until confirmed after the 2007 reorganisation.
 
-- id: 2003-06-sunjwan-army-camp
-  date: 2003-06
+- id: 2003-06-28-sunjwan-army-camp
+  date: 2003-06-28
   title: Fidayeen attack on Sunjwan army camp, Jammu
   place: Sunjwan military station, Jammu
   at: town:Jammu
@@ -160,15 +160,15 @@
   community: null
   perp: []
   attr: unknown
-  killed: { sf: 12, total: null }
-  src: [theprint-sunjuwan-lessons, tribune-major-attacks-jk]
+  killed: { sf: 12, terr: 2, total: 14 }
+  injured: 7
+  src: [theprint-sunjuwan-lessons, tribune-major-attacks-jk, tribune-2003-06-29]
   conf: confirmed
   hp: true
   tags: [fidayeen-era]
   summary: >
-    In June 2003 fidayeen cut through the wire at the Sunjwan army camp in Jammu and attacked soldiers in their barracks. Twelve soldiers,
-    including an officer, were killed.
-  notes: Exact day and attacker deaths not yet confirmed in the cited sources.
+    On 28 June 2003 two fidayeen cut through the wire at the Sunjwan army camp in Jammu and attacked soldiers in their barracks. Twelve
+    soldiers, including an officer, were killed and seven wounded before both attackers died.
 
 - id: 2003-07-22-tanda-akhnoor
   date: 2003-07-22
@@ -186,7 +186,7 @@
   attr: unknown
   killed: { sf: 8, total: null }
   injured: 12
-  src: [outlook-fidayeen-timeline, tribune-2003-07-24]
+  src: [outlook-fidayeen-timeline, tribune-2003-07-24, tribune-2003-07-23]
   conf: confirmed
   hp: true
   tags: [fidayeen-era]
@@ -290,3 +290,27 @@
     On 2 November 2005 a suicide bomber set off a car bomb at Nowgam on the outskirts of Srinagar. Ten people were killed, including a
     10-year-old boy, a woman passer-by, three police personnel and the bomber, and about 15 were wounded. Jaish-e-Mohammed claimed the
     attack.
+
+- id: 2001-02-09-kot-charwal
+  date: 2001-02-09
+  title: Kot Charwal massacre of Gujjar families
+  place: Morasalahi village, Kot Charwal, Rajouri
+  at: district:Rajouri
+  district: [Rajouri, Rajouri]
+  region: Jammu
+  cat: massacre
+  tactic: arson
+  target: [civilians]
+  community: Gujjar Muslim families of Village Defence Committee members
+  perp: [lashkar-e-taiba]
+  attr: suspected
+  killed: { civ: 15, sf: 0, terr: 0, total: 15 }
+  src: [outlook-jammu-files, theprint-rajouri-communal-war, tribune-2001-02-11]
+  conf: confirmed
+  hp: true
+  tags: [jammu-region, vdc]
+  summary: >
+    On the night of 9 to 10 February 2001 militants locked 15 members of three Gujjar Muslim families, whose men served in the Village Defence Committee,
+    inside their homes in a remote hamlet of Kot Charwal in Rajouri and set the houses on fire. Seven children and three women were among
+    the dead.
+  notes: Accounts give 9 or 10 February. Lashkar-e-Taiba is recorded as suspected.
