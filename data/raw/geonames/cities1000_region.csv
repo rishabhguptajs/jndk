@@ -1,0 +1,663 @@
+lat,lon,name,admin1,admin2,cc
+37.28333,78.76667,Zangguy,Xinjiang Uygur Zizhiqu,,CN
+31.48056,79.79803,Toding,Tibet Autonomous Region,,CN
+32.50124,80.09758,Shiquanhe,Tibet Autonomous Region,,CN
+33.41844,79.63919,Rutog,Tibet Autonomous Region,,CN
+37.02847,80.80287,Qira,Xinjiang Uygur Zizhiqu,,CN
+37.6168,78.28087,Guma,Xinjiang Uygur Zizhiqu,,CN
+37.27225,79.73728,Karakax,Xinjiang Uygur Zizhiqu,,CN
+37.07403,80.18231,Lop,Xinjiang Uygur Zizhiqu,,CN
+37.1075,79.93548,Hotan,Xinjiang Uygur Zizhiqu,,CN
+32.11941,80.0561,Gar,Tibet Autonomous Region,,CN
+37.96111,77.24917,Yilkiqi,Xinjiang Uygur Zizhiqu,,CN
+37.07694,79.73167,Layka,Xinjiang Uygur Zizhiqu,,CN
+31.7,78.8,Diyag,Tibet Autonomous Region,,CN
+33.08616,80.36784,Lumaka,Tibet Autonomous Region,,CN
+32.20076,79.18447,Qumudi,Tibet Autonomous Region,,CN
+33.71294,80.37682,Zangkaxa,Tibet Autonomous Region,,CN
+37.1134,79.91034,Nu'erbage,Xinjiang Uygur Zizhiqu,,CN
+32.35948,80.4268,Langjiu,Tibet Autonomous Region,,CN
+34.0642,80.7712,Jisegumen,Tibet Autonomous Region,,CN
+34.9274,76.79336,Thang,Kashmir,,IN
+33.76969,74.09212,Punch,Kashmir,Punch,IN
+32.16667,76.2,Yol,Himachal Pradesh,Kangra,IN
+30.12796,77.28371,Yamunanagar,Haryana,Yamunanagar,IN
+30.72986,78.44342,Uttarkashi,Uttarakhand,Uttarkashi,IN
+34.08711,74.04775,Uri,Kashmir,,IN
+31.46493,76.26914,Una,Himachal Pradesh,Una,IN
+29.58479,77.2554,Un,Uttar Pradesh,Muzaffarnagar,IN
+29.51124,75.87823,Uklana,Haryana,Hisar,IN
+32.92431,75.13573,Udhampur,Kashmir,Udhampur,IN
+29.46856,76.176,Uchana,Haryana,Jind,IN
+33.86319,74.76524,Tsrar Sharif,Kashmir,Badgam,IN
+33.92769,75.11512,Tral,Kashmir,Pulwama,IN
+29.71332,75.90441,Tohana,Haryana,Fatehabad District,IN
+29.66824,77.32391,Titron,Uttar Pradesh,Saharanpur,IN
+31.83364,76.50539,Tira Sujanpur,Himachal Pradesh,Hamirpur,IN
+29.2291,77.35479,Tikri,Uttar Pradesh,Baghpat,IN
+31.12155,77.35838,Theog,Himachal Pradesh,Shimla,IN
+33.54228,74.38031,Thanna Mandi,Kashmir,Rajauri,IN
+29.97323,76.83214,Thanesar,Haryana,Kurukshetra,IN
+29.58605,77.41811,Thana Bhawan,Uttar Pradesh,Muzaffarnagar,IN
+29.19203,78.86145,Thakurdwara,Uttar Pradesh,Moradabad,IN
+30.39086,78.4803,Tehri,Uttarakhand,Tehri-Garhwal,IN
+31.45112,74.92538,Tarn Taran,Punjab,Tarn Taran,IN
+29.06925,80.1126,Tanakpur,Uttarakhand,Udham Singh Nagar,IN
+31.9498,75.86645,Talwara,Punjab,Hoshiarpur,IN
+30.85584,74.92979,Talwandi Bhai,Punjab,Ferozepur,IN
+29.16349,78.48403,Tajpur,Uttar Pradesh,Bijnor,IN
+29.3215,73.89979,Suratgarh,Rajasthan,Ganganagar,IN
+31.53276,76.90594,Sundarnagar,Himachal Pradesh,Mandi,IN
+30.1297,75.80715,Sunam,Punjab,Sangrur,IN
+34.23024,74.64828,Sumbal,Kashmir,Baramula,IN
+31.21448,75.19563,Sultanpur Lodhi,Punjab,Kapurthala,IN
+29.75534,78.11034,Sultanpur,Uttarakhand,Haridwar,IN
+29.02668,79.0576,Suar,Uttar Pradesh,Rampur,IN
+34.08842,74.80298,Srinagar,Kashmir,Srinagar,IN
+30.22243,78.78341,Srinagar,Uttarakhand,Garhwal,IN
+29.84042,73.45519,Karanpur,Rajasthan,Ganganagar,IN
+34.28787,74.47219,Sopur,Kashmir,Baramula,IN
+30.90908,77.10869,Solan,Himachal Pradesh,Solan,IN
+29.41386,77.4689,Sisauli,Uttar Pradesh,Muzaffarnagar,IN
+29.53489,75.02898,Sirsa,Haryana,Sirsa,IN
+30.64332,76.38489,Sirhind,Punjab,Fatehgarh Sahib,IN
+31.10442,77.16662,Shimla,Himachal Pradesh,Shimla,IN
+33.71723,74.83413,Shupiyan,Kashmir,Shupiyan,IN
+29.32627,78.57448,Sherkot,Uttar Pradesh,Bijnor,IN
+29.4497,77.30959,Shamli,Uttar Pradesh,Muzaffarnagar,IN
+31.50019,75.74863,Sham Churasi,Punjab,Hoshiarpur,IN
+29.35014,77.55062,Shahpur,Uttar Pradesh,Muzaffarnagar,IN
+31.08173,75.33708,Shahkot,Punjab,Jalandhar,IN
+30.16794,76.86977,Shahabad,Haryana,Kurukshetra,IN
+31.243,77.12221,Seoni,Himachal Pradesh,Shimla,IN
+29.2088,78.58695,Seohara,Uttar Pradesh,Bijnor,IN
+31.69887,76.73529,Sarka Ghat,Himachal Pradesh,Mandi,IN
+29.69224,75.23608,Sardulgarh,Punjab,Mansa,IN
+29.14551,77.61433,Sardhana,Uttar Pradesh,Meerut,IN
+31.50988,77.79395,Sarahan,Himachal Pradesh,Shimla,IN
+31.35205,76.31775,Santokhgarh,Himachal Pradesh,Una,IN
+30.24608,75.84686,Sangrur,Punjab,Sangrur,IN
+29.79601,74.4628,Sangaria,Haryana,,IN
+30.30145,76.457,Sanaur,Punjab,Patiala,IN
+30.83642,76.19262,Samrala,Punjab,Ludhiana,IN
+32.56113,75.12493,Samba,Kashmir,Samba,IN
+29.23578,77.0138,Samalkha,Haryana,Panipat,IN
+29.12067,78.62148,Sahaspur,Uttar Pradesh,Bijnor,IN
+29.9679,77.54522,Saharanpur,Uttar Pradesh,Saharanpur,IN
+29.40596,76.67042,Safidon,Haryana,Jind,IN
+30.97494,76.99137,Sabathu,Himachal Pradesh,Solan,IN
+30.96878,76.52557,Rupnagar,Punjab,Rupnagar,IN
+30.28467,78.98354,Rudraprayag,Uttarakhand,Garhwal,IN
+29.86313,77.89126,Roorkee,Uttarakhand,Haridwar,IN
+31.2021,77.75211,Rohru,Himachal Pradesh,Shimla,IN
+30.10778,78.29255,Rishikesh,Uttarakhand,Dehradun,IN
+33.08115,74.83242,Riasi,Kashmir,Reasi,IN
+29.26724,74.40288,Rawatsar,Rajasthan,Hanumangarh,IN
+29.6854,75.57461,Ratia,Haryana,Fatehabad District,IN
+29.64232,79.4334,Ranikhet,Uttarakhand,Almora,IN
+29.52454,74.83689,Rania,Haryana,Sirsa,IN
+30.25506,75.24065,Rampura,Punjab,Bathinda,IN
+31.44943,77.63087,Rampur,Himachal Pradesh,Kulu,IN
+29.8062,77.45251,Rampur,Uttar Pradesh,Saharanpur,IN
+32.80728,75.31119,Ramnagar,Kashmir,Udhampur,IN
+29.39484,79.12693,Ramnagar,Uttarakhand,Naini Tal,IN
+33.40354,74.22314,Ramgarh,Kashmir,Rajauri,IN
+31.96774,74.9096,Ram Das,Punjab,Amritsar,IN
+33.24101,75.23946,Ramban,Kashmir,Ramban,IN
+30.47276,76.58671,Rajpura,Punjab,Patiala,IN
+30.85142,77.30066,Rajgarh,Himachal Pradesh,Sirmaur,IN
+33.37526,74.3092,Rajaori,Kashmir,Rajauri,IN
+31.71943,74.80001,Raja Sansi,Punjab,Amritsar,IN
+30.02182,78.21495,Raiwala,Uttarakhand,Dehradun,IN
+29.53583,73.44917,Raisinghnagar,Rajasthan,Ganganagar,IN
+30.31162,78.0934,Raipur,Uttarakhand,Dehradun,IN
+30.65,75.6,Raikot,Punjab,Ludhiana,IN
+31.05275,76.11907,Rahon,Punjab,Shahid Bhagat Singh Nagar,IN
+30.02706,77.15177,Radaur,Haryana,Yamunanagar,IN
+33.63828,75.14261,Qazigund,Kashmir,Anantnag,IN
+31.82198,75.37663,Qadian,Punjab,Gurdaspur,IN
+29.76096,76.56034,Pundri,Haryana,Kaithal,IN
+33.87405,74.89955,Pulwama,Kashmir,Pulwama,IN
+29.58349,80.20947,Pithoragarh,Uttarakhand,Pithoragarh,IN
+30.42553,79.43066,Pipalkoti,Uttarakhand,Chamoli,IN
+30.7974,76.91888,Pinjaur,Haryana,Panchkula,IN
+29.44964,74.10093,Pilibangan,Rajasthan,Hanumangarh,IN
+31.02071,75.78766,Phillaur,Punjab,Jalandhar,IN
+29.18766,77.82893,Phalauda,Uttar Pradesh,Meerut,IN
+31.2185,75.77166,Phagwara,Punjab,Kapurthala,IN
+29.97897,76.58249,Pehowa,Haryana,Kurukshetra,IN
+30.15357,78.76998,Pauri,Uttarakhand,Garhwal,IN
+31.28083,74.85722,Patti,Punjab,Tarn Taran,IN
+34.16111,74.55554,Pattan,Kashmir,Baramula,IN
+30.32715,76.40266,Patiala,Punjab,Patiala,IN
+32.27306,75.65256,Pathankot,Punjab,Pathankot,IN
+32.34598,75.43441,Parol,Kashmir,Kathua,IN
+30.43666,77.62462,Paonta Sahib,Himachal Pradesh,Sirmaur,IN
+29.39005,76.96949,Panipat,Haryana,Panipat,IN
+31.66902,77.05359,Pandoh,Himachal Pradesh,Mandi,IN
+32.11453,76.55681,Palampur,Himachal Pradesh,Kangra,IN
+34.01418,75.31899,Pahalgam,Kashmir,Anantnag,IN
+29.70885,73.62539,Padampur,Rajasthan,Ganganagar,IN
+33.46659,76.88488,Padam,Kashmir,Kargil,IN
+31.16667,76.48333,Nurpur Kalan,Punjab,Rupnagar,IN
+29.14984,78.40917,Nurpur,Uttar Pradesh,Bijnor,IN
+31.09554,75.59281,Nurmahal,Punjab,Jalandhar,IN
+29.18292,74.77064,Nohar,Rajasthan,Hanumangarh,IN
+29.83671,76.93191,Nilokheri,Haryana,Karnal,IN
+29.32396,78.38673,Nihtaur,Uttar Pradesh,Bijnor,IN
+31.12612,76.11633,Nawashahr,Punjab,Shahid Bhagat Singh Nagar,IN
+32.76505,74.52772,Nawanshahr,Kashmir,Jammu,IN
+29.59489,76.11816,Narwana,Haryana,Jind,IN
+29.22123,76.14171,Narnaund,Haryana,Hisar,IN
+30.16173,78.28712,Narendranagar,Uttarakhand,Tehri-Garhwal,IN
+30.47798,77.12804,Narayangarh,Haryana,Ambala,IN
+31.38966,76.37574,Nangal Township,Punjab,Rupnagar,IN
+29.71215,77.41728,Nanauta,Uttar Pradesh,Saharanpur,IN
+31.04184,76.72113,Nalagarh,Himachal Pradesh,Solan,IN
+29.91964,77.30438,Nakur,Uttar Pradesh,Saharanpur,IN
+31.1259,75.47585,Nakodar,Punjab,Jalandhar,IN
+29.61207,78.34338,Najibabad,Uttar Pradesh,Bijnor,IN
+29.39743,79.44686,Naini Tal,Uttarakhand,Naini Tal,IN
+30.56029,77.29426,Nahan,Himachal Pradesh,Sirmaur,IN
+32.05,76.08333,Nagrota,Himachal Pradesh,Kangra,IN
+29.44439,78.43488,Nagina,Uttar Pradesh,Bijnor,IN
+32.13808,77.17393,Nagar,Himachal Pradesh,Kulu,IN
+31.78243,76.34177,Nadaun,Himachal Pradesh,Hamirpur,IN
+30.37475,76.15077,Nabha,Punjab,Patiala,IN
+29.47394,77.70414,Muzaffarnagar,Uttar Pradesh,Muzaffarnagar,IN
+30.2022,77.14873,Mustafabad,Haryana,Yamunanagar,IN
+30.4571,78.05498,Mussoorie,Uttarakhand,Dehradun,IN
+30.78957,76.49733,Morinda,Punjab,Rupnagar,IN
+30.47426,74.5166,Muktsar,Punjab,Muktsar,IN
+31.95097,75.61488,Mukerian,Punjab,Hoshiarpur,IN
+30.81571,75.17419,Moga,Punjab,Moga,IN
+29.29047,77.94789,Miranpur,Uttar Pradesh,Muzaffarnagar,IN
+29.10436,77.92134,Mawana,Uttar Pradesh,Meerut,IN
+30.08333,75.25,Maur,Punjab,Bathinda,IN
+29.98844,75.40167,Mansa,Punjab,Mansa,IN
+29.79163,77.8793,Manglaur,Uttar Pradesh,,IN
+31.71079,76.93152,Mandi,Himachal Pradesh,Mandi,IN
+29.48655,78.12732,Mandawar,Uttar Pradesh,Bijnor,IN
+32.2574,77.17481,Manali,Himachal Pradesh,Kulu,IN
+30.5309,75.87949,Maler Kotla,Punjab,Sangrur,IN
+30.21121,74.4818,Malaut,Punjab,Muktsar,IN
+31.1023,74.9969,Makhu,Punjab,Ferozepur,IN
+31.75705,74.95775,Majitha,Punjab,Amritsar,IN
+34.09212,74.59024,Magam,Kashmir,Baramula,IN
+30.91547,76.20134,Machhiwara,Punjab,Ludhiana,IN
+30.90015,75.85229,Ludhiana,Punjab,Ludhiana,IN
+29.40356,80.08965,Lohaghat,Uttarakhand,Champawat,IN
+34.16504,77.58402,Leh,Kashmir,Ladakh,IN
+29.11091,77.77767,Lawar Khas,Uttar Pradesh,Meerut,IN
+30.19406,75.67963,Laungowal,Punjab,Sangrur,IN
+29.84097,78.67881,Lansdowne,Uttarakhand,Garhwal,IN
+29.7587,78.04148,Laksar,Uttarakhand,Haridwar,IN
+29.9935,77.04563,Ladwa,Haryana,Kurukshetra,IN
+32.5717,77.02448,Kyelang,Himachal Pradesh,Lahul and Spiti,IN
+31.95835,77.10823,Kulu,Himachal Pradesh,Kulu,IN
+33.64462,75.0187,Kulgam,Kashmir,Kulgam,IN
+33.07246,75.28727,Kud,Kashmir,Udhampur,IN
+32.25,76.03333,Kotla,Himachal Pradesh,Kangra,IN
+31.11728,77.53936,Kotkhai,Himachal Pradesh,Shimla,IN
+30.94523,75.13763,Kot Isa Khan,Punjab,Moga,IN
+29.74337,78.51945,Kotdwara,Uttarakhand,Garhwal,IN
+33.31346,75.76726,Kishtwar,Kashmir,Kishtwar,IN
+29.50671,78.20613,Kiratpur,Uttar Pradesh,Bijnor,IN
+31.14456,74.55962,Khem Karan,Punjab,Tarn Taran,IN
+32.6027,74.80918,Khaur,Kashmir,Jammu,IN
+29.2788,77.73196,Khatauli,Uttar Pradesh,Muzaffarnagar,IN
+30.74572,76.64701,Kharar,Punjab,Ajitgarh,IN
+30.703,76.22106,Khanna,Punjab,Ludhiana,IN
+30.81675,76.3531,Khamanon,Punjab,Fatehgarh Sahib,IN
+32.99167,74.93195,Katra,Kashmir,Reasi,IN
+32.37068,75.52457,Kathua,Kashmir,Kathua,IN
+29.21399,78.95693,Kashipur,Uttarakhand,Udham Singh Nagar,IN
+30.89856,76.96587,Kasauli,Himachal Pradesh,Solan,IN
+31.44155,75.49992,Kartarpur,Punjab,Jalandhar,IN
+29.69197,76.98448,Karnal,Haryana,Karnal,IN
+34.55765,76.12622,Kargil,Kashmir,Kargil,IN
+31.38011,75.38105,Kapurthala,Punjab,Kapurthala,IN
+29.05952,78.62874,Kanth,Uttar Pradesh,Moradabad,IN
+32.09087,76.26073,Kangra,Himachal Pradesh,Kangra,IN
+29.32104,77.27101,Kandhla,Uttar Pradesh,Muzaffarnagar,IN
+30.83915,76.93947,Kalka,Himachal Pradesh,,IN
+29.83281,74.97857,Kalanwali,Haryana,Sirsa,IN
+32.01227,75.15063,Kalanaur,Punjab,Gurdaspur,IN
+29.47737,78.78513,Kalagarh,Uttarakhand,Garhwal,IN
+29.28319,79.34936,Kaladhungi,Uttarakhand,Naini Tal,IN
+29.8019,76.39667,Kaithal,Haryana,Kaithal,IN
+29.3959,77.20565,Kairana,Uttar Pradesh,Muzaffarnagar,IN
+31.1,77.11667,Jutogh,Himachal Pradesh,Shimla,IN
+31.32556,75.57917,Jalandhar,Punjab,Jalandhar,IN
+29.1244,76.40482,Julana Shadipur,Haryana,Jind,IN
+31.10923,77.65085,Jubbal,Himachal Pradesh,Shimla,IN
+30.55588,79.56655,Joshimath,Uttarakhand,Chamoli,IN
+31.98727,76.78906,Jogindarnagar,Himachal Pradesh,Mandi,IN
+29.31617,76.31436,Jind,Haryana,Jind,IN
+29.52118,77.2247,Jhinjhana,Uttar Pradesh,Muzaffarnagar,IN
+29.33609,78.22608,Jhalu,Uttar Pradesh,Bijnor,IN
+31.87456,76.32013,Jawala Mukhi,Himachal Pradesh,Kangra,IN
+29.27944,78.82656,Jaspur,Uttarakhand,Udham Singh Nagar,IN
+29.32508,77.84945,Jansath,Uttar Pradesh,Muzaffarnagar,IN
+31.56098,75.02862,Jandiala Guru,Punjab,Amritsar,IN
+31.1593,75.61755,Jandiala,Punjab,Jalandhar,IN
+32.73569,74.86911,Jammu,Kashmir,Jammu,IN
+30.60622,74.25727,Jalalabad,Punjab,Ferozepur,IN
+29.61853,77.43908,Jalalabad,Uttar Pradesh,Muzaffarnagar,IN
+29.79627,75.82392,Jakhal,Haryana,Fatehabad District,IN
+30.4475,74.88744,Jaito,Punjab,Faridkot,IN
+30.79013,75.47492,Jagraon,Punjab,Ludhiana,IN
+30.16719,77.30367,Jagadhri,Haryana,Yamunanagar,IN
+29.87999,77.05972,Indri,Haryana,Karnal,IN
+31.53238,75.90799,Hoshiarpur,Punjab,Hoshiarpur,IN
+29.15394,75.72294,Hisar,Haryana,Hisar,IN
+32.45458,75.29309,Hiranagar,Kashmir,Kathua,IN
+30.43863,77.74058,Harbatpur,Uttarakhand,Dehradun,IN
+29.15602,77.99659,Hastinapur,Uttar Pradesh,Meerut,IN
+29.94791,78.16025,Haridwar,Uttarakhand,Haridwar,IN
+31.63484,75.839,Hariana,Punjab,Hoshiarpur,IN
+29.58182,74.32938,Hanumangarh,Rajasthan,Hanumangarh,IN
+29.10005,75.9645,Hansi,Haryana,Hisar,IN
+31.68411,76.52506,Hamirpur,Himachal Pradesh,Hamirpur,IN
+29.22254,79.5286,Haldwani,Uttarakhand,Naini Tal,IN
+29.28979,78.28368,Haldaur,Uttar Pradesh,Bijnor,IN
+31.97616,75.75322,Hajipur,Punjab,Hoshiarpur,IN
+34.29895,74.61681,Hajan,Kashmir,Baramula,IN
+30.70862,74.40407,Guru Har Sahai,Punjab,Ferozepur,IN
+32.0384,75.40344,Gurdaspur,Punjab,Gurdaspur,IN
+29.44768,75.67206,Gorakhpur,Haryana,Fatehabad District,IN
+29.13777,76.70247,Gohana,Haryana,Sonipat,IN
+30.19953,74.66627,Giddarbaha,Punjab,Muktsar,IN
+29.53692,76.97142,Gharaunda,Haryana,Karnal,IN
+30.33162,76.61129,Ghanaur,Punjab,Patiala,IN
+31.44166,76.71509,Ghumarwin,Himachal Pradesh,Bilaspur,IN
+31.21537,76.14149,Garhshankar,Punjab,Hoshiarpur,IN
+29.5498,77.30881,Garhi Pukhta,Uttar Pradesh,Muzaffarnagar,IN
+31.74069,75.75479,Garhdiwala,Punjab,Hoshiarpur,IN
+29.78004,77.26346,Gangoh,Uttar Pradesh,Saharanpur,IN
+29.92009,73.87496,Ganganagar,Rajasthan,Ganganagar,IN
+34.22992,74.7783,Gandarbal,Kashmir,Srinagar,IN
+31.65846,76.06144,Gagret,Himachal Pradesh,Una,IN
+30.92574,74.61311,Firozpur,Punjab,Ferozepur,IN
+30.40207,74.02836,Fazilka,Punjab,Fazilka,IN
+31.86431,74.95665,Fatehgarh Churian,Punjab,Gurdaspur,IN
+29.51525,75.45554,Fatehabad,Haryana,Fatehabad District,IN
+30.67238,74.75835,Faridkot,Punjab,Faridkot,IN
+29.45212,74.6624,Ellenabad,Haryana,Sirsa,IN
+29.77836,79.42931,Dwarahat,Uttarakhand,Almora,IN
+30.80026,76.02276,Doraha,Punjab,Ludhiana,IN
+30.17895,78.11784,Doiwala,Uttarakhand,Dehradun,IN
+29.80677,78.60813,Dogadda,Uttarakhand,Garhwal,IN
+33.14875,75.54611,Doda,Kashmir,Doda,IN
+30.0718,75.99449,Dirba,Punjab,Sangrur,IN
+32.13619,75.47141,Dinanagar,Punjab,Gurdaspur,IN
+30.37246,75.86185,Dhuri,Punjab,Sangrur,IN
+31.5142,75.34494,Dhilwan,Punjab,Kapurthala,IN
+32.22006,76.32013,Dharmsala,Himachal Pradesh,Kangra,IN
+31.95504,75.32172,Dhariwal,Punjab,Gurdaspur,IN
+29.84707,80.51951,Dharchula,Uttarakhand,Pithoragarh,IN
+30.28288,75.57455,Dhanaula,Punjab,Barnala,IN
+29.30604,78.50802,Dhampur,Uttar Pradesh,Bijnor,IN
+30.14603,78.60272,Devaprayag,Uttarakhand,Garhwal,IN
+31.87919,76.21871,Dera Gopipur,Himachal Pradesh,Kangra,IN
+32.03733,75.02787,Dera Nanak,Punjab,Gurdaspur,IN
+29.69505,77.67964,Deoband,Uttar Pradesh,Saharanpur,IN
+30.32443,78.03392,Dehradun,Uttarakhand,Dehradun,IN
+29.11344,77.70467,Daurala,Uttar Pradesh,Meerut,IN
+32.05705,76.26097,Daulatpur,Himachal Pradesh,Kangra,IN
+31.78871,75.99154,Daulatpur,Himachal Pradesh,Una,IN
+31.81565,75.65315,Dasua,Punjab,Hoshiarpur,IN
+32.55219,75.94663,Dalhousie,Himachal Pradesh,Chamba,IN
+30.88431,77.05228,Dagshai,Himachal Pradesh,Solan,IN
+29.94878,74.73707,Dabwali,Haryana,Sirsa,IN
+30.26055,78.01188,Clement Town,Uttarakhand,Dehradun,IN
+30.46944,77.77275,Vikasnagar,Uttarakhand,Dehradun,IN
+32.43156,76.02514,Chuari Khas,Himachal Pradesh,Chamba,IN
+29.21067,77.17347,Chhaprauli,Uttar Pradesh,Baghpat,IN
+30.24492,77.36027,Chhachhrauli,Haryana,Yamunanagar,IN
+30.9485,77.59162,Chaupal,Himachal Pradesh,Shimla,IN
+29.54687,77.59438,Charthawal,Uttar Pradesh,Muzaffarnagar,IN
+29.13506,78.26887,Chandpur,Uttar Pradesh,Bijnor,IN
+30.73629,76.7884,Chandigarh,Chandigarh,Chandigarh,IN
+29.33501,80.07783,Champawat,Uttarakhand,Champawat,IN
+32.5558,76.12592,Chamba,Himachal Pradesh,Chamba,IN
+30.70369,77.86386,Chakrata,Uttarakhand,Dehradun,IN
+30.15911,77.35814,Buriya,Haryana,Yamunanagar,IN
+29.92799,75.56205,Budhlada,Punjab,Mansa,IN
+29.28805,77.47534,Budhana,Uttar Pradesh,Muzaffarnagar,IN
+32.6106,74.85557,Bishnah,Kashmir,Jammu,IN
+30.0712,78.28189,Birbhaddar,Uttarakhand,Dehradun,IN
+31.34173,76.7625,Bilaspur,Himachal Pradesh,Bilaspur,IN
+30.3045,77.30424,Bilaspur,Haryana,Yamunanagar,IN
+29.373,78.13636,Bijnor,Uttar Pradesh,Bijnor,IN
+33.79403,75.10679,Bijbiara,Kashmir,Anantnag,IN
+29.3886,79.50489,Bhowali,Uttarakhand,Naini Tal,IN
+31.5423,75.50774,Bholath,Punjab,Kapurthala,IN
+31.55442,75.64271,Bhogpur,Punjab,Jalandhar,IN
+29.34447,79.56336,Bhim Tal,Uttarakhand,Naini Tal,IN
+30.06114,75.53433,Bhikhi,Punjab,Mansa,IN
+30.2666,76.03695,Bhawanigarh,Punjab,Sangrur,IN
+30.20712,74.9414,Bhatinda,Punjab,Bathinda,IN
+29.10298,75.17138,Bhadra,Rajasthan,Hanumangarh,IN
+30.47534,75.33011,Bhadaur,Punjab,Barnala,IN
+32.97941,75.71723,Bhadarwah,Kashmir,Doda,IN
+30.1705,77.61532,Behat,Uttar Pradesh,Saharanpur,IN
+31.61152,75.52135,Begowal,Punjab,Kapurthala,IN
+29.15299,79.1064,Bazpur,Uttarakhand,Udham Singh Nagar,IN
+33.11826,75.30889,Batoti,Kashmir,Doda,IN
+31.81861,75.20278,Batala,Punjab,Gurdaspur,IN
+30.69001,76.40154,Basi,Punjab,Fatehgarh Sahib,IN
+30.5883,76.84389,Basi,Punjab,Ajitgarh,IN
+29.36747,75.90809,Barwala,Haryana,Hisar,IN
+30.37205,75.54537,Barnala,Punjab,Barnala,IN
+30.80861,78.20596,Barkot,Uttarakhand,Uttarkashi,IN
+29.10199,77.26334,Baraut,Uttar Pradesh,Baghpat,IN
+34.209,74.34285,Baramula,Kashmir,Baramula,IN
+30.55375,76.71867,Banur,Punjab,Patiala,IN
+31.639,77.34055,Banjar,Himachal Pradesh,Kulu,IN
+33.41667,75.2,Banihal,Kashmir,Ramban,IN
+31.18602,75.99643,Banga,Punjab,Shahid Bhagat Singh Nagar,IN
+34.41728,74.64308,Bandipura,Kashmir,Bandipore,IN
+29.46355,77.35478,Banat,Uttar Pradesh,Muzaffarnagar,IN
+31.06062,76.30166,Balachor,Punjab,Shahid Bhagat Singh Nagar,IN
+32.47939,75.91874,Bakloh,Punjab,,IN
+29.20076,77.97084,Bahsuma,Uttar Pradesh,Meerut,IN
+30.68747,75.09572,Bagha Purana,Punjab,Moga,IN
+29.8376,79.7714,Bageshwar,Uttarakhand,Bageshwar,IN
+30.68036,75.29239,Badhni Kalan,Punjab,Moga,IN
+33.91978,75.01515,Awantipur,Kashmir,Pulwama,IN
+29.52119,76.60552,Asandh,Haryana,Karnal,IN
+32.52095,74.79845,Arnia,Kashmir,Jammu,IN
+31.15196,76.96675,Arki,Himachal Pradesh,Solan,IN
+29.19111,73.20861,Anupgarh,Rajasthan,Ganganagar,IN
+33.72993,75.15167,Anantnag,Kashmir,Anantnag,IN
+31.2388,76.50069,Anandpur Sahib,Punjab,Rupnagar,IN
+31.63661,74.87476,Amritsar,Punjab,Amritsar,IN
+30.60995,76.23186,Amloh,Punjab,Fatehgarh Sahib,IN
+30.36285,76.79516,Ambala,Haryana,Ambala,IN
+29.85706,77.33583,Ambahta,Uttar Pradesh,Saharanpur,IN
+29.59726,79.66088,Almora,Uttarakhand,Almora,IN
+31.43161,75.65614,Alawalpur,Punjab,Jalandhar,IN
+32.86667,74.73333,Akhnur,Kashmir,Jammu,IN
+29.82074,75.89078,Akalgarh,Punjab,Sangrur,IN
+31.84391,74.76166,Ajnala,Punjab,Amritsar,IN
+29.39374,78.67356,Afzalgarh,Uttar Pradesh,Bijnor,IN
+30.14453,74.19552,Abohar,Punjab,Ferozepur,IN
+34.08049,74.70871,Soyibug,Kashmir,Baramula,IN
+32.83194,74.57639,Jaurian,Kashmir,Jammu,IN
+30.68551,76.08488,Chima,Punjab,Ludhiana,IN
+32.55556,74.94861,Gho Manhasan,Kashmir,Samba,IN
+30.03209,77.75329,Chhutmalpur,Uttar Pradesh,Saharanpur,IN
+31.43224,75.71484,Adampur,Punjab,Jalandhar,IN
+34.03056,74.26417,Kupwara,Kashmir,,IN
+32.4319,76.012,Chowari,Himachal Pradesh,Chamba,IN
+30.67995,76.72211,Mohali,Punjab,Ajitgarh,IN
+30.5819,74.83298,Kotkapura,Punjab,Faridkot,IN
+30.95783,76.79136,Baddi,Himachal Pradesh,Solan,IN
+30.83716,76.96143,Parwanoo,Himachal Pradesh,Solan,IN
+30.96853,74.99106,Zira,Punjab,Ferozepur,IN
+32.412,75.79134,Dharkalan,Punjab,Gurdaspur,IN
+34.82636,71.84149,Timurgara,Khyber Pakhtunkhwa,,PK
+33.85782,73.76043,Rawala Kot,Azad Kashmir,,PK
+34.06028,72.46778,Zaida,Khyber Pakhtunkhwa,,PK
+32.34631,74.89987,Zafarwal,Punjab,,PK
+29.12122,71.74459,Yazman,Punjab,,PK
+32.44583,74.11594,Wazirabad,Punjab,,PK
+31.55,73.83333,Warburton,Punjab,,PK
+30.03333,72.35,Vihari,Punjab,,PK
+34.18799,71.76286,Utmanzai,Khyber Pakhtunkhwa,,PK
+34.07041,72.62358,Topi,Khyber Pakhtunkhwa,,PK
+30.97433,72.48269,Toba Tek Singh,Punjab,,PK
+30.70483,70.65051,Taunsa,Punjab,,PK
+32.22168,70.37928,Tank,Khyber Pakhtunkhwa,,PK
+34.30056,71.65361,Tangi,Khyber Pakhtunkhwa,,PK
+31.03333,73.13333,Tandlianwala,Punjab,,PK
+30.52708,72.24011,Talamba,Punjab,,PK
+32.92973,72.41583,Talagang,Punjab,,PK
+35.47908,72.24385,Tal,Khyber Pakhtunkhwa,,PK
+34.11988,72.46987,Swabi,Khyber Pakhtunkhwa,,PK
+32.71667,74.45,Surkhpur,Punjab,Gujrat District,PK
+31.86388,73.51122,Sukheke Mandi,Punjab,,PK
+32.46162,74.18234,Sodhra,Punjab,,PK
+35.28851,75.63334,Skardu,Gilgit-Baltistan,,PK
+31.82611,72.53984,Sillanwali,Punjab,,PK
+32.49268,74.53134,Sialkot,Punjab,,PK
+29.87967,71.29313,Shujaabad,Punjab,,PK
+31.90991,70.87741,Shorko,Khyber Pakhtunkhwa,,PK
+34.32959,71.17852,Shinpokh,Federally Administered Tribal Areas,,PK
+31.71306,73.97833,Sheikhupura,Punjab,,PK
+31.46333,74.1,Sharqpur,Punjab,,PK
+32.26232,75.16683,Shakargarr,Punjab,,PK
+29.57646,71.02116,Shahr Sultan,Punjab,,PK
+32.2676,72.47204,Shahpur,Punjab,,PK
+31.5709,73.48531,Shahkot,Punjab,Nankana Sahib District,PK
+34.2139,71.55523,Shabqadar,Khyber Pakhtunkhwa,,PK
+32.08361,72.67111,Sargodha,Punjab,,PK
+30.59489,71.96977,Sarai Sidhu,Punjab,,PK
+32.82591,70.78136,Sarai Naurang,Khyber Pakhtunkhwa,,PK
+32.90122,73.75591,Sarai Alamgir,Punjab,Gujrat District,PK
+33.76083,72.43361,Sanjwal,Punjab,,PK
+31.71667,73.38333,Sangla Hill,Punjab,Nankana Sahib District,PK
+32.47455,74.35209,Sambrial,Punjab,,PK
+34.7447,72.3546,Saidu Sharif,Khyber Pakhtunkhwa,,PK
+31.97446,72.33087,Sahiwal,Punjab,Sargodha District,PK
+30.66667,73.1,Sahiwal,Punjab,Sahiwal District,PK
+30.88333,73.6,Renala Khurd,Punjab,,PK
+33.6007,73.0679,Rawalpindi,Punjab,,PK
+32.32853,73.78136,Rasulnagar,Punjab,,PK
+29.10351,70.32504,Rajanpur,Punjab,,PK
+31.22083,74.25194,Raja Jang,Punjab,,PK
+31.25444,74.21778,Raiwind,Punjab,,PK
+31.75583,72.91972,Rabwah,Punjab,,PK
+30.29238,71.67117,Qadirpur Ran,Punjab,,PK
+30.76667,72.43333,Pir Mahal,Punjab,,PK
+33.24023,72.26609,Pindi Gheb,Punjab,,PK
+31.89781,73.27302,Pindi Bhattian,Punjab,,PK
+32.58789,73.04564,Pind Dadan Khan,Punjab,,PK
+32.42973,73.57745,Phalia,Punjab,,PK
+34.008,71.57849,Peshawar,Khyber Pakhtunkhwa,,PK
+31.01667,73.85,Pattoki,Punjab,,PK
+32.26413,74.66343,Pasrur,Punjab,,PK
+33.89968,70.10012,Parachinar,Federally Administered Tribal Areas,,PK
+33.7177,73.68739,Palandri,Azad Kashmir,,PK
+30.34104,73.38664,Pakpattan,Punjab,,PK
+32.10384,70.97235,Paharpur,Khyber Pakhtunkhwa,,PK
+34.01056,71.79889,Pabbi,Khyber Pakhtunkhwa,,PK
+30.80806,73.44583,Okara,Punjab,,PK
+34.00582,71.99773,Nowshera,Khyber Pakhtunkhwa,,PK
+33.14176,73.76736,New Mirpur,Azad Kashmir,,PK
+31.96283,73.97225,Naushahra Virkan,Punjab,,PK
+32.1,74.88333,Narowal,Punjab,,PK
+31.9132,74.51756,Narang,Punjab,,PK
+31.4475,73.69722,Nankana Sahib,Punjab,,PK
+30.07537,71.19213,Muzaffargarh,Punjab,,PK
+34.37002,73.47082,Muzaffarabad,Azad Kashmir,,PK
+30.89222,73.49889,Mustafabad,Punjab,,PK
+33.90836,73.3903,Murree,Punjab,,PK
+31.8025,74.26167,Muridke,Punjab,,PK
+30.19556,71.47528,Multan,Punjab,,PK
+32.24861,72.11083,Mitha Tiwana,Punjab,,PK
+33.00059,70.07117,Miran Shah,Federally Administered Tribal Areas,,PK
+34.7795,72.36265,Mingora,Khyber Pakhtunkhwa,,PK
+30.163,73.56854,Minchinabad,Punjab,,PK
+32.57409,71.52639,Mianwali,Punjab,,PK
+30.44004,72.35431,Mian Channun,Punjab,,PK
+34.20195,72.05254,Mardan,Khyber Pakhtunkhwa,,PK
+34.33333,73.2,Mansehra,Khyber Pakhtunkhwa,,PK
+31.38656,71.44067,Mankera,Punjab,,PK
+31.89306,72.38167,Mangla,Punjab,,PK
+32.58339,73.48431,Mandi Bahauddin,Punjab,,PK
+31.58417,73.68778,Mananwala,Punjab,,PK
+30.83333,72.8,Mamu Kanjan,Punjab,,PK
+32.55362,73.21234,Malakwal,Punjab,,PK
+34.56561,71.93043,Malakand,Khyber Pakhtunkhwa,,PK
+29.80028,72.17583,Mailsi,Punjab,,PK
+29.54051,71.63357,Lodhran,Punjab,,PK
+32.20651,72.95372,Liliani,Punjab,,PK
+30.96128,70.93904,Leiah,Punjab,,PK
+34.0988,71.14108,Landi Kotal,Federally Administered Tribal Areas,,PK
+31.82414,72.79971,Lalian,Punjab,,PK
+32.70235,73.96,Lala Musa,Punjab,,PK
+32.60795,70.91142,Lakki Marwat,Khyber Pakhtunkhwa,,PK
+31.54972,74.34361,Lahore,Punjab,,PK
+32.15656,74.11701,Ladhewala Waraich,Punjab,,PK
+33.38325,71.33858,Lachi,Khyber Pakhtunkhwa,,PK
+32.52848,73.97368,Kunjah,Punjab,,PK
+32.45872,71.47754,Kundian,Punjab,,PK
+31.92861,70.45917,Kulachi,Khyber Pakhtunkhwa,,PK
+30.7737,70.93125,Kot Sultan,Punjab,,PK
+31.1725,74.09972,Kot Radha Kishan,Punjab,,PK
+32.18954,73.02797,Kot Mumin,Punjab,,PK
+32.5883,74.49321,Kotli Loharan,Punjab,,PK
+33.51667,73.91667,Kotli,Azad Kashmir,,PK
+32.33298,74.54798,Kot Ghulam Muhammad,Punjab,,PK
+30.4692,70.96714,Kot Addu,Punjab,,PK
+33.58196,71.44929,Kohat,Khyber Pakhtunkhwa,,PK
+32.29667,72.3525,Khushab,Punjab,,PK
+31.50056,73.26667,Khurrianwala,Punjab,,PK
+32.64793,73.01058,Khewra,Punjab,,PK
+32.81493,73.86359,Kharian,Punjab,,PK
+33.11738,71.0949,Karak,Khyber Pakhtunkhwa,,PK
+35.15268,76.34404,Khapalu,Gilgit-Baltistan,,PK
+29.9173,71.16184,Khangarh,Punjab,,PK
+31.83167,73.62306,Khangah Dogran,Punjab,,PK
+30.3,71.93333,Khanewal,Punjab,,PK
+34.06,72.88944,Khalabat,Khyber Pakhtunkhwa,,PK
+29.58111,72.23639,Khairpur,Punjab,,PK
+31.11556,74.44667,Kasur,Punjab,,PK
+31.22741,70.94923,Karor,Punjab,,PK
+30.76629,74.12311,Kanganpur,Punjab,,PK
+33.74734,73.51107,Kamra,Punjab,,PK
+31.97444,74.22444,Kamoke,Punjab,,PK
+30.43333,73.05,Kamir,Punjab,,PK
+32.84389,71.36694,Kamar Mushani,Punjab,,PK
+30.73333,72.65,Kamalia,Punjab,,PK
+32.15639,71.25944,Kalur Kot,Punjab,,PK
+32.78333,72.7,Kallar Kahar,Punjab,,PK
+31.97717,73.60259,Kaleke Mandi,Punjab,,PK
+32.20093,74.64914,Kalaswala,Punjab,,PK
+32.965,71.55697,Kalabagh,Punjab,,PK
+33.5913,73.38676,Kahuta,Punjab,,PK
+29.62382,71.91673,Kohror Pakka,Punjab,,PK
+31.36917,74.36528,Kahna,Punjab,,PK
+30.40677,71.8667,Kabirwala,Punjab,,PK
+31.56781,73.18347,Jhumra,Punjab,,PK
+32.93313,73.72637,Jhelum,Punjab,,PK
+32.36139,72.62278,Jhawarian,Punjab,,PK
+31.27154,72.32842,Jhang Sadr,Punjab,,PK
+32.2898,72.2813,Jauharabad,Punjab,,PK
+29.51654,70.85032,Jatoi Shimali,Punjab,,PK
+31.33333,73.43333,Jaranwala,Punjab,,PK
+31.81986,73.91812,Jandiala Sher Khan,Punjab,,PK
+33.42985,72.01928,Jand,Punjab,,PK
+29.64414,70.59544,Jampur,Punjab,,PK
+29.50687,71.21917,Jalalpur Pirwala,Punjab,,PK
+32.63744,74.21829,Jalalpur,Punjab,,PK
+31.80552,72.27711,Jahanian Shah,Punjab,,PK
+33.72148,73.04329,Islamabad,Islamabad,,PK
+30.74179,73.82358,Hujra,Punjab,,PK
+33.90914,72.49212,Hazro,Punjab,,PK
+34.0536,73.16571,Havelian,Khyber Pakhtunkhwa,,PK
+30.45016,73.69888,Haveli,Punjab,,PK
+29.71222,72.55528,Hasilpur,Punjab,,PK
+30.43333,72.7,Hasan Abdal,Punjab,,PK
+29.61333,73.13889,Haru Zbad,Punjab,,PK
+32.27917,71.55389,Harnoli,Punjab,,PK
+33.99997,72.93409,Haripur,Khyber Pakhtunkhwa,,PK
+33.53108,71.05934,Hangu,Khyber Pakhtunkhwa,,PK
+32.06786,73.68545,Hafizabad,Punjab,,PK
+32.64132,74.56904,Hadali,Punjab,,PK
+32.57284,74.07897,Gujrat,Punjab,,PK
+32.16167,74.18831,Gujranwala,Punjab,,PK
+33.25579,73.30255,Gujar Khan,Punjab,,PK
+31.14874,72.68656,Gojra,Punjab,,PK
+35.91869,74.31245,Gilgit,Gilgit-Baltistan,,PK
+30.83388,71.90529,Garh Maharaja,Punjab,,PK
+36.17683,73.76383,Gakuch,Gilgit-Baltistan,,PK
+29.1925,72.85361,Fort Abbas,Punjab,,PK
+32.18333,75.06667,Fazalpur,Punjab,,PK
+31.17959,71.20946,Chak Two Hundred Forty-Nine TDA,Punjab,,PK
+31.88722,72.4144,Faruka,Punjab,,PK
+29.46631,73.03403,Faqirwali,Punjab,,PK
+31.41667,73.08333,Faisalabad,Punjab,,PK
+32.04219,74.25943,Eminabad,Punjab,,PK
+29.7995,71.71958,Dunyapur,Punjab,,PK
+29.74931,73.24324,Dunga Bunga,Punjab,,PK
+31.83587,71.43625,Dullewala,Punjab,,PK
+33.42444,70.73639,Doaba,Khyber Pakhtunkhwa,,PK
+35.20583,71.87556,Dir,Khyber Pakhtunkhwa,,PK
+30.67091,73.65292,Dipalpur,Punjab,,PK
+32.63976,73.72201,Dinga,Punjab,,PK
+31.21667,72.98333,Dijkot,Punjab,,PK
+32.40623,74.13687,Dhaunkal,Punjab,,PK
+29.57991,71.75213,Dhanot,Punjab,,PK
+31.83269,70.9024,Dera Ismail Khan,Khyber Pakhtunkhwa,,PK
+30.05614,70.63477,Dera Ghazi Khan,Punjab,,PK
+33.19253,73.14128,Daultala,Punjab,,PK
+32.87498,71.57013,Daud Khel,Punjab,,PK
+32.32426,74.34974,Daska,Punjab,,PK
+31.79123,71.10394,Darya Khan,Punjab,,PK
+29.55767,70.37615,Dajal,Punjab,,PK
+30.57019,70.93611,Daira Din Panah,Punjab,,PK
+34.51028,72.48432,Daggar,Khyber Pakhtunkhwa,,PK
+30.96397,73.98029,Chunian,Punjab,,PK
+31.75,73.8,Chuhar Kana,Punjab,,PK
+32.72006,72.98486,Choa Saidan Shah,Punjab,,PK
+35.84623,71.7858,Chitral,Khyber Pakhtunkhwa,,PK
+29.8,72.86667,Chishtian Mandi,Punjab,,PK
+31.72,72.97889,Chiniot,Punjab,,PK
+35.41172,74.10352,Chilas,Gilgit-Baltistan,,PK
+30.53333,72.7,Chichawatni,Punjab,,PK
+33.82328,71.89153,Cherat,Khyber Pakhtunkhwa,,PK
+32.34692,74.70612,Chawinda,Punjab,,PK
+34.14345,71.73173,Charsadda,Khyber Pakhtunkhwa,,PK
+32.93338,72.85853,Chakwal,Punjab,,PK
+30.75,73.03333,Chak Azam Saffo,Punjab,,PK
+30.16667,72.65,Burewala,Punjab,,PK
+32.42888,74.3633,Bhopalwala,Punjab,,PK
+32.97568,74.07926,Bhimbar,Azad Kashmir,,PK
+32.48318,72.9097,Bhera,Punjab,,PK
+31.56918,72.64899,Bhawana,Punjab,,PK
+32.27204,72.90425,Bhalwal,Punjab,,PK
+31.62525,71.06574,Bhakkar,Punjab,,PK
+31.2,73.95,Bhai Pheru,Punjab,,PK
+32.43759,74.26824,Begowala,Punjab,,PK
+34.61667,71.97139,Bat Khela,Khyber Pakhtunkhwa,,PK
+34.67719,73.02329,Batgram,Khyber Pakhtunkhwa,,PK
+30.58319,73.829,Basirpur,Punjab,,PK
+32.98541,70.6027,Bannu,Khyber Pakhtunkhwa,,PK
+30.73586,70.83796,Bakhri Ahmad Khan,Punjab,,PK
+29.4,71.68333,Bahawalpur,Punjab,,PK
+29.99866,73.2536,Bahawalnagar,Punjab,,PK
+33.98111,73.77608,Bagh,Azad Kashmir,,PK
+34.43782,73.21937,Baffa,Khyber Pakhtunkhwa,,PK
+31.99283,74.66833,Baddomalhi,Punjab,,PK
+33.77311,72.3741,Attock City,Punjab,,PK
+30.29399,73.07354,Arifwala,Punjab,,PK
+34.00583,71.93,Amangarh,Khyber Pakhtunkhwa,,PK
+33.53613,70.34607,Alizai,Federally Administered Tribal Areas,,PK
+29.38464,70.91157,Alipur,Punjab,,PK
+36.30703,74.61545,Aliabad,Gilgit-Baltistan,,PK
+34.00361,72.12611,Akora,Khyber Pakhtunkhwa,,PK
+29.14309,71.25976,Ahmadpur East,Punjab,,PK
+34.14685,73.21449,Abbottabad,Khyber Pakhtunkhwa,,PK
+31.30677,72.32814,Jhang City,Punjab,,PK
+30.55083,73.39083,Bahawalnagar,Punjab,,PK
+32.67087,70.33917,Gulishah Kach,Federally Administered Tribal Areas,,PK
+33.99829,71.99834,Nowshera Cantonment,Khyber Pakhtunkhwa,,PK
+30.67539,71.74828,Ahmadpur Sial,Punjab,,PK
+34.06186,71.99165,Risalpur,Khyber Pakhtunkhwa,,PK
+34.25195,71.96656,Noorabad,Khyber Pakhtunkhwa,,PK
+34.92058,72.63256,Alpurai,Khyber Pakhtunkhwa,,PK
+32.55492,73.2122,Malakwal City,Punjab,,PK
+32.78518,73.82306,Mehmand Chak,Punjab,,PK
+30.78769,70.86853,Basti Dosa,Punjab,,PK
+30.80563,70.84911,Moza Shahwala,Punjab,,PK
+35.3447,74.8561,Idgah,Gilgit-Baltistan,,PK
+35.29169,73.2906,Dasu,Khyber Pakhtunkhwa,,PK
+36.3163,74.6786,Barishal,Gilgit-Baltistan,,PK
+34.57173,73.89724,Athmuqam,Azad Kashmir,,PK
+33.30614,73.4833,Nazir Town,Punjab,Dera Ghazi Khan District,PK
+34.18729,73.09078,Amirabad,Khyber Pakhtunkhwa,,PK
+34.99798,72.07295,Kakad Wari Dir Upper,Khyber Pakhtunkhwa,,PK
+34.1691,73.7432,Hattian Bala,Azad Kashmir,,PK

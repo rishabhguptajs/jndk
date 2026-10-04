@@ -1,0 +1,38 @@
+{
+  "name": "jk-conflict-atlas",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "validate": "tsx scripts/validate-data.ts",
+    "prepare-data": "tsx scripts/build-public-data.ts",
+    "test": "vitest run",
+    "test:render": "vitest run -c vitest.render.config.ts",
+    "build": "npm run validate && npm run prepare-data && vitest run && next build && npm run test:render",
+    "coverage-report": "tsx scripts/coverage-report.ts"
+  },
+  "dependencies": {
+    "d3": "^7.9.0",
+    "maplibre-gl": "^6.12.0",
+    "next": "^16.3.8",
+    "pmtiles": "^4.5.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@turf/boolean-point-in-polygon": "^7.4.0",
+    "@turf/helpers": "^7.4.0",
+    "@types/d3": "^7.4.3",
+    "@types/node": "^26.6.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/serve-handler": "^6.1.4",
+    "playwright-core": "^1.63.0",
+    "serve-handler": "^6.1.7",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.3"
+  }
+}
