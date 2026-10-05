@@ -1,0 +1,221 @@
+- id: 1990-01-19-pandit-exodus
+  date: 1990-01-19
+  end: 1990-03
+  title: Exodus of Kashmiri Pandits from the Valley
+  place: Srinagar and towns across the Kashmir Valley
+  at: manual:kashmir-valley
+  district: [null, null]
+  region: Kashmir Valley
+  cat: exodus
+  tactic: displacement
+  target: [civilians, minority_community]
+  community: Kashmiri Pandit (Hindu)
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  displaced: 90000-400000
+  figures:
+    loksabha-kp-migrants-324: { note: "44,684 Kashmiri migrant families, 1,54,712 persons, registered with the Relief and Rehabilitation Commissioner (Migrants), Jammu" }
+    kashmirlife-64827-families: { note: "MHA: 64,827 Kashmiri Pandit families left the Valley in the early 1990s" }
+    theprint-31-years-exile: { note: "Between three and four lakh Kashmiri Pandits displaced within months" }
+    quint-kp-exodus-timeline: { note: "Kashmiri Pandit Sangharsh Samiti: 75,343 left in January 1990 and about 70,000 more by March" }
+    wikipedia-kh-exodus: { note: "Summarises scholarly estimates of 90,000 to 150,000 leaving between January and March 1990 (reference work, not counted as an independent source)" }
+  src: [theprint-31-years-exile, organiser-jan19-1990, tribune-acknowledge-exodus, kashmirlife-64827-families, loksabha-kp-migrants-324, quint-kp-exodus-timeline, wikipedia-kh-exodus]
+  conf: disputed
+  hp: true
+  tags: [kashmiri-pandits, exodus]
+  summary: >
+    On the night of 19 January 1990 slogans against Kashmiri Pandits were broadcast from mosque loudspeakers and crowds gathered in the
+    streets, after months of targeted killings and threats. Over the following weeks and months almost all Pandit families left the
+    Valley for Jammu, Delhi and elsewhere, many living for years in camps. Official records count 64,827 families who left in the early
+    1990s.
+  notes: >
+    Displacement is shown as a range because estimates differ widely and depend on the period counted. Scholarly estimates for January
+    to March 1990 run from about 90,000 to 150,000; the Kashmiri Pandit Sangharsh Samiti counts about 145,000 by March; the Relief
+    Commissioner in Jammu lists 1,54,712 registered persons; other published estimates reach three to four lakh.
+
+- id: 1990-01-25-rawalpora-iaf
+  date: 1990-01-25
+  title: Killing of four IAF personnel at Rawalpora
+  place: Rawalpora, Srinagar outskirts
+  at: town:Srinagar
+  geo: tehsil
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [security_forces]
+  community: null
+  perp: [jklf]
+  attr: officially_attributed
+  killed: { civ: 0, sf: 4, terr: 0, total: 4 }
+  injured: 40
+  figures:
+    theprint-iaf-1990-trial: { total: 4, injured: 40 }
+  victims:
+    - { name: Squadron Leader Ravi Khanna, role: Indian Air Force officer, src: theprint-iaf-1990-trial }
+  src: [theprint-iaf-1990-trial, gk-iaf-1990-charges, tribune-iaf-1990-eyewitness]
+  conf: confirmed
+  hp: true
+  tags: [jklf]
+  summary: >
+    On 25 January 1990 gunmen in a car opened fire on Indian Air Force personnel waiting for transport at Rawalpora on the outskirts of
+    Srinagar. Squadron Leader Ravi Khanna and three other airmen were killed and dozens injured. The CBI charged JKLF chief Yasin Malik
+    and others, and in 2024 a surviving airman identified Malik in court as the main shooter.
+
+- id: 1990-02-02-satish-tickoo
+  date: 1990-02-02
+  title: Killing of Satish Tickoo
+  place: Habba Kadal, Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [civilians, minority_community]
+  community: Kashmiri Pandit (Hindu)
+  perp: [jklf]
+  attr: suspected
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  victims:
+    - { name: Satish Tickoo, role: Social activist, src: gk-satish-tickoo-case }
+  src: [gk-satish-tickoo-case, tribune-bitta-karate-plea]
+  conf: confirmed
+  hp: true
+  tags: [kashmiri-pandits]
+  summary: >
+    Satish Tickoo, a young Kashmiri Pandit social worker, was shot at his home in Habba Kadal, Srinagar on 2 February 1990 and died in
+    hospital. Former JKLF militant Farooq Ahmad Dar, known as Bitta Karate, is accused of the killing, and his family's plea to reopen the
+    trial was heard in Srinagar courts in 2022.
+
+- id: 1990-02-13-lassa-kaul
+  date: 1990-02-13
+  title: Killing of Doordarshan Srinagar director Lassa Kaul
+  place: Bemina, Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [civilians, minority_community, government_employees]
+  community: Kashmiri Pandit (Hindu)
+  perp: []
+  attr: unknown
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  victims:
+    - { name: Lassa Kaul, role: Director, Doordarshan Kendra Srinagar, src: wire-dreaming-of-return }
+  src: [wire-dreaming-of-return]
+  conf: reported
+  hp: false
+  tags: [kashmiri-pandits, media]
+  summary: >
+    Lassa Kaul, director of Doordarshan in Srinagar, was shot dead outside his home at Bemina on 13 February 1990. He was one of a
+    series of Kashmiri Pandits in public life killed in the first months of 1990.
+
+- id: 1990-04-06-ku-vc-abduction
+  date: 1990-04-06
+  end: 1990-04-10
+  title: Abduction and killing of Kashmir University VC Mushir-ul-Haq and HMT manager H.L. Khera
+  place: Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: abduction
+  tactic: kidnapping
+  target: [civilians, government_employees]
+  community: null
+  perp: [jkslf]
+  attr: suspected
+  killed: { civ: 3, sf: 0, terr: 0, total: 3 }
+  abducted: 3
+  victims:
+    - { name: Mushir-ul-Haq, role: Vice Chancellor, University of Kashmir, src: tribune-ku-vc-acquittal }
+    - { name: Abdul Gani, role: Personal secretary to the Vice Chancellor, src: tribune-ku-vc-acquittal }
+    - { name: H.L. Khera, role: General Manager, HMT Watch Factory, src: tribune-ku-vc-acquittal }
+  src: [tribune-ku-vc-acquittal, gk-ku-vc-acquittal]
+  conf: confirmed
+  hp: true
+  tags: [kidnapping]
+  summary: >
+    Militants abducted Kashmir University Vice Chancellor Mushir-ul-Haq and his secretary Abdul Gani on 6 April 1990, along with HMT
+    general manager H.L. Khera, to force the release of jailed associates. The hostages were killed on 10 April. The CBI charged members
+    of the Jammu and Kashmir Students Liberation Front, but they were acquitted and the Supreme Court upheld the acquittal.
+
+- id: 1990-04-18-sarla-bhat
+  date: 1990-04-18
+  title: Abduction and killing of nurse Sarla Bhat
+  place: Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: kidnapping
+  target: [civilians, minority_community]
+  community: Kashmiri Pandit (Hindu)
+  perp: [jklf]
+  attr: officially_attributed
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  abducted: 1
+  victims:
+    - { name: Sarla Bhat, role: Nurse, SKIMS Srinagar, src: tribune-sarla-bhat-chargesheet }
+  src: [tribune-sarla-bhat-chargesheet, gk-sarla-bhat-chargesheet]
+  conf: confirmed
+  hp: true
+  tags: [kashmiri-pandits]
+  summary: >
+    Sarla Bhat, a young Kashmiri Pandit nurse at the Sher-i-Kashmir Institute of Medical Sciences, was abducted and killed, and her body
+    was left in downtown Srinagar in April 1990. In 2026 the State Investigation Agency filed a chargesheet naming JKLF chief Yasin Malik
+    and four others.
+
+- id: 1990-04-30-sarvanand-kaul-premi
+  date: 1990-04-30
+  title: Killing of poet Sarvanand Kaul Premi and his son
+  place: Anantnag district
+  at: district:Anantnag
+  district: [Anantnag, Anantnag]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: kidnapping
+  target: [civilians, minority_community]
+  community: Kashmiri Pandit (Hindu)
+  perp: []
+  attr: suspected
+  killed: { civ: 2, sf: 0, terr: 0, total: 2 }
+  abducted: 2
+  victims:
+    - { name: Sarvanand Kaul Premi, role: Poet and writer, src: theprint-premi-probe }
+  src: [theprint-premi-probe, de-premi-sia-raids]
+  conf: confirmed
+  hp: true
+  tags: [kashmiri-pandits]
+  summary: >
+    Armed men took the Kashmiri poet Sarvanand Kaul Premi and his son from their home in Anantnag district on the night of 29 to 30 April
+    1990. Their bodies were found days later with signs of torture. The State Investigation Agency reopened the case and in 2026 searched
+    properties linked to a slain militant from Rajouri.
+
+- id: 1990-05-21-mirwaiz-farooq
+  date: 1990-05-21
+  title: Assassination of Mirwaiz Maulvi Mohammad Farooq
+  place: Nigeen, Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [political]
+  community: null
+  perp: [hizbul-mujahideen]
+  attr: officially_attributed
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  victims:
+    - { name: Mirwaiz Maulvi Mohammad Farooq, role: Mirwaiz of Kashmir, src: tribune-mirwaiz-arrests }
+  src: [tribune-mirwaiz-arrests, outlook-mirwaiz-arrests]
+  conf: confirmed
+  hp: true
+  tags: [political-killing]
+  summary: >
+    Mirwaiz Maulvi Mohammad Farooq, the chief cleric of Kashmir, was shot dead at his home in Nigeen, Srinagar on 21 May 1990. Police
+    attributed the killing to Hizbul Mujahideen militants and arrested two accused who had been absconding for 33 years in 2023.
+  notes: >
+    Mourners in his funeral procession were fired upon the same day. That incident involved security forces and falls outside this
+    dataset's scope; see the methodology page.

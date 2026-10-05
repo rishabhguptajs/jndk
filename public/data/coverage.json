@@ -1,0 +1,802 @@
+[
+ {
+  "year": 1947,
+  "events": 11,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 64,
+  "killed_min": 27000,
+  "killed_max": 61000,
+  "unknown_toll": 7,
+  "gap": false
+ },
+ {
+  "year": 1948,
+  "events": 5,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 40,
+  "killed_min": 1,
+  "killed_max": 1,
+  "unknown_toll": 4,
+  "gap": false
+ },
+ {
+  "year": 1949,
+  "events": 1,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 1,
+  "gap": false
+ },
+ {
+  "year": 1950,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1951,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1952,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1953,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1954,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1955,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1956,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1957,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1958,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1959,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1960,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1961,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1962,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1963,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1964,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1965,
+  "events": 4,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 4,
+  "gap": false
+ },
+ {
+  "year": 1966,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1967,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1968,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1969,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1970,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1971,
+  "events": 3,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 2,
+  "gap": false
+ },
+ {
+  "year": 1972,
+  "events": 1,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 1,
+  "gap": false
+ },
+ {
+  "year": 1973,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1974,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1975,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1976,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1977,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1978,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1979,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1980,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1981,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1982,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1983,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1984,
+  "events": 2,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 1,
+  "killed_max": 1,
+  "unknown_toll": 1,
+  "gap": false
+ },
+ {
+  "year": 1985,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1986,
+  "events": 1,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 1,
+  "gap": false
+ },
+ {
+  "year": 1987,
+  "events": 1,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 1,
+  "gap": false
+ },
+ {
+  "year": 1988,
+  "events": 1,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 100,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 1,
+  "gap": false
+ },
+ {
+  "year": 1989,
+  "events": 5,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 100,
+  "killed_min": 4,
+  "killed_max": 4,
+  "unknown_toll": 0,
+  "gap": false
+ },
+ {
+  "year": 1990,
+  "events": 8,
+  "two_plus_sources_pct": 88,
+  "village_geocoded_pct": 63,
+  "killed_min": 13,
+  "killed_max": 13,
+  "unknown_toll": 1,
+  "gap": false
+ },
+ {
+  "year": 1991,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1992,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1993,
+  "events": 1,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 16,
+  "killed_max": 17,
+  "unknown_toll": 0,
+  "gap": false
+ },
+ {
+  "year": 1994,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 1995,
+  "events": 2,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 1,
+  "killed_max": 5,
+  "unknown_toll": 1,
+  "gap": false
+ },
+ {
+  "year": 1996,
+  "events": 1,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 15,
+  "killed_max": 16,
+  "unknown_toll": 0,
+  "gap": false
+ },
+ {
+  "year": 1997,
+  "events": 1,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 7,
+  "killed_max": 8,
+  "unknown_toll": 0,
+  "gap": false
+ },
+ {
+  "year": 1998,
+  "events": 5,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 128,
+  "killed_max": 129,
+  "unknown_toll": 0,
+  "gap": false
+ },
+ {
+  "year": 1999,
+  "events": 4,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 25,
+  "killed_min": 7,
+  "killed_max": 7,
+  "unknown_toll": 2,
+  "gap": false
+ },
+ {
+  "year": 2000,
+  "events": 6,
+  "two_plus_sources_pct": 83,
+  "village_geocoded_pct": 33,
+  "killed_min": 119,
+  "killed_max": 120,
+  "unknown_toll": 1,
+  "gap": false
+ },
+ {
+  "year": 2001,
+  "events": 5,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 20,
+  "killed_min": 98,
+  "killed_max": 102,
+  "unknown_toll": 0,
+  "gap": false
+ },
+ {
+  "year": 2002,
+  "events": 6,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 83,
+  "killed_min": 79,
+  "killed_max": 89,
+  "unknown_toll": 2,
+  "gap": false
+ },
+ {
+  "year": 2003,
+  "events": 4,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 38,
+  "killed_max": 38,
+  "unknown_toll": 2,
+  "gap": false
+ },
+ {
+  "year": 2004,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 2005,
+  "events": 3,
+  "two_plus_sources_pct": 67,
+  "village_geocoded_pct": 67,
+  "killed_min": 12,
+  "killed_max": 12,
+  "unknown_toll": 1,
+  "gap": false
+ },
+ {
+  "year": 2006,
+  "events": 2,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 32,
+  "killed_max": 35,
+  "unknown_toll": 0,
+  "gap": false
+ },
+ {
+  "year": 2007,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 2008,
+  "events": 2,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 21,
+  "killed_max": 21,
+  "unknown_toll": 0,
+  "gap": false
+ },
+ {
+  "year": 2009,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 2010,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 2011,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 2012,
+  "events": 0,
+  "two_plus_sources_pct": 0,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 0,
+  "gap": true
+ },
+ {
+  "year": 2013,
+  "events": 3,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 67,
+  "killed_min": 20,
+  "killed_max": 20,
+  "unknown_toll": 1,
+  "gap": false
+ },
+ {
+  "year": 2014,
+  "events": 1,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 0,
+  "killed_max": 0,
+  "unknown_toll": 1,
+  "gap": false
+ },
+ {
+  "year": 2015,
+  "events": 2,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 10,
+  "killed_max": 10,
+  "unknown_toll": 0,
+  "gap": false
+ },
+ {
+  "year": 2016,
+  "events": 5,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 20,
+  "killed_min": 41,
+  "killed_max": 43,
+  "unknown_toll": 2,
+  "gap": false
+ },
+ {
+  "year": 2017,
+  "events": 1,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 100,
+  "killed_min": 8,
+  "killed_max": 8,
+  "unknown_toll": 0,
+  "gap": false
+ },
+ {
+  "year": 2018,
+  "events": 3,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 33,
+  "killed_min": 14,
+  "killed_max": 14,
+  "unknown_toll": 0,
+  "gap": false
+ },
+ {
+  "year": 2019,
+  "events": 8,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 46,
+  "killed_max": 46,
+  "unknown_toll": 6,
+  "gap": false
+ },
+ {
+  "year": 2020,
+  "events": 4,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 10,
+  "killed_max": 10,
+  "unknown_toll": 1,
+  "gap": false
+ },
+ {
+  "year": 2021,
+  "events": 7,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 57,
+  "killed_min": 15,
+  "killed_max": 15,
+  "unknown_toll": 0,
+  "gap": false
+ },
+ {
+  "year": 2022,
+  "events": 6,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 6,
+  "killed_max": 6,
+  "unknown_toll": 0,
+  "gap": false
+ },
+ {
+  "year": 2023,
+  "events": 7,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 28,
+  "killed_max": 29,
+  "unknown_toll": 1,
+  "gap": false
+ },
+ {
+  "year": 2024,
+  "events": 6,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 0,
+  "killed_min": 32,
+  "killed_max": 32,
+  "unknown_toll": 0,
+  "gap": false
+ },
+ {
+  "year": 2025,
+  "events": 6,
+  "two_plus_sources_pct": 100,
+  "village_geocoded_pct": 33,
+  "killed_min": 44,
+  "killed_max": 47,
+  "unknown_toll": 2,
+  "gap": false
+ },
+ {
+  "year": 2026,
+  "events": 5,
+  "two_plus_sources_pct": 40,
+  "village_geocoded_pct": 0,
+  "killed_min": 6,
+  "killed_max": 6,
+  "unknown_toll": 1,
+  "gap": false
+ }
+]

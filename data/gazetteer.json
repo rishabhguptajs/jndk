@@ -1,0 +1,4017 @@
+{
+ "district:Anantnag": {
+  "name": "Anantnag",
+  "lat": 33.7944,
+  "lng": 75.2848,
+  "precision": "district",
+  "region": "Kashmir Valley",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Bandipora": {
+  "name": "Bandipora",
+  "lat": 34.6004,
+  "lng": 74.7283,
+  "precision": "district",
+  "region": "Kashmir Valley",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Baramulla": {
+  "name": "Baramulla",
+  "lat": 34.1324,
+  "lng": 74.5302,
+  "precision": "district",
+  "region": "Kashmir Valley",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Budgam": {
+  "name": "Budgam",
+  "lat": 33.864,
+  "lng": 74.6467,
+  "precision": "district",
+  "region": "Kashmir Valley",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Doda": {
+  "name": "Doda",
+  "lat": 33.1245,
+  "lng": 75.5535,
+  "precision": "district",
+  "region": "Jammu",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Ganderbal": {
+  "name": "Ganderbal",
+  "lat": 34.3225,
+  "lng": 75.1112,
+  "precision": "district",
+  "region": "Kashmir Valley",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Gilgit-Baltistan (Pakistan-occupied)": {
+  "name": "Gilgit-Baltistan (Pakistan-occupied)",
+  "lat": 35.787,
+  "lng": 74.6545,
+  "precision": "region",
+  "region": "PoJK",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Jammu": {
+  "name": "Jammu",
+  "lat": 32.7511,
+  "lng": 74.9051,
+  "precision": "district",
+  "region": "Jammu",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Kargil": {
+  "name": "Kargil",
+  "lat": 33.8812,
+  "lng": 76.4507,
+  "precision": "district",
+  "region": "Ladakh",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Kathua": {
+  "name": "Kathua",
+  "lat": 32.5768,
+  "lng": 75.6078,
+  "precision": "district",
+  "region": "Jammu",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Kishtwar": {
+  "name": "Kishtwar",
+  "lat": 33.6154,
+  "lng": 75.8998,
+  "precision": "district",
+  "region": "Jammu",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Kulgam": {
+  "name": "Kulgam",
+  "lat": 33.6394,
+  "lng": 74.645,
+  "precision": "district",
+  "region": "Kashmir Valley",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Kupwara": {
+  "name": "Kupwara",
+  "lat": 34.5748,
+  "lng": 74.2856,
+  "precision": "district",
+  "region": "Kashmir Valley",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Leh": {
+  "name": "Leh",
+  "lat": 34.169,
+  "lng": 78.0777,
+  "precision": "district",
+  "region": "Ladakh",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Pakistan-occupied Jammu & Kashmir (PoJK)": {
+  "name": "Pakistan-occupied Jammu & Kashmir (PoJK)",
+  "lat": 33.9481,
+  "lng": 73.8484,
+  "precision": "region",
+  "region": "PoJK",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Poonch": {
+  "name": "Poonch",
+  "lat": 33.6997,
+  "lng": 74.1813,
+  "precision": "district",
+  "region": "Jammu",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Pulwama": {
+  "name": "Pulwama",
+  "lat": 33.935,
+  "lng": 75.0576,
+  "precision": "district",
+  "region": "Kashmir Valley",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Rajouri": {
+  "name": "Rajouri",
+  "lat": 33.3111,
+  "lng": 74.402,
+  "precision": "district",
+  "region": "Jammu",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Ramban": {
+  "name": "Ramban",
+  "lat": 33.34,
+  "lng": 75.211,
+  "precision": "district",
+  "region": "Jammu",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Reasi": {
+  "name": "Reasi",
+  "lat": 33.195,
+  "lng": 74.7743,
+  "precision": "district",
+  "region": "Jammu",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Samba": {
+  "name": "Samba",
+  "lat": 32.5787,
+  "lng": 75.1277,
+  "precision": "district",
+  "region": "Jammu",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Shopian": {
+  "name": "Shopian",
+  "lat": 33.7216,
+  "lng": 74.7976,
+  "precision": "district",
+  "region": "Kashmir Valley",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Srinagar": {
+  "name": "Srinagar",
+  "lat": 34.1583,
+  "lng": 74.9377,
+  "precision": "district",
+  "region": "Kashmir Valley",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "district:Udhampur": {
+  "name": "Udhampur",
+  "lat": 32.9094,
+  "lng": 75.3264,
+  "precision": "district",
+  "region": "Jammu",
+  "source": "Representative point of Census district polygon (DataMeet)"
+ },
+ "manual:birmingham": {
+  "name": "Birmingham, United Kingdom",
+  "lat": 52.48,
+  "lng": -1.9,
+  "precision": "region",
+  "source": "City-level point for an event outside India."
+ },
+ "manual:galwan": {
+  "name": "Galwan valley, eastern Ladakh",
+  "lat": 34.75,
+  "lng": 78.2,
+  "precision": "region",
+  "source": "Approximate position of the Galwan valley near the LAC. Region precision only."
+ },
+ "manual:haji-pir": {
+  "name": "Haji Pir pass",
+  "lat": 33.97,
+  "lng": 74.08,
+  "precision": "region",
+  "source": "Approximate position of the pass between Uri and Poonch. Region precision only."
+ },
+ "manual:jammu-region": {
+  "name": "Jammu region (general)",
+  "lat": 33.0,
+  "lng": 75.0,
+  "precision": "region",
+  "source": "Generic point for events spread across the Jammu region."
+ },
+ "manual:kashmir-valley": {
+  "name": "Kashmir Valley (general)",
+  "lat": 34.0,
+  "lng": 74.8,
+  "precision": "region",
+  "source": "Generic point for events spread across the Kashmir Valley."
+ },
+ "manual:pojk-generic": {
+  "name": "Pakistan-occupied Jammu & Kashmir (general)",
+  "lat": 33.9,
+  "lng": 73.8,
+  "precision": "region",
+  "source": "Generic point inside PoJK for events spread across several places."
+ },
+ "manual:siachen-bilafond": {
+  "name": "Bilafond La, Saltoro Ridge (Siachen)",
+  "lat": 35.39,
+  "lng": 76.97,
+  "precision": "region",
+  "source": "Approximate position of Bilafond La on the Saltoro Ridge. Region precision only."
+ },
+ "manual:turtuk": {
+  "name": "Turtuk, Nubra",
+  "lat": 34.85,
+  "lng": 76.83,
+  "precision": "tehsil",
+  "source": "Approximate position of Turtuk village in the Shyok valley. Tehsil precision on purpose."
+ },
+ "manual:zoji-la": {
+  "name": "Zoji La pass",
+  "lat": 34.28,
+  "lng": 75.47,
+  "precision": "tehsil",
+  "source": "Approximate position of the pass on the Ganderbal and Kargil district edge (Census 2011 polygons, DataMeet). Placed at tehsil precision on purpose."
+ },
+ "town:Abbottabad (Khyber Pakhtunkhwa)": {
+  "name": "Abbottabad",
+  "lat": 34.1469,
+  "lng": 73.2145,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Abohar (Punjab)": {
+  "name": "Abohar",
+  "lat": 30.1445,
+  "lng": 74.1955,
+  "precision": "village",
+  "admin": "Punjab / Ferozepur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Adampur (Punjab)": {
+  "name": "Adampur",
+  "lat": 31.4322,
+  "lng": 75.7148,
+  "precision": "village",
+  "admin": "Punjab / Jalandhar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Ahmadpur East (Punjab)": {
+  "name": "Ahmadpur East",
+  "lat": 29.1431,
+  "lng": 71.2598,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Ahmadpur Sial (Punjab)": {
+  "name": "Ahmadpur Sial",
+  "lat": 30.6754,
+  "lng": 71.7483,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Ajnala (Punjab)": {
+  "name": "Ajnala",
+  "lat": 31.8439,
+  "lng": 74.7617,
+  "precision": "village",
+  "admin": "Punjab / Amritsar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Akalgarh (Punjab)": {
+  "name": "Akalgarh",
+  "lat": 29.8207,
+  "lng": 75.8908,
+  "precision": "village",
+  "admin": "Punjab / Sangrur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Akhnur": {
+  "name": "Akhnur",
+  "lat": 32.8667,
+  "lng": 74.7333,
+  "precision": "village",
+  "admin": "Kashmir / Jammu",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Akora (Khyber Pakhtunkhwa)": {
+  "name": "Akora",
+  "lat": 34.0036,
+  "lng": 72.1261,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Alawalpur (Punjab)": {
+  "name": "Alawalpur",
+  "lat": 31.4316,
+  "lng": 75.6561,
+  "precision": "village",
+  "admin": "Punjab / Jalandhar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Aliabad": {
+  "name": "Aliabad",
+  "lat": 36.307,
+  "lng": 74.6154,
+  "precision": "village",
+  "admin": "Gilgit-Baltistan",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Alipur (Punjab)": {
+  "name": "Alipur",
+  "lat": 29.3846,
+  "lng": 70.9116,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Alpurai (Khyber Pakhtunkhwa)": {
+  "name": "Alpurai",
+  "lat": 34.9206,
+  "lng": 72.6326,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Amangarh (Khyber Pakhtunkhwa)": {
+  "name": "Amangarh",
+  "lat": 34.0058,
+  "lng": 71.93,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Amirabad (Khyber Pakhtunkhwa)": {
+  "name": "Amirabad",
+  "lat": 34.1873,
+  "lng": 73.0908,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Amloh (Punjab)": {
+  "name": "Amloh",
+  "lat": 30.61,
+  "lng": 76.2319,
+  "precision": "village",
+  "admin": "Punjab / Fatehgarh Sahib",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Amritsar (Punjab)": {
+  "name": "Amritsar",
+  "lat": 31.6366,
+  "lng": 74.8748,
+  "precision": "village",
+  "admin": "Punjab / Amritsar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Anandpur Sahib (Punjab)": {
+  "name": "Anandpur Sahib",
+  "lat": 31.2388,
+  "lng": 76.5007,
+  "precision": "village",
+  "admin": "Punjab / Rupnagar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Anantnag": {
+  "name": "Anantnag",
+  "lat": 33.7299,
+  "lng": 75.1517,
+  "precision": "village",
+  "admin": "Kashmir / Anantnag",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Arifwala (Punjab)": {
+  "name": "Arifwala",
+  "lat": 30.294,
+  "lng": 73.0735,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Arki (Himachal Pradesh)": {
+  "name": "Arki",
+  "lat": 31.152,
+  "lng": 76.9668,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Solan",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Arnia": {
+  "name": "Arnia",
+  "lat": 32.5209,
+  "lng": 74.7985,
+  "precision": "village",
+  "admin": "Kashmir / Jammu",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Athmuqam": {
+  "name": "Athmuqam",
+  "lat": 34.5717,
+  "lng": 73.8972,
+  "precision": "village",
+  "admin": "Azad Kashmir",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Attock City (Punjab)": {
+  "name": "Attock City",
+  "lat": 33.7731,
+  "lng": 72.3741,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Awantipur": {
+  "name": "Awantipur",
+  "lat": 33.9198,
+  "lng": 75.0152,
+  "precision": "village",
+  "admin": "Kashmir / Pulwama",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Baddi (Himachal Pradesh)": {
+  "name": "Baddi",
+  "lat": 30.9578,
+  "lng": 76.7914,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Solan",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Baddomalhi (Punjab)": {
+  "name": "Baddomalhi",
+  "lat": 31.9928,
+  "lng": 74.6683,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Badhni Kalan (Punjab)": {
+  "name": "Badhni Kalan",
+  "lat": 30.6804,
+  "lng": 75.2924,
+  "precision": "village",
+  "admin": "Punjab / Moga",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Baffa (Khyber Pakhtunkhwa)": {
+  "name": "Baffa",
+  "lat": 34.4378,
+  "lng": 73.2194,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bagh": {
+  "name": "Bagh",
+  "lat": 33.9811,
+  "lng": 73.7761,
+  "precision": "village",
+  "admin": "Azad Kashmir",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bagha Purana (Punjab)": {
+  "name": "Bagha Purana",
+  "lat": 30.6875,
+  "lng": 75.0957,
+  "precision": "village",
+  "admin": "Punjab / Moga",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bahawalnagar (Punjab)": {
+  "name": "Bahawalnagar",
+  "lat": 30.5508,
+  "lng": 73.3908,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bahawalpur (Punjab)": {
+  "name": "Bahawalpur",
+  "lat": 29.4,
+  "lng": 71.6833,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bakhri Ahmad Khan (Punjab)": {
+  "name": "Bakhri Ahmad Khan",
+  "lat": 30.7359,
+  "lng": 70.838,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bakloh (Punjab)": {
+  "name": "Bakloh",
+  "lat": 32.4794,
+  "lng": 75.9187,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Balachor (Punjab)": {
+  "name": "Balachor",
+  "lat": 31.0606,
+  "lng": 76.3017,
+  "precision": "village",
+  "admin": "Punjab / Shahid Bhagat Singh Nagar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bandipora": {
+  "name": "Bandipora",
+  "lat": 34.4173,
+  "lng": 74.6431,
+  "precision": "village",
+  "admin": "Kashmir / Bandipore",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Banga (Punjab)": {
+  "name": "Banga",
+  "lat": 31.186,
+  "lng": 75.9964,
+  "precision": "village",
+  "admin": "Punjab / Shahid Bhagat Singh Nagar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Banihal": {
+  "name": "Banihal",
+  "lat": 33.4167,
+  "lng": 75.2,
+  "precision": "village",
+  "admin": "Kashmir / Ramban",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Banjar (Himachal Pradesh)": {
+  "name": "Banjar",
+  "lat": 31.639,
+  "lng": 77.3405,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Kulu",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bannu (Khyber Pakhtunkhwa)": {
+  "name": "Bannu",
+  "lat": 32.9854,
+  "lng": 70.6027,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Banur (Punjab)": {
+  "name": "Banur",
+  "lat": 30.5538,
+  "lng": 76.7187,
+  "precision": "village",
+  "admin": "Punjab / Patiala",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Baramulla": {
+  "name": "Baramulla",
+  "lat": 34.209,
+  "lng": 74.3428,
+  "precision": "village",
+  "admin": "Kashmir / Baramula",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Barishal": {
+  "name": "Barishal",
+  "lat": 36.3163,
+  "lng": 74.6786,
+  "precision": "village",
+  "admin": "Gilgit-Baltistan",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Barnala (Punjab)": {
+  "name": "Barnala",
+  "lat": 30.3721,
+  "lng": 75.5454,
+  "precision": "village",
+  "admin": "Punjab / Barnala",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Basi (Punjab)": {
+  "name": "Basi",
+  "lat": 30.5883,
+  "lng": 76.8439,
+  "precision": "village",
+  "admin": "Punjab / Ajitgarh",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Basirpur (Punjab)": {
+  "name": "Basirpur",
+  "lat": 30.5832,
+  "lng": 73.829,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Basti Dosa (Punjab)": {
+  "name": "Basti Dosa",
+  "lat": 30.7877,
+  "lng": 70.8685,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bat Khela (Khyber Pakhtunkhwa)": {
+  "name": "Bat Khela",
+  "lat": 34.6167,
+  "lng": 71.9714,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Batala (Punjab)": {
+  "name": "Batala",
+  "lat": 31.8186,
+  "lng": 75.2028,
+  "precision": "village",
+  "admin": "Punjab / Gurdaspur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Batgram (Khyber Pakhtunkhwa)": {
+  "name": "Batgram",
+  "lat": 34.6772,
+  "lng": 73.0233,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Batoti": {
+  "name": "Batoti",
+  "lat": 33.1183,
+  "lng": 75.3089,
+  "precision": "village",
+  "admin": "Kashmir / Doda",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Begowal (Punjab)": {
+  "name": "Begowal",
+  "lat": 31.6115,
+  "lng": 75.5213,
+  "precision": "village",
+  "admin": "Punjab / Kapurthala",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Begowala (Punjab)": {
+  "name": "Begowala",
+  "lat": 32.4376,
+  "lng": 74.2682,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bhadarwah": {
+  "name": "Bhadarwah",
+  "lat": 32.9794,
+  "lng": 75.7172,
+  "precision": "village",
+  "admin": "Kashmir / Doda",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bhadaur (Punjab)": {
+  "name": "Bhadaur",
+  "lat": 30.4753,
+  "lng": 75.3301,
+  "precision": "village",
+  "admin": "Punjab / Barnala",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bhai Pheru (Punjab)": {
+  "name": "Bhai Pheru",
+  "lat": 31.2,
+  "lng": 73.95,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bhakkar (Punjab)": {
+  "name": "Bhakkar",
+  "lat": 31.6253,
+  "lng": 71.0657,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bhalwal (Punjab)": {
+  "name": "Bhalwal",
+  "lat": 32.272,
+  "lng": 72.9043,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bhatinda (Punjab)": {
+  "name": "Bhatinda",
+  "lat": 30.2071,
+  "lng": 74.9414,
+  "precision": "village",
+  "admin": "Punjab / Bathinda",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bhawana (Punjab)": {
+  "name": "Bhawana",
+  "lat": 31.5692,
+  "lng": 72.649,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bhawanigarh (Punjab)": {
+  "name": "Bhawanigarh",
+  "lat": 30.2666,
+  "lng": 76.037,
+  "precision": "village",
+  "admin": "Punjab / Sangrur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bhera (Punjab)": {
+  "name": "Bhera",
+  "lat": 32.4832,
+  "lng": 72.9097,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bhikhi (Punjab)": {
+  "name": "Bhikhi",
+  "lat": 30.0611,
+  "lng": 75.5343,
+  "precision": "village",
+  "admin": "Punjab / Mansa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bhimber": {
+  "name": "Bhimber",
+  "lat": 32.9757,
+  "lng": 74.0793,
+  "precision": "village",
+  "admin": "Azad Kashmir",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bhogpur (Punjab)": {
+  "name": "Bhogpur",
+  "lat": 31.5544,
+  "lng": 75.6427,
+  "precision": "village",
+  "admin": "Punjab / Jalandhar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bholath (Punjab)": {
+  "name": "Bholath",
+  "lat": 31.5423,
+  "lng": 75.5077,
+  "precision": "village",
+  "admin": "Punjab / Kapurthala",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bhopalwala (Punjab)": {
+  "name": "Bhopalwala",
+  "lat": 32.4289,
+  "lng": 74.3633,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bijbiara": {
+  "name": "Bijbiara",
+  "lat": 33.794,
+  "lng": 75.1068,
+  "precision": "village",
+  "admin": "Kashmir / Anantnag",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bilaspur (Himachal Pradesh)": {
+  "name": "Bilaspur",
+  "lat": 31.3417,
+  "lng": 76.7625,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Bilaspur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Bishnah": {
+  "name": "Bishnah",
+  "lat": 32.6106,
+  "lng": 74.8556,
+  "precision": "village",
+  "admin": "Kashmir / Jammu",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Budhlada (Punjab)": {
+  "name": "Budhlada",
+  "lat": 29.928,
+  "lng": 75.562,
+  "precision": "village",
+  "admin": "Punjab / Mansa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Burewala (Punjab)": {
+  "name": "Burewala",
+  "lat": 30.1667,
+  "lng": 72.65,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Chak Azam Saffo (Punjab)": {
+  "name": "Chak Azam Saffo",
+  "lat": 30.75,
+  "lng": 73.0333,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Chak Two Hundred Forty-Nine TDA (Punjab)": {
+  "name": "Chak Two Hundred Forty-Nine TDA",
+  "lat": 31.1796,
+  "lng": 71.2095,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Chakwal (Punjab)": {
+  "name": "Chakwal",
+  "lat": 32.9334,
+  "lng": 72.8585,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Chamba (Himachal Pradesh)": {
+  "name": "Chamba",
+  "lat": 32.5558,
+  "lng": 76.1259,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Chamba",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Charsadda (Khyber Pakhtunkhwa)": {
+  "name": "Charsadda",
+  "lat": 34.1435,
+  "lng": 71.7317,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Chaupal (Himachal Pradesh)": {
+  "name": "Chaupal",
+  "lat": 30.9485,
+  "lng": 77.5916,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Shimla",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Chawinda (Punjab)": {
+  "name": "Chawinda",
+  "lat": 32.3469,
+  "lng": 74.7061,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Cherat (Khyber Pakhtunkhwa)": {
+  "name": "Cherat",
+  "lat": 33.8233,
+  "lng": 71.8915,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Chichawatni (Punjab)": {
+  "name": "Chichawatni",
+  "lat": 30.5333,
+  "lng": 72.7,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Chilas": {
+  "name": "Chilas",
+  "lat": 35.4117,
+  "lng": 74.1035,
+  "precision": "village",
+  "admin": "Gilgit-Baltistan",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Chima (Punjab)": {
+  "name": "Chima",
+  "lat": 30.6855,
+  "lng": 76.0849,
+  "precision": "village",
+  "admin": "Punjab / Ludhiana",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Chiniot (Punjab)": {
+  "name": "Chiniot",
+  "lat": 31.72,
+  "lng": 72.9789,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Chishtian Mandi (Punjab)": {
+  "name": "Chishtian Mandi",
+  "lat": 29.8,
+  "lng": 72.8667,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Chitral (Khyber Pakhtunkhwa)": {
+  "name": "Chitral",
+  "lat": 35.8462,
+  "lng": 71.7858,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Choa Saidan Shah (Punjab)": {
+  "name": "Choa Saidan Shah",
+  "lat": 32.7201,
+  "lng": 72.9849,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Chowari (Himachal Pradesh)": {
+  "name": "Chowari",
+  "lat": 32.4319,
+  "lng": 76.012,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Chamba",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Chuari Khas (Himachal Pradesh)": {
+  "name": "Chuari Khas",
+  "lat": 32.4316,
+  "lng": 76.0251,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Chamba",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Chuhar Kana (Punjab)": {
+  "name": "Chuhar Kana",
+  "lat": 31.75,
+  "lng": 73.8,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Chunian (Punjab)": {
+  "name": "Chunian",
+  "lat": 30.964,
+  "lng": 73.9803,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Daggar (Khyber Pakhtunkhwa)": {
+  "name": "Daggar",
+  "lat": 34.5103,
+  "lng": 72.4843,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dagshai (Himachal Pradesh)": {
+  "name": "Dagshai",
+  "lat": 30.8843,
+  "lng": 77.0523,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Solan",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Daira Din Panah (Punjab)": {
+  "name": "Daira Din Panah",
+  "lat": 30.5702,
+  "lng": 70.9361,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dajal (Punjab)": {
+  "name": "Dajal",
+  "lat": 29.5577,
+  "lng": 70.3761,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dalhousie (Himachal Pradesh)": {
+  "name": "Dalhousie",
+  "lat": 32.5522,
+  "lng": 75.9466,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Chamba",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Darya Khan (Punjab)": {
+  "name": "Darya Khan",
+  "lat": 31.7912,
+  "lng": 71.1039,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Daska (Punjab)": {
+  "name": "Daska",
+  "lat": 32.3243,
+  "lng": 74.3497,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dasu (Khyber Pakhtunkhwa)": {
+  "name": "Dasu",
+  "lat": 35.2917,
+  "lng": 73.2906,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dasua (Punjab)": {
+  "name": "Dasua",
+  "lat": 31.8157,
+  "lng": 75.6531,
+  "precision": "village",
+  "admin": "Punjab / Hoshiarpur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Daud Khel (Punjab)": {
+  "name": "Daud Khel",
+  "lat": 32.875,
+  "lng": 71.5701,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Daulatpur (Himachal Pradesh)": {
+  "name": "Daulatpur",
+  "lat": 31.7887,
+  "lng": 75.9915,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Una",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Daultala (Punjab)": {
+  "name": "Daultala",
+  "lat": 33.1925,
+  "lng": 73.1413,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dera Ghazi Khan (Punjab)": {
+  "name": "Dera Ghazi Khan",
+  "lat": 30.0561,
+  "lng": 70.6348,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dera Gopipur (Himachal Pradesh)": {
+  "name": "Dera Gopipur",
+  "lat": 31.8792,
+  "lng": 76.2187,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Kangra",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dera Ismail Khan (Khyber Pakhtunkhwa)": {
+  "name": "Dera Ismail Khan",
+  "lat": 31.8327,
+  "lng": 70.9024,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dera Nanak (Punjab)": {
+  "name": "Dera Nanak",
+  "lat": 32.0373,
+  "lng": 75.0279,
+  "precision": "village",
+  "admin": "Punjab / Gurdaspur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dhanaula (Punjab)": {
+  "name": "Dhanaula",
+  "lat": 30.2829,
+  "lng": 75.5746,
+  "precision": "village",
+  "admin": "Punjab / Barnala",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dhanot (Punjab)": {
+  "name": "Dhanot",
+  "lat": 29.5799,
+  "lng": 71.7521,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dhariwal (Punjab)": {
+  "name": "Dhariwal",
+  "lat": 31.955,
+  "lng": 75.3217,
+  "precision": "village",
+  "admin": "Punjab / Gurdaspur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dharkalan (Punjab)": {
+  "name": "Dharkalan",
+  "lat": 32.412,
+  "lng": 75.7913,
+  "precision": "village",
+  "admin": "Punjab / Gurdaspur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dharmsala (Himachal Pradesh)": {
+  "name": "Dharmsala",
+  "lat": 32.2201,
+  "lng": 76.3201,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Kangra",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dhaunkal (Punjab)": {
+  "name": "Dhaunkal",
+  "lat": 32.4062,
+  "lng": 74.1369,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dhilwan (Punjab)": {
+  "name": "Dhilwan",
+  "lat": 31.5142,
+  "lng": 75.3449,
+  "precision": "village",
+  "admin": "Punjab / Kapurthala",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dhuri (Punjab)": {
+  "name": "Dhuri",
+  "lat": 30.3725,
+  "lng": 75.8619,
+  "precision": "village",
+  "admin": "Punjab / Sangrur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dijkot (Punjab)": {
+  "name": "Dijkot",
+  "lat": 31.2167,
+  "lng": 72.9833,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dinanagar (Punjab)": {
+  "name": "Dinanagar",
+  "lat": 32.1362,
+  "lng": 75.4714,
+  "precision": "village",
+  "admin": "Punjab / Gurdaspur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dinga (Punjab)": {
+  "name": "Dinga",
+  "lat": 32.6398,
+  "lng": 73.722,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dipalpur (Punjab)": {
+  "name": "Dipalpur",
+  "lat": 30.6709,
+  "lng": 73.6529,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dir (Khyber Pakhtunkhwa)": {
+  "name": "Dir",
+  "lat": 35.2058,
+  "lng": 71.8756,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dirba (Punjab)": {
+  "name": "Dirba",
+  "lat": 30.0718,
+  "lng": 75.9945,
+  "precision": "village",
+  "admin": "Punjab / Sangrur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Doaba (Khyber Pakhtunkhwa)": {
+  "name": "Doaba",
+  "lat": 33.4244,
+  "lng": 70.7364,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Doda": {
+  "name": "Doda",
+  "lat": 33.1487,
+  "lng": 75.5461,
+  "precision": "village",
+  "admin": "Kashmir / Doda",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Doraha (Punjab)": {
+  "name": "Doraha",
+  "lat": 30.8003,
+  "lng": 76.0228,
+  "precision": "village",
+  "admin": "Punjab / Ludhiana",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dullewala (Punjab)": {
+  "name": "Dullewala",
+  "lat": 31.8359,
+  "lng": 71.4363,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dunga Bunga (Punjab)": {
+  "name": "Dunga Bunga",
+  "lat": 29.7493,
+  "lng": 73.2432,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Dunyapur (Punjab)": {
+  "name": "Dunyapur",
+  "lat": 29.7995,
+  "lng": 71.7196,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Eminabad (Punjab)": {
+  "name": "Eminabad",
+  "lat": 32.0422,
+  "lng": 74.2594,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Faisalabad (Punjab)": {
+  "name": "Faisalabad",
+  "lat": 31.4167,
+  "lng": 73.0833,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Faqirwali (Punjab)": {
+  "name": "Faqirwali",
+  "lat": 29.4663,
+  "lng": 73.034,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Faridkot (Punjab)": {
+  "name": "Faridkot",
+  "lat": 30.6724,
+  "lng": 74.7583,
+  "precision": "village",
+  "admin": "Punjab / Faridkot",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Faruka (Punjab)": {
+  "name": "Faruka",
+  "lat": 31.8872,
+  "lng": 72.4144,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Fatehgarh Churian (Punjab)": {
+  "name": "Fatehgarh Churian",
+  "lat": 31.8643,
+  "lng": 74.9566,
+  "precision": "village",
+  "admin": "Punjab / Gurdaspur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Fazalpur (Punjab)": {
+  "name": "Fazalpur",
+  "lat": 32.1833,
+  "lng": 75.0667,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Fazilka (Punjab)": {
+  "name": "Fazilka",
+  "lat": 30.4021,
+  "lng": 74.0284,
+  "precision": "village",
+  "admin": "Punjab / Fazilka",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Firozpur (Punjab)": {
+  "name": "Firozpur",
+  "lat": 30.9257,
+  "lng": 74.6131,
+  "precision": "village",
+  "admin": "Punjab / Ferozepur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Fort Abbas (Punjab)": {
+  "name": "Fort Abbas",
+  "lat": 29.1925,
+  "lng": 72.8536,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Gagret (Himachal Pradesh)": {
+  "name": "Gagret",
+  "lat": 31.6585,
+  "lng": 76.0614,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Una",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Gakuch": {
+  "name": "Gakuch",
+  "lat": 36.1768,
+  "lng": 73.7638,
+  "precision": "village",
+  "admin": "Gilgit-Baltistan",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Ganderbal": {
+  "name": "Ganderbal",
+  "lat": 34.2299,
+  "lng": 74.7783,
+  "precision": "village",
+  "admin": "Kashmir / Srinagar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Garh Maharaja (Punjab)": {
+  "name": "Garh Maharaja",
+  "lat": 30.8339,
+  "lng": 71.9053,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Garhdiwala (Punjab)": {
+  "name": "Garhdiwala",
+  "lat": 31.7407,
+  "lng": 75.7548,
+  "precision": "village",
+  "admin": "Punjab / Hoshiarpur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Garhshankar (Punjab)": {
+  "name": "Garhshankar",
+  "lat": 31.2154,
+  "lng": 76.1415,
+  "precision": "village",
+  "admin": "Punjab / Hoshiarpur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Ghanaur (Punjab)": {
+  "name": "Ghanaur",
+  "lat": 30.3316,
+  "lng": 76.6113,
+  "precision": "village",
+  "admin": "Punjab / Patiala",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Gho Manhasan": {
+  "name": "Gho Manhasan",
+  "lat": 32.5556,
+  "lng": 74.9486,
+  "precision": "village",
+  "admin": "Kashmir / Samba",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Ghumarwin (Himachal Pradesh)": {
+  "name": "Ghumarwin",
+  "lat": 31.4417,
+  "lng": 76.7151,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Bilaspur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Giddarbaha (Punjab)": {
+  "name": "Giddarbaha",
+  "lat": 30.1995,
+  "lng": 74.6663,
+  "precision": "village",
+  "admin": "Punjab / Muktsar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Gilgit": {
+  "name": "Gilgit",
+  "lat": 35.9187,
+  "lng": 74.3124,
+  "precision": "village",
+  "admin": "Gilgit-Baltistan",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Gojra (Punjab)": {
+  "name": "Gojra",
+  "lat": 31.1487,
+  "lng": 72.6866,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Gujar Khan (Punjab)": {
+  "name": "Gujar Khan",
+  "lat": 33.2558,
+  "lng": 73.3025,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Gujranwala (Punjab)": {
+  "name": "Gujranwala",
+  "lat": 32.1617,
+  "lng": 74.1883,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Gujrat (Punjab)": {
+  "name": "Gujrat",
+  "lat": 32.5728,
+  "lng": 74.079,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Gurdaspur (Punjab)": {
+  "name": "Gurdaspur",
+  "lat": 32.0384,
+  "lng": 75.4034,
+  "precision": "village",
+  "admin": "Punjab / Gurdaspur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Guru Har Sahai (Punjab)": {
+  "name": "Guru Har Sahai",
+  "lat": 30.7086,
+  "lng": 74.4041,
+  "precision": "village",
+  "admin": "Punjab / Ferozepur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Hadali (Punjab)": {
+  "name": "Hadali",
+  "lat": 32.6413,
+  "lng": 74.569,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Hafizabad (Punjab)": {
+  "name": "Hafizabad",
+  "lat": 32.0679,
+  "lng": 73.6855,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Hajan": {
+  "name": "Hajan",
+  "lat": 34.2989,
+  "lng": 74.6168,
+  "precision": "village",
+  "admin": "Kashmir / Baramula",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Hajipur (Punjab)": {
+  "name": "Hajipur",
+  "lat": 31.9762,
+  "lng": 75.7532,
+  "precision": "village",
+  "admin": "Punjab / Hoshiarpur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Hamirpur (Himachal Pradesh)": {
+  "name": "Hamirpur",
+  "lat": 31.6841,
+  "lng": 76.5251,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Hamirpur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Hangu (Khyber Pakhtunkhwa)": {
+  "name": "Hangu",
+  "lat": 33.5311,
+  "lng": 71.0593,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Hariana (Punjab)": {
+  "name": "Hariana",
+  "lat": 31.6348,
+  "lng": 75.839,
+  "precision": "village",
+  "admin": "Punjab / Hoshiarpur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Haripur (Khyber Pakhtunkhwa)": {
+  "name": "Haripur",
+  "lat": 34.0,
+  "lng": 72.9341,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Harnoli (Punjab)": {
+  "name": "Harnoli",
+  "lat": 32.2792,
+  "lng": 71.5539,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Haru Zbad (Punjab)": {
+  "name": "Haru Zbad",
+  "lat": 29.6133,
+  "lng": 73.1389,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Hasan Abdal (Punjab)": {
+  "name": "Hasan Abdal",
+  "lat": 30.4333,
+  "lng": 72.7,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Hasilpur (Punjab)": {
+  "name": "Hasilpur",
+  "lat": 29.7122,
+  "lng": 72.5553,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Hattian Bala": {
+  "name": "Hattian Bala",
+  "lat": 34.1691,
+  "lng": 73.7432,
+  "precision": "village",
+  "admin": "Azad Kashmir",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Haveli (Punjab)": {
+  "name": "Haveli",
+  "lat": 30.4502,
+  "lng": 73.6989,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Havelian (Khyber Pakhtunkhwa)": {
+  "name": "Havelian",
+  "lat": 34.0536,
+  "lng": 73.1657,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Hazro (Punjab)": {
+  "name": "Hazro",
+  "lat": 33.9091,
+  "lng": 72.4921,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Hiranagar": {
+  "name": "Hiranagar",
+  "lat": 32.4546,
+  "lng": 75.2931,
+  "precision": "village",
+  "admin": "Kashmir / Kathua",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Hoshiarpur (Punjab)": {
+  "name": "Hoshiarpur",
+  "lat": 31.5324,
+  "lng": 75.908,
+  "precision": "village",
+  "admin": "Punjab / Hoshiarpur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Hujra (Punjab)": {
+  "name": "Hujra",
+  "lat": 30.7418,
+  "lng": 73.8236,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Idgah": {
+  "name": "Idgah",
+  "lat": 35.3447,
+  "lng": 74.8561,
+  "precision": "village",
+  "admin": "Gilgit-Baltistan",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jagraon (Punjab)": {
+  "name": "Jagraon",
+  "lat": 30.7901,
+  "lng": 75.4749,
+  "precision": "village",
+  "admin": "Punjab / Ludhiana",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jahanian Shah (Punjab)": {
+  "name": "Jahanian Shah",
+  "lat": 31.8055,
+  "lng": 72.2771,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jaito (Punjab)": {
+  "name": "Jaito",
+  "lat": 30.4475,
+  "lng": 74.8874,
+  "precision": "village",
+  "admin": "Punjab / Faridkot",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jalalabad (Punjab)": {
+  "name": "Jalalabad",
+  "lat": 30.6062,
+  "lng": 74.2573,
+  "precision": "village",
+  "admin": "Punjab / Ferozepur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jalalpur (Punjab)": {
+  "name": "Jalalpur",
+  "lat": 32.6374,
+  "lng": 74.2183,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jalalpur Pirwala (Punjab)": {
+  "name": "Jalalpur Pirwala",
+  "lat": 29.5069,
+  "lng": 71.2192,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jalandhar (Punjab)": {
+  "name": "Jalandhar",
+  "lat": 31.3256,
+  "lng": 75.5792,
+  "precision": "village",
+  "admin": "Punjab / Jalandhar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jammu": {
+  "name": "Jammu",
+  "lat": 32.7357,
+  "lng": 74.8691,
+  "precision": "village",
+  "admin": "Kashmir / Jammu",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jampur (Punjab)": {
+  "name": "Jampur",
+  "lat": 29.6441,
+  "lng": 70.5954,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jand (Punjab)": {
+  "name": "Jand",
+  "lat": 33.4299,
+  "lng": 72.0193,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jandiala (Punjab)": {
+  "name": "Jandiala",
+  "lat": 31.1593,
+  "lng": 75.6175,
+  "precision": "village",
+  "admin": "Punjab / Jalandhar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jandiala Guru (Punjab)": {
+  "name": "Jandiala Guru",
+  "lat": 31.561,
+  "lng": 75.0286,
+  "precision": "village",
+  "admin": "Punjab / Amritsar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jandiala Sher Khan (Punjab)": {
+  "name": "Jandiala Sher Khan",
+  "lat": 31.8199,
+  "lng": 73.9181,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jaranwala (Punjab)": {
+  "name": "Jaranwala",
+  "lat": 31.3333,
+  "lng": 73.4333,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jatoi Shimali (Punjab)": {
+  "name": "Jatoi Shimali",
+  "lat": 29.5165,
+  "lng": 70.8503,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jauharabad (Punjab)": {
+  "name": "Jauharabad",
+  "lat": 32.2898,
+  "lng": 72.2813,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jaurian": {
+  "name": "Jaurian",
+  "lat": 32.8319,
+  "lng": 74.5764,
+  "precision": "village",
+  "admin": "Kashmir / Jammu",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jawala Mukhi (Himachal Pradesh)": {
+  "name": "Jawala Mukhi",
+  "lat": 31.8746,
+  "lng": 76.3201,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Kangra",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jhang City (Punjab)": {
+  "name": "Jhang City",
+  "lat": 31.3068,
+  "lng": 72.3281,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jhang Sadr (Punjab)": {
+  "name": "Jhang Sadr",
+  "lat": 31.2715,
+  "lng": 72.3284,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jhawarian (Punjab)": {
+  "name": "Jhawarian",
+  "lat": 32.3614,
+  "lng": 72.6228,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jhelum (Punjab)": {
+  "name": "Jhelum",
+  "lat": 32.9331,
+  "lng": 73.7264,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jhumra (Punjab)": {
+  "name": "Jhumra",
+  "lat": 31.5678,
+  "lng": 73.1835,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jogindarnagar (Himachal Pradesh)": {
+  "name": "Jogindarnagar",
+  "lat": 31.9873,
+  "lng": 76.7891,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Mandi",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jubbal (Himachal Pradesh)": {
+  "name": "Jubbal",
+  "lat": 31.1092,
+  "lng": 77.6509,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Shimla",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Jutogh (Himachal Pradesh)": {
+  "name": "Jutogh",
+  "lat": 31.1,
+  "lng": 77.1167,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Shimla",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kabirwala (Punjab)": {
+  "name": "Kabirwala",
+  "lat": 30.4068,
+  "lng": 71.8667,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kahna (Punjab)": {
+  "name": "Kahna",
+  "lat": 31.3692,
+  "lng": 74.3653,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kahuta (Punjab)": {
+  "name": "Kahuta",
+  "lat": 33.5913,
+  "lng": 73.3868,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kakad Wari Dir Upper (Khyber Pakhtunkhwa)": {
+  "name": "Kakad Wari Dir Upper",
+  "lat": 34.998,
+  "lng": 72.073,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kalabagh (Punjab)": {
+  "name": "Kalabagh",
+  "lat": 32.965,
+  "lng": 71.557,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kalanaur (Punjab)": {
+  "name": "Kalanaur",
+  "lat": 32.0123,
+  "lng": 75.1506,
+  "precision": "village",
+  "admin": "Punjab / Gurdaspur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kalaswala (Punjab)": {
+  "name": "Kalaswala",
+  "lat": 32.2009,
+  "lng": 74.6491,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kaleke Mandi (Punjab)": {
+  "name": "Kaleke Mandi",
+  "lat": 31.9772,
+  "lng": 73.6026,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kalka (Himachal Pradesh)": {
+  "name": "Kalka",
+  "lat": 30.8392,
+  "lng": 76.9395,
+  "precision": "village",
+  "admin": "Himachal Pradesh",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kallar Kahar (Punjab)": {
+  "name": "Kallar Kahar",
+  "lat": 32.7833,
+  "lng": 72.7,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kalur Kot (Punjab)": {
+  "name": "Kalur Kot",
+  "lat": 32.1564,
+  "lng": 71.2594,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kamalia (Punjab)": {
+  "name": "Kamalia",
+  "lat": 30.7333,
+  "lng": 72.65,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kamar Mushani (Punjab)": {
+  "name": "Kamar Mushani",
+  "lat": 32.8439,
+  "lng": 71.3669,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kamir (Punjab)": {
+  "name": "Kamir",
+  "lat": 30.4333,
+  "lng": 73.05,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kamoke (Punjab)": {
+  "name": "Kamoke",
+  "lat": 31.9744,
+  "lng": 74.2244,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kamra (Punjab)": {
+  "name": "Kamra",
+  "lat": 33.7473,
+  "lng": 73.5111,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kanganpur (Punjab)": {
+  "name": "Kanganpur",
+  "lat": 30.7663,
+  "lng": 74.1231,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kangra (Himachal Pradesh)": {
+  "name": "Kangra",
+  "lat": 32.0909,
+  "lng": 76.2607,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Kangra",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kapurthala (Punjab)": {
+  "name": "Kapurthala",
+  "lat": 31.3801,
+  "lng": 75.3811,
+  "precision": "village",
+  "admin": "Punjab / Kapurthala",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Karak (Khyber Pakhtunkhwa)": {
+  "name": "Karak",
+  "lat": 33.1174,
+  "lng": 71.0949,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kargil": {
+  "name": "Kargil",
+  "lat": 34.5577,
+  "lng": 76.1262,
+  "precision": "village",
+  "admin": "Kashmir / Kargil",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Karor (Punjab)": {
+  "name": "Karor",
+  "lat": 31.2274,
+  "lng": 70.9492,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kartarpur (Punjab)": {
+  "name": "Kartarpur",
+  "lat": 31.4415,
+  "lng": 75.4999,
+  "precision": "village",
+  "admin": "Punjab / Jalandhar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kasauli (Himachal Pradesh)": {
+  "name": "Kasauli",
+  "lat": 30.8986,
+  "lng": 76.9659,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Solan",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kasur (Punjab)": {
+  "name": "Kasur",
+  "lat": 31.1156,
+  "lng": 74.4467,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kathua": {
+  "name": "Kathua",
+  "lat": 32.3707,
+  "lng": 75.5246,
+  "precision": "village",
+  "admin": "Kashmir / Kathua",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Katra": {
+  "name": "Katra",
+  "lat": 32.9917,
+  "lng": 74.932,
+  "precision": "village",
+  "admin": "Kashmir / Reasi",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Khairpur (Punjab)": {
+  "name": "Khairpur",
+  "lat": 29.5811,
+  "lng": 72.2364,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Khalabat (Khyber Pakhtunkhwa)": {
+  "name": "Khalabat",
+  "lat": 34.06,
+  "lng": 72.8894,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Khamanon (Punjab)": {
+  "name": "Khamanon",
+  "lat": 30.8167,
+  "lng": 76.3531,
+  "precision": "village",
+  "admin": "Punjab / Fatehgarh Sahib",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Khanewal (Punjab)": {
+  "name": "Khanewal",
+  "lat": 30.3,
+  "lng": 71.9333,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Khangah Dogran (Punjab)": {
+  "name": "Khangah Dogran",
+  "lat": 31.8317,
+  "lng": 73.6231,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Khangarh (Punjab)": {
+  "name": "Khangarh",
+  "lat": 29.9173,
+  "lng": 71.1618,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Khanna (Punjab)": {
+  "name": "Khanna",
+  "lat": 30.703,
+  "lng": 76.2211,
+  "precision": "village",
+  "admin": "Punjab / Ludhiana",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Khapalu": {
+  "name": "Khapalu",
+  "lat": 35.1527,
+  "lng": 76.344,
+  "precision": "village",
+  "admin": "Gilgit-Baltistan",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kharar (Punjab)": {
+  "name": "Kharar",
+  "lat": 30.7457,
+  "lng": 76.647,
+  "precision": "village",
+  "admin": "Punjab / Ajitgarh",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kharian (Punjab)": {
+  "name": "Kharian",
+  "lat": 32.8149,
+  "lng": 73.8636,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Khaur": {
+  "name": "Khaur",
+  "lat": 32.6027,
+  "lng": 74.8092,
+  "precision": "village",
+  "admin": "Kashmir / Jammu",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Khem Karan (Punjab)": {
+  "name": "Khem Karan",
+  "lat": 31.1446,
+  "lng": 74.5596,
+  "precision": "village",
+  "admin": "Punjab / Tarn Taran",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Khewra (Punjab)": {
+  "name": "Khewra",
+  "lat": 32.6479,
+  "lng": 73.0106,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Khurrianwala (Punjab)": {
+  "name": "Khurrianwala",
+  "lat": 31.5006,
+  "lng": 73.2667,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Khushab (Punjab)": {
+  "name": "Khushab",
+  "lat": 32.2967,
+  "lng": 72.3525,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kishtwar": {
+  "name": "Kishtwar",
+  "lat": 33.3135,
+  "lng": 75.7673,
+  "precision": "village",
+  "admin": "Kashmir / Kishtwar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kohat (Khyber Pakhtunkhwa)": {
+  "name": "Kohat",
+  "lat": 33.582,
+  "lng": 71.4493,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kohror Pakka (Punjab)": {
+  "name": "Kohror Pakka",
+  "lat": 29.6238,
+  "lng": 71.9167,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kot Addu (Punjab)": {
+  "name": "Kot Addu",
+  "lat": 30.4692,
+  "lng": 70.9671,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kot Ghulam Muhammad (Punjab)": {
+  "name": "Kot Ghulam Muhammad",
+  "lat": 32.333,
+  "lng": 74.548,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kot Isa Khan (Punjab)": {
+  "name": "Kot Isa Khan",
+  "lat": 30.9452,
+  "lng": 75.1376,
+  "precision": "village",
+  "admin": "Punjab / Moga",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kot Mumin (Punjab)": {
+  "name": "Kot Mumin",
+  "lat": 32.1895,
+  "lng": 73.028,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kot Radha Kishan (Punjab)": {
+  "name": "Kot Radha Kishan",
+  "lat": 31.1725,
+  "lng": 74.0997,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kot Sultan (Punjab)": {
+  "name": "Kot Sultan",
+  "lat": 30.7737,
+  "lng": 70.9313,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kotkapura (Punjab)": {
+  "name": "Kotkapura",
+  "lat": 30.5819,
+  "lng": 74.833,
+  "precision": "village",
+  "admin": "Punjab / Faridkot",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kotkhai (Himachal Pradesh)": {
+  "name": "Kotkhai",
+  "lat": 31.1173,
+  "lng": 77.5394,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Shimla",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kotla (Himachal Pradesh)": {
+  "name": "Kotla",
+  "lat": 32.25,
+  "lng": 76.0333,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Kangra",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kotli": {
+  "name": "Kotli",
+  "lat": 33.5167,
+  "lng": 73.9167,
+  "precision": "village",
+  "admin": "Azad Kashmir",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kotli Loharan (Punjab)": {
+  "name": "Kotli Loharan",
+  "lat": 32.5883,
+  "lng": 74.4932,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kud": {
+  "name": "Kud",
+  "lat": 33.0725,
+  "lng": 75.2873,
+  "precision": "village",
+  "admin": "Kashmir / Udhampur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kulachi (Khyber Pakhtunkhwa)": {
+  "name": "Kulachi",
+  "lat": 31.9286,
+  "lng": 70.4592,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kulgam": {
+  "name": "Kulgam",
+  "lat": 33.6446,
+  "lng": 75.0187,
+  "precision": "village",
+  "admin": "Kashmir / Kulgam",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kulu (Himachal Pradesh)": {
+  "name": "Kulu",
+  "lat": 31.9583,
+  "lng": 77.1082,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Kulu",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kundian (Punjab)": {
+  "name": "Kundian",
+  "lat": 32.4587,
+  "lng": 71.4775,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kunjah (Punjab)": {
+  "name": "Kunjah",
+  "lat": 32.5285,
+  "lng": 73.9737,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kupwara": {
+  "name": "Kupwara",
+  "lat": 34.0306,
+  "lng": 74.2642,
+  "precision": "village",
+  "admin": "Kashmir",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Kyelang (Himachal Pradesh)": {
+  "name": "Kyelang",
+  "lat": 32.5717,
+  "lng": 77.0245,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Lahul and Spiti",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Lachi (Khyber Pakhtunkhwa)": {
+  "name": "Lachi",
+  "lat": 33.3832,
+  "lng": 71.3386,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Ladhewala Waraich (Punjab)": {
+  "name": "Ladhewala Waraich",
+  "lat": 32.1566,
+  "lng": 74.117,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Lahore (Punjab)": {
+  "name": "Lahore",
+  "lat": 31.5497,
+  "lng": 74.3436,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Lakki Marwat (Khyber Pakhtunkhwa)": {
+  "name": "Lakki Marwat",
+  "lat": 32.608,
+  "lng": 70.9114,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Lala Musa (Punjab)": {
+  "name": "Lala Musa",
+  "lat": 32.7024,
+  "lng": 73.96,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Lalian (Punjab)": {
+  "name": "Lalian",
+  "lat": 31.8241,
+  "lng": 72.7997,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Laungowal (Punjab)": {
+  "name": "Laungowal",
+  "lat": 30.1941,
+  "lng": 75.6796,
+  "precision": "village",
+  "admin": "Punjab / Sangrur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Leh": {
+  "name": "Leh",
+  "lat": 34.165,
+  "lng": 77.584,
+  "precision": "village",
+  "admin": "Kashmir / Ladakh",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Leiah (Punjab)": {
+  "name": "Leiah",
+  "lat": 30.9613,
+  "lng": 70.939,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Liliani (Punjab)": {
+  "name": "Liliani",
+  "lat": 32.2065,
+  "lng": 72.9537,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Lodhran (Punjab)": {
+  "name": "Lodhran",
+  "lat": 29.5405,
+  "lng": 71.6336,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Ludhiana (Punjab)": {
+  "name": "Ludhiana",
+  "lat": 30.9002,
+  "lng": 75.8523,
+  "precision": "village",
+  "admin": "Punjab / Ludhiana",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Machhiwara (Punjab)": {
+  "name": "Machhiwara",
+  "lat": 30.9155,
+  "lng": 76.2013,
+  "precision": "village",
+  "admin": "Punjab / Ludhiana",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Magam": {
+  "name": "Magam",
+  "lat": 34.0921,
+  "lng": 74.5902,
+  "precision": "village",
+  "admin": "Kashmir / Baramula",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mailsi (Punjab)": {
+  "name": "Mailsi",
+  "lat": 29.8003,
+  "lng": 72.1758,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Majitha (Punjab)": {
+  "name": "Majitha",
+  "lat": 31.757,
+  "lng": 74.9578,
+  "precision": "village",
+  "admin": "Punjab / Amritsar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Makhu (Punjab)": {
+  "name": "Makhu",
+  "lat": 31.1023,
+  "lng": 74.9969,
+  "precision": "village",
+  "admin": "Punjab / Ferozepur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Malakand (Khyber Pakhtunkhwa)": {
+  "name": "Malakand",
+  "lat": 34.5656,
+  "lng": 71.9304,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Malakwal (Punjab)": {
+  "name": "Malakwal",
+  "lat": 32.5536,
+  "lng": 73.2123,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Malakwal City (Punjab)": {
+  "name": "Malakwal City",
+  "lat": 32.5549,
+  "lng": 73.2122,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Malaut (Punjab)": {
+  "name": "Malaut",
+  "lat": 30.2112,
+  "lng": 74.4818,
+  "precision": "village",
+  "admin": "Punjab / Muktsar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Maler Kotla (Punjab)": {
+  "name": "Maler Kotla",
+  "lat": 30.5309,
+  "lng": 75.8795,
+  "precision": "village",
+  "admin": "Punjab / Sangrur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mamu Kanjan (Punjab)": {
+  "name": "Mamu Kanjan",
+  "lat": 30.8333,
+  "lng": 72.8,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Manali (Himachal Pradesh)": {
+  "name": "Manali",
+  "lat": 32.2574,
+  "lng": 77.1748,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Kulu",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mananwala (Punjab)": {
+  "name": "Mananwala",
+  "lat": 31.5842,
+  "lng": 73.6878,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mandi (Himachal Pradesh)": {
+  "name": "Mandi",
+  "lat": 31.7108,
+  "lng": 76.9315,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Mandi",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mandi Bahauddin (Punjab)": {
+  "name": "Mandi Bahauddin",
+  "lat": 32.5834,
+  "lng": 73.4843,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mangla (Punjab)": {
+  "name": "Mangla",
+  "lat": 31.8931,
+  "lng": 72.3817,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mankera (Punjab)": {
+  "name": "Mankera",
+  "lat": 31.3866,
+  "lng": 71.4407,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mansa (Punjab)": {
+  "name": "Mansa",
+  "lat": 29.9884,
+  "lng": 75.4017,
+  "precision": "village",
+  "admin": "Punjab / Mansa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mansehra (Khyber Pakhtunkhwa)": {
+  "name": "Mansehra",
+  "lat": 34.3333,
+  "lng": 73.2,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mardan (Khyber Pakhtunkhwa)": {
+  "name": "Mardan",
+  "lat": 34.2019,
+  "lng": 72.0525,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Maur (Punjab)": {
+  "name": "Maur",
+  "lat": 30.0833,
+  "lng": 75.25,
+  "precision": "village",
+  "admin": "Punjab / Bathinda",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mehmand Chak (Punjab)": {
+  "name": "Mehmand Chak",
+  "lat": 32.7852,
+  "lng": 73.8231,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mian Channun (Punjab)": {
+  "name": "Mian Channun",
+  "lat": 30.44,
+  "lng": 72.3543,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mianwali (Punjab)": {
+  "name": "Mianwali",
+  "lat": 32.5741,
+  "lng": 71.5264,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Minchinabad (Punjab)": {
+  "name": "Minchinabad",
+  "lat": 30.163,
+  "lng": 73.5685,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mingora (Khyber Pakhtunkhwa)": {
+  "name": "Mingora",
+  "lat": 34.7795,
+  "lng": 72.3627,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mirpur": {
+  "name": "Mirpur",
+  "lat": 33.1418,
+  "lng": 73.7674,
+  "precision": "village",
+  "admin": "Azad Kashmir",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mitha Tiwana (Punjab)": {
+  "name": "Mitha Tiwana",
+  "lat": 32.2486,
+  "lng": 72.1108,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Moga (Punjab)": {
+  "name": "Moga",
+  "lat": 30.8157,
+  "lng": 75.1742,
+  "precision": "village",
+  "admin": "Punjab / Moga",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mohali (Punjab)": {
+  "name": "Mohali",
+  "lat": 30.68,
+  "lng": 76.7221,
+  "precision": "village",
+  "admin": "Punjab / Ajitgarh",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Morinda (Punjab)": {
+  "name": "Morinda",
+  "lat": 30.7896,
+  "lng": 76.4973,
+  "precision": "village",
+  "admin": "Punjab / Rupnagar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Moza Shahwala (Punjab)": {
+  "name": "Moza Shahwala",
+  "lat": 30.8056,
+  "lng": 70.8491,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mukerian (Punjab)": {
+  "name": "Mukerian",
+  "lat": 31.951,
+  "lng": 75.6149,
+  "precision": "village",
+  "admin": "Punjab / Hoshiarpur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Muktsar (Punjab)": {
+  "name": "Muktsar",
+  "lat": 30.4743,
+  "lng": 74.5166,
+  "precision": "village",
+  "admin": "Punjab / Muktsar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Multan (Punjab)": {
+  "name": "Multan",
+  "lat": 30.1956,
+  "lng": 71.4753,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Muridke (Punjab)": {
+  "name": "Muridke",
+  "lat": 31.8025,
+  "lng": 74.2617,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Murree (Punjab)": {
+  "name": "Murree",
+  "lat": 33.9084,
+  "lng": 73.3903,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Mustafabad (Punjab)": {
+  "name": "Mustafabad",
+  "lat": 30.8922,
+  "lng": 73.4989,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Muzaffarabad": {
+  "name": "Muzaffarabad",
+  "lat": 34.37,
+  "lng": 73.4708,
+  "precision": "village",
+  "admin": "Azad Kashmir",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Muzaffargarh (Punjab)": {
+  "name": "Muzaffargarh",
+  "lat": 30.0754,
+  "lng": 71.1921,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Nabha (Punjab)": {
+  "name": "Nabha",
+  "lat": 30.3747,
+  "lng": 76.1508,
+  "precision": "village",
+  "admin": "Punjab / Patiala",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Nadaun (Himachal Pradesh)": {
+  "name": "Nadaun",
+  "lat": 31.7824,
+  "lng": 76.3418,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Hamirpur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Nagar (Himachal Pradesh)": {
+  "name": "Nagar",
+  "lat": 32.1381,
+  "lng": 77.1739,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Kulu",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Nagrota (Himachal Pradesh)": {
+  "name": "Nagrota",
+  "lat": 32.05,
+  "lng": 76.0833,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Kangra",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Nahan (Himachal Pradesh)": {
+  "name": "Nahan",
+  "lat": 30.5603,
+  "lng": 77.2943,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Sirmaur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Nakodar (Punjab)": {
+  "name": "Nakodar",
+  "lat": 31.1259,
+  "lng": 75.4758,
+  "precision": "village",
+  "admin": "Punjab / Jalandhar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Nalagarh (Himachal Pradesh)": {
+  "name": "Nalagarh",
+  "lat": 31.0418,
+  "lng": 76.7211,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Solan",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Nangal Township (Punjab)": {
+  "name": "Nangal Township",
+  "lat": 31.3897,
+  "lng": 76.3757,
+  "precision": "village",
+  "admin": "Punjab / Rupnagar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Nankana Sahib (Punjab)": {
+  "name": "Nankana Sahib",
+  "lat": 31.4475,
+  "lng": 73.6972,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Narang (Punjab)": {
+  "name": "Narang",
+  "lat": 31.9132,
+  "lng": 74.5176,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Narowal (Punjab)": {
+  "name": "Narowal",
+  "lat": 32.1,
+  "lng": 74.8833,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Naushahra Virkan (Punjab)": {
+  "name": "Naushahra Virkan",
+  "lat": 31.9628,
+  "lng": 73.9723,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Nawanshahr": {
+  "name": "Nawanshahr",
+  "lat": 32.7651,
+  "lng": 74.5277,
+  "precision": "village",
+  "admin": "Kashmir / Jammu",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Nawashahr (Punjab)": {
+  "name": "Nawashahr",
+  "lat": 31.1261,
+  "lng": 76.1163,
+  "precision": "village",
+  "admin": "Punjab / Shahid Bhagat Singh Nagar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Nazir Town (Punjab)": {
+  "name": "Nazir Town",
+  "lat": 33.3061,
+  "lng": 73.4833,
+  "precision": "village",
+  "admin": "Punjab / Dera Ghazi Khan District",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Noorabad (Khyber Pakhtunkhwa)": {
+  "name": "Noorabad",
+  "lat": 34.252,
+  "lng": 71.9666,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Nowshera (Khyber Pakhtunkhwa)": {
+  "name": "Nowshera",
+  "lat": 34.0058,
+  "lng": 71.9977,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Nowshera Cantonment (Khyber Pakhtunkhwa)": {
+  "name": "Nowshera Cantonment",
+  "lat": 33.9983,
+  "lng": 71.9983,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Nurmahal (Punjab)": {
+  "name": "Nurmahal",
+  "lat": 31.0955,
+  "lng": 75.5928,
+  "precision": "village",
+  "admin": "Punjab / Jalandhar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Nurpur Kalan (Punjab)": {
+  "name": "Nurpur Kalan",
+  "lat": 31.1667,
+  "lng": 76.4833,
+  "precision": "village",
+  "admin": "Punjab / Rupnagar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Okara (Punjab)": {
+  "name": "Okara",
+  "lat": 30.8081,
+  "lng": 73.4458,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Pabbi (Khyber Pakhtunkhwa)": {
+  "name": "Pabbi",
+  "lat": 34.0106,
+  "lng": 71.7989,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Padam": {
+  "name": "Padam",
+  "lat": 33.4666,
+  "lng": 76.8849,
+  "precision": "village",
+  "admin": "Kashmir / Kargil",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Pahalgam": {
+  "name": "Pahalgam",
+  "lat": 34.0142,
+  "lng": 75.319,
+  "precision": "village",
+  "admin": "Kashmir / Anantnag",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Paharpur (Khyber Pakhtunkhwa)": {
+  "name": "Paharpur",
+  "lat": 32.1038,
+  "lng": 70.9724,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Pakpattan (Punjab)": {
+  "name": "Pakpattan",
+  "lat": 30.341,
+  "lng": 73.3866,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Palampur (Himachal Pradesh)": {
+  "name": "Palampur",
+  "lat": 32.1145,
+  "lng": 76.5568,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Kangra",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Palandri": {
+  "name": "Palandri",
+  "lat": 33.7177,
+  "lng": 73.6874,
+  "precision": "village",
+  "admin": "Azad Kashmir",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Pandoh (Himachal Pradesh)": {
+  "name": "Pandoh",
+  "lat": 31.669,
+  "lng": 77.0536,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Mandi",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Paonta Sahib (Himachal Pradesh)": {
+  "name": "Paonta Sahib",
+  "lat": 30.4367,
+  "lng": 77.6246,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Sirmaur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Parol": {
+  "name": "Parol",
+  "lat": 32.346,
+  "lng": 75.4344,
+  "precision": "village",
+  "admin": "Kashmir / Kathua",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Parwanoo (Himachal Pradesh)": {
+  "name": "Parwanoo",
+  "lat": 30.8372,
+  "lng": 76.9614,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Solan",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Pasrur (Punjab)": {
+  "name": "Pasrur",
+  "lat": 32.2641,
+  "lng": 74.6634,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Pathankot (Punjab)": {
+  "name": "Pathankot",
+  "lat": 32.2731,
+  "lng": 75.6526,
+  "precision": "village",
+  "admin": "Punjab / Pathankot",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Patiala (Punjab)": {
+  "name": "Patiala",
+  "lat": 30.3271,
+  "lng": 76.4027,
+  "precision": "village",
+  "admin": "Punjab / Patiala",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Pattan": {
+  "name": "Pattan",
+  "lat": 34.1611,
+  "lng": 74.5555,
+  "precision": "village",
+  "admin": "Kashmir / Baramula",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Patti (Punjab)": {
+  "name": "Patti",
+  "lat": 31.2808,
+  "lng": 74.8572,
+  "precision": "village",
+  "admin": "Punjab / Tarn Taran",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Pattoki (Punjab)": {
+  "name": "Pattoki",
+  "lat": 31.0167,
+  "lng": 73.85,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Peshawar (Khyber Pakhtunkhwa)": {
+  "name": "Peshawar",
+  "lat": 34.008,
+  "lng": 71.5785,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Phagwara (Punjab)": {
+  "name": "Phagwara",
+  "lat": 31.2185,
+  "lng": 75.7717,
+  "precision": "village",
+  "admin": "Punjab / Kapurthala",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Phalia (Punjab)": {
+  "name": "Phalia",
+  "lat": 32.4297,
+  "lng": 73.5774,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Phillaur (Punjab)": {
+  "name": "Phillaur",
+  "lat": 31.0207,
+  "lng": 75.7877,
+  "precision": "village",
+  "admin": "Punjab / Jalandhar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Pind Dadan Khan (Punjab)": {
+  "name": "Pind Dadan Khan",
+  "lat": 32.5879,
+  "lng": 73.0456,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Pindi Bhattian (Punjab)": {
+  "name": "Pindi Bhattian",
+  "lat": 31.8978,
+  "lng": 73.273,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Pindi Gheb (Punjab)": {
+  "name": "Pindi Gheb",
+  "lat": 33.2402,
+  "lng": 72.2661,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Pir Mahal (Punjab)": {
+  "name": "Pir Mahal",
+  "lat": 30.7667,
+  "lng": 72.4333,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Poonch": {
+  "name": "Poonch",
+  "lat": 33.7697,
+  "lng": 74.0921,
+  "precision": "village",
+  "admin": "Kashmir / Punch",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Pulwama": {
+  "name": "Pulwama",
+  "lat": 33.874,
+  "lng": 74.8996,
+  "precision": "village",
+  "admin": "Kashmir / Pulwama",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Qadian (Punjab)": {
+  "name": "Qadian",
+  "lat": 31.822,
+  "lng": 75.3766,
+  "precision": "village",
+  "admin": "Punjab / Gurdaspur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Qadirpur Ran (Punjab)": {
+  "name": "Qadirpur Ran",
+  "lat": 30.2924,
+  "lng": 71.6712,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Qazigund": {
+  "name": "Qazigund",
+  "lat": 33.6383,
+  "lng": 75.1426,
+  "precision": "village",
+  "admin": "Kashmir / Anantnag",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Rabwah (Punjab)": {
+  "name": "Rabwah",
+  "lat": 31.7558,
+  "lng": 72.9197,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Rahon (Punjab)": {
+  "name": "Rahon",
+  "lat": 31.0527,
+  "lng": 76.1191,
+  "precision": "village",
+  "admin": "Punjab / Shahid Bhagat Singh Nagar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Raikot (Punjab)": {
+  "name": "Raikot",
+  "lat": 30.65,
+  "lng": 75.6,
+  "precision": "village",
+  "admin": "Punjab / Ludhiana",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Raiwind (Punjab)": {
+  "name": "Raiwind",
+  "lat": 31.2544,
+  "lng": 74.2178,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Raja Jang (Punjab)": {
+  "name": "Raja Jang",
+  "lat": 31.2208,
+  "lng": 74.2519,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Raja Sansi (Punjab)": {
+  "name": "Raja Sansi",
+  "lat": 31.7194,
+  "lng": 74.8,
+  "precision": "village",
+  "admin": "Punjab / Amritsar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Rajanpur (Punjab)": {
+  "name": "Rajanpur",
+  "lat": 29.1035,
+  "lng": 70.325,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Rajgarh (Himachal Pradesh)": {
+  "name": "Rajgarh",
+  "lat": 30.8514,
+  "lng": 77.3007,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Sirmaur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Rajouri": {
+  "name": "Rajouri",
+  "lat": 33.3753,
+  "lng": 74.3092,
+  "precision": "village",
+  "admin": "Kashmir / Rajauri",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Rajpura (Punjab)": {
+  "name": "Rajpura",
+  "lat": 30.4728,
+  "lng": 76.5867,
+  "precision": "village",
+  "admin": "Punjab / Patiala",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Ram Das (Punjab)": {
+  "name": "Ram Das",
+  "lat": 31.9677,
+  "lng": 74.9096,
+  "precision": "village",
+  "admin": "Punjab / Amritsar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Ramban": {
+  "name": "Ramban",
+  "lat": 33.241,
+  "lng": 75.2395,
+  "precision": "village",
+  "admin": "Kashmir / Ramban",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Ramgarh": {
+  "name": "Ramgarh",
+  "lat": 33.4035,
+  "lng": 74.2231,
+  "precision": "village",
+  "admin": "Kashmir / Rajauri",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Ramnagar": {
+  "name": "Ramnagar",
+  "lat": 32.8073,
+  "lng": 75.3112,
+  "precision": "village",
+  "admin": "Kashmir / Udhampur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Rampur (Himachal Pradesh)": {
+  "name": "Rampur",
+  "lat": 31.4494,
+  "lng": 77.6309,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Kulu",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Rampura (Punjab)": {
+  "name": "Rampura",
+  "lat": 30.2551,
+  "lng": 75.2407,
+  "precision": "village",
+  "admin": "Punjab / Bathinda",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Rasulnagar (Punjab)": {
+  "name": "Rasulnagar",
+  "lat": 32.3285,
+  "lng": 73.7814,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Rawalakot": {
+  "name": "Rawalakot",
+  "lat": 33.8578,
+  "lng": 73.7604,
+  "precision": "village",
+  "admin": "Azad Kashmir",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Rawalpindi (Punjab)": {
+  "name": "Rawalpindi",
+  "lat": 33.6007,
+  "lng": 73.0679,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Reasi": {
+  "name": "Reasi",
+  "lat": 33.0812,
+  "lng": 74.8324,
+  "precision": "village",
+  "admin": "Kashmir / Reasi",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Renala Khurd (Punjab)": {
+  "name": "Renala Khurd",
+  "lat": 30.8833,
+  "lng": 73.6,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Risalpur (Khyber Pakhtunkhwa)": {
+  "name": "Risalpur",
+  "lat": 34.0619,
+  "lng": 71.9917,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Rohru (Himachal Pradesh)": {
+  "name": "Rohru",
+  "lat": 31.2021,
+  "lng": 77.7521,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Shimla",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Rupnagar (Punjab)": {
+  "name": "Rupnagar",
+  "lat": 30.9688,
+  "lng": 76.5256,
+  "precision": "village",
+  "admin": "Punjab / Rupnagar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sabathu (Himachal Pradesh)": {
+  "name": "Sabathu",
+  "lat": 30.9749,
+  "lng": 76.9914,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Solan",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sahiwal (Punjab)": {
+  "name": "Sahiwal",
+  "lat": 30.6667,
+  "lng": 73.1,
+  "precision": "village",
+  "admin": "Punjab / Sahiwal District",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Saidu Sharif (Khyber Pakhtunkhwa)": {
+  "name": "Saidu Sharif",
+  "lat": 34.7447,
+  "lng": 72.3546,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Samba": {
+  "name": "Samba",
+  "lat": 32.5611,
+  "lng": 75.1249,
+  "precision": "village",
+  "admin": "Kashmir / Samba",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sambrial (Punjab)": {
+  "name": "Sambrial",
+  "lat": 32.4746,
+  "lng": 74.3521,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Samrala (Punjab)": {
+  "name": "Samrala",
+  "lat": 30.8364,
+  "lng": 76.1926,
+  "precision": "village",
+  "admin": "Punjab / Ludhiana",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sanaur (Punjab)": {
+  "name": "Sanaur",
+  "lat": 30.3014,
+  "lng": 76.457,
+  "precision": "village",
+  "admin": "Punjab / Patiala",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sangla Hill (Punjab)": {
+  "name": "Sangla Hill",
+  "lat": 31.7167,
+  "lng": 73.3833,
+  "precision": "village",
+  "admin": "Punjab / Nankana Sahib District",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sangrur (Punjab)": {
+  "name": "Sangrur",
+  "lat": 30.2461,
+  "lng": 75.8469,
+  "precision": "village",
+  "admin": "Punjab / Sangrur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sanjwal (Punjab)": {
+  "name": "Sanjwal",
+  "lat": 33.7608,
+  "lng": 72.4336,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Santokhgarh (Himachal Pradesh)": {
+  "name": "Santokhgarh",
+  "lat": 31.352,
+  "lng": 76.3178,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Una",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sarahan (Himachal Pradesh)": {
+  "name": "Sarahan",
+  "lat": 31.5099,
+  "lng": 77.7939,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Shimla",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sarai Alamgir (Punjab)": {
+  "name": "Sarai Alamgir",
+  "lat": 32.9012,
+  "lng": 73.7559,
+  "precision": "village",
+  "admin": "Punjab / Gujrat District",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sarai Naurang (Khyber Pakhtunkhwa)": {
+  "name": "Sarai Naurang",
+  "lat": 32.8259,
+  "lng": 70.7814,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sarai Sidhu (Punjab)": {
+  "name": "Sarai Sidhu",
+  "lat": 30.5949,
+  "lng": 71.9698,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sardulgarh (Punjab)": {
+  "name": "Sardulgarh",
+  "lat": 29.6922,
+  "lng": 75.2361,
+  "precision": "village",
+  "admin": "Punjab / Mansa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sargodha (Punjab)": {
+  "name": "Sargodha",
+  "lat": 32.0836,
+  "lng": 72.6711,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sarka Ghat (Himachal Pradesh)": {
+  "name": "Sarka Ghat",
+  "lat": 31.6989,
+  "lng": 76.7353,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Mandi",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Seoni (Himachal Pradesh)": {
+  "name": "Seoni",
+  "lat": 31.243,
+  "lng": 77.1222,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Shimla",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Shabqadar (Khyber Pakhtunkhwa)": {
+  "name": "Shabqadar",
+  "lat": 34.2139,
+  "lng": 71.5552,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Shahkot (Punjab)": {
+  "name": "Shahkot",
+  "lat": 31.5709,
+  "lng": 73.4853,
+  "precision": "village",
+  "admin": "Punjab / Nankana Sahib District",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Shahpur (Punjab)": {
+  "name": "Shahpur",
+  "lat": 32.2676,
+  "lng": 72.472,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Shahr Sultan (Punjab)": {
+  "name": "Shahr Sultan",
+  "lat": 29.5765,
+  "lng": 71.0212,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Shakargarr (Punjab)": {
+  "name": "Shakargarr",
+  "lat": 32.2623,
+  "lng": 75.1668,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sham Churasi (Punjab)": {
+  "name": "Sham Churasi",
+  "lat": 31.5002,
+  "lng": 75.7486,
+  "precision": "village",
+  "admin": "Punjab / Hoshiarpur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sharqpur (Punjab)": {
+  "name": "Sharqpur",
+  "lat": 31.4633,
+  "lng": 74.1,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sheikhupura (Punjab)": {
+  "name": "Sheikhupura",
+  "lat": 31.7131,
+  "lng": 73.9783,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Shimla (Himachal Pradesh)": {
+  "name": "Shimla",
+  "lat": 31.1044,
+  "lng": 77.1666,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Shimla",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Shopian": {
+  "name": "Shopian",
+  "lat": 33.7172,
+  "lng": 74.8341,
+  "precision": "village",
+  "admin": "Kashmir / Shupiyan",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Shorko (Khyber Pakhtunkhwa)": {
+  "name": "Shorko",
+  "lat": 31.9099,
+  "lng": 70.8774,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Shujaabad (Punjab)": {
+  "name": "Shujaabad",
+  "lat": 29.8797,
+  "lng": 71.2931,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sialkot (Punjab)": {
+  "name": "Sialkot",
+  "lat": 32.4927,
+  "lng": 74.5313,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sillanwali (Punjab)": {
+  "name": "Sillanwali",
+  "lat": 31.8261,
+  "lng": 72.5398,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sirhind (Punjab)": {
+  "name": "Sirhind",
+  "lat": 30.6433,
+  "lng": 76.3849,
+  "precision": "village",
+  "admin": "Punjab / Fatehgarh Sahib",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Skardu": {
+  "name": "Skardu",
+  "lat": 35.2885,
+  "lng": 75.6333,
+  "precision": "village",
+  "admin": "Gilgit-Baltistan",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sodhra (Punjab)": {
+  "name": "Sodhra",
+  "lat": 32.4616,
+  "lng": 74.1823,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Solan (Himachal Pradesh)": {
+  "name": "Solan",
+  "lat": 30.9091,
+  "lng": 77.1087,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Solan",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sopur": {
+  "name": "Sopur",
+  "lat": 34.2879,
+  "lng": 74.4722,
+  "precision": "village",
+  "admin": "Kashmir / Baramula",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Soyibug": {
+  "name": "Soyibug",
+  "lat": 34.0805,
+  "lng": 74.7087,
+  "precision": "village",
+  "admin": "Kashmir / Baramula",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Srinagar": {
+  "name": "Srinagar",
+  "lat": 34.0884,
+  "lng": 74.803,
+  "precision": "village",
+  "admin": "Kashmir / Srinagar",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sukheke Mandi (Punjab)": {
+  "name": "Sukheke Mandi",
+  "lat": 31.8639,
+  "lng": 73.5112,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sultanpur Lodhi (Punjab)": {
+  "name": "Sultanpur Lodhi",
+  "lat": 31.2145,
+  "lng": 75.1956,
+  "precision": "village",
+  "admin": "Punjab / Kapurthala",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sumbal": {
+  "name": "Sumbal",
+  "lat": 34.2302,
+  "lng": 74.6483,
+  "precision": "village",
+  "admin": "Kashmir / Baramula",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sunam (Punjab)": {
+  "name": "Sunam",
+  "lat": 30.1297,
+  "lng": 75.8071,
+  "precision": "village",
+  "admin": "Punjab / Sangrur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Sundarnagar (Himachal Pradesh)": {
+  "name": "Sundarnagar",
+  "lat": 31.5328,
+  "lng": 76.9059,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Mandi",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Surkhpur (Punjab)": {
+  "name": "Surkhpur",
+  "lat": 32.7167,
+  "lng": 74.45,
+  "precision": "village",
+  "admin": "Punjab / Gujrat District",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Swabi (Khyber Pakhtunkhwa)": {
+  "name": "Swabi",
+  "lat": 34.1199,
+  "lng": 72.4699,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Tal (Khyber Pakhtunkhwa)": {
+  "name": "Tal",
+  "lat": 35.4791,
+  "lng": 72.2438,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Talagang (Punjab)": {
+  "name": "Talagang",
+  "lat": 32.9297,
+  "lng": 72.4158,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Talamba (Punjab)": {
+  "name": "Talamba",
+  "lat": 30.5271,
+  "lng": 72.2401,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Talwandi Bhai (Punjab)": {
+  "name": "Talwandi Bhai",
+  "lat": 30.8558,
+  "lng": 74.9298,
+  "precision": "village",
+  "admin": "Punjab / Ferozepur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Talwara (Punjab)": {
+  "name": "Talwara",
+  "lat": 31.9498,
+  "lng": 75.8665,
+  "precision": "village",
+  "admin": "Punjab / Hoshiarpur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Tandlianwala (Punjab)": {
+  "name": "Tandlianwala",
+  "lat": 31.0333,
+  "lng": 73.1333,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Tangi (Khyber Pakhtunkhwa)": {
+  "name": "Tangi",
+  "lat": 34.3006,
+  "lng": 71.6536,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Tank (Khyber Pakhtunkhwa)": {
+  "name": "Tank",
+  "lat": 32.2217,
+  "lng": 70.3793,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Tarn Taran (Punjab)": {
+  "name": "Tarn Taran",
+  "lat": 31.4511,
+  "lng": 74.9254,
+  "precision": "village",
+  "admin": "Punjab / Tarn Taran",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Taunsa (Punjab)": {
+  "name": "Taunsa",
+  "lat": 30.7048,
+  "lng": 70.6505,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Thang": {
+  "name": "Thang",
+  "lat": 34.9274,
+  "lng": 76.7934,
+  "precision": "village",
+  "admin": "Kashmir",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Thanna Mandi": {
+  "name": "Thanna Mandi",
+  "lat": 33.5423,
+  "lng": 74.3803,
+  "precision": "village",
+  "admin": "Kashmir / Rajauri",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Theog (Himachal Pradesh)": {
+  "name": "Theog",
+  "lat": 31.1215,
+  "lng": 77.3584,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Shimla",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Timurgara (Khyber Pakhtunkhwa)": {
+  "name": "Timurgara",
+  "lat": 34.8264,
+  "lng": 71.8415,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Tira Sujanpur (Himachal Pradesh)": {
+  "name": "Tira Sujanpur",
+  "lat": 31.8336,
+  "lng": 76.5054,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Hamirpur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Toba Tek Singh (Punjab)": {
+  "name": "Toba Tek Singh",
+  "lat": 30.9743,
+  "lng": 72.4827,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Topi (Khyber Pakhtunkhwa)": {
+  "name": "Topi",
+  "lat": 34.0704,
+  "lng": 72.6236,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Tral": {
+  "name": "Tral",
+  "lat": 33.9277,
+  "lng": 75.1151,
+  "precision": "village",
+  "admin": "Kashmir / Pulwama",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Tsrar Sharif": {
+  "name": "Tsrar Sharif",
+  "lat": 33.8632,
+  "lng": 74.7652,
+  "precision": "village",
+  "admin": "Kashmir / Badgam",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Udhampur": {
+  "name": "Udhampur",
+  "lat": 32.9243,
+  "lng": 75.1357,
+  "precision": "village",
+  "admin": "Kashmir / Udhampur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Una (Himachal Pradesh)": {
+  "name": "Una",
+  "lat": 31.4649,
+  "lng": 76.2691,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Una",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Uri": {
+  "name": "Uri",
+  "lat": 34.0871,
+  "lng": 74.0477,
+  "precision": "village",
+  "admin": "Kashmir",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Utmanzai (Khyber Pakhtunkhwa)": {
+  "name": "Utmanzai",
+  "lat": 34.188,
+  "lng": 71.7629,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Vihari (Punjab)": {
+  "name": "Vihari",
+  "lat": 30.0333,
+  "lng": 72.35,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Warburton (Punjab)": {
+  "name": "Warburton",
+  "lat": 31.55,
+  "lng": 73.8333,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Wazirabad (Punjab)": {
+  "name": "Wazirabad",
+  "lat": 32.4458,
+  "lng": 74.1159,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Yazman (Punjab)": {
+  "name": "Yazman",
+  "lat": 29.1212,
+  "lng": 71.7446,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Yol (Himachal Pradesh)": {
+  "name": "Yol",
+  "lat": 32.1667,
+  "lng": 76.2,
+  "precision": "village",
+  "admin": "Himachal Pradesh / Kangra",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Zafarwal (Punjab)": {
+  "name": "Zafarwal",
+  "lat": 32.3463,
+  "lng": 74.8999,
+  "precision": "village",
+  "admin": "Punjab",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Zaida (Khyber Pakhtunkhwa)": {
+  "name": "Zaida",
+  "lat": 34.0603,
+  "lng": 72.4678,
+  "precision": "village",
+  "admin": "Khyber Pakhtunkhwa",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ },
+ "town:Zira (Punjab)": {
+  "name": "Zira",
+  "lat": 30.9685,
+  "lng": 74.9911,
+  "precision": "village",
+  "admin": "Punjab / Ferozepur",
+  "source": "GeoNames cities1000 (CC-BY 4.0)"
+ }
+}

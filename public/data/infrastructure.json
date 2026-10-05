@@ -1,0 +1,422 @@
+[
+ {
+  "id": "markaz-subhan-allah-bahawalpur",
+  "type": "hq",
+  "name": "Markaz Subhan Allah",
+  "group_ids": [
+   "jaish-e-mohammed"
+  ],
+  "approx_location": "Bahawalpur, Punjab, Pakistan",
+  "lat": 29.4,
+  "lng": 71.6833,
+  "precision": "town",
+  "first_reported": null,
+  "last_reported": "2025-05",
+  "status": "Struck in Operation Sindoor, May 2025",
+  "struck_in": [
+   "op-sindoor-2025"
+  ],
+  "sources": [
+   {
+    "id": "pib-op-sindoor-precision",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: Indian Armed Forces carried out precision strike at terrorist camps",
+    "date": "2025-05-07",
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "tribune-sindoor-satellite",
+    "url": "https://www.tribuneindia.com/news/collateraldamage/op-sindoor-satellite-images-reveal-extensive-damage-to-terror-camps-in-paks-bahawalpur-muridke",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/collateraldamage/op-sindoor-satellite-images-reveal-extensive-damage-to-terror-camps-in-paks-bahawalpur-muridke",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Op Sindoor: Satellite images reveal extensive damage to terror camps in Pak's Bahawalpur, Muridke",
+    "date": "2025-05",
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "markaz-taiba-muridke",
+  "type": "hq",
+  "name": "Markaz Taiba",
+  "group_ids": [
+   "lashkar-e-taiba"
+  ],
+  "approx_location": "Muridke, Punjab, Pakistan",
+  "lat": 31.8025,
+  "lng": 74.2617,
+  "precision": "town",
+  "first_reported": null,
+  "last_reported": "2025-05",
+  "status": "Struck in Operation Sindoor, May 2025",
+  "struck_in": [
+   "op-sindoor-2025"
+  ],
+  "sources": [
+   {
+    "id": "pib-op-sindoor-precision",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: Indian Armed Forces carried out precision strike at terrorist camps",
+    "date": "2025-05-07",
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "tribune-sindoor-satellite",
+    "url": "https://www.tribuneindia.com/news/collateraldamage/op-sindoor-satellite-images-reveal-extensive-damage-to-terror-camps-in-paks-bahawalpur-muridke",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/collateraldamage/op-sindoor-satellite-images-reveal-extensive-damage-to-terror-camps-in-paks-bahawalpur-muridke",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Op Sindoor: Satellite images reveal extensive damage to terror camps in Pak's Bahawalpur, Muridke",
+    "date": "2025-05",
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "sarjal-tehra-kalan",
+  "type": "camp",
+  "name": "Sarjal",
+  "group_ids": [
+   "jaish-e-mohammed"
+  ],
+  "approx_location": "Tehra Kalan, near Shakargarh, Punjab, Pakistan",
+  "lat": 32.2623,
+  "lng": 75.1668,
+  "precision": "district",
+  "first_reported": null,
+  "last_reported": "2025-05",
+  "status": "Struck in Operation Sindoor, May 2025",
+  "struck_in": [
+   "op-sindoor-2025"
+  ],
+  "sources": [
+   {
+    "id": "pib-op-sindoor-precision",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: Indian Armed Forces carried out precision strike at terrorist camps",
+    "date": "2025-05-07",
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "pib-op-sindoor-clarity",
+    "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: India's Strategic Clarity and Calculated Force",
+    "date": "2025-05-14",
+    "pages": null,
+    "kind": "official"
+   }
+  ]
+ },
+ {
+  "id": "markaz-abbas-kotli",
+  "type": "camp",
+  "name": "Markaz Abbas",
+  "group_ids": [
+   "jaish-e-mohammed"
+  ],
+  "approx_location": "Kotli, Pakistan-occupied Jammu & Kashmir",
+  "lat": 33.5167,
+  "lng": 73.9167,
+  "precision": "town",
+  "first_reported": null,
+  "last_reported": "2025-05",
+  "status": "Struck in Operation Sindoor, May 2025",
+  "struck_in": [
+   "op-sindoor-2025"
+  ],
+  "sources": [
+   {
+    "id": "pib-op-sindoor-precision",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: Indian Armed Forces carried out precision strike at terrorist camps",
+    "date": "2025-05-07",
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "pib-op-sindoor-clarity",
+    "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: India's Strategic Clarity and Calculated Force",
+    "date": "2025-05-14",
+    "pages": null,
+    "kind": "official"
+   }
+  ]
+ },
+ {
+  "id": "syedna-bilal-muzaffarabad",
+  "type": "camp",
+  "name": "Syedna Bilal camp",
+  "group_ids": [
+   "jaish-e-mohammed"
+  ],
+  "approx_location": "Muzaffarabad, Pakistan-occupied Jammu & Kashmir",
+  "lat": 34.37,
+  "lng": 73.4708,
+  "precision": "town",
+  "first_reported": null,
+  "last_reported": "2025-05",
+  "status": "Struck in Operation Sindoor, May 2025",
+  "struck_in": [
+   "op-sindoor-2025"
+  ],
+  "sources": [
+   {
+    "id": "pib-op-sindoor-precision",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: Indian Armed Forces carried out precision strike at terrorist camps",
+    "date": "2025-05-07",
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "pib-op-sindoor-clarity",
+    "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: India's Strategic Clarity and Calculated Force",
+    "date": "2025-05-14",
+    "pages": null,
+    "kind": "official"
+   }
+  ]
+ },
+ {
+  "id": "markaz-ahle-hadith-barnala",
+  "type": "camp",
+  "name": "Markaz Ahle Hadith",
+  "group_ids": [
+   "lashkar-e-taiba"
+  ],
+  "approx_location": "Barnala, Bhimber area, Pakistan-occupied Jammu & Kashmir",
+  "lat": 32.9757,
+  "lng": 74.0793,
+  "precision": "district",
+  "first_reported": null,
+  "last_reported": "2025-05",
+  "status": "Struck in Operation Sindoor, May 2025",
+  "struck_in": [
+   "op-sindoor-2025"
+  ],
+  "sources": [
+   {
+    "id": "pib-op-sindoor-precision",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: Indian Armed Forces carried out precision strike at terrorist camps",
+    "date": "2025-05-07",
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "pib-op-sindoor-clarity",
+    "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: India's Strategic Clarity and Calculated Force",
+    "date": "2025-05-14",
+    "pages": null,
+    "kind": "official"
+   }
+  ]
+ },
+ {
+  "id": "shwawai-nalla-muzaffarabad",
+  "type": "camp",
+  "name": "Shwawai Nalla camp",
+  "group_ids": [
+   "lashkar-e-taiba"
+  ],
+  "approx_location": "Muzaffarabad area, Pakistan-occupied Jammu & Kashmir",
+  "lat": 34.37,
+  "lng": 73.4708,
+  "precision": "district",
+  "first_reported": null,
+  "last_reported": "2025-05",
+  "status": "Struck in Operation Sindoor, May 2025",
+  "struck_in": [
+   "op-sindoor-2025"
+  ],
+  "sources": [
+   {
+    "id": "pib-op-sindoor-precision",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: Indian Armed Forces carried out precision strike at terrorist camps",
+    "date": "2025-05-07",
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "pib-op-sindoor-clarity",
+    "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: India's Strategic Clarity and Calculated Force",
+    "date": "2025-05-14",
+    "pages": null,
+    "kind": "official"
+   }
+  ]
+ },
+ {
+  "id": "makaz-raheel-shahid-kotli",
+  "type": "camp",
+  "name": "Makaz Raheel Shahid",
+  "group_ids": [
+   "hizbul-mujahideen"
+  ],
+  "approx_location": "Kotli, Pakistan-occupied Jammu & Kashmir",
+  "lat": 33.5167,
+  "lng": 73.9167,
+  "precision": "district",
+  "first_reported": null,
+  "last_reported": "2025-05",
+  "status": "Struck in Operation Sindoor, May 2025",
+  "struck_in": [
+   "op-sindoor-2025"
+  ],
+  "sources": [
+   {
+    "id": "pib-op-sindoor-precision",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: Indian Armed Forces carried out precision strike at terrorist camps",
+    "date": "2025-05-07",
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "pib-op-sindoor-clarity",
+    "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: India's Strategic Clarity and Calculated Force",
+    "date": "2025-05-14",
+    "pages": null,
+    "kind": "official"
+   }
+  ]
+ },
+ {
+  "id": "mehmoona-joya-sialkot",
+  "type": "camp",
+  "name": "Mehmoona Joya",
+  "group_ids": [
+   "hizbul-mujahideen"
+  ],
+  "approx_location": "Near Sialkot, Punjab, Pakistan",
+  "lat": 32.4927,
+  "lng": 74.5313,
+  "precision": "district",
+  "first_reported": null,
+  "last_reported": "2025-05",
+  "status": "Struck in Operation Sindoor, May 2025",
+  "struck_in": [
+   "op-sindoor-2025"
+  ],
+  "sources": [
+   {
+    "id": "pib-op-sindoor-precision",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: Indian Armed Forces carried out precision strike at terrorist camps",
+    "date": "2025-05-07",
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "pib-op-sindoor-clarity",
+    "url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2128748&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: India's Strategic Clarity and Calculated Force",
+    "date": "2025-05-14",
+    "pages": null,
+    "kind": "official"
+   }
+  ]
+ },
+ {
+  "id": "jem-camp-balakot",
+  "type": "camp",
+  "name": "Jaish-e-Mohammed training camp, Balakot",
+  "group_ids": [
+   "jaish-e-mohammed"
+  ],
+  "approx_location": "Balakot, Mansehra district, Khyber Pakhtunkhwa, Pakistan",
+  "lat": 34.3333,
+  "lng": 73.2,
+  "precision": "district",
+  "first_reported": null,
+  "last_reported": "2019-02",
+  "status": "Struck by the Indian Air Force, February 2019",
+  "struck_in": [
+   "balakot-2019"
+  ],
+  "sources": [
+   {
+    "id": "pib-fs-balakot",
+    "url": "https://pib.gov.in/newsite/PrintRelease.aspx?relid=188948",
+    "archive_url": "https://web.archive.org/web/https://pib.gov.in/newsite/PrintRelease.aspx?relid=188948",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Statement by Foreign Secretary on 26 February 2019 on the Strike on JeM training camp at Balakot",
+    "date": "2019-02-26",
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "theprint-pak-hit-back-balakot",
+    "url": "https://theprint.in/defence/how-pakistan-planned-to-hit-india-back-for-balakot-the-mission-the-fighters-the-tactics/291522/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/how-pakistan-planned-to-hit-india-back-for-balakot-the-mission-the-fighters-the-tactics/291522/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "How Pakistan planned to hit India back for Balakot: the mission, the fighters, the tactics",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ }
+]

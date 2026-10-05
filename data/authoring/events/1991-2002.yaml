@@ -1,0 +1,657 @@
+- id: 1993-08-14-kishtwar-bus-massacre
+  date: 1993-08-14
+  title: Sarthal bus massacre, Kishtwar
+  place: Sarthal area, near Kishtwar
+  at: town:Kishtwar
+  geo: tehsil
+  district: [Doda, Kishtwar]
+  region: Jammu
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians, minority_community]
+  community: Hindu
+  perp: []
+  attr: unknown
+  killed: { civ: 16-17, sf: 0, terr: 0, total: 16-17 }
+  src: [loksabha-1993-08-16-kishtwar, organiser-terror-no-religion, hinduismtoday-kishtwar-1993]
+  conf: confirmed
+  hp: true
+  tags: [jammu-region, bus-attack]
+  summary: >
+    On 14 August 1993 militants stopped a bus in the Sarthal area near Kishtwar, let women and children off, separated the Hindu men and
+    shot them. Published accounts put the dead at 16 or 17. It was the first mass killing of Hindus in the Doda belt and was raised in
+    the Lok Sabha two days later.
+  notes: Accounts differ between 16 and 17 dead (some victims died on the way to hospital). The range is shown.
+
+- id: 1995-05-11-charar-e-sharif
+  date: 1995-05-11
+  title: Burning of Charar-e-Sharif shrine and town
+  place: Charar-e-Sharif
+  at: district:Budgam
+  district: [Budgam, Budgam]
+  region: Kashmir Valley
+  cat: encounter
+  tactic: arson
+  target: [civilians, infrastructure]
+  community: null
+  perp: [harkat-ul-mujahideen]
+  attr: suspected
+  killed: { total: null }
+  src: [kashmirlife-charar-after-mast-gul, de-charar-1995]
+  conf: confirmed
+  hp: true
+  tags: [shrine]
+  summary: >
+    Foreign militants led by Pakistani commander Mast Gul occupied the 14th-century shrine of Sheikh Noor-ud-din Noorani at
+    Charar-e-Sharif in early 1995, leading to a standoff of about two months. On the night of 11 May 1995 fire destroyed the wooden shrine
+    and hundreds of homes in the town. Mast Gul escaped to Pakistan.
+  notes: The group affiliation of Mast Gul's band is recorded as suspected. Casualty figures for the night of the fire were not found in the cited sources.
+
+- id: 1995-07-04-al-faran-kidnapping
+  date: 1995-07-04
+  end: 1995-12-13
+  title: Al-Faran kidnapping of foreign trekkers
+  place: Liddarwat area, Pahalgam
+  at: town:Pahalgam
+  geo: tehsil
+  district: [Anantnag, Anantnag]
+  region: Kashmir Valley
+  cat: abduction
+  tactic: kidnapping
+  target: [civilians]
+  community: Foreign tourists
+  perp: [harkat-ul-mujahideen]
+  attr: officially_attributed
+  killed: { civ: 1-5, sf: 0, terr: 0, total: 1-5 }
+  abducted: 6
+  victims:
+    - { name: Hans Christian Ostro, role: Norwegian tourist, src: kashmirlife-wronged-hostages }
+    - { name: Keith Mangan, role: British tourist, src: kashmirlife-wronged-hostages }
+    - { name: Paul Wells, role: British tourist, src: kashmirlife-wronged-hostages }
+    - { name: Donald Hutchings, role: American tourist, src: kashmirlife-wronged-hostages }
+    - { name: Dirk Hasert, role: German tourist, src: kashmirlife-wronged-hostages }
+  src: [kashmirlife-wronged-hostages, theprint-cia-ic814-plot]
+  conf: disputed
+  hp: true
+  tags: [kidnapping, foreigners]
+  summary: >
+    In early July 1995 a group calling itself Al-Faran, a front of Harkat-ul-Ansar, abducted Western trekkers near Pahalgam and demanded
+    the release of jailed militants. American John Childs escaped. Norwegian Hans Christian Ostro was killed in August 1995. The other
+    four hostages were never released, and one account says they were shot in December 1995.
+  notes: >
+    Only Ostro's death is confirmed by recovery of his body. The fate of the other four rests on later accounts, so the toll is shown as
+    1 to 5. Sources give 4 or 5 July for the first abductions.
+
+- id: 1997-03-21-sangrampora
+  date: 1997-03-21
+  title: Sangrampora massacre
+  place: Sangrampora, Budgam
+  at: district:Budgam
+  district: [Budgam, Budgam]
+  region: Kashmir Valley
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians, minority_community]
+  community: Kashmiri Pandit (Hindu)
+  perp: []
+  attr: unknown
+  killed: { civ: 7-8, sf: 0, terr: 0, total: 7-8 }
+  figures:
+    de-sangrampora-tribute: { total: 7, note: "Names seven victims" }
+    kashmirlife-sangrampora: { note: "One account counts eight, adding Ashok Kumar Pandit" }
+  victims:
+    - { name: Sanjay Bhat, src: de-sangrampora-tribute }
+    - { name: Vijay Bhat, src: de-sangrampora-tribute }
+    - { name: Pyare Lal, src: de-sangrampora-tribute }
+    - { name: Triloki Nath Bhat, src: de-sangrampora-tribute }
+    - { name: Bhushan Lal, src: de-sangrampora-tribute }
+    - { name: Avtar Krishen Pandit, src: de-sangrampora-tribute }
+    - { name: Dileep Bhat, src: de-sangrampora-tribute }
+  src: [de-sangrampora-tribute, kashmirlife-sangrampora]
+  conf: disputed
+  hp: true
+  tags: [kashmiri-pandits]
+  summary: >
+    On the eve of Nowroz in March 1997, masked gunmen called Kashmiri Pandit men out of their homes in the small hamlet of Sangrampora in
+    Budgam, saying an officer wanted to speak to them, and shot them. Seven or eight were killed. The case registered in 1997 remains
+    unsolved, and both Pandit and Muslim families later left the village.
+  notes: The date is given as the night of 20 to 21 March 1997.
+
+- id: 1998-01-25-wandhama
+  date: 1998-01-25
+  title: Wandhama massacre
+  place: Wandhama, Ganderbal
+  at: town:Ganderbal
+  geo: tehsil
+  district: [Srinagar, Ganderbal]
+  region: Kashmir Valley
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians, minority_community]
+  community: Kashmiri Pandit (Hindu)
+  perp: []
+  attr: unknown
+  killed: { civ: 23, sf: 0, terr: 0, total: 23 }
+  src: [gk-wandhama-1998, theprint-wandhama-reopen, open-wandhama-reopened]
+  conf: confirmed
+  hp: true
+  tags: [kashmiri-pandits]
+  summary: >
+    On the night of 25 January 1998, the eve of Republic Day, gunmen in army-style uniforms entered four Kashmiri Pandit homes in Wandhama
+    village and shot 23 people, including women and children. The families had stayed on in the village after the 1990 exodus. The
+    killings drove more Pandits out of the Valley, and the State Investigation Agency reopened the case in 2026.
+
+- id: 1998-04-17-prankote-dakikote
+  date: 1998-04-17
+  title: Prankote and Dakikote massacre
+  place: Prankote and Dakikote, Mahore tehsil
+  at: district:Reasi
+  district: [Udhampur, Reasi]
+  region: Jammu
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians, minority_community]
+  community: Hindu
+  perp: [lashkar-e-taiba]
+  attr: suspected
+  killed: { civ: 29, sf: 0, terr: 0, total: 29 }
+  src: [de-prankote-neglect, organiser-terror-no-religion, outlook-jammu-files]
+  conf: confirmed
+  hp: true
+  tags: [jammu-region]
+  summary: >
+    On the night of 17 April 1998 a large group of militants, most of them foreign Lashkar-e-Taiba fighters according to police, attacked
+    the hamlets of Prankote and Dakikote in Mahore tehsil and killed 29 Hindu villagers, many of them women and children. Houses were set
+    on fire. Help took many hours to arrive, and surviving families fled the area.
+
+- id: 1998-06-19-chapnari
+  date: 1998-06-19
+  title: Chapnari wedding party massacre
+  place: Near Chapnari, Doda
+  at: town:Doda
+  geo: district
+  district: [Doda, Doda]
+  region: Jammu
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians, minority_community]
+  community: Hindu
+  perp: [lashkar-e-taiba, hizbul-mujahideen]
+  attr: suspected
+  killed: { civ: 25-26, sf: 0, terr: 0, total: 25-26 }
+  src: [kashmirlife-cursed-marriages, de-jammu-files, organiser-hindu-massacres-chronicle]
+  conf: disputed
+  hp: true
+  tags: [jammu-region]
+  summary: >
+    On 19 June 1998 militants stopped two Hindu wedding parties returning home near Chapnari in Doda, lined up the men and shot them in
+    front of the women. About 25 were killed, among them two bridegrooms. Police said seven militants, four of them foreigners, carried
+    out the attack.
+  notes: Accounts put the dead at 25 or 26, depending on how deaths on the way to hospital are counted.
+
+- id: 1998-08-03-chamba
+  date: 1998-08-03
+  title: Chamba massacre of labourers
+  place: Kalaban and Satrundi villages, Chamba district, Himachal Pradesh
+  at: town:Chamba (Himachal Pradesh)
+  geo: district
+  district: [null, null]
+  region: Outside J&K
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians, migrant_workers]
+  community: Hindu labourers
+  perp: [lashkar-e-taiba]
+  attr: suspected
+  killed: { civ: 35, sf: 0, terr: 0, total: 35 }
+  injured: 11
+  src: [tribune-1998-chamba, organiser-hindu-massacres-chronicle]
+  conf: confirmed
+  hp: true
+  cross_border: true
+  tags: [cross-border-spillover]
+  summary: >
+    Militants who crossed from the Doda area into Himachal Pradesh killed 35 labourers in Kalaban and Satrundi villages of Chamba district
+    early on 3 August 1998. The workers had camped there to carry supplies to the Pangi valley. It was the first major terrorist attack in
+    Himachal Pradesh.
+  notes: Flagged as a spillover from J&K. Shown at district precision in Chamba, outside the J&K choropleth.
+
+- id: 1999-05-03-kargil-war
+  date: 1999-05-03
+  end: 1999-07-26
+  title: Kargil war (Operation Vijay)
+  place: Kargil, Drass, Batalik, Mushkoh and Turtuk sectors
+  at: town:Kargil
+  geo: region
+  district: [Kargil, Kargil]
+  region: Ladakh
+  cat: war
+  tactic: conventional_war
+  target: [military]
+  community: null
+  perp: [pakistan-army]
+  attr: state_actor
+  killed: { sf: 527-545, total: null }
+  injured: 1363
+  figures:
+    pib-kargil-vijay-diwas-2025: { killed_security_forces: 527 }
+    theprint-kargil-vajpayee: { killed_security_forces: 527, injured: 1363 }
+    tribune-kargil-26th: { note: "Army outreach to families of 545 Kargil martyrs: 537 Army, 5 IAF, 1 BSF and 2 civilians" }
+  src: [pib-kargil-vijay-diwas-2025, theprint-kargil-vajpayee, tribune-kargil-26th]
+  conf: confirmed
+  hp: true
+  tags: [war-1999, kargil, india-response]
+  summary: >
+    In early 1999 Pakistani troops crossed the Line of Control and occupied heights in the Kargil sector. India detected the intrusion in
+    May and launched Operation Vijay, retaking the peaks in costly assaults through June and July. The operation ended on 26 July 1999,
+    now marked as Kargil Vijay Diwas. India lost 527 soldiers by the official count, with 1,363 wounded.
+  notes: Pakistani and civilian deaths are not recorded here. The higher figure of 545 is the Army's count of families of the fallen, including two civilians.
+
+- id: 1999-05-15-saurabh-kalia-patrol
+  date: 1999-05-15
+  end: 1999-06-09
+  title: Capture and killing of Captain Saurabh Kalia's patrol
+  place: Bajrang post, Kaksar sector, Kargil
+  at: town:Kargil
+  geo: tehsil
+  district: [Kargil, Kargil]
+  region: Ladakh
+  cat: war
+  tactic: ambush
+  target: [military]
+  community: null
+  perp: [pakistan-army]
+  attr: state_actor
+  killed: { civ: 0, sf: 6, terr: 0, total: 6 }
+  abducted: 6
+  victims:
+    - { name: Captain Saurabh Kalia, role: 4 Jat Regiment, src: tribune-kalia-first-martyr }
+  src: [tribune-kalia-first-martyr, theprint-kalia-father]
+  conf: confirmed
+  hp: true
+  tags: [war-1999, kargil]
+  summary: >
+    Captain Saurabh Kalia and five soldiers of 4 Jat were captured by the Pakistan Army on 15 May 1999 after their patrol ran out of
+    ammunition in the Kaksar area. They were held for about three weeks and tortured. Pakistan handed over their bodies on 9 June 1999,
+    and Kalia's family has sought international action since.
+
+- id: 1999-11-03-badami-bagh-fidayeen
+  date: 1999-11-03
+  title: Fidayeen attack on 15 Corps headquarters, Badami Bagh
+  place: Badami Bagh cantonment, Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: fidayeen
+  tactic: suicide_fidayeen
+  target: [security_forces]
+  community: null
+  perp: [lashkar-e-taiba]
+  attr: suspected
+  killed: { sf: 8, total: null }
+  victims:
+    - { name: Major Purushottam, role: Army officer, src: outlook-fidayeen-timeline }
+  src: [outlook-fidayeen-timeline, kashmirlife-faultline]
+  conf: confirmed
+  hp: true
+  tags: [fidayeen-era]
+  summary: >
+    On 3 November 1999 fidayeen attacked the headquarters of the Army's 15 Corps at Badami Bagh in Srinagar, killing eight soldiers
+    including Major Purushottam. After Kargil, Lashkar-e-Taiba began a campaign of such suicide squad raids on army and police camps.
+  notes: Attacker deaths not recorded in the cited sources.
+
+- id: 1999-12-24-ic-814-hijack
+  date: 1999-12-24
+  end: 1999-12-31
+  title: Hijacking of Indian Airlines IC 814 to Kandahar
+  place: Kathmandu to Kandahar
+  at: manual:kashmir-valley
+  geo: region
+  district: [null, null]
+  region: Outside J&K
+  cat: abduction
+  tactic: hijacking
+  target: [civilians]
+  community: null
+  perp: [harkat-ul-mujahideen]
+  attr: officially_attributed
+  killed: { civ: 1, sf: 0, terr: 0, total: 1 }
+  victims:
+    - { name: Rupin Katyal, role: Passenger, src: tribune-1999-12-26 }
+  src: [theprint-cia-ic814-plot, outlook-jem-explainer, tribune-1999-12-26]
+  conf: confirmed
+  hp: true
+  cross_border: true
+  tags: [hijacking]
+  summary: >
+    Indian Airlines flight IC 814 from Kathmandu was hijacked on 24 December 1999 and taken to Kandahar in Taliban-ruled Afghanistan. After
+    a week, India freed three jailed militants, Masood Azhar, Omar Saeed Sheikh and Mushtaq Zargar, in exchange for the passengers. Masood
+    Azhar founded Jaish-e-Mohammed weeks later.
+  notes: Plotted around the release of Kashmir-related militants; placed at a generic Valley point for the timeline only.
+
+- id: 2000-03-20-chittisinghpura
+  date: 2000-03-20
+  title: Chittisinghpura massacre of Sikhs
+  place: Chittisinghpura, Anantnag
+  at: district:Anantnag
+  district: [Anantnag, Anantnag]
+  region: Kashmir Valley
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians, minority_community]
+  community: Sikh
+  perp: [lashkar-e-taiba]
+  attr: officially_attributed
+  killed: { civ: 34-35, sf: 0, terr: 0, total: 34-35 }
+  figures:
+    kashmirlife-chittisinghpura: { total: 34 }
+    theprint-us-visits-pattern: { total: 35 }
+  src: [theprint-us-visits-pattern, kashmirlife-chittisinghpura, tribune-chittisinghpura-relives]
+  conf: disputed
+  hp: true
+  tags: [sikhs]
+  summary: >
+    On the evening of 20 March 2000, the eve of US President Bill Clinton's visit to India, gunmen in combat dress rounded up Sikh men in
+    Chittisinghpura village and shot them in front of the two gurdwaras. Thirty-four or 35 were killed. The government blamed
+    Lashkar-e-Taiba and Hizbul Mujahideen.
+  notes: >
+    Five days later five men were killed at Pathribal and presented as the perpetrators. The CBI later concluded that encounter was
+    staged. The perpetrators of the massacre have not been established in court.
+
+- id: 2000-04-19-badami-bagh-car-bomb
+  date: 2000-04-19
+  title: First suicide car bombing in Kashmir, Badami Bagh
+  place: Badami Bagh cantonment, Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: fidayeen
+  tactic: vbied
+  target: [security_forces]
+  community: null
+  perp: [jaish-e-mohammed]
+  attr: claimed
+  killed: { total: null }
+  src: [kashmirlife-faultline]
+  conf: reported
+  hp: false
+  tags: [fidayeen-era, first]
+  summary: >
+    On 19 April 2000 a car packed with explosives was blown up outside the Army's 15 Corps headquarters at Badami Bagh in Srinagar, the
+    first suicide bombing in Kashmir. It marked the arrival of Jaish-e-Mohammed in the Valley.
+
+- id: 2000-08-01-pahalgam-nunwan-base-camp
+  date: 2000-08-01
+  end: 2000-08-02
+  title: Massacre at Amarnath base camp, Nunwan, Pahalgam
+  place: Nunwan base camp, Pahalgam
+  at: town:Pahalgam
+  district: [Anantnag, Anantnag]
+  region: Kashmir Valley
+  cat: pilgrim_attack
+  tactic: mass_shooting
+  target: [pilgrims, civilians, security_forces]
+  community: Hindu pilgrims and local Muslim shopkeepers
+  perp: [hizbul-mujahideen]
+  attr: suspected
+  killed: { total: 32 }
+  figures:
+    outlook-amarnath-2000-echoes: { total: 32, note: "21 pilgrims, 7 Muslim shopkeepers and 3 security personnel" }
+  src: [outlook-amarnath-2000-echoes, tribune-2000-08-03, organiser-terror-no-religion]
+  conf: confirmed
+  hp: true
+  tags: [amarnath, august-2000-massacres]
+  summary: >
+    On the night of 1 to 2 August 2000 militants attacked the Amarnath yatra base camp at Nunwan near Pahalgam and killed 32 people:
+    pilgrims, local Muslim shopkeepers and security personnel. It was one of five coordinated massacres over those days that killed at
+    least 89 people across Anantnag, Doda and Kupwara.
+  notes: Outlook gives 21 pilgrims, 7 shopkeepers and 3 security personnel, which sums to 31 against a total of 32; parts are left blank until reconciled.
+
+- id: 2000-08-01-qazigund-achabal-labourers
+  date: 2000-08-01
+  end: 2000-08-02
+  title: Killing of migrant labourers at Mir Bazar, Qazigund and Achabal
+  place: Mir Bazar (Qazigund) and Sandoo (Achabal), Anantnag
+  at: town:Qazigund
+  geo: district
+  district: [Anantnag, Anantnag]
+  region: Kashmir Valley
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians, migrant_workers]
+  community: Migrant labourers
+  perp: []
+  attr: unknown
+  killed: { civ: 27, sf: 0, terr: 0, total: 27 }
+  src: [outlook-amarnath-2000-echoes, tribune-2000-08-03]
+  conf: confirmed
+  hp: true
+  tags: [august-2000-massacres, migrant-workers]
+  summary: >
+    In simultaneous attacks on the same night as the Pahalgam massacre, militants killed 27 migrant labourers at Mir Bazar near Qazigund
+    and at Sandoo near Achabal in Anantnag district. The victims were workers from outside the state.
+
+- id: 2000-08-02-doda-massacres
+  date: 2000-08-02
+  title: Killings in Doda villages, August 2000
+  place: Doda district, including Kayar village
+  at: district:Doda
+  district: [Doda, Doda]
+  region: Jammu
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians]
+  community: null
+  perp: []
+  attr: unknown
+  killed: { civ: 19, total: 19 }
+  figures:
+    outlook-amarnath-2000-echoes: { total: 19, note: "11 killed in one remote village and at least 8 Village Defence Committee members ambushed at Kayar" }
+  src: [outlook-amarnath-2000-echoes, tribune-2000-08-03]
+  conf: confirmed
+  hp: true
+  tags: [august-2000-massacres]
+  summary: >
+    As part of the same wave, militants killed 11 people in a remote village in Doda and ambushed a Village Defence Committee patrol at
+    Kayar, killing at least eight. Both attacks fell within the first days of August 2000.
+  notes: Two separate attacks grouped because the cited sources do not give exact places and times for each. Split when better sources are found.
+
+- id: 2000-08-02-kupwara-family-killed
+  date: 2000-08-02
+  title: Killing of a surrendered militant's family in Kupwara
+  place: Kupwara district
+  at: district:Kupwara
+  district: [Kupwara, Kupwara]
+  region: Kashmir Valley
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians]
+  community: null
+  perp: []
+  attr: unknown
+  killed: { civ: 7, sf: 0, terr: 0, total: 7 }
+  src: [outlook-amarnath-2000-echoes, tribune-2000-08-03]
+  conf: confirmed
+  hp: true
+  tags: [august-2000-massacres]
+  summary: >
+    In the fourth of the August 2000 attacks, militants killed seven members of the family of a surrendered militant in a village in
+    Kupwara district. The attack targeted the relatives of a man who had left militancy.
+
+- id: 2001-07-20-sheshnag-amarnath
+  date: 2001-07-20
+  title: Attack on Amarnath pilgrims at Sheshnag
+  place: Sheshnag camp, Amarnath route
+  at: town:Pahalgam
+  geo: tehsil
+  district: [Anantnag, Anantnag]
+  region: Kashmir Valley
+  cat: pilgrim_attack
+  tactic: ied
+  target: [pilgrims, civilians, security_forces]
+  community: Hindu pilgrims
+  perp: []
+  attr: unknown
+  killed: { civ: 11, sf: 2, terr: 0, total: 13 }
+  injured: 15
+  figures:
+    tribune-timeline-civilians-2000: { total: 13 }
+  src: [tribune-timeline-civilians-2000, organiser-two-decades-massacres, tribune-2001-07-22]
+  conf: confirmed
+  hp: true
+  tags: [amarnath]
+  summary: >
+    Before dawn on 20 July 2001 militants got past the security cordon at the Sheshnag camp on the Amarnath route, set off explosives and fired on
+    pilgrims. Thirteen people were killed: eight pilgrims, three local Muslim civilians and two security personnel.
+
+- id: 2001-10-01-jk-assembly-attack
+  date: 2001-10-01
+  title: Car bomb and fidayeen attack on the J&K Legislative Assembly
+  place: Legislative Assembly complex, Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: fidayeen
+  tactic: vbied
+  target: [political, civilians, security_forces]
+  community: null
+  perp: [jaish-e-mohammed]
+  attr: claimed
+  killed: { terr: 3, total: 41-43 }
+  figures:
+    tribune-timeline-25-years: { total: 38, note: "At least 38 killed; three attackers also killed" }
+    outlook-jem-explainer: { total: 40 }
+  src: [tribune-timeline-25-years, outlook-jem-explainer]
+  conf: disputed
+  hp: true
+  tags: [fidayeen-era]
+  summary: >
+    On 1 October 2001 a car bomb exploded at the gate of the old Legislative Assembly complex in Srinagar and fidayeen tried to storm the
+    building. At least 38 people were killed, many of them civilians, and the three attackers died. Jaish-e-Mohammed was behind the attack.
+  notes: Victim tolls of 38 and 40 are reported; the total here adds the three attackers to that range.
+
+- id: 2002-03-30-raghunath-temple
+  date: 2002-03-30
+  title: Fidayeen attack on Raghunath temple, Jammu
+  place: Raghunath temple, Jammu city
+  at: town:Jammu
+  district: [Jammu, Jammu]
+  region: Jammu
+  cat: fidayeen
+  tactic: suicide_fidayeen
+  target: [civilians, pilgrims]
+  community: Hindu devotees
+  perp: [lashkar-e-taiba]
+  attr: suspected
+  killed: { civ: 11, total: null }
+  injured: 20
+  src: [organiser-raghunath-temple, tribune-2002-04-01-jk]
+  conf: confirmed
+  hp: true
+  tags: [temple]
+  summary: >
+    On 30 March 2002 fidayeen stormed the Raghunath temple complex in the heart of Jammu city. Eleven devotees were killed and more than 20
+    injured before the attackers were killed.
+  notes: Attacker deaths not counted in the cited sources; total left open.
+
+- id: 2002-05-14-kaluchak
+  date: 2002-05-14
+  title: Kaluchak massacre
+  place: Bus near Kaluchak and Army family quarters, Kaluchak cantonment, Jammu
+  at: town:Jammu
+  geo: tehsil
+  district: [Jammu, Jammu]
+  region: Jammu
+  cat: fidayeen
+  tactic: suicide_fidayeen
+  target: [civilians, security_forces]
+  community: Army families
+  perp: []
+  attr: unknown
+  killed: { total: 32-36 }
+  injured: 60
+  figures:
+    tribune-2002-05-15-kaluchak: { total: 32, injured: 60, note: "At least 32 killed, over 60 wounded (first-day report)" }
+    tribune-timeline-civilians-2000: { total: 36 }
+  src: [tribune-2002-05-15-kaluchak, tribune-timeline-civilians-2000, outlook-kaluchak-after, theprint-us-visits-pattern]
+  conf: disputed
+  hp: true
+  tags: [fidayeen-era]
+  summary: >
+    Early on 14 May 2002 militants in army fatigues stopped a passenger bus near Kaluchak outside Jammu and shot passengers, then entered
+    the family quarters of the Army cantonment and killed mostly women and children of soldiers' families. More than 30 were killed and
+    over 60 wounded. The attack came during a visit by a senior US official.
+
+- id: 2002-07-13-qasim-nagar
+  date: 2002-07-13
+  title: Qasim Nagar massacre
+  place: Qasim Nagar, outskirts of Jammu
+  at: town:Jammu
+  district: [Jammu, Jammu]
+  region: Jammu
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians, migrant_workers]
+  community: Hindu labourers
+  perp: [lashkar-e-taiba]
+  attr: suspected
+  killed: { civ: 24-29, total: 24-29 }
+  src: [tribune-2002-07-15, organiser-hindu-massacres-chronicle, de-jammu-files]
+  conf: disputed
+  hp: true
+  tags: [jammu-region]
+  summary: >
+    On the night of 13 July 2002 militants fired on a settlement of poor labourers living in makeshift shelters at Qasim Nagar on the
+    edge of Jammu city. Between 24 and 29 people were killed according to different accounts.
+
+- id: 2002-08-06-nunwan-amarnath
+  date: 2002-08-06
+  title: Attack on Amarnath pilgrims at Nunwan base camp
+  place: Nunwan base camp, Pahalgam
+  at: town:Pahalgam
+  district: [Anantnag, Anantnag]
+  region: Kashmir Valley
+  cat: pilgrim_attack
+  tactic: grenade
+  target: [pilgrims]
+  community: Hindu pilgrims
+  perp: [lashkar-e-taiba]
+  attr: officially_attributed
+  killed: { civ: 9, sf: 0, terr: 1, total: 10 }
+  injured: 27-28
+  src: [tribune-2002-08-07-nunwan, organiser-terror-no-religion]
+  conf: confirmed
+  hp: true
+  tags: [amarnath]
+  summary: >
+    At dawn on 6 August 2002 a militant dressed as a local herder got through the security cordon at the Nunwan base camp, threw grenades
+    and fired at pilgrims. Nine pilgrims were killed and 28 injured before he was shot dead. Deputy Prime Minister L.K. Advani blamed
+    al-Mansuriyan, a new front of Lashkar-e-Taiba.
+
+- id: 2002-11-24-raghunath-temple-second
+  date: 2002-11-24
+  title: Second fidayeen attack on Raghunath temple, Jammu
+  place: Raghunath temple and nearby Shiv temple, Jammu city
+  at: town:Jammu
+  district: [Jammu, Jammu]
+  region: Jammu
+  cat: fidayeen
+  tactic: suicide_fidayeen
+  target: [civilians, pilgrims, security_forces]
+  community: Hindu devotees
+  perp: [lashkar-e-taiba]
+  attr: suspected
+  killed: { total: 13-14 }
+  injured: 50-52
+  figures:
+    tribune-2002-11-25: { note: "At least 12 killed including four women and two security men, about 50 injured; one attacker shot dead (next-day report)" }
+    tribune-2002-11-26: { total: 13, injured: 52, note: "13 dead including two attackers and a CRPF jawan" }
+  src: [tribune-2002-11-25, tribune-2002-11-26, organiser-raghunath-temple]
+  conf: disputed
+  hp: true
+  tags: [temple]
+  summary: >
+    On 24 November 2002, eight months after the first attack, Lashkar-e-Taiba fidayeen stormed the Raghunath temple when it was crowded
+    with devotees and also attacked a nearby Shiv temple. At least 12 people were killed, including four women and two security men, and
+    about 50 were injured.
+  notes: Contemporary reports differ on how many of the dead were attackers. The total is shown as a range and not split by category.

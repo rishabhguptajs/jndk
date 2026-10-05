@@ -1,0 +1,464 @@
+- id: 2006-04-30-kulhand-tharwa
+  date: 2006-04-30
+  title: Kulhand and Tharwa massacre, Doda
+  place: Kulhand and Tharwa hamlets, Doda
+  at: district:Doda
+  district: [Doda, Doda]
+  region: Jammu
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians, minority_community]
+  community: Hindu
+  perp: [lashkar-e-taiba]
+  attr: officially_attributed
+  killed: { civ: 19-22, sf: 0, terr: 0, total: 19-22 }
+  figures:
+    outlook-means-and-ends: { total: 19, note: "Nineteen residents of Kulhand and Tharwa shot dead" }
+    tribune-2006-05-02: { note: "Next-day report on the Doda and Udhampur massacres" }
+  src: [outlook-means-and-ends, tribune-2006-05-02, organiser-terror-no-religion]
+  conf: disputed
+  hp: true
+  tags: [jammu-region, doda]
+  summary: >
+    Late on 30 April 2006 a group of six militants entered the hamlets of Kulhand and Tharwa in Doda, gathered the Hindu men at the
+    village headman's house, lined them up and shot them. Nineteen people, including an eight-year-old girl, were killed according to one
+    detailed account. Lashkar-e-Taiba was held responsible.
+  notes: Counts of 19 and 22 appear in published accounts for the Doda killings.
+
+- id: 2006-04-30-basantgarh-shepherds
+  date: 2006-04-30
+  title: Killing of Hindu shepherds at Lalon Galla, Basantgarh
+  place: Lalon Galla meadow above Basantgarh, Udhampur
+  at: district:Udhampur
+  district: [Udhampur, Udhampur]
+  region: Jammu
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians, minority_community]
+  community: Hindu herders
+  perp: [lashkar-e-taiba]
+  attr: officially_attributed
+  killed: { civ: 13, sf: 0, terr: 0, total: 13 }
+  src: [outlook-means-and-ends, tribune-2006-05-02]
+  conf: confirmed
+  hp: true
+  tags: [jammu-region]
+  summary: >
+    On the same night as the Doda killings, another militant unit forced two local Muslim herders to guide them to a high meadow above
+    Basantgarh, where Hindu herdsmen had set up their summer camp. Thirteen shepherds were shot dead.
+
+- id: 2008-07-19-narbal-ied
+  date: 2008-07-19
+  title: IED attack on army convoy at Narbal
+  place: Narbal, Srinagar to Baramulla highway
+  at: district:Budgam
+  district: [Budgam, Budgam]
+  region: Kashmir Valley
+  cat: ied
+  tactic: ied
+  target: [security_forces]
+  community: null
+  perp: []
+  attr: unknown
+  killed: { civ: 0, sf: 10, terr: 0, total: 10 }
+  injured: 20
+  src: [tribune-major-attacks-jk, outlook-fidayeen-timeline]
+  conf: confirmed
+  hp: true
+  tags: []
+  summary: >
+    On 19 July 2008 militants set off an IED under an army bus in a convoy at Narbal on the Srinagar to Baramulla highway. Ten soldiers
+    were killed and about 20 injured.
+
+- id: 2008-08-27-chinore-hostage
+  date: 2008-08-27
+  title: Fidayeen hostage attack at Chinore, Jammu
+  place: Chinore, near Bantalab, Jammu
+  at: town:Jammu
+  geo: tehsil
+  district: [Jammu, Jammu]
+  region: Jammu
+  cat: fidayeen
+  tactic: suicide_fidayeen
+  target: [civilians, security_forces]
+  community: null
+  perp: []
+  attr: unknown
+  killed: { civ: 5, sf: 3, terr: 3, total: 11 }
+  src: [outlook-fidayeen-timeline, kashmirlife-first-hostage-taking]
+  conf: confirmed
+  hp: true
+  tags: [fidayeen-era]
+  summary: >
+    On 27 August 2008 three fidayeen who had crossed from the Kanachak sector hijacked a load carrier, drove about 15 km and stormed a
+    house at Chinore near Jammu, taking a family hostage. Eleven people were killed, including three soldiers, five civilians and the
+    three attackers.
+
+- id: 2013-03-13-bemina-crpf
+  date: 2013-03-13
+  title: Fidayeen attack on CRPF at Bemina, Srinagar
+  place: Bemina, Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: fidayeen
+  tactic: grenade
+  target: [security_forces]
+  community: null
+  perp: []
+  attr: unknown
+  killed: { civ: 0, sf: 5, terr: 2, total: 7 }
+  src: [kashmirlife-bemina-crpf, kashmirlife-fidayeen-attacked-crpf, outlook-enveloping-blindness]
+  conf: confirmed
+  hp: true
+  tags: []
+  summary: >
+    On the morning of 13 March 2013 two militants threw grenades and opened fire on a CRPF party at Bemina in Srinagar. Five CRPF personnel
+    and both attackers were killed.
+
+- id: 2013-06-24-hyderpora-ambush
+  date: 2013-06-24
+  title: Ambush on army convoy at Hyderpora, Srinagar
+  place: Hyderpora, Srinagar outskirts
+  at: town:Srinagar
+  geo: tehsil
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: ambush
+  tactic: ambush
+  target: [security_forces]
+  community: null
+  perp: [lashkar-e-taiba]
+  attr: suspected
+  killed: { sf: 8, total: null }
+  injured: 16
+  src: [tribune-major-attacks-jk, kashmirlife-hyderpora-police]
+  conf: confirmed
+  hp: true
+  tags: []
+  summary: >
+    On 24 June 2013, a day before a visit by Prime Minister Manmohan Singh, militants ambushed an army bus at Hyderpora on the outskirts of
+    Srinagar. Eight soldiers were killed and 16 injured. Hizbul Mujahideen claimed the attack, but police found Lashkar-e-Taiba was behind
+    it.
+
+- id: 2013-09-26-hiranagar-samba
+  date: 2013-09-26
+  title: Twin fidayeen attacks at Hiranagar police station and Samba army camp
+  place: Hiranagar (Kathua) and Samba
+  at: town:Hiranagar
+  district: [Kathua, Kathua]
+  region: Jammu
+  cat: fidayeen
+  tactic: suicide_fidayeen
+  target: [police, security_forces, civilians]
+  community: null
+  perp: []
+  attr: unknown
+  killed: { sf: 8, terr: 3, total: 13 }
+  victims:
+    - { name: Lt Col Bikramjeet Singh, role: Second-in-command of the army unit at Samba, src: tribune-2013-09-27 }
+  src: [tribune-2013-09-27, outlook-fidayeen-timeline]
+  conf: confirmed
+  hp: true
+  tags: [jammu-region]
+  summary: >
+    On 26 September 2013 three militants who had crossed from Pakistan attacked the Hiranagar police station in Kathua, killing four
+    policemen, then struck an army camp in Samba where four soldiers including Lt Col Bikramjeet Singh were killed. At least ten people
+    died in total, and all three attackers were killed.
+  notes: Civilian deaths are not separated in the cited sources; the total counts at least ten victims plus three attackers.
+
+- id: 2014-12-05-mohura-uri
+  date: 2014-12-05
+  title: Fidayeen attack on army camp at Mohura, Uri
+  place: Mohura, Uri sector
+  at: town:Uri
+  geo: tehsil
+  district: [Baramulla, Baramulla]
+  region: Kashmir Valley
+  cat: fidayeen
+  tactic: suicide_fidayeen
+  target: [security_forces, police]
+  community: null
+  perp: [jaish-e-mohammed]
+  attr: suspected
+  killed: { sf: 11, total: null }
+  src: [outlook-fidayeen-timeline, tribune-major-attacks-jk]
+  conf: confirmed
+  hp: true
+  tags: []
+  summary: >
+    On 5 December 2014 heavily armed fidayeen stormed an army ordnance camp at Mohura in the Uri sector near the Line of Control. Eleven
+    security personnel were killed: a lieutenant colonel and seven soldiers, and three Jammu and Kashmir policemen.
+  notes: Reference accounts say all six attackers were also killed; not yet confirmed in a cited news or official source.
+
+- id: 2016-06-25-pampore-crpf
+  date: 2016-06-25
+  title: Attack on CRPF bus at Pampore
+  place: Frestbal, Pampore, Srinagar to Jammu highway
+  at: district:Pulwama
+  district: [Pulwama, Pulwama]
+  region: Kashmir Valley
+  cat: ambush
+  tactic: ambush
+  target: [security_forces]
+  community: null
+  perp: [lashkar-e-taiba]
+  attr: suspected
+  killed: { civ: 0, sf: 8, terr: 2, total: 10 }
+  injured: 20
+  src: [de-pampore-8-crpf, tribune-major-attacks-jk]
+  conf: confirmed
+  hp: true
+  tags: []
+  summary: >
+    On 25 June 2016 militants fired on a CRPF bus on the national highway at Frestbal near Pampore. Eight CRPF personnel were killed and
+    about 20 injured, and two attackers were killed.
+
+- id: 2016-07-08-burhan-wani-killed
+  date: 2016-07-08
+  title: Hizbul commander Burhan Wani killed at Bamdoora, Kokernag
+  place: Bamdoora, Kokernag
+  at: district:Anantnag
+  district: [Anantnag, Anantnag]
+  region: Kashmir Valley
+  cat: encounter
+  tactic: cordon_and_search
+  target: [terrorists]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  src: [outlook-burhan-2-years, de-burhan-aftermath]
+  conf: confirmed
+  hp: true
+  tags: [india-response, top-commander]
+  summary: >
+    Hizbul Mujahideen commander Burhan Wani, who had drawn young recruits through social media, was killed in an encounter with security
+    forces at Bamdoora near Kokernag on 8 July 2016. His death set off months of unrest across the Valley.
+  notes: Deaths of others in the encounter and in the unrest that followed are not recorded in this event.
+
+- id: 2016-09-18-uri-attack
+  date: 2016-09-18
+  title: Fidayeen attack on Uri brigade headquarters
+  place: Army brigade headquarters, Uri
+  at: town:Uri
+  district: [Baramulla, Baramulla]
+  region: Kashmir Valley
+  cat: fidayeen
+  tactic: suicide_fidayeen
+  target: [security_forces]
+  community: null
+  perp: [jaish-e-mohammed]
+  attr: suspected
+  killed: { civ: 0, sf: 17-19, terr: 4, total: 21-23 }
+  figures:
+    tribune-uri-17-4: { killed_security_forces: 17, killed_terrorists: 4 }
+    tribune-uri-toll-19: { killed_security_forces: 19, note: "Two wounded soldiers died later" }
+    de-uri-17-killed: { killed_security_forces: 17 }
+  src: [de-uri-17-killed, tribune-uri-17-4, tribune-uri-toll-19, theprint-surgical-no-data]
+  conf: disputed
+  hp: true
+  tags: [fidayeen-era]
+  summary: >
+    Before dawn on 18 September 2016 four fidayeen attacked the army's brigade headquarters at Uri. Seventeen soldiers were
+    killed in the first count, in what was reported as the deadliest attack on the brigade, and all four attackers died. India
+    answered with cross-LoC strikes eleven days later.
+  notes: First reports gave 17 soldiers killed; the toll rose to 19 as wounded soldiers died.
+
+- id: 2016-09-29-surgical-strikes
+  date: 2016-09-29
+  title: Surgical strikes on terrorist launch pads across the LoC
+  place: Launch pads across the Line of Control
+  at: manual:pojk-generic
+  district: [null, Pakistan-occupied Jammu & Kashmir (PoJK)]
+  region: PoJK
+  cat: india_strike
+  tactic: ground_raid
+  target: [terrorists]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  src: [tribune-surgical-strike-first, theprint-surgical-no-data]
+  conf: confirmed
+  hp: true
+  tags: [india-response]
+  summary: >
+    On the night of 28 to 29 September 2016 Indian special forces crossed the Line of Control and struck terrorist launch pads where teams
+    were waiting to infiltrate. The then DGMO, Lt Gen Ranbir Singh, announced the strikes the next morning. The army later said it had no
+    record of earlier operations of this kind.
+  notes: Casualty claims are not recorded because no official figure has been published.
+
+- id: 2016-11-29-nagrota
+  date: 2016-11-29
+  title: Fidayeen attack on Nagrota army base
+  place: Army camp at Nagrota, near Jammu
+  at: town:Jammu
+  geo: tehsil
+  district: [Jammu, Jammu]
+  region: Jammu
+  cat: fidayeen
+  tactic: suicide_fidayeen
+  target: [security_forces]
+  community: null
+  perp: [jaish-e-mohammed]
+  attr: officially_attributed
+  killed: { civ: 0, sf: 7, terr: 3, total: 10 }
+  src: [de-nagrota-2016, kashmirlife-nagrota-army]
+  conf: confirmed
+  hp: true
+  tags: []
+  summary: >
+    Early on 29 November 2016 three fidayeen stormed an army base at Nagrota near Jammu. Seven soldiers, including two majors, and the
+    three attackers were killed. The case was later linked in court to a Jaish-e-Mohammed module.
+
+- id: 2017-07-10-amarnath-bus-attack
+  date: 2017-07-10
+  title: Attack on Amarnath pilgrims' bus at Batengoo
+  place: Batengoo, Khanabal, Anantnag
+  at: town:Anantnag
+  district: [Anantnag, Anantnag]
+  region: Kashmir Valley
+  cat: pilgrim_attack
+  tactic: ambush
+  target: [pilgrims]
+  community: Hindu pilgrims
+  perp: [lashkar-e-taiba]
+  attr: officially_attributed
+  killed: { civ: 8, sf: 0, terr: 0, total: 8 }
+  src: [de-amarnath-2017-let, de-massacre-of-pilgrims, outlook-amarnath-2017-bandh, wire-amarnath-2017-seven]
+  conf: confirmed
+  hp: true
+  tags: [amarnath]
+  summary: >
+    On the evening of 10 July 2017 Lashkar-e-Taiba militants fired on a bus carrying Amarnath pilgrims, most from Gujarat, at Batengoo near
+    Khanabal. The bus was travelling outside the protected convoy. Eight pilgrims were killed. Police later charged Lashkar-e-Taiba and 11 people.
+  notes: First reports gave seven dead and 15 injured; an injured woman died later, taking the toll to eight.
+
+- id: 2018-02-10-sunjuwan
+  date: 2018-02-10
+  title: Fidayeen attack on Sunjuwan military station
+  place: Sunjuwan military station, Jammu
+  at: town:Jammu
+  geo: tehsil
+  district: [Jammu, Jammu]
+  region: Jammu
+  cat: fidayeen
+  tactic: suicide_fidayeen
+  target: [security_forces, civilians]
+  community: null
+  perp: [jaish-e-mohammed]
+  attr: suspected
+  killed: { civ: 1, sf: 6, terr: 3, total: 10 }
+  injured: 20
+  src: [outlook-sunjuwan-toll-10, kashmirlife-sunjwan-story]
+  conf: confirmed
+  hp: true
+  tags: []
+  summary: >
+    Before dawn on 10 February 2018 three Jaish-e-Mohammed fidayeen entered the family quarters of the Sunjuwan military station in Jammu.
+    Six soldiers and a civilian were killed and about 20 people injured, including women and children, before all three attackers were
+    killed.
+
+- id: 2018-06-14-shujaat-bukhari
+  date: 2018-06-14
+  title: Killing of editor Shujaat Bukhari and his guards
+  place: Press Enclave, Srinagar
+  at: town:Srinagar
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: targeted_shooting
+  target: [civilians, police]
+  community: null
+  perp: [lashkar-e-taiba]
+  attr: officially_attributed
+  killed: { civ: 1, sf: 2, terr: 0, total: 3 }
+  victims:
+    - { name: Shujaat Bukhari, role: Editor-in-chief, Rising Kashmir, src: gk-bukhari-shot-dead }
+  src: [gk-bukhari-shot-dead, tribune-bukhari-sajjad-gul]
+  conf: confirmed
+  hp: true
+  tags: [media]
+  summary: >
+    Shujaat Bukhari, editor-in-chief of Rising Kashmir, was shot dead outside his office in Press Enclave, Srinagar on the evening of
+    14 June 2018, along with his two police guards. Police linked the killing to Lashkar-e-Taiba, and a Pakistan-based plotter was later
+    designated a terrorist.
+
+- id: 2018-06-14-rifleman-aurangzeb
+  date: 2018-06-14
+  title: Abduction and killing of Rifleman Aurangzeb
+  place: Kalampora to Gussu, Pulwama
+  at: district:Pulwama
+  district: [Pulwama, Pulwama]
+  region: Kashmir Valley
+  cat: targeted_killing
+  tactic: kidnapping
+  target: [security_forces]
+  community: null
+  perp: [hizbul-mujahideen]
+  attr: officially_attributed
+  killed: { civ: 0, sf: 1, terr: 0, total: 1 }
+  abducted: 1
+  victims:
+    - { name: Rifleman Aurangzeb, role: 44 Rashtriya Rifles, src: theprint-aurangzeb-probe }
+  src: [theprint-aurangzeb-probe, outlook-aurangzeb-shaurya]
+  conf: confirmed
+  hp: true
+  tags: []
+  summary: >
+    Rifleman Aurangzeb of 44 Rashtriya Rifles was abducted by militants on 14 June 2018 while going home for Eid, and his body was found
+    hours later at Gussu village in Pulwama. He was awarded the Shaurya Chakra, and his brothers later joined the Army.
+
+- id: 2015-03-20-kathua-rajbagh
+  date: 2015-03-20
+  title: Fidayeen attack on Rajbagh police station, Kathua
+  place: Rajbagh police station, Jammu to Pathankot highway, Kathua
+  at: town:Kathua
+  geo: tehsil
+  district: [Kathua, Kathua]
+  region: Jammu
+  cat: fidayeen
+  tactic: suicide_fidayeen
+  target: [police, civilians]
+  community: null
+  perp: [lashkar-e-taiba]
+  attr: suspected
+  killed: { civ: 2, sf: 3, terr: 2, total: 7 }
+  injured: 10-12
+  figures:
+    tribune-kathua-7-die: { total: 7, note: "Seven dead including two CRPF personnel and a policeman" }
+    tribune-kathua-assembly-rocked: { note: "Earlier report: three security men among five dead" }
+    pioneer-fierce-encounter-kathua: { total: 7, injured: 12, note: "Three security personnel, two civilians and two militants" }
+  src: [tribune-kathua-7-die, tribune-kathua-assembly-rocked, pioneer-fierce-encounter-kathua]
+  conf: confirmed
+  hp: true
+  tags: [jammu-region]
+  summary: >
+    On 20 March 2015 two attackers in combat dress stormed the Rajbagh police station on the Jammu to Pathankot highway in Kathua, about
+    15 km from the International Border. Three security personnel, two of them from the CRPF, and two civilians were killed, and both
+    attackers, believed to be from Lashkar-e-Taiba, were shot dead after a gunfight of several hours.
+
+- id: 2015-08-05-udhampur-bsf-naved
+  date: 2015-08-05
+  title: Attack on BSF convoy at Udhampur and capture of Mohammed Naved
+  place: Simroli, Jammu to Srinagar highway, Udhampur
+  at: town:Udhampur
+  geo: tehsil
+  district: [Udhampur, Udhampur]
+  region: Jammu
+  cat: ambush
+  tactic: ambush
+  target: [security_forces]
+  community: null
+  perp: [lashkar-e-taiba]
+  attr: officially_attributed
+  killed: { civ: 0, sf: 2, terr: 1, total: 3 }
+  src: [tribune-udhampur-bsf-2015, outlook-hanzla-adnan]
+  conf: confirmed
+  hp: true
+  tags: [jammu-region]
+  summary: >
+    On the morning of 5 August 2015 two Lashkar-e-Taiba militants fired on a BSF convoy on the national highway at Simroli near Udhampur,
+    killing two constables. One attacker was shot dead. The other, Mohammed Naved of Faisalabad in Pakistan, fled and took villagers
+    hostage, but the villagers overpowered him and handed him to police.

@@ -1,0 +1,91 @@
+# Sources added during the Phase 6 re-verification sample (October 2026).
+kashmirdespatch-5000-political-killings:
+  url: https://kashmirdespatch.com/over-5000-political-killings-in-kashmir-in-30-years/
+  publisher: Kashmir Despatch
+  title: "Over 5000 political killings in Kashmir in 30 years"
+  date: null
+  kind: news
+tribune-2001-07-22:
+  url: https://www.tribuneindia.com/2001/20010722/main1.htm
+  publisher: The Tribune
+  title: "The Tribune, main news, 22 July 2001"
+  date: 2001-07-22
+  kind: news
+tribune-2001-02-11:
+  url: https://www.tribuneindia.com/2001/20010211/main1.htm
+  publisher: The Tribune
+  title: "The Tribune, main news, 11 February 2001"
+  date: 2001-02-11
+  kind: news
+tribune-2002-11-26:
+  url: https://www.tribuneindia.com/2002/20021126/main1.htm
+  publisher: The Tribune
+  title: "The Tribune, main news, 26 November 2002"
+  date: 2002-11-26
+  kind: news
+tribune-2003-07-23:
+  url: https://www.tribuneindia.com/2003/20030723/main2.htm
+  publisher: The Tribune
+  title: "The Tribune, main news, 23 July 2003"
+  date: 2003-07-23
+  kind: news
+tribune-2003-06-29:
+  url: https://www.tribuneindia.com/2003/20030629/main1.htm
+  publisher: The Tribune
+  title: "The Tribune, main news, 29 June 2003"
+  date: 2003-06-29
+  kind: news
+wire-kokernag-fourth:
+  url: https://m.thewire.in/article/security/kokernag-operation-anantnag-fourth-soldier-killed/amp
+  publisher: The Wire
+  title: "Kokernag operation: fourth security personnel killed"
+  date: 2023-09
+  kind: news
+wire-budgam-labourer-17:
+  url: https://cms.thewire.in/security/jk-17-year-old-migrant-labourer-shot-dead-another-injured-in-budgam
+  publisher: The Wire
+  title: "J&K: 17-Year-Old Migrant Labourer Shot Dead, Another Injured in Budgam"
+  date: 2022-06
+  kind: news
+organiser-budgam-labourer:
+  url: https://organiser.org/2022/06/03/83857/bharat/one-migrant-labourer-and-another-killed-another-injured-in-a-terrorist-attack-in-j-ks-budgam/
+  publisher: Organiser
+  title: "Terrorists kill one migrant labour, injure another in Jammu and Kashmir's Budgam"
+  date: 2022-06-03
+  kind: news
+tribune-1999-12-26:
+  url: https://www.tribuneindia.com/1999/99dec26/head.htm
+  publisher: The Tribune
+  title: "The Tribune, headlines, 26 December 1999"
+  date: 1999-12-26
+  kind: news
+wire-amarnath-2017-seven:
+  url: https://thewire.in/156349/seven-amarnath-pilgrims-killed-15-injured-in-terror-attack-in-anantnag/
+  publisher: The Wire
+  title: "Seven Amarnath pilgrims killed, 15 injured in terror attack in Anantnag"
+  date: 2017-07-10
+  kind: news
+quint-kp-exodus-timeline:
+  url: https://fithindi.thequint.com/amp/story/news/india/kashmiri-pandits-exodus-the-timeline-how-the-kashmir-files-deviates-from-it
+  publisher: The Quint
+  title: "Kashmiri Pandits Exodus: The Timeline & How 'The Kashmir Files' Deviates From It"
+  date: 2022-03
+  kind: news
+wikipedia-kh-exodus:
+  url: https://en.wikipedia.org/wiki/Exodus_of_Kashmiri_Hindus
+  publisher: Wikipedia
+  title: "Exodus of Kashmiri Hindus"
+  date: null
+  kind: reference
+tribune-uri-toll-19:
+  url: https://www.tribuneindia.com/news/archive/features/uri-attack-toll-rises-to-19-302981
+  publisher: The Tribune
+  title: "Uri attack toll rises to 19"
+  date: 2016-09
+  kind: news
+ians-kulgam-2026:
+  url: https://ianslive.in/terrorists-kill-one-non-local-worker-critically-injure-another-in-jks-kulgam-district-ld--20260731223637
+  publisher: IANS
+  title: "Terrorists kill one non-local worker, critically injure another in J&K's Kulgam district"
+  date: 2026-07-31
+  kind: news

@@ -1,0 +1,1763 @@
+[
+ {
+  "group_id": "jk-nlf",
+  "year": 1971,
+  "districts": [
+   "Srinagar"
+  ],
+  "source_ids": [
+   "theprint-ganga-hijack",
+   "tribune-ganga-pilot"
+  ],
+  "sources": [
+   {
+    "id": "theprint-ganga-hijack",
+    "url": "https://theprint.in/theprint-explorer/how-1971-indian-airlines-hijacking-led-pakistan-to-add-false-flag-to-its-terror-denial-toolkit/2615585/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/theprint-explorer/how-1971-indian-airlines-hijacking-led-pakistan-to-add-false-flag-to-its-terror-denial-toolkit/2615585/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "How 1971 Indian Airlines hijacking led Pakistan to add 'false flag' to its terror denial toolkit",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-ganga-pilot",
+    "url": "https://www.tribuneindia.com/news/archive/nation/pilot-of-indian-airlines-flight-hijacked-to-pak-in-1971-passes-away-566661/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/nation/pilot-of-indian-airlines-flight-hijacked-to-pak-in-1971-passes-away-566661/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Pilot of Indian Airlines flight hijacked to Pak in 1971 passes away",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 1971-01-30-ganga-hijacking"
+ },
+ {
+  "group_id": "jklf",
+  "year": 1988,
+  "districts": [
+   "Srinagar"
+  ],
+  "source_ids": [
+   "kashmirlife-1988-blast"
+  ],
+  "sources": [
+   {
+    "id": "kashmirlife-1988-blast",
+    "url": "https://kashmirlife.net/july-31-1988-when-first-blast-rocked-the-srinagar-city-38269/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/july-31-1988-when-first-blast-rocked-the-srinagar-city-38269/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "July 31, 1988: When First Blast Rocked The Srinagar City",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 1988-07-31-srinagar-blasts"
+ },
+ {
+  "group_id": "jklf",
+  "year": 1989,
+  "districts": [
+   "Srinagar"
+  ],
+  "source_ids": [
+   "theprint-taploo-exodus",
+   "de-tribute-taploo",
+   "organiser-ganjoo-reopened",
+   "kashmirlife-ganjoo-reopened",
+   "kashmirlife-rubaiya-consequential",
+   "tribune-rubaiya-identifies-malik"
+  ],
+  "sources": [
+   {
+    "id": "theprint-taploo-exodus",
+    "url": "https://theprint.in/india/how-killing-of-this-kashmiri-hindu-leader-led-to-exodus-of-pandits-from-valley/732572/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/how-killing-of-this-kashmiri-hindu-leader-led-to-exodus-of-pandits-from-valley/732572/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "How killing of this Kashmiri Hindu leader led to exodus of Pandits from Valley",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-tribute-taploo",
+    "url": "https://www.dailyexcelsior.com/tribute-tika-lal-taploo/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/tribute-tika-lal-taploo/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Tribute to Tika Lal Taploo",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "organiser-ganjoo-reopened",
+    "url": "https://organiser.org/2023/08/09/188945/bharat/kashmiri-hindu-genocide-indian-govt-reopens-case-after-30-years-sia-to-probe-brutal-murder-of-neelkanth-ganjoo/",
+    "archive_url": "https://web.archive.org/web/https://organiser.org/2023/08/09/188945/bharat/kashmiri-hindu-genocide-indian-govt-reopens-case-after-30-years-sia-to-probe-brutal-murder-of-neelkanth-ganjoo/",
+    "archive_checked": false,
+    "publisher": "Organiser",
+    "title": "Kashmiri Hindu Genocide: Indian Govt reopens case after 30 years; SIA to probe brutal murder of Neelkanth Ganjoo",
+    "date": "2023-08-09",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-ganjoo-reopened",
+    "url": "https://kashmirlife.net/jkps-sia-reopens-judge-neelkant-ganjoos-assassination-case-324678/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/jkps-sia-reopens-judge-neelkant-ganjoos-assassination-case-324678/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "JKP's SIA Reopens Judge Neelkant Ganjoo's Assassination Case",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-rubaiya-consequential",
+    "url": "https://kashmirlife.net/a-consequential-kidnapping-issue-37-vol-12-254878/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/a-consequential-kidnapping-issue-37-vol-12-254878/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "A Consequential Kidnapping",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-rubaiya-identifies-malik",
+    "url": "https://www.tribuneindia.com/news/j-k/rubaiya-sayeed-identifies-yasin-malik-in-court-412770/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/rubaiya-sayeed-identifies-yasin-malik-in-court-412770/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Mufti Mohammad Sayeed's daughter Rubaiya identifies Yasin Malik in court",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 1989-09-14-tika-lal-taploo, 1989-11-04-neelkanth-ganjoo, 1989-12-08-rubaiya-sayeed-abduction"
+ },
+ {
+  "group_id": "jklf",
+  "year": 1990,
+  "districts": [
+   "Srinagar"
+  ],
+  "source_ids": [
+   "theprint-iaf-1990-trial",
+   "gk-iaf-1990-charges",
+   "gk-satish-tickoo-case",
+   "tribune-bitta-karate-plea",
+   "tribune-sarla-bhat-chargesheet",
+   "gk-sarla-bhat-chargesheet"
+  ],
+  "sources": [
+   {
+    "id": "theprint-iaf-1990-trial",
+    "url": "https://theprint.in/india/after-30-years-stage-set-for-yasin-maliks-trial-in-1990-killing-of-4-iaf-men-in-kashmir/287651/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/after-30-years-stage-set-for-yasin-maliks-trial-in-1990-killing-of-4-iaf-men-in-kashmir/287651/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "After 30 years, stage set for Yasin Malik's trial in 1990 killing of 4 IAF men in Kashmir",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-iaf-1990-charges",
+    "url": "https://www.greaterkashmir.com/kashmir/1990-iaf-personnel-killings-court-frames-charges-against-yasin-malik-six-others/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/kashmir/1990-iaf-personnel-killings-court-frames-charges-against-yasin-malik-six-others/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "1990 IAF personnel killings: Court frames charges against Yasin Malik, six others",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-satish-tickoo-case",
+    "url": "https://www.greaterkashmir.com/srinagar/killing-of-satish-tickoo-in-1990-sessions-court-lists-revision-plea-on-may-4/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/srinagar/killing-of-satish-tickoo-in-1990-sessions-court-lists-revision-plea-on-may-4/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Killing of Satish Tickoo in 1990: Sessions court lists revision plea on May 4",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-bitta-karate-plea",
+    "url": "https://www.tribuneindia.com/news/j-k/plea-seeks-trial-against-bitta-karate-for-murder-493006/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/plea-seeks-trial-against-bitta-karate-for-murder-493006/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Plea seeks trial against Bitta Karate for 'murder'",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-sarla-bhat-chargesheet",
+    "url": "https://www.tribuneindia.com/news/j-k/yasin-malik-named-prime-accused-in-1990-killing-of-nurse-sarla-bhat/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/yasin-malik-named-prime-accused-in-1990-killing-of-nurse-sarla-bhat/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Yasin Malik named prime accused in 1990 killing of nurse Sarla Bhat",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-sarla-bhat-chargesheet",
+    "url": "https://www.greaterkashmir.com/kashmir/sia-files-737-page-chargesheet-against-yasin-malik-4-others-in-sarla-bhat-murder-case-12117357",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/kashmir/sia-files-737-page-chargesheet-against-yasin-malik-4-others-in-sarla-bhat-murder-case-12117357",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "SIA files 737-page chargesheet against Yasin Malik, 4 others in Sarla Bhat murder case",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 1990-01-25-rawalpora-iaf, 1990-02-02-satish-tickoo, 1990-04-18-sarla-bhat"
+ },
+ {
+  "group_id": "jkslf",
+  "year": 1990,
+  "districts": [
+   "Srinagar"
+  ],
+  "source_ids": [
+   "tribune-ku-vc-acquittal",
+   "gk-ku-vc-acquittal"
+  ],
+  "sources": [
+   {
+    "id": "tribune-ku-vc-acquittal",
+    "url": "https://www.tribuneindia.com/news/j-k/sc-upholds-acquittal-of-jkslf-members-in-1990-kashmir-university-v-c-murder-case",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/sc-upholds-acquittal-of-jkslf-members-in-1990-kashmir-university-v-c-murder-case",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "SC upholds acquittal of 'JKSLF members' in 1990 Kashmir University V-C murder case",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-ku-vc-acquittal",
+    "url": "https://www.greaterkashmir.com/latest-news/sc-dismisses-cbi-appeal-against-acquittal-of-jkslf-members-in-former-ku-vc-mushir-ul-haq-murder-case/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/latest-news/sc-dismisses-cbi-appeal-against-acquittal-of-jkslf-members-in-former-ku-vc-mushir-ul-haq-murder-case/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "SC dismisses CBI appeal against acquittal of JKSLF members in former KU VC Mushir-ul-Haq murder case",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 1990-04-06-ku-vc-abduction"
+ },
+ {
+  "group_id": "hizbul-mujahideen",
+  "year": 1990,
+  "districts": [
+   "Srinagar"
+  ],
+  "source_ids": [
+   "tribune-mirwaiz-arrests",
+   "outlook-mirwaiz-arrests"
+  ],
+  "sources": [
+   {
+    "id": "tribune-mirwaiz-arrests",
+    "url": "https://www.tribuneindia.com/news/j-k/2-ultras-held-33-years-after-mirwaiz-farooqs-killing-508394/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/2-ultras-held-33-years-after-mirwaiz-farooqs-killing-508394/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "2 ultras held 33 years after Mirwaiz Farooq's killing",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-mirwaiz-arrests",
+    "url": "https://www.outlookindia.com/national/mirwaiz-assassination-case-jk-police-say-2-militants-absconding-since-1990-arrested-news-286753",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/mirwaiz-assassination-case-jk-police-say-2-militants-absconding-since-1990-arrested-news-286753",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Mirwaiz Assassination Case: J&K Police Say 2 Militants Absconding Since 1990 Arrested",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 1990-05-21-mirwaiz-farooq"
+ },
+ {
+  "group_id": "harkat-ul-mujahideen",
+  "year": 1995,
+  "districts": [
+   "Anantnag",
+   "Budgam"
+  ],
+  "source_ids": [
+   "kashmirlife-charar-after-mast-gul",
+   "de-charar-1995",
+   "kashmirlife-wronged-hostages",
+   "theprint-cia-ic814-plot"
+  ],
+  "sources": [
+   {
+    "id": "kashmirlife-charar-after-mast-gul",
+    "url": "https://kashmirlife.net/charar-after-mast-gul-issue-09-vol-08-105467/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/charar-after-mast-gul-issue-09-vol-08-105467/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Charar After Mast Gul",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-charar-1995",
+    "url": "https://www.dailyexcelsior.com/1995-terror-attack-charar-e-sharief-sufi-tradition-remains-strong-amidst-lingering-scars/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/1995-terror-attack-charar-e-sharief-sufi-tradition-remains-strong-amidst-lingering-scars/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "1995 Terror Attack: Charar-E-Sharief Sufi Tradition Remains Strong Amidst Lingering Scars",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-wronged-hostages",
+    "url": "https://kashmirlife.net/wronged-hostages-2306/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/wronged-hostages-2306/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Wronged Hostages",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-cia-ic814-plot",
+    "url": "https://theprint.in/world/cia-had-intel-on-plot-to-hijack-indian-passenger-aircraft-3-yrs-before-ic-814-episode-in-kandahar/2253842/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/world/cia-had-intel-on-plot-to-hijack-indian-passenger-aircraft-3-yrs-before-ic-814-episode-in-kandahar/2253842/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "CIA had intel on plot to hijack Indian passenger aircraft 3 yrs before IC 814 episode in Kandahar",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 1995-05-11-charar-e-sharif, 1995-07-04-al-faran-kidnapping"
+ },
+ {
+  "group_id": "lashkar-e-taiba",
+  "year": 1998,
+  "districts": [
+   "Doda",
+   "Reasi"
+  ],
+  "source_ids": [
+   "de-prankote-neglect",
+   "organiser-terror-no-religion",
+   "kashmirlife-cursed-marriages",
+   "de-jammu-files"
+  ],
+  "sources": [
+   {
+    "id": "de-prankote-neglect",
+    "url": "https://www.dailyexcelsior.com/2-decades-after-prankote-massacre-survivors-remain-neglected-lot/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/2-decades-after-prankote-massacre-survivors-remain-neglected-lot/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "2 decades after Prankote massacre, survivors remain neglected lot",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "organiser-terror-no-religion",
+    "url": "https://organiser.org/2025/04/24/288808/bharat/terror-has-no-religion-timeline-of-religious-massacres-undertaken-by-islamists-targeting-hindus-sikhs-in-jk/",
+    "archive_url": "https://web.archive.org/web/https://organiser.org/2025/04/24/288808/bharat/terror-has-no-religion-timeline-of-religious-massacres-undertaken-by-islamists-targeting-hindus-sikhs-in-jk/",
+    "archive_checked": false,
+    "publisher": "Organiser",
+    "title": "Terror has no religion: incidents of attacks on Hindus in J&K",
+    "date": "2025-04-24",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-cursed-marriages",
+    "url": "https://kashmirlife.net/the-cursed-marriages-1501/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/the-cursed-marriages-1501/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "The Cursed Marriages",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-jammu-files",
+    "url": "https://www.dailyexcelsior.com/after-kashmir-files-why-not-jammu-files/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/after-kashmir-files-why-not-jammu-files/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "After Kashmir Files, Why Not Jammu Files?",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 1998-04-17-prankote-dakikote, 1998-06-19-chapnari"
+ },
+ {
+  "group_id": "hizbul-mujahideen",
+  "year": 1998,
+  "districts": [
+   "Doda"
+  ],
+  "source_ids": [
+   "kashmirlife-cursed-marriages",
+   "de-jammu-files"
+  ],
+  "sources": [
+   {
+    "id": "kashmirlife-cursed-marriages",
+    "url": "https://kashmirlife.net/the-cursed-marriages-1501/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/the-cursed-marriages-1501/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "The Cursed Marriages",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-jammu-files",
+    "url": "https://www.dailyexcelsior.com/after-kashmir-files-why-not-jammu-files/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/after-kashmir-files-why-not-jammu-files/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "After Kashmir Files, Why Not Jammu Files?",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 1998-06-19-chapnari"
+ },
+ {
+  "group_id": "lashkar-e-taiba",
+  "year": 1999,
+  "districts": [
+   "Srinagar"
+  ],
+  "source_ids": [
+   "outlook-fidayeen-timeline",
+   "kashmirlife-faultline"
+  ],
+  "sources": [
+   {
+    "id": "outlook-fidayeen-timeline",
+    "url": "https://www.outlookindia.com/national/india-news-timeline-of-fidayeen-attacks-in-jammu-and-kashmir-news-325485",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/india-news-timeline-of-fidayeen-attacks-in-jammu-and-kashmir-news-325485",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Some Of The Major Fidayeen Attacks In Jammu And Kashmir",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-faultline",
+    "url": "https://kashmirlife.net/fault-line-kashmir-vol-10-issue-01-170629/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/fault-line-kashmir-vol-10-issue-01-170629/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Fault-line Kashmir",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 1999-11-03-badami-bagh-fidayeen"
+ },
+ {
+  "group_id": "lashkar-e-taiba",
+  "year": 2000,
+  "districts": [
+   "Anantnag"
+  ],
+  "source_ids": [
+   "theprint-us-visits-pattern",
+   "kashmirlife-chittisinghpura"
+  ],
+  "sources": [
+   {
+    "id": "theprint-us-visits-pattern",
+    "url": "https://theprint.in/india/pattern-of-terror-in-jk-amid-high-profile-us-visits-chittisinghpura-kaluchak-now-pahalgam/2600199/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/pattern-of-terror-in-jk-amid-high-profile-us-visits-chittisinghpura-kaluchak-now-pahalgam/2600199/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Pattern of terror in J&K amid high-profile US visits: Chittisinghpura, Kaluchak & now Pahalgam",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-chittisinghpura",
+    "url": "https://kashmirlife.net/20-march-2000-34-sikhs-were-butchered-in-south-kashmir-99641/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/20-march-2000-34-sikhs-were-butchered-in-south-kashmir-99641/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "20 March 2000: 34 Sikhs were Butchered in South Kashmir",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2000-03-20-chittisinghpura"
+ },
+ {
+  "group_id": "jaish-e-mohammed",
+  "year": 2000,
+  "districts": [
+   "Srinagar"
+  ],
+  "source_ids": [
+   "kashmirlife-faultline"
+  ],
+  "sources": [
+   {
+    "id": "kashmirlife-faultline",
+    "url": "https://kashmirlife.net/fault-line-kashmir-vol-10-issue-01-170629/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/fault-line-kashmir-vol-10-issue-01-170629/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Fault-line Kashmir",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2000-04-19-badami-bagh-car-bomb"
+ },
+ {
+  "group_id": "hizbul-mujahideen",
+  "year": 2000,
+  "districts": [
+   "Anantnag"
+  ],
+  "source_ids": [
+   "outlook-amarnath-2000-echoes",
+   "tribune-2000-08-03"
+  ],
+  "sources": [
+   {
+    "id": "outlook-amarnath-2000-echoes",
+    "url": "https://www.outlookindia.com/national/in-jks-pahalgam-attack-echoes-of-2000-amarnath-massacre",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/in-jks-pahalgam-attack-echoes-of-2000-amarnath-massacre",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "In J&K's Pahalgam Attack, Echoes Of 2000 Amarnath Massacre",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-2000-08-03",
+    "url": "https://www.tribuneindia.com/2000/20000803/main1.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2000/20000803/main1.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, main news, 3 August 2000",
+    "date": "2000-08-03",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2000-08-01-pahalgam-nunwan-base-camp"
+ },
+ {
+  "group_id": "lashkar-e-taiba",
+  "year": 2001,
+  "districts": [
+   "Kishtwar",
+   "Rajouri"
+  ],
+  "source_ids": [
+   "outlook-jammu-files",
+   "theprint-rajouri-communal-war",
+   "tribune-2001-08-06",
+   "organiser-hindu-massacres-chronicle"
+  ],
+  "sources": [
+   {
+    "id": "outlook-jammu-files",
+    "url": "https://www.outlookindia.com/national/jammu-files-the-faceless-victims-of-militancy-across-the-pir-panjal-news-189966",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/jammu-files-the-faceless-victims-of-militancy-across-the-pir-panjal-news-189966",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Jammu Files: The Faceless Victims Of Militancy Across Pir Panjal",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-rajouri-communal-war",
+    "url": "https://theprint.in/opinion/security-code/pakistani-militants-bringing-communal-war-back-to-jk-hindu-killings-in-rajouri-are-proof/1297089/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/opinion/security-code/pakistani-militants-bringing-communal-war-back-to-jk-hindu-killings-in-rajouri-are-proof/1297089/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Pakistani militants bringing communal war back to J&K. Hindu killings in Rajouri are proof",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-2001-08-06",
+    "url": "https://www.tribuneindia.com/2001/20010806/main1.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2001/20010806/main1.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, main news, 6 August 2001",
+    "date": "2001-08-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "organiser-hindu-massacres-chronicle",
+    "url": "https://organiser.org/2026/07/01/360467/bharat/hindu-massacres-in-bharat-a-chronicle-of-targeted-violence-terror-attacks-and-communal-bloodshed-across-six-decades/",
+    "archive_url": "https://web.archive.org/web/https://organiser.org/2026/07/01/360467/bharat/hindu-massacres-in-bharat-a-chronicle-of-targeted-violence-terror-attacks-and-communal-bloodshed-across-six-decades/",
+    "archive_checked": false,
+    "publisher": "Organiser",
+    "title": "Hindu Massacres in Bharat: A chronicle of targeted violence, terror attacks and communal bloodshed across six decades",
+    "date": "2026-07-01",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2001-02-09-kot-charwal, 2001-08-03-loodar-kishtwar"
+ },
+ {
+  "group_id": "jaish-e-mohammed",
+  "year": 2001,
+  "districts": [
+   "Srinagar"
+  ],
+  "source_ids": [
+   "tribune-timeline-25-years",
+   "outlook-jem-explainer"
+  ],
+  "sources": [
+   {
+    "id": "tribune-timeline-25-years",
+    "url": "https://www.tribuneindia.com/news/timeline-of-major-terrorist-attacks-in-kashmir-over-past-25-years",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/timeline-of-major-terrorist-attacks-in-kashmir-over-past-25-years",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Timeline of major terrorist attacks in Kashmir over past 25 years",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-jem-explainer",
+    "url": "https://outlookindia.com/website/story/india-news-what-is-jaish-e-mohammed-why-india-calls-for-global-ban-on-masood-azhar/325499",
+    "archive_url": "https://web.archive.org/web/https://outlookindia.com/website/story/india-news-what-is-jaish-e-mohammed-why-india-calls-for-global-ban-on-masood-azhar/325499",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "What Is Jaish-e-Mohammad? Who Is Masood Azhar?",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2001-10-01-jk-assembly-attack"
+ },
+ {
+  "group_id": "lashkar-e-taiba",
+  "year": 2002,
+  "districts": [
+   "Anantnag",
+   "Jammu"
+  ],
+  "source_ids": [
+   "organiser-raghunath-temple",
+   "tribune-2002-04-01-jk",
+   "tribune-2002-07-15",
+   "organiser-hindu-massacres-chronicle",
+   "tribune-2002-08-07-nunwan",
+   "organiser-terror-no-religion",
+   "tribune-2002-11-25",
+   "tribune-2002-11-26"
+  ],
+  "sources": [
+   {
+    "id": "organiser-raghunath-temple",
+    "url": "https://organiser.org/2026/01/21/335565/bharat/shri-raghunath-temple-how-faith-survived-displacement-humiliation-and-terror-in-jammu-kashmir/",
+    "archive_url": "https://web.archive.org/web/https://organiser.org/2026/01/21/335565/bharat/shri-raghunath-temple-how-faith-survived-displacement-humiliation-and-terror-in-jammu-kashmir/",
+    "archive_checked": false,
+    "publisher": "Organiser",
+    "title": "Shri Raghunath Temple: How Faith survived displacement, humiliation and terror in Jammu & Kashmir",
+    "date": "2026-01-21",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-2002-04-01-jk",
+    "url": "https://www.tribuneindia.com/2002/20020401/j&k.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2002/20020401/j&k.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, Jammu & Kashmir page, 1 April 2002",
+    "date": "2002-04-01",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-2002-07-15",
+    "url": "https://www.tribuneindia.com/2002/20020715/main2.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2002/20020715/main2.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, main news, 15 July 2002",
+    "date": "2002-07-15",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "organiser-hindu-massacres-chronicle",
+    "url": "https://organiser.org/2026/07/01/360467/bharat/hindu-massacres-in-bharat-a-chronicle-of-targeted-violence-terror-attacks-and-communal-bloodshed-across-six-decades/",
+    "archive_url": "https://web.archive.org/web/https://organiser.org/2026/07/01/360467/bharat/hindu-massacres-in-bharat-a-chronicle-of-targeted-violence-terror-attacks-and-communal-bloodshed-across-six-decades/",
+    "archive_checked": false,
+    "publisher": "Organiser",
+    "title": "Hindu Massacres in Bharat: A chronicle of targeted violence, terror attacks and communal bloodshed across six decades",
+    "date": "2026-07-01",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-2002-08-07-nunwan",
+    "url": "https://www.tribuneindia.com/2002/20020807/main1.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2002/20020807/main1.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, main news, 7 August 2002",
+    "date": "2002-08-07",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "organiser-terror-no-religion",
+    "url": "https://organiser.org/2025/04/24/288808/bharat/terror-has-no-religion-timeline-of-religious-massacres-undertaken-by-islamists-targeting-hindus-sikhs-in-jk/",
+    "archive_url": "https://web.archive.org/web/https://organiser.org/2025/04/24/288808/bharat/terror-has-no-religion-timeline-of-religious-massacres-undertaken-by-islamists-targeting-hindus-sikhs-in-jk/",
+    "archive_checked": false,
+    "publisher": "Organiser",
+    "title": "Terror has no religion: incidents of attacks on Hindus in J&K",
+    "date": "2025-04-24",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-2002-11-25",
+    "url": "https://www.tribuneindia.com/2002/20021125/main1.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2002/20021125/main1.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, main news, 25 November 2002",
+    "date": "2002-11-25",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-2002-11-26",
+    "url": "https://www.tribuneindia.com/2002/20021126/main1.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2002/20021126/main1.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, main news, 26 November 2002",
+    "date": "2002-11-26",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2002-03-30-raghunath-temple, 2002-07-13-qasim-nagar, 2002-08-06-nunwan-amarnath, 2002-11-24-raghunath-temple-second"
+ },
+ {
+  "group_id": "lashkar-e-taiba",
+  "year": 2003,
+  "districts": [
+   "Pulwama"
+  ],
+  "source_ids": [
+   "tribune-nadimarg-tribute",
+   "ians-nadimarg-remembers"
+  ],
+  "sources": [
+   {
+    "id": "tribune-nadimarg-tribute",
+    "url": "https://www.tribuneindia.com/news/j-k/kashmiri-pandits-gather-at-nadimarg-to-honour-victims-of-2003-let-terror-attack/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/kashmiri-pandits-gather-at-nadimarg-to-honour-victims-of-2003-let-terror-attack/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Kashmiri Pandits gather at Nadimarg to honour victims of 2003 LeT terror attack",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "ians-nadimarg-remembers",
+    "url": "https://ianslive.in/nadimarg-village-remembers-its-24-innocent-civilians-killed-by-terrorists-in-2003--20250323134835",
+    "archive_url": "https://web.archive.org/web/https://ianslive.in/nadimarg-village-remembers-its-24-innocent-civilians-killed-by-terrorists-in-2003--20250323134835",
+    "archive_checked": false,
+    "publisher": "IANS",
+    "title": "J&K's Nadimarg village remembers 24 Kashmiri Pandits killed by terrorists in 2003",
+    "date": "2025-03-23",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2003-03-23-nadimarg"
+ },
+ {
+  "group_id": "jaish-e-mohammed",
+  "year": 2005,
+  "districts": [
+   "Srinagar"
+  ],
+  "source_ids": [
+   "tribune-2005-11-03",
+   "outlook-jem-explainer"
+  ],
+  "sources": [
+   {
+    "id": "tribune-2005-11-03",
+    "url": "https://www.tribuneindia.com/2005/20051103/main1.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2005/20051103/main1.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, main news, 3 November 2005",
+    "date": "2005-11-03",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-jem-explainer",
+    "url": "https://outlookindia.com/website/story/india-news-what-is-jaish-e-mohammed-why-india-calls-for-global-ban-on-masood-azhar/325499",
+    "archive_url": "https://web.archive.org/web/https://outlookindia.com/website/story/india-news-what-is-jaish-e-mohammed-why-india-calls-for-global-ban-on-masood-azhar/325499",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "What Is Jaish-e-Mohammad? Who Is Masood Azhar?",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2005-11-02-nowgam-car-bomb"
+ },
+ {
+  "group_id": "lashkar-e-taiba",
+  "year": 2006,
+  "districts": [
+   "Doda",
+   "Udhampur"
+  ],
+  "source_ids": [
+   "outlook-means-and-ends",
+   "tribune-2006-05-02"
+  ],
+  "sources": [
+   {
+    "id": "outlook-means-and-ends",
+    "url": "https://www.outlookindia.com/national/means-and-ends-news-231179",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/means-and-ends-news-231179",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Means And Ends",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-2006-05-02",
+    "url": "https://www.tribuneindia.com/2006/20060502/main1.htm",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/2006/20060502/main1.htm",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "The Tribune, main news, 2 May 2006",
+    "date": "2006-05",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2006-04-30-basantgarh-shepherds, 2006-04-30-kulhand-tharwa"
+ },
+ {
+  "group_id": "lashkar-e-taiba",
+  "year": 2013,
+  "districts": [
+   "Srinagar"
+  ],
+  "source_ids": [
+   "tribune-major-attacks-jk",
+   "kashmirlife-hyderpora-police"
+  ],
+  "sources": [
+   {
+    "id": "tribune-major-attacks-jk",
+    "url": "https://www.tribuneindia.com/news/archive/features/major-terror-attacks-in-jk-730241",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/features/major-terror-attacks-in-jk-730241",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Major terror attacks in J&K",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-hyderpora-police",
+    "url": "https://kashmirlife.net/hyderpora-encounter-the-detailed-police-statement-279911/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/hyderpora-encounter-the-detailed-police-statement-279911/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Hyderpora Encounter: The Detailed Police Statement",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2013-06-24-hyderpora-ambush"
+ },
+ {
+  "group_id": "jaish-e-mohammed",
+  "year": 2014,
+  "districts": [
+   "Baramulla"
+  ],
+  "source_ids": [
+   "outlook-fidayeen-timeline",
+   "tribune-major-attacks-jk"
+  ],
+  "sources": [
+   {
+    "id": "outlook-fidayeen-timeline",
+    "url": "https://www.outlookindia.com/national/india-news-timeline-of-fidayeen-attacks-in-jammu-and-kashmir-news-325485",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/india-news-timeline-of-fidayeen-attacks-in-jammu-and-kashmir-news-325485",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Some Of The Major Fidayeen Attacks In Jammu And Kashmir",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-major-attacks-jk",
+    "url": "https://www.tribuneindia.com/news/archive/features/major-terror-attacks-in-jk-730241",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/features/major-terror-attacks-in-jk-730241",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Major terror attacks in J&K",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2014-12-05-mohura-uri"
+ },
+ {
+  "group_id": "lashkar-e-taiba",
+  "year": 2015,
+  "districts": [
+   "Kathua",
+   "Udhampur"
+  ],
+  "source_ids": [
+   "tribune-kathua-7-die",
+   "tribune-kathua-assembly-rocked",
+   "tribune-udhampur-bsf-2015",
+   "outlook-hanzla-adnan"
+  ],
+  "sources": [
+   {
+    "id": "tribune-kathua-7-die",
+    "url": "https://www.tribuneindia.com/news/archive/community/7-die-in-kathua-police-station-attack-56555/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/community/7-die-in-kathua-police-station-attack-56555/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "7 die in Kathua police station attack",
+    "date": "2015-03",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-kathua-assembly-rocked",
+    "url": "https://www.tribuneindia.com/news/archive/features/kathua-militant-attack-rocks-j-k-assembly-56180",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/features/kathua-militant-attack-rocks-j-k-assembly-56180",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Kathua militant attack rocks J&K Assembly",
+    "date": "2015-03",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-udhampur-bsf-2015",
+    "url": "https://www.tribuneindia.com/news/archive/j-k/terrorist-caught-after-attack-on-convoy-kills-2-bsf-men-in-j-k-115887",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/j-k/terrorist-caught-after-attack-on-convoy-kills-2-bsf-men-in-j-k-115887",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Terrorist caught after attack on convoy kills 2 BSF men in J&K",
+    "date": "2015-08",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-hanzla-adnan",
+    "url": "https://www.outlookindia.com/international/pakistan-gunmen-kill-lashkar-terrorist-and-udhampur-attack-mastermind-hanzla-adnan-in-karachi-news-334872",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/international/pakistan-gunmen-kill-lashkar-terrorist-and-udhampur-attack-mastermind-hanzla-adnan-in-karachi-news-334872",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Pakistan: Gunmen Kill Lashkar Terrorist And Udhampur Attack Mastermind Hanzla Adnan In Karachi",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2015-03-20-kathua-rajbagh, 2015-08-05-udhampur-bsf-naved"
+ },
+ {
+  "group_id": "lashkar-e-taiba",
+  "year": 2016,
+  "districts": [
+   "Pulwama"
+  ],
+  "source_ids": [
+   "de-pampore-8-crpf",
+   "tribune-major-attacks-jk"
+  ],
+  "sources": [
+   {
+    "id": "de-pampore-8-crpf",
+    "url": "https://www.dailyexcelsior.com/8-crpf-men-2-militants-killed-20-injured-pampore-attack/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/8-crpf-men-2-militants-killed-20-injured-pampore-attack/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "8 CRPF men, 2 militants killed; 20 injured in Pampore attack",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-major-attacks-jk",
+    "url": "https://www.tribuneindia.com/news/archive/features/major-terror-attacks-in-jk-730241",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/features/major-terror-attacks-in-jk-730241",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Major terror attacks in J&K",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2016-06-25-pampore-crpf"
+ },
+ {
+  "group_id": "jaish-e-mohammed",
+  "year": 2016,
+  "districts": [
+   "Baramulla",
+   "Jammu"
+  ],
+  "source_ids": [
+   "de-uri-17-killed",
+   "tribune-uri-17-4",
+   "de-nagrota-2016",
+   "kashmirlife-nagrota-army"
+  ],
+  "sources": [
+   {
+    "id": "de-uri-17-killed",
+    "url": "https://www.dailyexcelsior.com/news/archive/17-army-men-killed-deadliest-attack-uri-brigade",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/news/archive/17-army-men-killed-deadliest-attack-uri-brigade",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "17 Army men killed in deadliest attack at Uri Brigade",
+    "date": "2016-09",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-uri-17-4",
+    "url": "https://www.tribuneindia.com/news/archive/community/17-soldiers-4-terrorists-killed-in-uri-attack-297074/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/community/17-soldiers-4-terrorists-killed-in-uri-attack-297074/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "17 soldiers, 4 terrorists killed in Uri attack",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-nagrota-2016",
+    "url": "https://www.dailyexcelsior.com/two-army-majors-5-jawans-6-terrorists-killed/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/two-army-majors-5-jawans-6-terrorists-killed/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Two Army Majors, 5 jawans, 6 terrorists killed",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-nagrota-army",
+    "url": "https://kashmirlife.net/nagrota-attack-army-version-125017/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/nagrota-attack-army-version-125017/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Nagrota attack: Army version",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2016-09-18-uri-attack, 2016-11-29-nagrota"
+ },
+ {
+  "group_id": "lashkar-e-taiba",
+  "year": 2017,
+  "districts": [
+   "Anantnag"
+  ],
+  "source_ids": [
+   "de-amarnath-2017-let",
+   "de-massacre-of-pilgrims"
+  ],
+  "sources": [
+   {
+    "id": "de-amarnath-2017-let",
+    "url": "https://www.dailyexcelsior.com/news/archive/let-behind-attack-yatris-4-arrested-4-killed-3-absconding",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/news/archive/let-behind-attack-yatris-4-arrested-4-killed-3-absconding",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "LeT behind attack on yatris; 4 arrested, 4 killed, 3 absconding",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-massacre-of-pilgrims",
+    "url": "https://www.dailyexcelsior.com/massacre-of-the-pilgrims/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/massacre-of-the-pilgrims/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Massacre of the pilgrims",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2017-07-10-amarnath-bus-attack"
+ },
+ {
+  "group_id": "jaish-e-mohammed",
+  "year": 2018,
+  "districts": [
+   "Jammu"
+  ],
+  "source_ids": [
+   "outlook-sunjuwan-toll-10",
+   "kashmirlife-sunjwan-story"
+  ],
+  "sources": [
+   {
+    "id": "outlook-sunjuwan-toll-10",
+    "url": "https://www.outlookindia.com/national/sunjuwan-attack-body-of-another-army-jawan-recovered-death-toll-rises-to-10-news-308238",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/sunjuwan-attack-body-of-another-army-jawan-recovered-death-toll-rises-to-10-news-308238",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Sunjuwan Attack: Body Of Another Soldier Recovered; Death Toll Rises To 10",
+    "date": "2018-02",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-sunjwan-story",
+    "url": "https://kashmirlife.net/sunjwan-fidayeen-attack-the-complete-story-164988/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/sunjwan-fidayeen-attack-the-complete-story-164988/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Sunjwan Fidayeen Attack: The Complete Story",
+    "date": "2018-02",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2018-02-10-sunjuwan"
+ },
+ {
+  "group_id": "hizbul-mujahideen",
+  "year": 2018,
+  "districts": [
+   "Pulwama"
+  ],
+  "source_ids": [
+   "theprint-aurangzeb-probe",
+   "outlook-aurangzeb-shaurya"
+  ],
+  "sources": [
+   {
+    "id": "theprint-aurangzeb-probe",
+    "url": "https://theprint.in/defence/indian-army-probing-two-soldiers-for-tipping-off-militants-who-killed-rifleman-aurangzeb/189107/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/indian-army-probing-two-soldiers-for-tipping-off-militants-who-killed-rifleman-aurangzeb/189107/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Indian Army probing two soldiers for 'tipping off' militants who killed rifleman Aurangzeb",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-aurangzeb-shaurya",
+    "url": "https://www.outlookindia.com/national/major-aditya-slain-rifleman-aurangzeb-to-get-shaurya-chakra-news-315047",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/major-aditya-slain-rifleman-aurangzeb-to-get-shaurya-chakra-news-315047",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Major Aditya, Slain Rifleman Aurangzeb To Get Shaurya Chakra",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2018-06-14-rifleman-aurangzeb"
+ },
+ {
+  "group_id": "lashkar-e-taiba",
+  "year": 2018,
+  "districts": [
+   "Srinagar"
+  ],
+  "source_ids": [
+   "gk-bukhari-shot-dead",
+   "tribune-bukhari-sajjad-gul"
+  ],
+  "sources": [
+   {
+    "id": "gk-bukhari-shot-dead",
+    "url": "https://www.greaterkashmir.com/kashmir/rising-kashmir-editor-in-chief-shujaat-bukhari-shot-dead/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/kashmir/rising-kashmir-editor-in-chief-shujaat-bukhari-shot-dead/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Rising Kashmir Editor-in-Chief Shujaat Bukhari shot dead",
+    "date": "2018-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-bukhari-sajjad-gul",
+    "url": "https://www.tribuneindia.com/news/j-k/sajjad-gul-who-plotted-shujaat-bukharis-killing-designated-as-terrorist-387739",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/sajjad-gul-who-plotted-shujaat-bukharis-killing-designated-as-terrorist-387739",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Sajjad Gul who plotted Shujaat Bukhari's killing designated as terrorist",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2018-06-14-shujaat-bukhari"
+ },
+ {
+  "group_id": "jaish-e-mohammed",
+  "year": 2019,
+  "districts": [
+   "Pulwama"
+  ],
+  "source_ids": [
+   "outlook-pulwama-list",
+   "tribune-pulwama-42"
+  ],
+  "sources": [
+   {
+    "id": "outlook-pulwama-list",
+    "url": "https://www.outlookindia.com/national/pulwama-terror-attack-complete-list-of-martyred-crpf-jawans-news-325538",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/pulwama-terror-attack-complete-list-of-martyred-crpf-jawans-news-325538",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Pulwama Terror Attack: Complete List Of Martyred CRPF Jawans",
+    "date": "2019-02",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-pulwama-42",
+    "url": "https://www.tribuneindia.com/news/archive/j-k/42-crpf-jawans-killed-in-pulwama-blast-728948",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/archive/j-k/42-crpf-jawans-killed-in-pulwama-blast-728948",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "42 CRPF jawans killed in Pulwama blast",
+    "date": "2019-02",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2019-02-14-pulwama"
+ },
+ {
+  "group_id": "lashkar-e-taiba",
+  "year": 2020,
+  "districts": [
+   "Kupwara"
+  ],
+  "source_ids": [
+   "gk-handwara-colonel",
+   "theprint-handwara-co"
+  ],
+  "sources": [
+   {
+    "id": "gk-handwara-colonel",
+    "url": "https://www.greaterkashmir.com/kashmir/colonel-major-among-five-security-personnel-killed-in-encounter-with-militants-in-north-kashmirs-handwara/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/kashmir/colonel-major-among-five-security-personnel-killed-in-encounter-with-militants-in-north-kashmirs-handwara/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Colonel, Major among five security personnel killed in encounter with militants in north Kashmir's Handwara",
+    "date": "2020-05",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-handwara-co",
+    "url": "https://theprint.in/defence/rashtriya-rifles-battalion-co-among-5-killed-in-encounter-with-terrorists-in-jks-handwara/413442/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/rashtriya-rifles-battalion-co-among-5-killed-in-encounter-with-terrorists-in-jks-handwara/413442/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Rashtriya Rifles battalion CO among 5 killed in encounter with terrorists in J&K's Handwara",
+    "date": "2020-05",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2020-05-02-handwara"
+ },
+ {
+  "group_id": "trf",
+  "year": 2021,
+  "districts": [
+   "Srinagar"
+  ],
+  "source_ids": [
+   "outlook-unending-obituaries",
+   "pioneer-pandits-killers-identified",
+   "theprint-paswan",
+   "gk-three-civilians-hours",
+   "tribune-teachers-lined-up"
+  ],
+  "sources": [
+   {
+    "id": "outlook-unending-obituaries",
+    "url": "https://www.outlookindia.com/national/kashmiri-pandit-cop-killings-and-kashmir-s-unending-blood-trail-news-196496",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/kashmiri-pandit-cop-killings-and-kashmir-s-unending-blood-trail-news-196496",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Kashmiri Pandit, Cop And Migrant Killings In J&K: An Unending List Of Obituaries",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "pioneer-pandits-killers-identified",
+    "url": "https://www.dailypioneer.com/2021/page1/5-ultras-killed--pandits----killers-identified.html",
+    "archive_url": "https://web.archive.org/web/https://www.dailypioneer.com/2021/page1/5-ultras-killed--pandits----killers-identified.html",
+    "archive_checked": false,
+    "publisher": "The Pioneer",
+    "title": "5 ultras killed, Pandits' killers identified",
+    "date": "2021-10",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-paswan",
+    "url": "https://theprint.in/india/bihar-man-lost-kolkata-job-sold-chaat-in-kashmir-killed-by-terrorists-cremated-without-family/748314/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/bihar-man-lost-kolkata-job-sold-chaat-in-kashmir-killed-by-terrorists-cremated-without-family/748314/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Bihar man lost Kolkata job, sold chaat in Kashmir, killed by terrorists, cremated without family",
+    "date": "2021-10",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-three-civilians-hours",
+    "url": "https://greaterkashmir.com/todays-paper/front-page/3-civilians-shot-dead-within-few-hours-in-kashmir",
+    "archive_url": "https://web.archive.org/web/https://greaterkashmir.com/todays-paper/front-page/3-civilians-shot-dead-within-few-hours-in-kashmir",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "3 civilians shot dead within few hours in Kashmir",
+    "date": "2021-10",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-teachers-lined-up",
+    "url": "https://www.tribuneindia.com/news/j-k/teachers-lined-up-2-of-them-shot-in-srinagar-321626",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/teachers-lined-up-2-of-them-shot-in-srinagar-321626",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Teachers lined up, 2 of them shot in Srinagar",
+    "date": "2021-10",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2021-10-05-bindroo, 2021-10-05-virender-paswan, 2021-10-07-eidgah-school-teachers"
+ },
+ {
+  "group_id": "lashkar-e-taiba",
+  "year": 2022,
+  "districts": [
+   "Budgam",
+   "Kulgam"
+  ],
+  "source_ids": [
+   "kashmirlife-slain-pandit-family",
+   "theprint-rahul-bhat-protest",
+   "tribune-vijay-kumar",
+   "gk-vijay-kumar"
+  ],
+  "sources": [
+   {
+    "id": "kashmirlife-slain-pandit-family",
+    "url": "https://kashmirlife.net/slain-pandits-family-inconsolable-killing-condemned-292267/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/slain-pandits-family-inconsolable-killing-condemned-292267/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Slain Pandit's Family Inconsolable, Killing Condemned",
+    "date": "2022-05",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-rahul-bhat-protest",
+    "url": "https://theprint.in/india/stop-innocent-killings-bjp-protests-against-kashmiri-pandit-rahul-bhats-murder-in-srinagar/956533/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/stop-innocent-killings-bjp-protests-against-kashmiri-pandit-rahul-bhats-murder-in-srinagar/956533/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "'Stop innocent killings': BJP protests against Kashmiri Pandit Rahul Bhat's murder in Srinagar",
+    "date": "2022-05",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-vijay-kumar",
+    "url": "https://www.tribuneindia.com/news/j-k/bank-employee-shot-dead-in-j-ks-kulgam-400375",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/bank-employee-shot-dead-in-j-ks-kulgam-400375",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Bank manager from Rajasthan shot dead in Kashmir's Kulgam district",
+    "date": "2022-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-vijay-kumar",
+    "url": "https://www.greaterkashmir.com/kashmir/kulgam-killing-vijay-kumar-tied-the-knot-in-february-was-planning-trip-back-home-in-july/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/kashmir/kulgam-killing-vijay-kumar-tied-the-knot-in-february-was-planning-trip-back-home-in-july/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Kulgam killing: Vijay Kumar tied the knot in February, was planning trip back home in July",
+    "date": "2022-06",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2022-05-12-rahul-bhat, 2022-06-02-vijay-kumar"
+ },
+ {
+  "group_id": "lashkar-e-taiba",
+  "year": 2023,
+  "districts": [
+   "Rajouri"
+  ],
+  "source_ids": [
+   "theprint-dhangri-tributes",
+   "kashmirlife-dhangri-nia"
+  ],
+  "sources": [
+   {
+    "id": "theprint-dhangri-tributes",
+    "url": "https://theprint.in/india/tributes-paid-to-2023-dhangri-attack-victims-in-j-ks-rajouri-families-demand-justice/2427277/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/tributes-paid-to-2023-dhangri-attack-victims-in-j-ks-rajouri-families-demand-justice/2427277/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Tributes paid to 2023 Dhangri attack victims in J-K's Rajouri, families demand justice",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-dhangri-nia",
+    "url": "https://kashmirlife.net/sajid-jutt-qatal-sindhi-and-wasim-masterminds-behind-dhangri-killings-nia-326960/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/sajid-jutt-qatal-sindhi-and-wasim-masterminds-behind-dhangri-killings-nia-326960/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Sajid Jutt, Qatal Sindhi, And Wasim Masterminds Behind Dhangri Killings: NIA",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2023-01-01-dhangri"
+ },
+ {
+  "group_id": "paff",
+  "year": 2023,
+  "districts": [
+   "Poonch"
+  ],
+  "source_ids": [
+   "tribune-poonch-truck-ambush-2023",
+   "theprint-poonch-armour-piercing"
+  ],
+  "sources": [
+   {
+    "id": "tribune-poonch-truck-ambush-2023",
+    "url": "https://www.tribuneindia.com/news/nation/army-truck-ambushed-5-soldiers-dead-499318",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/nation/army-truck-ambushed-5-soldiers-dead-499318",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Army truck ambushed, 5 soldiers dead",
+    "date": "2023-04",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-poonch-armour-piercing",
+    "url": "https://theprint.in/defence/poonch-attack-terrorists-chose-target-after-recce-used-armour-piercing-bullets/1533546/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/poonch-attack-terrorists-chose-target-after-recce-used-armour-piercing-bullets/1533546/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Poonch attack: Terrorists chose target after recce, used armour-piercing bullets",
+    "date": "2023-04",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2023-04-20-bhata-dhurian-truck"
+ },
+ {
+  "group_id": "trf",
+  "year": 2023,
+  "districts": [
+   "Anantnag"
+  ],
+  "source_ids": [
+   "outlook-kokernag",
+   "kashmirlife-kokernag-ends"
+  ],
+  "sources": [
+   {
+    "id": "outlook-kokernag",
+    "url": "https://www.outlookindia.com/national/kashmir-army-colonel-police-officer-critically-injured-in-kokernag-encounter-news-317733",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/kashmir-army-colonel-police-officer-critically-injured-in-kokernag-encounter-news-317733",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Kashmir: Army Colonel, Major And DSP Killed In Gunfight Against Terrorists In Kokernag",
+    "date": "2023-09",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-kokernag-ends",
+    "url": "https://kashmirlife.net/seven-day-kokernag-gunfight-ends-uzair-khan-among-two-militants-killed-328305/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/seven-day-kokernag-gunfight-ends-uzair-khan-among-two-militants-killed-328305/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Seven-Day Kokernag Gunfight Ends, Uzair Khan Among Two Militants Killed",
+    "date": "2023-09",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2023-09-13-kokernag-gadole"
+ },
+ {
+  "group_id": "lashkar-e-taiba",
+  "year": 2024,
+  "districts": [
+   "Ganderbal",
+   "Reasi"
+  ],
+  "source_ids": [
+   "tribune-reasi-bus",
+   "outlook-reasi-bus",
+   "gk-gagangir-7",
+   "tribune-gagangir-let-killed"
+  ],
+  "sources": [
+   {
+    "id": "tribune-reasi-bus",
+    "url": "https://www.tribuneindia.com/news/j-k/bus-with-pilgrims-plunges-into-deep-gorge-in-jammu-and-kashmirs-reasi-after-suspected-terror-attack-officials-629251",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/bus-with-pilgrims-plunges-into-deep-gorge-in-jammu-and-kashmirs-reasi-after-suspected-terror-attack-officials-629251",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "9 killed, 33 injured as bus carrying pilgrims falls into gorge in Jammu and Kashmir's Reasi after terrorists open fire",
+    "date": "2024-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "outlook-reasi-bus",
+    "url": "https://www.outlookindia.com/national/reasi-terrorist-attack-jammu-kashmir-bus-ambush-vaishno-devi-katra-amit-shah-security-operation-nia",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/reasi-terrorist-attack-jammu-kashmir-bus-ambush-vaishno-devi-katra-amit-shah-security-operation-nia",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Reasi, J&K, Terrorist Attack: 3 Women, 2 Kids Among 9 Dead In Bus Ambush; LeT Offshoot Claims Responsibility",
+    "date": "2024-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-gagangir-7",
+    "url": "https://www.greaterkashmir.com/front-page-2/7-killed-5-injured-in-gagangeer-terror-attack/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/front-page-2/7-killed-5-injured-in-gagangeer-terror-attack/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "7 killed, 5 injured in Gagangeer terror attack",
+    "date": "2024-10",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-gagangir-let-killed",
+    "url": "https://www.tribuneindia.com/news/j-k/let-terrorist-involved-in-ganderbal-tunnel-attack-gunned-down/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/let-terrorist-involved-in-ganderbal-tunnel-attack-gunned-down/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "LeT terrorist involved in Ganderbal tunnel attack gunned down",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2024-06-09-reasi-bus, 2024-10-20-gagangir"
+ },
+ {
+  "group_id": "kashmir-tigers",
+  "year": 2024,
+  "districts": [
+   "Kathua"
+  ],
+  "source_ids": [
+   "tribune-kathua-machedi",
+   "theprint-kathua-machedi"
+  ],
+  "sources": [
+   {
+    "id": "tribune-kathua-machedi",
+    "url": "https://www.tribuneindia.com/news/j-k/terrorists-open-fire-on-army-vehicles-in-jammu-and-kashmirs-kathua-two-soldiers-injured-637912",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/terrorists-open-fire-on-army-vehicles-in-jammu-and-kashmirs-kathua-two-soldiers-injured-637912",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "JCO among 5 Army personnel killed as terrorists ambush patrol party in Jammu and Kashmir's Kathua",
+    "date": "2024-07",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-kathua-machedi",
+    "url": "https://theprint.in/india/massive-search-underway-after-terrorists-kill-5-soldiers-in-jammus-kathua/2167972/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/massive-search-underway-after-terrorists-kill-5-soldiers-in-jammus-kathua/2167972/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Massive search underway after terrorists kill 5 soldiers in Jammu's Kathua",
+    "date": "2024-07",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2024-07-08-kathua-machedi"
+ },
+ {
+  "group_id": "lashkar-e-taiba",
+  "year": 2025,
+  "districts": [
+   "Anantnag"
+  ],
+  "source_ids": [
+   "gk-pahalgam-26",
+   "de-pahalgam-26"
+  ],
+  "sources": [
+   {
+    "id": "gk-pahalgam-26",
+    "url": "https://www.greaterkashmir.com/jammu-kashmir/pahalgam-attack-26-people-mostly-tourists-killed-several-injured/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/jammu-kashmir/pahalgam-attack-26-people-mostly-tourists-killed-several-injured/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Pahalgam attack: 26 people, mostly tourists killed; several injured",
+    "date": "2025-04",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-pahalgam-26",
+    "url": "https://www.dailyexcelsior.com/two-foreigners-ib-navy-officers-among-26-tourists-killed-in-deadly-terror-attack-at-pahalgam/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/two-foreigners-ib-navy-officers-among-26-tourists-killed-in-deadly-terror-attack-at-pahalgam/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Two foreigners, IB & Navy officers among 26 tourists killed in deadly terror attack at Pahalgam",
+    "date": "2025-04",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2025-04-22-pahalgam-baisaran"
+ },
+ {
+  "group_id": "trf",
+  "year": 2025,
+  "districts": [
+   "Anantnag"
+  ],
+  "source_ids": [
+   "gk-pahalgam-26",
+   "de-pahalgam-26"
+  ],
+  "sources": [
+   {
+    "id": "gk-pahalgam-26",
+    "url": "https://www.greaterkashmir.com/jammu-kashmir/pahalgam-attack-26-people-mostly-tourists-killed-several-injured/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/jammu-kashmir/pahalgam-attack-26-people-mostly-tourists-killed-several-injured/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Pahalgam attack: 26 people, mostly tourists killed; several injured",
+    "date": "2025-04",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "de-pahalgam-26",
+    "url": "https://www.dailyexcelsior.com/two-foreigners-ib-navy-officers-among-26-tourists-killed-in-deadly-terror-attack-at-pahalgam/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/two-foreigners-ib-navy-officers-among-26-tourists-killed-in-deadly-terror-attack-at-pahalgam/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Two foreigners, IB & Navy officers among 26 tourists killed in deadly terror attack at Pahalgam",
+    "date": "2025-04",
+    "pages": null,
+    "kind": "news"
+   }
+  ],
+  "note": "Derived from attributed events: 2025-04-22-pahalgam-baisaran"
+ }
+]

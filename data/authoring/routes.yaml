@@ -1,0 +1,51 @@
+# Infiltration routes as publicly reported. Paths are schematic and deliberately coarse:
+# two to four points showing the direction of movement, never a usable track.
+- id: keran-sector
+  sector: Keran, Kupwara
+  description: Described as the easiest and shortest route into the Valley, with three avenues. Infiltrators then cross the Shamsabari forest range toward the Kupwara hinterland.
+  path: [[73.95, 34.65], [74.1, 34.6], [74.25, 34.53]]
+  years_active: { from: null, to: null }
+  status: active
+  src: [tribune-350km-loc-routes]
+- id: machil-sector
+  sector: Machil, Kupwara
+  description: The second favoured route in Kupwara after Keran, also leading across the Shamsabari range.
+  path: [[74.15, 34.65], [74.22, 34.58], [74.25, 34.53]]
+  years_active: { from: null, to: null }
+  status: active
+  src: [tribune-350km-loc-routes]
+- id: tangdhar-sector
+  sector: Tangdhar (Karnah), Kupwara
+  description: A route that lay inactive for a long period and was reported to have become active again.
+  path: [[73.9, 34.42], [74.05, 34.45], [74.25, 34.53]]
+  years_active: { from: null, to: null }
+  status: reported_revived
+  src: [tribune-350km-loc-routes]
+- id: gurez-sector
+  sector: Gurez, Bandipora
+  description: The toughest route into the Valley, through a sector ringed by mountains of about 14,000 feet.
+  path: [[74.8, 34.68], [74.75, 34.55], [74.64, 34.42]]
+  years_active: { from: null, to: null }
+  status: active
+  src: [tribune-350km-loc-routes]
+- id: uri-sector
+  sector: Uri, Baramulla (Haji Pir to Kala Pahar)
+  description: Rugged ground between about 4,000 and 14,000 feet where some routes stay open through the year.
+  path: [[74.03, 34.05], [74.2, 34.1], [74.34, 34.2]]
+  years_active: { from: null, to: null }
+  status: active
+  src: [tribune-350km-loc-routes]
+- id: rajouri-poonch-nullahs
+  sector: Rajouri and Poonch (Pir Panjal)
+  description: The Army identified at least seven routes in Rajouri and Poonch, many along nullahs that can be crossed when water is low, leading into the Pir Panjal forests and on toward the Valley.
+  path: [[74.05, 33.7], [74.3, 33.7], [74.6, 33.68], [74.83, 33.71]]
+  years_active: { from: null, to: null }
+  status: active
+  src: [theprint-pir-panjal-hotspot, tribune-rajouri-poonch-tunnels]
+- id: samba-kathua-ib
+  sector: Samba and Kathua (International Border)
+  description: Route across the International Border, including cross-border tunnels, that saw a revival. Infiltrators move into the heights of Kathua toward Udhampur, Doda and Kishtwar, or on to the Valley.
+  path: [[75.1, 32.45], [75.4, 32.6], [75.65, 32.85], [75.72, 33.15]]
+  years_active: { from: null, to: null }
+  status: reported_revived
+  src: [theprint-revival-routes-jammu, gk-kathua-route-exposed, theprint-bsf-tunnels, tribune-samba-kathua-tunnel-drive]

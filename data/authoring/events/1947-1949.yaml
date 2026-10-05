@@ -1,0 +1,430 @@
+# 1947 to 1949: Pakistan's invasion (Operation Gulmarg) and the first war.
+# Compact authoring format: see data/authoring/README.md.
+
+- id: 1947-10-22-muzaffarabad-invasion
+  date: 1947-10-22
+  end: 1947-10-24
+  title: Invasion of Muzaffarabad and killings at Domel
+  place: Muzaffarabad and Domel
+  at: town:Muzaffarabad
+  district: [Muzaffarabad, Pakistan-occupied Jammu & Kashmir (PoJK)]
+  region: PoJK
+  cat: massacre
+  tactic: armed_assault
+  target: [civilians, minority_community]
+  community: Hindu and Sikh
+  perp: [pakistan-army, tribal-lashkars-1947]
+  attr: state_actor
+  killed: { total: null }
+  injured: null
+  abducted: null
+  src: [ians-oct22-1947, pioneer-op-gulmarg, tribune-paradise-lost, ians-invasion-terrorism]
+  conf: confirmed
+  hp: true
+  tags: [operation-gulmarg, war-1947]
+  summary: >
+    On 22 October 1947 tribal lashkars, armed, transported and led by Pakistan Army officers, crossed into Jammu and Kashmir and took Muzaffarabad
+    within days. Hindu and Sikh residents and refugees were killed, their homes looted and burnt, and many women abducted. Men rounded up near
+    Domel were shot and their bodies thrown into the river. India marks 22 October as a Black Day for the invasion.
+  notes: >
+    Death tolls for Muzaffarabad and Domel are not settled. One account cited here gives more than 1,000 killed at Domel alone; no single
+    figure is recorded until a primary source is reviewed.
+
+- id: 1947-10-26-baramulla-massacre
+  date: 1947-10-26
+  end: 1947-11-08
+  title: Sack of Baramulla
+  place: Baramulla, including St Joseph's Convent and hospital
+  at: town:Baramulla
+  district: [Baramulla, Baramulla]
+  region: Kashmir Valley
+  cat: massacre
+  tactic: armed_assault
+  target: [civilians]
+  community: Hindu, Sikh, Christian and Muslim residents
+  perp: [pakistan-army, tribal-lashkars-1947]
+  attr: state_actor
+  killed: { total: 3000 }
+  figures:
+    tribune-spectrum-2008-baramulla: { total: 3000, note: "Estimate by surviving residents; only about 1,000 of some 14,000 residents remained" }
+  victims:
+    - { name: Lt Col D.O.T. Dykes, role: Retired British Army officer, src: bw-baramulla-raid }
+    - { name: Biddy Dykes, role: Wife of Lt Col Dykes, src: bw-baramulla-raid }
+    - { name: Motia Devi Kapoor, role: Hospital patient, src: bw-baramulla-raid }
+    - { name: Sister Teresalina, role: Nun, src: bw-baramulla-raid }
+    - { name: Philomena, role: Nurse, src: bw-baramulla-raid }
+  src: [bw-baramulla-raid, tribune-spectrum-2008-baramulla, pioneer-op-gulmarg]
+  conf: reported
+  hp: true
+  tags: [operation-gulmarg, war-1947]
+  summary: >
+    The lashkars reached Baramulla on 26 October 1947 and spent days looting the town instead of pressing on to Srinagar. Raiders stormed
+    St Joseph's Convent and its hospital, killing nuns, staff and patients. Survivors estimated that about 3,000 townspeople were killed.
+    The delay gave India time to fly troops into Srinagar.
+  notes: Only one attributed toll (residents' estimate of about 3,000). Higher figures circulate but are not yet tied to a reviewable source.
+
+- id: 1947-10-27-indian-army-airlift
+  date: 1947-10-27
+  title: Indian troops airlifted to Srinagar after accession
+  place: Srinagar airfield
+  at: town:Srinagar
+  geo: tehsil
+  district: [Srinagar, Budgam]
+  region: Kashmir Valley
+  cat: war
+  tactic: conventional_war
+  target: [military]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  injured: null
+  abducted: null
+  src: [tribune-giant-leap-srinagar, tribune-srinagar-saved, idr-shalateng]
+  conf: confirmed
+  hp: true
+  tags: [india-response, war-1947]
+  summary: >
+    Maharaja Hari Singh signed the Instrument of Accession to India on 26 October 1947. From the morning of 27 October the Indian Army
+    flew its first troops into Srinagar airfield to stop the advance of the invaders on the city. The airlift is regarded as the step that
+    saved Srinagar.
+
+- id: 1947-11-07-shalateng
+  date: 1947-11-07
+  title: Battle of Shalateng
+  place: Shalateng, outskirts of Srinagar
+  at: town:Srinagar
+  geo: tehsil
+  district: [Srinagar, Srinagar]
+  region: Kashmir Valley
+  cat: war
+  tactic: conventional_war
+  target: [military]
+  community: null
+  perp: [pakistan-army, tribal-lashkars-1947]
+  attr: state_actor
+  killed: { total: null }
+  src: [idr-shalateng, tribune-srinagar-saved]
+  conf: confirmed
+  hp: true
+  tags: [india-response, war-1947]
+  summary: >
+    Indian troops routed the main body of the invaders at Shalateng on the edge of Srinagar on 7 November 1947. The
+    victory ended the threat to the city and opened the way to retake Baramulla and Uri.
+
+- id: 1947-10-28-fall-of-bhimber
+  date: 1947-10-28
+  title: Fall of Bhimber
+  place: Bhimber
+  at: town:Bhimber
+  district: [Mirpur, Pakistan-occupied Jammu & Kashmir (PoJK)]
+  region: PoJK
+  cat: massacre
+  tactic: armed_assault
+  target: [civilians, minority_community]
+  community: Hindu and Sikh
+  perp: [pakistan-army, tribal-lashkars-1947]
+  attr: state_actor
+  killed: { total: null }
+  src: [de-peep-bhimber, jknow-oct1947-military-attack]
+  conf: confirmed
+  hp: true
+  tags: [war-1947]
+  summary: >
+    Bhimber fell to Pakistan-backed forces in the early hours of 28 October 1947, the first town in the south of the state to be captured.
+    Accounts describe men being killed and women and children taken hostage. No reliable toll has been found.
+
+- id: 1947-11-01-gilgit-coup
+  date: 1947-11-01
+  title: Gilgit Scouts revolt and seizure of Gilgit
+  place: Gilgit
+  at: town:Gilgit
+  district: [Gilgit, Gilgit-Baltistan (Pakistan-occupied)]
+  region: PoJK
+  cat: war
+  tactic: armed_assault
+  target: [political, military]
+  community: null
+  perp: [gilgit-scouts-1947]
+  attr: not_applicable
+  killed: { total: null }
+  src: [de-fall-of-gilgit, theprint-gilgit-baltistan]
+  conf: confirmed
+  hp: true
+  tags: [war-1947]
+  summary: >
+    On 1 November 1947 the Gilgit Scouts revolted, arrested the state's Governor and declared for Pakistan, which took over the area soon
+    after. The revolt cut Gilgit off from the state and opened the way for attacks on Skardu and Ladakh.
+
+- id: 1947-11-07-rajouri-massacre
+  date: 1947-11-07
+  end: 1947-11-12
+  title: Rajouri massacre
+  place: Rajouri town
+  at: town:Rajouri
+  district: [null, Rajouri]
+  region: Jammu
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians, minority_community]
+  community: Hindu and Sikh
+  perp: [pakistan-army, tribal-lashkars-1947]
+  attr: state_actor
+  killed: { total: 3000-30000 }
+  figures:
+    jknow-rajouri-1947: { total: 30000, note: "Says more than 30,000 killed over the period of occupation, and more than 3,000 in one day" }
+    de-rajouri-files: { note: "Reports thousands killed and 3,000 to 3,500 women who took their own lives" }
+  src: [jknow-rajouri-1947, de-rajouri-files, organiser-rajouri-jauhar]
+  conf: disputed
+  hp: true
+  tags: [war-1947]
+  summary: >
+    Pakistani troops and raiders captured Rajouri on 7 November 1947, when the town was crowded with Hindu and Sikh refugees from the west.
+    Killings peaked around Diwali on 11 and 12 November, and many women took their own lives to avoid capture. The town remained under
+    occupation until the Indian Army retook it on 12 to 13 April 1948.
+  notes: Published tolls range from more than 3,000 in one day to more than 30,000 over the occupation. The range is shown, no single figure is chosen.
+
+- id: 1947-11-25-mirpur-massacre
+  date: 1947-11-25
+  title: Mirpur massacre
+  place: Mirpur town
+  at: town:Mirpur
+  district: [Mirpur, Pakistan-occupied Jammu & Kashmir (PoJK)]
+  region: PoJK
+  cat: massacre
+  tactic: armed_assault
+  target: [civilians, minority_community]
+  community: Hindu and Sikh
+  perp: [pakistan-army, tribal-lashkars-1947]
+  attr: state_actor
+  killed: { total: 18000-20000 }
+  figures:
+    de-ferocious-bloodbath-mirpur: { total: 18000, note: "About 18,000 killed within 24 hours" }
+    jknow-mirpur-20000: { total: 20000 }
+  src: [de-ferocious-bloodbath-mirpur, de-fall-of-mirpur, jknow-mirpur-20000, tribune-mirpur-refugees]
+  conf: disputed
+  hp: true
+  tags: [war-1947]
+  summary: >
+    Mirpur, home to some 25,000 to 30,000 Hindus and Sikhs including refugees, fell to Pakistani forces and raiders on 25 November 1947
+    after a night of shelling. Thousands were killed within a day and many women took their own lives. About 3,500 survivors were held at a
+    camp at Alibeg, while others reached Jammu on foot.
+
+- id: 1947-11-alibeg-camp
+  date: 1947-11
+  end: 1948-03
+  title: Killings of prisoners at Alibeg camp
+  place: Alibeg gurdwara camp, near Mirpur
+  at: town:Mirpur
+  geo: tehsil
+  district: [Mirpur, Pakistan-occupied Jammu & Kashmir (PoJK)]
+  region: PoJK
+  cat: massacre
+  tactic: mass_shooting
+  target: [civilians, minority_community]
+  community: Hindu and Sikh
+  perp: [pakistan-army]
+  attr: state_actor
+  killed: { total: 3000-8000 }
+  figures:
+    de-alibeg-prisoners: { total: 3000, note: "About 2,000 young men killed and more than 1,000 sick prisoners died by the end of December 1947" }
+    jknow-chronicle-hostility: { total: 8000, note: "Says 7,000 to 8,000 detainees were killed, citing eyewitness and Red Cross accounts" }
+  src: [de-alibeg-prisoners, kashmirlife-managing-1947, jknow-chronicle-hostility]
+  conf: disputed
+  hp: true
+  tags: [war-1947]
+  summary: >
+    Hindu and Sikh survivors from Mirpur and nearby areas were held in a gurdwara at Alibeg that Pakistani forces turned into a prison camp.
+    Many were killed and others died of disease and hunger. The Red Cross reached the camp in early 1948 and about 1,600 survivors were
+    moved to India in March 1948.
+  notes: Published tolls range from about 3,000 to 8,000. The range is shown, no single figure is chosen.
+
+- id: 1947-11-poonch-siege
+  date: 1947-11-22
+  end: 1948-11-21
+  title: Siege of Poonch
+  place: Poonch town
+  at: town:Poonch
+  district: [Poonch, Poonch]
+  region: Jammu
+  cat: war
+  tactic: conventional_war
+  target: [civilians, military]
+  community: null
+  perp: [pakistan-army, tribal-lashkars-1947]
+  attr: state_actor
+  killed: { total: null }
+  src: [idr-pritam-singh-poonch, tribune-poonch-siege, de-saviours-poonch]
+  conf: confirmed
+  hp: true
+  tags: [war-1947]
+  summary: >
+    Poonch, crowded with refugees, was surrounded by Pakistani forces from late November 1947. Under Brigadier Pritam Singh the garrison
+    and residents built an airstrip in about a week, and supplies came in by air from December 1947 despite shelling. The siege was broken
+    in November 1948 when a relief force linked up with the garrison.
+  notes: Accounts give 20 or 21 November 1948 for the relief.
+
+- id: 1948-02-naushera
+  date: 1948-02
+  dp: month
+  title: Battle of Naushera
+  place: Naushera
+  at: district:Rajouri
+  district: [null, Rajouri]
+  region: Jammu
+  cat: war
+  tactic: conventional_war
+  target: [military]
+  community: null
+  perp: [pakistan-army, tribal-lashkars-1947]
+  attr: state_actor
+  killed: { total: null }
+  src: [de-lion-nowshera, theprint-jhangar-day]
+  conf: confirmed
+  hp: false
+  tags: [india-response, war-1947]
+  summary: >
+    In February 1948 the 50 Parachute Brigade under Brigadier Mohammad Usman beat back a major Pakistani assault on Naushera. The brigade
+    later retook Jhangar.
+
+- id: 1948-04-13-rajouri-recaptured
+  date: 1948-04-13
+  title: Indian Army retakes Rajouri
+  place: Rajouri town
+  at: town:Rajouri
+  district: [null, Rajouri]
+  region: Jammu
+  cat: war
+  tactic: conventional_war
+  target: [military]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  src: [de-rajouri-reclaimed, jknow-rajouri-reclaimed]
+  conf: confirmed
+  hp: false
+  tags: [india-response, war-1947]
+  summary: >
+    Indian troops recaptured Rajouri on 12 to 13 April 1948 after five months of occupation. They found the town ruined and its Hindu and
+    Sikh population largely killed or gone.
+
+- id: 1948-07-03-brigadier-usman-killed
+  date: 1948-07-03
+  title: Brigadier Mohammad Usman killed at Jhangar
+  place: Jhangar
+  at: district:Rajouri
+  district: [null, Rajouri]
+  region: Jammu
+  cat: war
+  tactic: artillery_shelling
+  target: [military]
+  community: null
+  perp: [pakistan-army]
+  attr: state_actor
+  killed: { sf: 1, total: 1 }
+  victims:
+    - { name: Brigadier Mohammad Usman, role: Commander, 50 Parachute Brigade, src: theprint-jhangar-day }
+  src: [theprint-jhangar-day, pioneer-brig-usman, de-lion-nowshera]
+  conf: confirmed
+  hp: true
+  tags: [war-1947]
+  summary: >
+    Brigadier Mohammad Usman, who had held Naushera and retaken Jhangar, was killed by a Pakistani shell on 3 July 1948. He remains the
+    highest-ranking Indian officer killed in battle, and the Army marks Jhangar Day in his memory.
+
+- id: 1948-08-14-fall-of-skardu
+  date: 1948-08-14
+  title: Fall of Skardu and killing of the garrison
+  place: Skardu fort
+  at: town:Skardu
+  district: [null, Gilgit-Baltistan (Pakistan-occupied)]
+  region: PoJK
+  cat: massacre
+  tactic: armed_assault
+  target: [military, civilians, minority_community]
+  community: Hindu and Sikh refugees and soldiers
+  perp: [gilgit-scouts-1947, pakistan-army]
+  attr: state_actor
+  killed: { total: null }
+  src: [tribune-skardu-defenders, jknow-battle-skardu, theprint-gilgit-baltistan]
+  conf: confirmed
+  hp: true
+  tags: [war-1947]
+  summary: >
+    The 6th Jammu and Kashmir Infantry under Lt Col Sher Jung Thapa held Skardu fort for about six months against forces from Gilgit.
+    Out of food and ammunition, the garrison surrendered on 14 August 1948. Soldiers and the refugees sheltering with them were then killed,
+    and women in the garrison took their own lives. Thapa was taken prisoner.
+
+- id: 1948-11-01-zoji-la
+  date: 1948-11-01
+  title: Operation Bison, tanks at Zoji La
+  place: Zoji La pass
+  at: manual:zoji-la
+  district: [null, Ganderbal]
+  region: Kashmir Valley
+  cat: war
+  tactic: conventional_war
+  target: [military]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  src: [theprint-zojila-1948, tribune-zojila-tanks]
+  conf: confirmed
+  hp: true
+  tags: [india-response, war-1947]
+  summary: >
+    On 1 November 1948 Indian light tanks crossed Zoji La at more than 11,500 feet and surprised the Pakistani-backed forces holding the
+    pass. The attack reopened the road to Kargil and Ladakh.
+
+- id: 1949-01-01-ceasefire
+  date: 1949-01-01
+  title: Ceasefire ends the first war
+  place: Jammu and Kashmir
+  at: district:Srinagar
+  geo: region
+  district: [null, null]
+  region: Kashmir Valley
+  cat: policy
+  tactic: policy_measure
+  target: [none]
+  community: null
+  perp: []
+  attr: not_applicable
+  killed: { total: null }
+  src: [un-unipom-background, kashmirlife-karachi-agreement]
+  conf: confirmed
+  hp: true
+  tags: [war-1947]
+  summary: >
+    A UN-brokered ceasefire took effect at midnight on 1 January 1949. Pakistan was left in occupation of Mirpur, Muzaffarabad, parts of
+    Poonch and the Gilgit region. The ceasefire line was fixed by the Karachi Agreement of July 1949.
+  notes: The UN commission reported in August 1948 that regular Pakistani troops were inside the state, a material change in the situation.
+
+- id: 1947-pojk-displacement
+  date: 1947-10
+  end: 1948-12
+  dp: month
+  title: Displacement of families from Pakistan-occupied areas
+  place: Mirpur, Muzaffarabad, Bhimber, Kotli and other occupied areas
+  at: town:Mirpur
+  geo: region
+  district: [null, Pakistan-occupied Jammu & Kashmir (PoJK)]
+  region: PoJK
+  cat: exodus
+  tactic: displacement
+  target: [civilians, minority_community]
+  community: Hindu and Sikh
+  perp: [pakistan-army, tribal-lashkars-1947]
+  attr: state_actor
+  killed: { total: null }
+  src: [loksabha-pojk-dp-families, kashmirreader-31619-families, pmindia-5300-families]
+  conf: confirmed
+  hp: true
+  tags: [war-1947, refugees]
+  summary: >
+    The 1947 war displaced 31,619 families from areas that came under Pakistani occupation, according to the Union government. Of these,
+    26,319 families registered and settled in Jammu and Kashmir, and 5,300 moved to other parts of India. Many still await full
+    rehabilitation.
+  notes: Figures are in families, not persons, as stated in the Lok Sabha answer.

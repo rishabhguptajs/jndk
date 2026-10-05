@@ -1,0 +1,918 @@
+[
+ {
+  "id": "pakistan-army",
+  "name": "Pakistan Army",
+  "kind": "state_military",
+  "aliases": [],
+  "founded": null,
+  "founders": [],
+  "parent": null,
+  "relationship_to_parent": null,
+  "hq": null,
+  "sponsor": null,
+  "bans": {
+   "india_uapa": null,
+   "un_1267": null,
+   "us_fto": null
+  },
+  "active_years": {
+   "from": null,
+   "to": null
+  },
+  "status": "active",
+  "summary": "Regular army of Pakistan. Planned and directed the October 1947 invasion of Jammu and Kashmir (Operation Gulmarg), and fought India in 1947 to 1948, 1965, 1971 and 1999.",
+  "sources": [
+   {
+    "id": "pioneer-op-gulmarg",
+    "url": "https://www.dailypioneer.com/2020/columnists/a-sad-epoch-in-human-history.html",
+    "archive_url": "https://web.archive.org/web/https://www.dailypioneer.com/2020/columnists/a-sad-epoch-in-human-history.html",
+    "archive_checked": false,
+    "publisher": "The Pioneer",
+    "title": "A sad epoch in human history",
+    "date": "2020",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "jknow-oct1947-military-attack",
+    "url": "https://www.jammukashmirnow.com/Encyc/2023/10/30/Oct-1947-Jammu-and-Kashmir-The-Pakistani-Military-attack-disguised-as-a-Tribal-Invasion.html",
+    "archive_url": "https://web.archive.org/web/https://www.jammukashmirnow.com/Encyc/2023/10/30/Oct-1947-Jammu-and-Kashmir-The-Pakistani-Military-attack-disguised-as-a-Tribal-Invasion.html",
+    "archive_checked": false,
+    "publisher": "Jammu Kashmir Now",
+    "title": "Oct 1947 Jammu and Kashmir: The Pakistani Military attack disguised as a Tribal Invasion",
+    "date": "2023-10-30",
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "tribal-lashkars-1947",
+  "name": "Tribal lashkars of 1947 (Operation Gulmarg)",
+  "kind": "irregular",
+  "aliases": [
+   "Raiders",
+   "Kabailis"
+  ],
+  "founded": "1947-10",
+  "founders": [],
+  "parent": "pakistan-army",
+  "relationship_to_parent": "wing",
+  "hq": null,
+  "sponsor": "Pakistan (armed, transported and led by Pakistan Army personnel)",
+  "bans": {
+   "india_uapa": null,
+   "un_1267": null,
+   "us_fto": null
+  },
+  "active_years": {
+   "from": 1947,
+   "to": 1948
+  },
+  "status": "defunct",
+  "summary": "Armed tribal forces from Pakistan's North-West Frontier, armed, transported and led by Pakistan Army officers during the October 1947 invasion of Jammu and Kashmir. Regular army troops joined them in civilian clothes.",
+  "sources": [
+   {
+    "id": "pioneer-op-gulmarg",
+    "url": "https://www.dailypioneer.com/2020/columnists/a-sad-epoch-in-human-history.html",
+    "archive_url": "https://web.archive.org/web/https://www.dailypioneer.com/2020/columnists/a-sad-epoch-in-human-history.html",
+    "archive_checked": false,
+    "publisher": "The Pioneer",
+    "title": "A sad epoch in human history",
+    "date": "2020",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "ians-oct22-1947",
+    "url": "https://ianslive.in/oct-22-1947-the-day-when-pakistan-betrayed-and-backstabbed-kashmiris--20231022150515",
+    "archive_url": "https://web.archive.org/web/https://ianslive.in/oct-22-1947-the-day-when-pakistan-betrayed-and-backstabbed-kashmiris--20231022150515",
+    "archive_checked": false,
+    "publisher": "IANS",
+    "title": "Oct 22, 1947: The day when Pakistan betrayed and backstabbed Kashmiris",
+    "date": "2023-10-22",
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "gilgit-scouts-1947",
+  "name": "Gilgit Scouts (1947 revolt)",
+  "kind": "irregular",
+  "aliases": [],
+  "founded": null,
+  "founders": [],
+  "parent": null,
+  "relationship_to_parent": null,
+  "hq": {
+   "name": "Gilgit",
+   "lat": 35.92,
+   "lng": 74.31,
+   "precision": "town"
+  },
+  "sponsor": null,
+  "bans": {
+   "india_uapa": null,
+   "un_1267": null,
+   "us_fto": null
+  },
+  "active_years": {
+   "from": 1947,
+   "to": 1948
+  },
+  "status": "defunct",
+  "summary": "Local paramilitary force in the Gilgit Agency that revolted against the state of Jammu and Kashmir on 1 November 1947, arrested the Governor and handed the area to Pakistan. Later besieged Skardu.",
+  "sources": [
+   {
+    "id": "de-fall-of-gilgit",
+    "url": "https://www.dailyexcelsior.com/fall-of-gilgit/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/fall-of-gilgit/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "Fall of Gilgit",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-gilgit-baltistan",
+    "url": "https://theprint.in/opinion/the-politics-military-tactics-geography-behind-how-pakistan-won-gilgit-baltistan-from-india/284288/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/opinion/the-politics-military-tactics-geography-behind-how-pakistan-won-gilgit-baltistan-from-india/284288/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "The politics, military tactics & geography behind how Pakistan won Gilgit-Baltistan from India",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "jklf",
+  "name": "Jammu Kashmir Liberation Front (JKLF)",
+  "kind": "terror_group",
+  "aliases": [
+   "JKLF"
+  ],
+  "founded": null,
+  "founders": [
+   "Amanullah Khan",
+   "Maqbool Bhat"
+  ],
+  "parent": null,
+  "relationship_to_parent": null,
+  "hq": null,
+  "sponsor": "Pakistan (training and arms in the late 1980s, as reported)",
+  "bans": {
+   "india_uapa": {
+    "date": "2019-03-22",
+    "instrument": "Declared an unlawful association under the UAPA",
+    "source_id": "theprint-jklf-banned"
+   },
+   "un_1267": null,
+   "us_fto": null
+  },
+  "active_years": {
+   "from": null,
+   "to": null
+  },
+  "status": "dormant",
+  "summary": "Separatist armed group that began the insurgency in the Valley with the 1988 Srinagar blasts and carried out early killings and kidnappings, including the 1989 abduction of Rubaiya Sayeed.",
+  "sources": [
+   {
+    "id": "kashmirlife-1988-blast",
+    "url": "https://kashmirlife.net/july-31-1988-when-first-blast-rocked-the-srinagar-city-38269/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/july-31-1988-when-first-blast-rocked-the-srinagar-city-38269/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "July 31, 1988: When First Blast Rocked The Srinagar City",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-rubaiya-consequential",
+    "url": "https://kashmirlife.net/a-consequential-kidnapping-issue-37-vol-12-254878/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/a-consequential-kidnapping-issue-37-vol-12-254878/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "A Consequential Kidnapping",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-jklf-banned",
+    "url": "https://theprint.in/india/what-is-the-jklf-the-organisation-banned-by-the-modi-government/210560/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/what-is-the-jklf-the-organisation-banned-by-the-modi-government/210560/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "What is the JKLF, the organisation banned by the Modi government",
+    "date": "2019-03",
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "jk-nlf",
+  "name": "National Liberation Front (Jammu Kashmir)",
+  "kind": "terror_group",
+  "aliases": [
+   "NLF",
+   "JKNLF"
+  ],
+  "founded": null,
+  "founders": [
+   "Maqbool Bhat"
+  ],
+  "parent": null,
+  "relationship_to_parent": null,
+  "hq": null,
+  "sponsor": null,
+  "bans": {
+   "india_uapa": null,
+   "un_1267": null,
+   "us_fto": null
+  },
+  "active_years": {
+   "from": null,
+   "to": null
+  },
+  "status": "defunct",
+  "summary": "Early Kashmiri separatist armed group whose members hijacked the Indian Airlines flight Ganga to Lahore in January 1971.",
+  "sources": [
+   {
+    "id": "theprint-ganga-hijack",
+    "url": "https://theprint.in/theprint-explorer/how-1971-indian-airlines-hijacking-led-pakistan-to-add-false-flag-to-its-terror-denial-toolkit/2615585/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/theprint-explorer/how-1971-indian-airlines-hijacking-led-pakistan-to-add-false-flag-to-its-terror-denial-toolkit/2615585/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "How 1971 Indian Airlines hijacking led Pakistan to add 'false flag' to its terror denial toolkit",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "kashmirlife-exiled-by-hijack",
+    "url": "https://kashmirlife.net/exiled-by-hijack-issue-30-vol-10-189851/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/exiled-by-hijack-issue-30-vol-10-189851/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Exiled By Hijack",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "jkslf",
+  "name": "Jammu and Kashmir Students Liberation Front (JKSLF)",
+  "kind": "terror_group",
+  "aliases": [
+   "JKSLF"
+  ],
+  "founded": null,
+  "founders": [],
+  "parent": null,
+  "relationship_to_parent": null,
+  "hq": null,
+  "sponsor": null,
+  "bans": {
+   "india_uapa": null,
+   "un_1267": null,
+   "us_fto": null
+  },
+  "active_years": {
+   "from": 1990,
+   "to": null
+  },
+  "status": "defunct",
+  "summary": "Militant group of the early 1990s whose members were charged by the CBI with the 1990 kidnapping and killing of Kashmir University Vice Chancellor Mushir-ul-Haq. The accused were acquitted.",
+  "sources": [
+   {
+    "id": "tribune-ku-vc-acquittal",
+    "url": "https://www.tribuneindia.com/news/j-k/sc-upholds-acquittal-of-jkslf-members-in-1990-kashmir-university-v-c-murder-case",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/sc-upholds-acquittal-of-jkslf-members-in-1990-kashmir-university-v-c-murder-case",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "SC upholds acquittal of 'JKSLF members' in 1990 Kashmir University V-C murder case",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-ku-vc-acquittal",
+    "url": "https://www.greaterkashmir.com/latest-news/sc-dismisses-cbi-appeal-against-acquittal-of-jkslf-members-in-former-ku-vc-mushir-ul-haq-murder-case/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/latest-news/sc-dismisses-cbi-appeal-against-acquittal-of-jkslf-members-in-former-ku-vc-mushir-ul-haq-murder-case/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "SC dismisses CBI appeal against acquittal of JKSLF members in former KU VC Mushir-ul-Haq murder case",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "hizbul-mujahideen",
+  "name": "Hizbul Mujahideen (HM)",
+  "kind": "terror_group",
+  "aliases": [
+   "Hizb-ul-Mujahideen",
+   "HM",
+   "Hizb-Ul-Mujahideen Pir Panjal Regiment"
+  ],
+  "founded": "1989",
+  "founders": [],
+  "parent": null,
+  "relationship_to_parent": null,
+  "hq": null,
+  "sponsor": "Pakistan",
+  "bans": {
+   "india_uapa": {
+    "date": null,
+    "instrument": "UAPA First Schedule, serial 8",
+    "source_id": "mha-banned-orgs"
+   },
+   "un_1267": null,
+   "us_fto": {
+    "date": "2017-08-16",
+    "instrument": "Foreign Terrorist Organization and SDGT",
+    "source_id": "state-hm-fto"
+   }
+  },
+  "active_years": {
+   "from": 1989,
+   "to": null
+  },
+  "status": "active",
+  "summary": "One of the largest and oldest militant groups in Kashmir, formed in 1989 and led by Mohammad Yusuf Shah (Syed Salahuddin) from Pakistan-occupied territory. Designated a terrorist organisation by India and the United States.",
+  "sources": [
+   {
+    "id": "state-hm-fto",
+    "url": "https://2017-2021.state.gov/state-department-terrorist-designation-of-hizbul-mujahideen/",
+    "archive_url": "https://web.archive.org/web/https://2017-2021.state.gov/state-department-terrorist-designation-of-hizbul-mujahideen/",
+    "archive_checked": false,
+    "publisher": "US Department of State",
+    "title": "State Department Terrorist Designation of Hizbul Mujahideen",
+    "date": "2017-08-16",
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "state-salahuddin-sdgt",
+    "url": "https://2017-2021.state.gov/state-department-terrorist-designations-of-mohammad-yusuf-shah-aka-syed-salahuddin/",
+    "archive_url": "https://web.archive.org/web/https://2017-2021.state.gov/state-department-terrorist-designations-of-mohammad-yusuf-shah-aka-syed-salahuddin/",
+    "archive_checked": false,
+    "publisher": "US Department of State",
+    "title": "State Department Terrorist Designations of Mohammad Yusuf Shah aka Syed Salahuddin",
+    "date": null,
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "mha-banned-orgs",
+    "url": "https://www.mha.gov.in/en/banned-organisations",
+    "archive_url": "https://web.archive.org/web/https://www.mha.gov.in/en/banned-organisations",
+    "archive_checked": false,
+    "publisher": "Ministry of Home Affairs",
+    "title": "Banned Organisations",
+    "date": null,
+    "pages": null,
+    "kind": "official"
+   }
+  ]
+ },
+ {
+  "id": "lashkar-e-taiba",
+  "name": "Lashkar-e-Taiba (LeT)",
+  "kind": "terror_group",
+  "aliases": [
+   "Lashkar-e-Tayyiba",
+   "LeT",
+   "Pasban-e-Ahle Hadis",
+   "Jamaat-ud-Dawa"
+  ],
+  "founded": null,
+  "founders": [],
+  "parent": null,
+  "relationship_to_parent": null,
+  "hq": {
+   "name": "Markaz Taiba, Muridke",
+   "lat": 31.8,
+   "lng": 74.26,
+   "precision": "town"
+  },
+  "sponsor": "Pakistan",
+  "bans": {
+   "india_uapa": {
+    "date": null,
+    "instrument": "UAPA First Schedule, serial 5",
+    "source_id": "mha-banned-orgs"
+   },
+   "un_1267": {
+    "date": "2005-05-02",
+    "instrument": "UNSC 1267 sanctions list",
+    "source_id": "un-1267-let"
+   },
+   "us_fto": {
+    "date": "2001-12-26",
+    "instrument": "Foreign Terrorist Organization",
+    "source_id": "state-fto-list"
+   }
+  },
+  "active_years": {
+   "from": null,
+   "to": null
+  },
+  "status": "active",
+  "summary": "Pakistan-based terrorist group responsible for many of the deadliest attacks in Jammu and Kashmir and across India. Operates in Kashmir through fronts including The Resistance Front.",
+  "sources": [
+   {
+    "id": "un-1267-let",
+    "url": "https://main.un.org/securitycouncil/en/sanctions/1267/aq_sanctions_list/summaries/entity/lashkar-e-tayyiba",
+    "archive_url": "https://web.archive.org/web/https://main.un.org/securitycouncil/en/sanctions/1267/aq_sanctions_list/summaries/entity/lashkar-e-tayyiba",
+    "archive_checked": false,
+    "publisher": "UN Security Council",
+    "title": "Lashkar-e-Tayyiba: narrative summary of reasons for listing",
+    "date": null,
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "state-fto-list",
+    "url": "https://www.state.gov/foreign-terrorist-organizations",
+    "archive_url": "https://web.archive.org/web/https://www.state.gov/foreign-terrorist-organizations",
+    "archive_checked": false,
+    "publisher": "US Department of State",
+    "title": "Foreign Terrorist Organizations",
+    "date": null,
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "mha-banned-orgs",
+    "url": "https://www.mha.gov.in/en/banned-organisations",
+    "archive_url": "https://web.archive.org/web/https://www.mha.gov.in/en/banned-organisations",
+    "archive_checked": false,
+    "publisher": "Ministry of Home Affairs",
+    "title": "Banned Organisations",
+    "date": null,
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "pib-op-sindoor-precision",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: Indian Armed Forces carried out precision strike at terrorist camps",
+    "date": "2025-05-07",
+    "pages": null,
+    "kind": "official"
+   }
+  ]
+ },
+ {
+  "id": "jaish-e-mohammed",
+  "name": "Jaish-e-Mohammed (JeM)",
+  "kind": "terror_group",
+  "aliases": [
+   "Jaish-i-Mohammed",
+   "JeM",
+   "Tahrik-e-Furqan"
+  ],
+  "founded": "2000",
+  "founders": [
+   "Masood Azhar"
+  ],
+  "parent": null,
+  "relationship_to_parent": null,
+  "hq": {
+   "name": "Markaz Subhan Allah, Bahawalpur",
+   "lat": 29.4,
+   "lng": 71.68,
+   "precision": "town"
+  },
+  "sponsor": "Pakistan",
+  "bans": {
+   "india_uapa": {
+    "date": null,
+    "instrument": "UAPA First Schedule, serial 6",
+    "source_id": "mha-banned-orgs"
+   },
+   "un_1267": {
+    "date": "2001-10-17",
+    "instrument": "UNSC 1267 sanctions list",
+    "source_id": "un-1267-jem"
+   },
+   "us_fto": {
+    "date": "2001-12-26",
+    "instrument": "Foreign Terrorist Organization",
+    "source_id": "state-fto-list"
+   }
+  },
+  "active_years": {
+   "from": 2000,
+   "to": null
+  },
+  "status": "active",
+  "summary": "Pakistan-based terrorist group founded by Masood Azhar after his release in the IC 814 hijacking exchange. Pioneered suicide car bombings in Kashmir and carried out the 2001 legislature attack and the 2019 Pulwama bombing. Operates through fronts including the PAFF.",
+  "sources": [
+   {
+    "id": "un-1267-jem",
+    "url": "https://main.un.org/securitycouncil/en/sanctions/1267/aq_sanctions_list/summaries/entity/jaish-i-mohammed",
+    "archive_url": "https://web.archive.org/web/https://main.un.org/securitycouncil/en/sanctions/1267/aq_sanctions_list/summaries/entity/jaish-i-mohammed",
+    "archive_checked": false,
+    "publisher": "UN Security Council",
+    "title": "Jaish-i-Mohammed: narrative summary of reasons for listing",
+    "date": null,
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "state-fto-list",
+    "url": "https://www.state.gov/foreign-terrorist-organizations",
+    "archive_url": "https://web.archive.org/web/https://www.state.gov/foreign-terrorist-organizations",
+    "archive_checked": false,
+    "publisher": "US Department of State",
+    "title": "Foreign Terrorist Organizations",
+    "date": null,
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "mha-banned-orgs",
+    "url": "https://www.mha.gov.in/en/banned-organisations",
+    "archive_url": "https://web.archive.org/web/https://www.mha.gov.in/en/banned-organisations",
+    "archive_checked": false,
+    "publisher": "Ministry of Home Affairs",
+    "title": "Banned Organisations",
+    "date": null,
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "pib-op-sindoor-precision",
+    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_url": "https://web.archive.org/web/https://www.pib.gov.in/PressReleasePage.aspx?PRID=2127370&reg=48&lang=2",
+    "archive_checked": false,
+    "publisher": "Press Information Bureau",
+    "title": "Operation SINDOOR: Indian Armed Forces carried out precision strike at terrorist camps",
+    "date": "2025-05-07",
+    "pages": null,
+    "kind": "official"
+   }
+  ]
+ },
+ {
+  "id": "harkat-ul-mujahideen",
+  "name": "Harkat-ul-Mujahideen (HuM)",
+  "kind": "terror_group",
+  "aliases": [
+   "Harakat ul-Mujahidin",
+   "Harkat-ul-Ansar",
+   "Harkat-ul-Jehad-e-Islami",
+   "Ansar-ul-Ummah",
+   "Al-Faran"
+  ],
+  "founded": null,
+  "founders": [],
+  "parent": null,
+  "relationship_to_parent": null,
+  "hq": null,
+  "sponsor": "Pakistan",
+  "bans": {
+   "india_uapa": {
+    "date": null,
+    "instrument": "UAPA First Schedule, serial 7",
+    "source_id": "mha-banned-orgs"
+   },
+   "un_1267": {
+    "date": "2001-10-06",
+    "instrument": "UNSC 1267 sanctions list",
+    "source_id": "un-1267-hum"
+   },
+   "us_fto": {
+    "date": "1997-10-08",
+    "instrument": "Foreign Terrorist Organization",
+    "source_id": "state-fto-list"
+   }
+  },
+  "active_years": {
+   "from": null,
+   "to": null
+  },
+  "status": "dormant",
+  "summary": "Pakistan-based terrorist group, known as Harkat-ul-Ansar in the mid 1990s. Its front Al-Faran kidnapped foreign trekkers near Pahalgam in 1995.",
+  "sources": [
+   {
+    "id": "un-1267-hum",
+    "url": "https://main.un.org/securitycouncil/en/sanctions/1267/aq_sanctions_list/summaries/entity/harakat-ul-mujahidin/hum",
+    "archive_url": "https://web.archive.org/web/https://main.un.org/securitycouncil/en/sanctions/1267/aq_sanctions_list/summaries/entity/harakat-ul-mujahidin/hum",
+    "archive_checked": false,
+    "publisher": "UN Security Council",
+    "title": "Harakat ul-Mujahidin / HUM: narrative summary of reasons for listing",
+    "date": null,
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "state-fto-list",
+    "url": "https://www.state.gov/foreign-terrorist-organizations",
+    "archive_url": "https://web.archive.org/web/https://www.state.gov/foreign-terrorist-organizations",
+    "archive_checked": false,
+    "publisher": "US Department of State",
+    "title": "Foreign Terrorist Organizations",
+    "date": null,
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "mha-banned-orgs",
+    "url": "https://www.mha.gov.in/en/banned-organisations",
+    "archive_url": "https://web.archive.org/web/https://www.mha.gov.in/en/banned-organisations",
+    "archive_checked": false,
+    "publisher": "Ministry of Home Affairs",
+    "title": "Banned Organisations",
+    "date": null,
+    "pages": null,
+    "kind": "official"
+   },
+   {
+    "id": "kashmirlife-wronged-hostages",
+    "url": "https://kashmirlife.net/wronged-hostages-2306/",
+    "archive_url": "https://web.archive.org/web/https://kashmirlife.net/wronged-hostages-2306/",
+    "archive_checked": false,
+    "publisher": "Kashmir Life",
+    "title": "Wronged Hostages",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "al-badr",
+  "name": "Al-Badr",
+  "kind": "terror_group",
+  "aliases": [
+   "Al Badr Mujahideen"
+  ],
+  "founded": null,
+  "founders": [],
+  "parent": null,
+  "relationship_to_parent": null,
+  "hq": null,
+  "sponsor": "Pakistan",
+  "bans": {
+   "india_uapa": {
+    "date": null,
+    "instrument": "UAPA First Schedule, serial 26",
+    "source_id": "mha-banned-orgs"
+   },
+   "un_1267": null,
+   "us_fto": null
+  },
+  "active_years": {
+   "from": null,
+   "to": null
+  },
+  "status": "active",
+  "summary": "Pakistan-based militant group active in Kashmir, listed as a banned terrorist organisation in India.",
+  "sources": [
+   {
+    "id": "mha-banned-orgs",
+    "url": "https://www.mha.gov.in/en/banned-organisations",
+    "archive_url": "https://web.archive.org/web/https://www.mha.gov.in/en/banned-organisations",
+    "archive_checked": false,
+    "publisher": "Ministry of Home Affairs",
+    "title": "Banned Organisations",
+    "date": null,
+    "pages": null,
+    "kind": "official"
+   }
+  ]
+ },
+ {
+  "id": "trf",
+  "name": "The Resistance Front (TRF)",
+  "kind": "front",
+  "aliases": [
+   "TRF"
+  ],
+  "founded": "2019",
+  "founders": [],
+  "parent": "lashkar-e-taiba",
+  "relationship_to_parent": "front",
+  "hq": null,
+  "sponsor": "Pakistan",
+  "bans": {
+   "india_uapa": {
+    "date": "2023-01-05",
+    "instrument": "Declared terrorist organisation under the UAPA",
+    "source_id": "de-trf-banned"
+   },
+   "un_1267": null,
+   "us_fto": {
+    "date": "2025-07",
+    "instrument": "Foreign Terrorist Organization and SDGT",
+    "source_id": "theprint-trf-fto"
+   }
+  },
+  "active_years": {
+   "from": 2019,
+   "to": null
+  },
+  "status": "active",
+  "summary": "Front for Lashkar-e-Taiba that emerged in 2019 and claimed many targeted killings of minorities and migrant workers. It claimed the April 2025 Pahalgam massacre and was designated by the United States soon after.",
+  "sources": [
+   {
+    "id": "de-trf-banned",
+    "url": "https://www.dailyexcelsior.com/mha-declares-trf-as-terror-outfit-lets-jammu-incharge-as-individual-terrorist/",
+    "archive_url": "https://web.archive.org/web/https://www.dailyexcelsior.com/mha-declares-trf-as-terror-outfit-lets-jammu-incharge-as-individual-terrorist/",
+    "archive_checked": false,
+    "publisher": "Daily Excelsior",
+    "title": "MHA declares TRF as terror outfit, LeT's Jammu Incharge as individual terrorist",
+    "date": "2023-01-05",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "gk-trf-banned",
+    "url": "https://www.greaterkashmir.com/kashmir/pak-created-lets-offshoot-trf-responsible-for-brutal-killings-of-innocents-banned-by-mha-under-uapa/",
+    "archive_url": "https://web.archive.org/web/https://www.greaterkashmir.com/kashmir/pak-created-lets-offshoot-trf-responsible-for-brutal-killings-of-innocents-banned-by-mha-under-uapa/",
+    "archive_checked": false,
+    "publisher": "Greater Kashmir",
+    "title": "Pak-created LeT's offshoot TRF, responsible for brutal killings of innocents, banned by MHA under UAPA",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-trf-fto",
+    "url": "https://theprint.in/diplomacy/in-setback-to-pakistan-us-designates-let-front-as-terror-group-for-pahalgam-attack-what-is-trf/2694081/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/diplomacy/in-setback-to-pakistan-us-designates-let-front-as-terror-group-for-pahalgam-attack-what-is-trf/2694081/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "In setback to Pakistan, US designates LeT front as terror group for Pahalgam attack. What is TRF",
+    "date": "2025-07",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-trf-fto",
+    "url": "https://www.tribuneindia.com/news/india/us-designates-let-proxy-trf-terror-outfit-was-behind-pahalgam-attack",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/india/us-designates-let-proxy-trf-terror-outfit-was-behind-pahalgam-attack",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "US designates LeT proxy TRF terror outfit, was behind Pahalgam attack",
+    "date": "2025-07",
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "paff",
+  "name": "People's Anti-Fascist Front (PAFF)",
+  "kind": "front",
+  "aliases": [
+   "PAFF"
+  ],
+  "founded": "2019",
+  "founders": [],
+  "parent": "jaish-e-mohammed",
+  "relationship_to_parent": "front",
+  "hq": null,
+  "sponsor": "Pakistan",
+  "bans": {
+   "india_uapa": {
+    "date": "2023-01-06",
+    "instrument": "Declared terrorist organisation under the UAPA",
+    "source_id": "tribune-paff-banned"
+   },
+   "un_1267": null,
+   "us_fto": null
+  },
+  "active_years": {
+   "from": 2019,
+   "to": null
+  },
+  "status": "active",
+  "summary": "Front for Jaish-e-Mohammed that emerged in 2019 and claimed several ambushes on the Army in the Poonch and Rajouri belt. Banned by India a day after the TRF.",
+  "sources": [
+   {
+    "id": "tribune-paff-banned",
+    "url": "https://www.tribuneindia.com/news/j-k/centre-bans-peoples-anti-fascist-front-a-proxy-of-jaish-e-mohammed-468217/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/centre-bans-peoples-anti-fascist-front-a-proxy-of-jaish-e-mohammed-468217/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Centre bans People's Anti-Fascist Front, a proxy of Jaish-e-Mohammed",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "theprint-paff-banned",
+    "url": "https://theprint.in/india/govt-declares-peoples-anti-fascist-front-its-manifestations-as-terrorist-organisations/1302553/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/india/govt-declares-peoples-anti-fascist-front-its-manifestations-as-terrorist-organisations/1302553/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "Govt declares Peoples Anti-Fascist-Front, its manifestations as terrorist organisations",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "kashmir-tigers",
+  "name": "Kashmir Tigers",
+  "kind": "front",
+  "aliases": [],
+  "founded": null,
+  "founders": [],
+  "parent": "jaish-e-mohammed",
+  "relationship_to_parent": "front",
+  "hq": null,
+  "sponsor": "Pakistan",
+  "bans": {
+   "india_uapa": null,
+   "un_1267": null,
+   "us_fto": null
+  },
+  "active_years": {
+   "from": null,
+   "to": null
+  },
+  "status": "active",
+  "summary": "Front for Jaish-e-Mohammed that claimed the July 2024 ambush on an army patrol in Kathua district.",
+  "sources": [
+   {
+    "id": "outlook-kathua-kashmir-tigers",
+    "url": "https://www.outlookindia.com/national/kathua-terrorist-attack-indian-army-convoy-5-jawans-jco-killed-jammu-militant-attack-kashmir-tigers",
+    "archive_url": "https://web.archive.org/web/https://www.outlookindia.com/national/kathua-terrorist-attack-indian-army-convoy-5-jawans-jco-killed-jammu-militant-attack-kashmir-tigers",
+    "archive_checked": false,
+    "publisher": "Outlook",
+    "title": "Kathua Terror Attack: JeM Offshoot Claims Responsibility For Army Convoy Ambush; Massive Search Op On",
+    "date": "2024-07",
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ },
+ {
+  "id": "pla",
+  "name": "People's Liberation Army (China)",
+  "kind": "state_military",
+  "aliases": [
+   "PLA"
+  ],
+  "founded": null,
+  "founders": [],
+  "parent": null,
+  "relationship_to_parent": null,
+  "hq": null,
+  "sponsor": null,
+  "bans": {
+   "india_uapa": null,
+   "un_1267": null,
+   "us_fto": null
+  },
+  "active_years": {
+   "from": null,
+   "to": null
+  },
+  "status": "active",
+  "summary": "Armed forces of China, in occupation of Aksai Chin. Included only for clashes on the Line of Actual Control in Ladakh such as Galwan in 2020.",
+  "sources": [
+   {
+    "id": "theprint-galwan-20",
+    "url": "https://theprint.in/defence/these-are-the-20-soldiers-killed-in-action-in-galwan-after-clashes-with-chinese-troops/443441/",
+    "archive_url": "https://web.archive.org/web/https://theprint.in/defence/these-are-the-20-soldiers-killed-in-action-in-galwan-after-clashes-with-chinese-troops/443441/",
+    "archive_checked": false,
+    "publisher": "ThePrint",
+    "title": "These are the 20 soldiers 'killed in action' in Galwan after clashes with Chinese troops",
+    "date": "2020-06",
+    "pages": null,
+    "kind": "news"
+   },
+   {
+    "id": "tribune-santosh-babu-mvc",
+    "url": "https://www.tribuneindia.com/news/j-k/galwan-clash-342023/",
+    "archive_url": "https://web.archive.org/web/https://www.tribuneindia.com/news/j-k/galwan-clash-342023/",
+    "archive_checked": false,
+    "publisher": "The Tribune",
+    "title": "Col Santosh Babu awarded Mahavir Chakra posthumously",
+    "date": null,
+    "pages": null,
+    "kind": "news"
+   }
+  ]
+ }
+]

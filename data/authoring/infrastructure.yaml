@@ -1,0 +1,121 @@
+# Terror infrastructure as publicly reported. Area-level precision only, by design.
+- id: markaz-subhan-allah-bahawalpur
+  type: hq
+  name: Markaz Subhan Allah
+  group_ids: [jaish-e-mohammed]
+  approx_location: Bahawalpur, Punjab, Pakistan
+  at: town:Bahawalpur (Punjab)
+  precision: town
+  first_reported: null
+  last_reported: "2025-05"
+  status: Struck in Operation Sindoor, May 2025
+  struck_in: [op-sindoor-2025]
+  src: [pib-op-sindoor-precision, tribune-sindoor-satellite]
+- id: markaz-taiba-muridke
+  type: hq
+  name: Markaz Taiba
+  group_ids: [lashkar-e-taiba]
+  approx_location: Muridke, Punjab, Pakistan
+  at: town:Muridke (Punjab)
+  precision: town
+  first_reported: null
+  last_reported: "2025-05"
+  status: Struck in Operation Sindoor, May 2025
+  struck_in: [op-sindoor-2025]
+  src: [pib-op-sindoor-precision, tribune-sindoor-satellite]
+- id: sarjal-tehra-kalan
+  type: camp
+  name: Sarjal
+  group_ids: [jaish-e-mohammed]
+  approx_location: Tehra Kalan, near Shakargarh, Punjab, Pakistan
+  at: town:Shakargarr (Punjab)
+  precision: district
+  first_reported: null
+  last_reported: "2025-05"
+  status: Struck in Operation Sindoor, May 2025
+  struck_in: [op-sindoor-2025]
+  src: [pib-op-sindoor-precision, pib-op-sindoor-clarity]
+- id: markaz-abbas-kotli
+  type: camp
+  name: Markaz Abbas
+  group_ids: [jaish-e-mohammed]
+  approx_location: Kotli, Pakistan-occupied Jammu & Kashmir
+  at: town:Kotli
+  precision: town
+  first_reported: null
+  last_reported: "2025-05"
+  status: Struck in Operation Sindoor, May 2025
+  struck_in: [op-sindoor-2025]
+  src: [pib-op-sindoor-precision, pib-op-sindoor-clarity]
+- id: syedna-bilal-muzaffarabad
+  type: camp
+  name: Syedna Bilal camp
+  group_ids: [jaish-e-mohammed]
+  approx_location: Muzaffarabad, Pakistan-occupied Jammu & Kashmir
+  at: town:Muzaffarabad
+  precision: town
+  first_reported: null
+  last_reported: "2025-05"
+  status: Struck in Operation Sindoor, May 2025
+  struck_in: [op-sindoor-2025]
+  src: [pib-op-sindoor-precision, pib-op-sindoor-clarity]
+- id: markaz-ahle-hadith-barnala
+  type: camp
+  name: Markaz Ahle Hadith
+  group_ids: [lashkar-e-taiba]
+  approx_location: Barnala, Bhimber area, Pakistan-occupied Jammu & Kashmir
+  at: town:Bhimber
+  precision: district
+  first_reported: null
+  last_reported: "2025-05"
+  status: Struck in Operation Sindoor, May 2025
+  struck_in: [op-sindoor-2025]
+  src: [pib-op-sindoor-precision, pib-op-sindoor-clarity]
+- id: shwawai-nalla-muzaffarabad
+  type: camp
+  name: Shwawai Nalla camp
+  group_ids: [lashkar-e-taiba]
+  approx_location: Muzaffarabad area, Pakistan-occupied Jammu & Kashmir
+  at: town:Muzaffarabad
+  precision: district
+  first_reported: null
+  last_reported: "2025-05"
+  status: Struck in Operation Sindoor, May 2025
+  struck_in: [op-sindoor-2025]
+  src: [pib-op-sindoor-precision, pib-op-sindoor-clarity]
+- id: makaz-raheel-shahid-kotli
+  type: camp
+  name: Makaz Raheel Shahid
+  group_ids: [hizbul-mujahideen]
+  approx_location: Kotli, Pakistan-occupied Jammu & Kashmir
+  at: town:Kotli
+  precision: district
+  first_reported: null
+  last_reported: "2025-05"
+  status: Struck in Operation Sindoor, May 2025
+  struck_in: [op-sindoor-2025]
+  src: [pib-op-sindoor-precision, pib-op-sindoor-clarity]
+- id: mehmoona-joya-sialkot
+  type: camp
+  name: Mehmoona Joya
+  group_ids: [hizbul-mujahideen]
+  approx_location: Near Sialkot, Punjab, Pakistan
+  at: town:Sialkot (Punjab)
+  precision: district
+  first_reported: null
+  last_reported: "2025-05"
+  status: Struck in Operation Sindoor, May 2025
+  struck_in: [op-sindoor-2025]
+  src: [pib-op-sindoor-precision, pib-op-sindoor-clarity]
+- id: jem-camp-balakot
+  type: camp
+  name: Jaish-e-Mohammed training camp, Balakot
+  group_ids: [jaish-e-mohammed]
+  approx_location: Balakot, Mansehra district, Khyber Pakhtunkhwa, Pakistan
+  at: town:Mansehra (Khyber Pakhtunkhwa)
+  precision: district
+  first_reported: null
+  last_reported: "2019-02"
+  status: Struck by the Indian Air Force, February 2019
+  struck_in: [balakot-2019]
+  src: [pib-fs-balakot, theprint-pak-hit-back-balakot]
