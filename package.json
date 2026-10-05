@@ -9,7 +9,8 @@
     "prepare-data": "tsx scripts/build-public-data.ts",
     "test": "vitest run",
     "test:render": "vitest run -c vitest.render.config.ts",
-    "build": "npm run validate && npm run prepare-data && vitest run && next build && npm run test:render",
+    "build": "npm run validate && npm run prepare-data && vitest run && next build",
+    "check": "npm run build && npm run test:render",
     "coverage-report": "tsx scripts/coverage-report.ts"
   },
   "dependencies": {
